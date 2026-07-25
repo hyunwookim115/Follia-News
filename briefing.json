@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-25T08:11:06+09:00",
+  "period": "지난 24시간",
+  "cards": [
+    {
+      "id": "2026-07-24-paris-ss27-calendar",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/paris-fashion-week-unveils-spring-summer-2027-schedule",
+      "date": "2026-07-24",
+      "title": "파리 패션위크 2027 S/S, 대형 데뷔보다 하우스 재정비",
+      "summary": "9월 28일부터 10월 6일까지 68개 쇼와 33개 프레젠테이션이 열리며, 지난 시즌보다 규모가 줄고 새 크리에이티브 디렉터 데뷔도 쿠레주와 카르뱅 두 곳으로 압축됐다. 발렌티노·메종 마르지엘라·사카이가 복귀하는 반면 맥퀸·라반·오프화이트는 빠진다. 디자이너에게는 화제성 높은 인사 교체보다 각 하우스가 새 방향을 안정시키는 과정과 복귀 브랜드의 포지셔닝을 비교할 시즌이다.",
+      "keywords": [
+        "PARIS FASHION WEEK",
+        "SS27",
+        "CREATIVE DIRECTOR",
+        "CALENDAR"
+      ]
+    },
+    {
+      "id": "2026-07-24-menswear-color-return",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/07/24/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%A6%98%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%95%88%EB%85%95-%EC%A7%80%EA%B8%88%EC%9D%80-%EC%BB%AC%EB%9F%AC%EB%A5%BC-%EC%9E%85%EC%9D%84-%EB%95%8C%EC%98%88%EC%9A%94/",
+      "date": "2026-07-24",
+      "title": "2027 S/S 남성복, 컬러가 포인트에서 구조로 이동",
+      "summary": "셀린느·오라리·톰 브라운·윌리 차바리아 등 2027 S/S 남성복에서 선명한 색을 한 군데 찍는 대신 복수의 색을 역할별로 배치하는 흐름이 두드러졌다. 핵심은 무작위 배색이 아니라 강한 주조색과 대비색, 중화색의 시선 분배다. 실무에서는 단품 컬러 확대보다 한 착장 안의 면적 비율과 소재 광택 차이까지 함께 설계할 필요가 있다.",
+      "keywords": [
+        "COLOR BLOCKING",
+        "MENSWEAR",
+        "SS27",
+        "STYLING"
+      ]
+    },
+    {
+      "id": "2026-07-24-gfashion-manufacturing",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "FASHIONBIZ",
+      "sourceUrl": "https://fashionbiz.co.kr/article/228137",
+      "date": "2026-07-24",
+      "title": "온라인 브랜드 시대, 국내 패션 제조업의 연결 해법 논의",
+      "summary": "서울 금천구에서 열린 G-패션 제조산업 활성화 세미나가 온라인 브랜드 성장 환경에서 제조업이 대응할 방법을 다뤘다. 공개 기사 기준으로 확인되는 핵심은 브랜드와 생산 현장의 연결 문제를 산업 차원에서 논의했다는 점이다. 소규모 브랜드 실무에서는 디자인 차별화뿐 아니라 샘플·소량 생산·납기 대응이 경쟁력의 일부가 됐다는 신호로 볼 수 있다.",
+      "keywords": [
+        "MANUFACTURING",
+        "ONLINE BRAND",
+        "SEOUL",
+        "SUPPLY CHAIN"
+      ]
+    },
+    {
+      "id": "2026-07-24-musinsa-fw26-preview",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1526860955755409917",
+      "date": "2026-07-24",
+      "title": "무신사 스탠다드 FW26, 시티 레저와 시어 경량 아우터 전면 배치",
+      "summary": "성수 프리뷰에서 시티 레저, 무신사 스탠다드 플러스, 헬리녹스·오헤시오 협업을 핵심 존으로 구성하고 시어 소재의 경량 다운과 트레일 무드 플리스를 강조했다. 이는 편집 플랫폼의 자체 판촉 콘텐츠이므로 보도라기보다 SELECT SHOP의 상품기획 신호다. 실무적으로는 도심형 기능복이 가벼운 투명감과 세련된 컬러를 흡수하며 아웃도어 외형을 완화하는 흐름을 보여준다.",
+      "keywords": [
+        "SELECT SHOP SIGNAL",
+        "FW26",
+        "CITY LEISURE",
+        "SHEER OUTERWEAR"
+      ]
+    },
+    {
+      "id": "2026-07-24-dataland-ai-museum",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/art/exhibitions-shows/dataland-the-museum-of-ai-arts-los-angeles-review",
+      "date": "2026-07-24",
+      "title": "LA 데이터랜드, 자연 데이터를 몰입형 공간 경험으로 전환",
+      "summary": "레픽 아나돌과 에프순 에르킬리치의 데이터랜드가 프랭크 게리 설계 건물 안에서 자연계 데이터를 다색광·바닥·천장·신체를 감싸는 이미지로 구현했다. 전시는 스크린을 벽에 거는 방식보다 영상, 동선, 반사광을 하나의 환경으로 결합한다. 매장과 전시 실무에서는 디지털 콘텐츠를 장식물이 아니라 공간의 재료이자 방문 리듬을 만드는 장치로 다루는 사례다.",
+      "keywords": [
+        "IMMERSIVE SPACE",
+        "AI ART",
+        "FRANK GEHRY",
+        "EXHIBITION DESIGN"
+      ]
+    },
+    {
+      "id": "2026-07-24-sanaa-muna-quito",
+      "category": "ARCHITECTURE",
+      "categoryLabel": "ARCHITECTURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1181574/sanaa-led-team-reveals-selected-design-for-ecuadors-new-national-museum-in-quito",
+      "date": "2026-07-24",
+      "title": "SANAA 팀, 에콰도르 새 국립박물관 당선안 공개",
+      "summary": "SANAA가 이끄는 국제 팀의 ‘Living Strata’가 키토의 에콰도르 국립박물관 설계안으로 선정됐다. 원형을 조직 원리로 삼아 전시 공간, 공공 프로그램, 열린 녹지를 하나의 시민적 풍경으로 엮는다. 패션 공간 기획에도 단일한 상징 형태를 그래픽에만 쓰지 않고 동선·집합·외부 환경까지 반복시키는 방식이 참고된다.",
+      "keywords": [
+        "SANAA",
+        "MUSEUM",
+        "CIVIC LANDSCAPE",
+        "CIRCULAR FORM"
+      ]
+    },
+    {
+      "id": "2026-07-24-architecture-mobility-continuity",
+      "category": "ARCHITECTURE",
+      "categoryLabel": "ARCHITECTURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1181345/when-mobility-becomes-the-ground-architecture-adaptation-and-the-search-for-continuity",
+      "date": "2026-07-24",
+      "title": "유연한 건축 이후의 질문, 변화 속에서도 기억을 남기는 법",
+      "summary": "기후 위기와 이동성에 대응해 건축이 가변성·가역성·반응성을 강화해왔지만, 끊임없는 변화가 장소의 기억과 정체성을 약화시킬 수 있다는 비평이다. 적응성 자체를 목표로 삼기보다 변하는 구조 안에 사용자가 붙잡을 고정점과 연속성을 설계해야 한다고 본다. 팝업과 가변형 매장에서도 모듈 교체 가능성과 브랜드 기억 장치를 동시에 설계해야 한다는 실무적 시사점이 있다.",
+      "keywords": [
+        "ADAPTIVE ARCHITECTURE",
+        "MOBILITY",
+        "CONTINUITY",
+        "IDENTITY"
+      ]
+    },
+    {
+      "id": "2026-07-24-eu-unsold-clothing-ban",
+      "category": "MATERIAL",
+      "categoryLabel": "COLOR & MATERIAL",
+      "source": "ECOTEXTILE NEWS",
+      "sourceUrl": "https://www.ecotextile.com/2026072464368/news/legislation/loopholes-threaten-new-ban-on-eu-clothing-destruction/",
+      "date": "2026-07-24",
+      "title": "EU 미판매 의류 폐기 금지, 광범위한 예외가 실효성 위협",
+      "summary": "독일 환경단체가 EU의 미판매 의류 폐기 금지 제도가 폭넓은 예외 조항 때문에 약화될 수 있다고 경고했다. 규정의 방향은 재고를 폐기 비용으로 처리하던 관행을 추적·재판매·재가공 가능한 설계 문제로 바꾼다. 디자인 단계부터 시즌리스 활용, 수선 가능성, 소재 분리와 잔여 재고 전환 시나리오를 준비해야 규제 변화에 덜 취약하다.",
+      "keywords": [
+        "UNSOLD CLOTHING",
+        "EU REGULATION",
+        "CIRCULARITY",
+        "INVENTORY"
+      ]
+    },
+    {
+      "id": "2026-07-24-sweden-pfas-ban",
+      "category": "MATERIAL",
+      "categoryLabel": "COLOR & MATERIAL",
+      "source": "ECOTEXTILE NEWS",
+      "sourceUrl": "https://www.ecotextile.com/2026072464373/news/legislation/sweden-proposes-nationwide-pfas-ban/",
+      "date": "2026-07-24",
+      "title": "스웨덴, EU 공동 제한에 앞선 국가 PFAS 금지 추진",
+      "summary": "스웨덴이 ‘영원한 화학물질’로 불리는 PFAS에 대해 EU 차원의 제한을 기다리지 않고 국가 단독 금지를 제안했다. 발수·방오·내유 성능을 위해 PFAS 계열 가공에 의존하는 의류와 액세서리는 시장별 규정 차이가 먼저 나타날 수 있다. 소재 소싱에서는 불소계 가공 여부와 대체 성능, 시험 성적을 공급업체 단계에서 문서화할 필요가 커졌다.",
+      "keywords": [
+        "PFAS",
+        "CHEMICAL REGULATION",
+        "TEXTILE FINISHING",
+        "SWEDEN"
+      ]
+    },
+    {
+      "id": "2026-07-24-eu-textile-due-diligence",
+      "category": "TRADE",
+      "categoryLabel": "BUSINESS & TRADE",
+      "source": "ECOTEXTILE NEWS",
+      "sourceUrl": "https://www.ecotextile.com/2026072464377/news/shows-events/eu-textile-body-warns-on-due-diligence-rules/",
+      "date": "2026-07-24",
+      "title": "유럽 섬유업계, 공급망 실사 규정의 국가별 파편화 경고",
+      "summary": "유럽 섬유·의류 단체 Euratex가 기업 지속가능성 실사 지침(CSDDD)이 과도한 행정 부담과 국가별 분절된 집행으로 이어져서는 안 된다고 촉구했다. 규정 완화 논쟁과 별개로 브랜드가 원산지·가공·협력사 정보를 일관된 형식으로 확보해야 한다는 방향은 선명하다. 소규모 조직도 소재와 봉제처 데이터를 시즌 종료 후가 아니라 발주 시점부터 쌓는 편이 안전하다.",
+      "keywords": [
+        "CSDDD",
+        "DUE DILIGENCE",
+        "EURATEX",
+        "SUPPLY CHAIN"
+      ]
+    }
+  ]
+}
