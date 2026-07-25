@@ -1,166 +1,138 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-25T08:11:06+09:00",
+  "generatedAt": "2026-07-26T08:05:56+09:00",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-07-24-paris-ss27-calendar",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/paris-fashion-week-unveils-spring-summer-2027-schedule",
-      "date": "2026-07-24",
-      "title": "파리 패션위크 2027 S/S, 대형 데뷔보다 하우스 재정비",
-      "summary": "9월 28일부터 10월 6일까지 68개 쇼와 33개 프레젠테이션이 열리며, 지난 시즌보다 규모가 줄고 새 크리에이티브 디렉터 데뷔도 쿠레주와 카르뱅 두 곳으로 압축됐다. 발렌티노·메종 마르지엘라·사카이가 복귀하는 반면 맥퀸·라반·오프화이트는 빠진다. 디자이너에게는 화제성 높은 인사 교체보다 각 하우스가 새 방향을 안정시키는 과정과 복귀 브랜드의 포지셔닝을 비교할 시즌이다.",
-      "keywords": [
-        "PARIS FASHION WEEK",
-        "SS27",
-        "CREATIVE DIRECTOR",
-        "CALENDAR"
-      ]
-    },
-    {
-      "id": "2026-07-24-menswear-color-return",
+      "id": "2026-07-25-vogue-korea-art-covers",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/07/24/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%A6%98%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%95%88%EB%85%95-%EC%A7%80%EA%B8%88%EC%9D%80-%EC%BB%AC%EB%9F%AC%EB%A5%BC-%EC%9E%85%EC%9D%84-%EB%95%8C%EC%98%88%EC%9A%94/",
-      "date": "2026-07-24",
-      "title": "2027 S/S 남성복, 컬러가 포인트에서 구조로 이동",
-      "summary": "셀린느·오라리·톰 브라운·윌리 차바리아 등 2027 S/S 남성복에서 선명한 색을 한 군데 찍는 대신 복수의 색을 역할별로 배치하는 흐름이 두드러졌다. 핵심은 무작위 배색이 아니라 강한 주조색과 대비색, 중화색의 시선 분배다. 실무에서는 단품 컬러 확대보다 한 착장 안의 면적 비율과 소재 광택 차이까지 함께 설계할 필요가 있다.",
+      "sourceUrl": "https://www.vogue.co.kr/2026/07/25/%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%93%A4%EC%9D%B4-%EC%9E%AC%EC%B0%BD%EC%A1%B0%ED%95%9C-%EB%B3%B4%EA%B7%B8-%EC%BD%94%EB%A6%AC%EC%95%84-%EB%B3%B4%EA%B7%B8%EA%B0%80-%EC%98%88%EC%88%A0/",
+      "date": "2026-07-25",
+      "title": "아티스트들이 재창조한 보그 코리아 30주년 표지",
+      "summary": "보그 코리아는 창간 30주년을 맞아 국내외 아티스트들이 잡지 표지를 캔버스와 재료로 삼아 제작한 작품을 공개했다. 진태옥은 창간호 표지에 붉은색과 검은색 비즈를 더했고, 박종진은 인쇄된 종이를 접고 겹쳐 패치 형태의 지층을 만들었다. 구본창은 창간호부터 현재까지 100여 개 표지 이미지를 한 화면에 중첩해 집합적 초상으로 구성했다.",
       "keywords": [
-        "COLOR BLOCKING",
-        "MENSWEAR",
-        "SS27",
-        "STYLING"
+        "VOGUE KOREA",
+        "COVER ART",
+        "BEADS",
+        "PAPER",
+        "ARCHIVE"
       ]
     },
     {
-      "id": "2026-07-24-gfashion-manufacturing",
+      "id": "2026-07-25-blue-sneakers-denim",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "FASHIONBIZ",
-      "sourceUrl": "https://fashionbiz.co.kr/article/228137",
-      "date": "2026-07-24",
-      "title": "온라인 브랜드 시대, 국내 패션 제조업의 연결 해법 논의",
-      "summary": "서울 금천구에서 열린 G-패션 제조산업 활성화 세미나가 온라인 브랜드 성장 환경에서 제조업이 대응할 방법을 다뤘다. 공개 기사 기준으로 확인되는 핵심은 브랜드와 생산 현장의 연결 문제를 산업 차원에서 논의했다는 점이다. 소규모 브랜드 실무에서는 디자인 차별화뿐 아니라 샘플·소량 생산·납기 대응이 경쟁력의 일부가 됐다는 신호로 볼 수 있다.",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/07/25/%EC%97%AC%EB%A6%84%EC%97%90-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%9E%85%EC%9D%84-%EB%95%8C%EB%8A%94-%EC%9D%B4-%EC%83%89%EA%B9%94-%EC%9A%B4%EB%8F%99%ED%99%94%EB%A5%BC-%EC%8B%A0%EC%9C%BC%EC%84%B8%EC%9A%94/",
+      "date": "2026-07-25",
+      "title": "데님과 블루 스니커즈를 잇는 여름 배색",
+      "summary": "기사는 연청 데님에 선명한 파란색 스니커즈를 매치한 플로렌스 퓨의 착장을 여름 스타일링 사례로 제시한다. 미디엄 워싱 데님에는 파스텔 블루 운동화와 더스티 핑크 조끼를 함께 배치해 신발과 상의의 톤을 맞췄다. 브라운과 레드 컬러 데님에도 블루 스니커즈를 조합할 수 있다고 설명한다.",
       "keywords": [
-        "MANUFACTURING",
-        "ONLINE BRAND",
-        "SEOUL",
-        "SUPPLY CHAIN"
+        "DENIM",
+        "BLUE SNEAKERS",
+        "COLOR STYLING",
+        "SUMMER"
       ]
     },
     {
-      "id": "2026-07-24-musinsa-fw26-preview",
+      "id": "2026-07-25-cowboy-street-style",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/street-style-fashion-week-equestrian-cowboy-fashion",
+      "date": "2026-07-25",
+      "title": "스트리트 스타일 아카이브로 본 웨스턴·승마 요소",
+      "summary": "보그는 내셔널 카우보이 데이를 맞아 밀라노·피렌체·파리 패션위크 스트리트 스타일 아카이브에서 웨스턴과 승마 요소를 모았다. 기사에는 카우보이 해트와 부츠뿐 아니라 브리치, 조드퍼, 챕스, 니하이 라이딩 부츠, 가죽 베스트가 주요 요소로 제시된다. 수록 사진은 2022년부터 2026년까지의 남성복과 여성복 시즌을 아우른다.",
+      "keywords": [
+        "WESTERN",
+        "EQUESTRIAN",
+        "STREET STYLE",
+        "COWBOY BOOTS"
+      ]
+    },
+    {
+      "id": "2026-07-25-filluminate-noonoo-collaboration",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1526860955755409917",
-      "date": "2026-07-24",
-      "title": "무신사 스탠다드 FW26, 시티 레저와 시어 경량 아우터 전면 배치",
-      "summary": "성수 프리뷰에서 시티 레저, 무신사 스탠다드 플러스, 헬리녹스·오헤시오 협업을 핵심 존으로 구성하고 시어 소재의 경량 다운과 트레일 무드 플리스를 강조했다. 이는 편집 플랫폼의 자체 판촉 콘텐츠이므로 보도라기보다 SELECT SHOP의 상품기획 신호다. 실무적으로는 도심형 기능복이 가벼운 투명감과 세련된 컬러를 흡수하며 아웃도어 외형을 완화하는 흐름을 보여준다.",
+      "sourceUrl": "https://www.musinsa.com/content/1526050907000865979",
+      "date": "2026-07-25",
+      "title": "무신사 신호: 필루미네이트 × 누누씨 공포 콘셉트 협업",
+      "summary": "필루미네이트는 누누씨와 함께 여름의 무더위를 공포 소재로 풀어낸 협업 컬렉션을 공개했다. 처음 선보이는 ‘유령 누누씨’ 아트워크를 반소매 티셔츠, 짐색, 봉제 인형 키링, 아크릴 키링에 적용했다. 무신사의 자체 소개 콘텐츠이며, 7월 25일 성수와 대구 오프라인 매장에서 선발매한다고 명시했다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "FW26",
-        "CITY LEISURE",
-        "SHEER OUTERWEAR"
+        "COLLABORATION",
+        "CHARACTER GRAPHIC",
+        "ACCESSORIES"
       ]
     },
     {
-      "id": "2026-07-24-dataland-ai-museum",
+      "id": "2026-07-25-us-design-studios-global-roots",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/art/exhibitions-shows/dataland-the-museum-of-ai-arts-los-angeles-review",
-      "date": "2026-07-24",
-      "title": "LA 데이터랜드, 자연 데이터를 몰입형 공간 경험으로 전환",
-      "summary": "레픽 아나돌과 에프순 에르킬리치의 데이터랜드가 프랭크 게리 설계 건물 안에서 자연계 데이터를 다색광·바닥·천장·신체를 감싸는 이미지로 구현했다. 전시는 스크린을 벽에 거는 방식보다 영상, 동선, 반사광을 하나의 환경으로 결합한다. 매장과 전시 실무에서는 디지털 콘텐츠를 장식물이 아니라 공간의 재료이자 방문 리듬을 만드는 장치로 다루는 사례다.",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/american-dream-five-usa-designers-with-global-roots",
+      "date": "2026-07-25",
+      "title": "다섯 미국 디자인 스튜디오가 계승한 다문화적 뿌리",
+      "summary": "Wallpaper*는 인도·폴란드·베트남·한국·중국에 뿌리를 두고 미국을 작업 기반으로 삼은 다섯 스튜디오를 소개했다. Soft Geometry는 서로 다른 인도 지역의 문화 경험을 공유 미학으로 연결하고, Vy Voi는 베트남 공예에서 영감을 받은 수공예 오브제를 만든다. 서울 출신 민재 김은 유리섬유를 천처럼 퀼팅한 뒤 레진으로 코팅하는 방식으로 서구 가구 유형을 다시 만들었다.",
       "keywords": [
-        "IMMERSIVE SPACE",
-        "AI ART",
-        "FRANK GEHRY",
-        "EXHIBITION DESIGN"
+        "DESIGN STUDIO",
+        "CULTURAL HERITAGE",
+        "CRAFT",
+        "FIBREGLASS",
+        "FURNITURE"
       ]
     },
     {
-      "id": "2026-07-24-sanaa-muna-quito",
+      "id": "2026-07-25-delft-painters-studio",
       "category": "ARCHITECTURE",
       "categoryLabel": "ARCHITECTURE",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/architecture/residential/dp6s-painters-studio-delft-netherlands",
+      "date": "2026-07-25",
+      "title": "델프트 운하 주택과 정원을 잇는 화가의 작업실",
+      "summary": "DP6는 델프트 도심의 전통적인 운하변 연립주택을 개조하고 뒤편 정원 끝에 단층 화가 작업실을 추가했다. 주택 후면과 작업실의 파사드를 모두 열 수 있게 해 여름에는 두 건물 사이로 생활이 이어지며, 작업실은 더글러스 퍼 구조와 북향 지붕 채광창을 사용한다. 기존 성목을 보존한 자연 식재, 새 파티오와 타원형 수영장도 정원에 배치됐다.",
+      "keywords": [
+        "ARTIST STUDIO",
+        "RENOVATION",
+        "DOUGLAS FIR",
+        "NORTH LIGHT",
+        "GARDEN"
+      ]
+    },
+    {
+      "id": "2026-07-25-sanduteca-interior",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181574/sanaa-led-team-reveals-selected-design-for-ecuadors-new-national-museum-in-quito",
-      "date": "2026-07-24",
-      "title": "SANAA 팀, 에콰도르 새 국립박물관 당선안 공개",
-      "summary": "SANAA가 이끄는 국제 팀의 ‘Living Strata’가 키토의 에콰도르 국립박물관 설계안으로 선정됐다. 원형을 조직 원리로 삼아 전시 공간, 공공 프로그램, 열린 녹지를 하나의 시민적 풍경으로 엮는다. 패션 공간 기획에도 단일한 상징 형태를 그래픽에만 쓰지 않고 동선·집합·외부 환경까지 반복시키는 방식이 참고된다.",
+      "sourceUrl": "https://www.archdaily.com/1181310/sanduteca-sandwich-library-estudio-cajalima",
+      "date": "2026-07-25",
+      "title": "샌드위치 조립을 무대로 만든 60㎡ 산두테카",
+      "summary": "상파울루 갈레리아 메트로폴레의 산두테카는 세계 각지의 맛과 양념을 모은 ‘맛의 도서관’을 콘셉트로 설계됐다. 샌드위치 조립 공간을 중심에 두고 카운터, 맞은편 긴 벤치와 메자닌에서 제작 과정을 볼 수 있게 했다. 흰 세라믹 타일, 붉은 안료의 번트 시멘트, 스테인리스 스틸, 파란 타공 금속을 혼합해 건물의 과거와 현재를 연결했다.",
       "keywords": [
-        "SANAA",
-        "MUSEUM",
-        "CIVIC LANDSCAPE",
-        "CIRCULAR FORM"
+        "RESTAURANT INTERIOR",
+        "OPEN KITCHEN",
+        "BURNT CEMENT",
+        "PERFORATED METAL"
       ]
     },
     {
-      "id": "2026-07-24-architecture-mobility-continuity",
-      "category": "ARCHITECTURE",
-      "categoryLabel": "ARCHITECTURE",
+      "id": "2026-07-25-dplusdd-retail-interior",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181345/when-mobility-becomes-the-ground-architecture-adaptation-and-the-search-for-continuity",
-      "date": "2026-07-24",
-      "title": "유연한 건축 이후의 질문, 변화 속에서도 기억을 남기는 법",
-      "summary": "기후 위기와 이동성에 대응해 건축이 가변성·가역성·반응성을 강화해왔지만, 끊임없는 변화가 장소의 기억과 정체성을 약화시킬 수 있다는 비평이다. 적응성 자체를 목표로 삼기보다 변하는 구조 안에 사용자가 붙잡을 고정점과 연속성을 설계해야 한다고 본다. 팝업과 가변형 매장에서도 모듈 교체 가능성과 브랜드 기억 장치를 동시에 설계해야 한다는 실무적 시사점이 있다.",
+      "sourceUrl": "https://www.archdaily.com/1148762/d-plus-dd-friendship-bay-store-so-studio",
+      "date": "2026-07-25",
+      "title": "38㎡ 다중 브랜드 매장을 가변형 동네 거점으로 전환",
+      "summary": "중국 친황다오의 D+dd 다중 브랜드 콘셉트 스토어는 38㎡의 기존 지원 시설을 리노베이션한 프로젝트다. 창가 플랫폼과 유리 파사드가 매장 내부와 광장의 일상을 서로 보이게 하고, 이동식 진열 장치와 가변형 전시 시스템이 상품 교체와 팝업 행사에 대응한다. 밝은 목재, 갈색 래커, 베이지 타일, 카펫, 금속과 컬러 직물을 사용해 절제된 내부에 질감과 반사의 층을 만들었다.",
       "keywords": [
-        "ADAPTIVE ARCHITECTURE",
-        "MOBILITY",
-        "CONTINUITY",
-        "IDENTITY"
-      ]
-    },
-    {
-      "id": "2026-07-24-eu-unsold-clothing-ban",
-      "category": "MATERIAL",
-      "categoryLabel": "COLOR & MATERIAL",
-      "source": "ECOTEXTILE NEWS",
-      "sourceUrl": "https://www.ecotextile.com/2026072464368/news/legislation/loopholes-threaten-new-ban-on-eu-clothing-destruction/",
-      "date": "2026-07-24",
-      "title": "EU 미판매 의류 폐기 금지, 광범위한 예외가 실효성 위협",
-      "summary": "독일 환경단체가 EU의 미판매 의류 폐기 금지 제도가 폭넓은 예외 조항 때문에 약화될 수 있다고 경고했다. 규정의 방향은 재고를 폐기 비용으로 처리하던 관행을 추적·재판매·재가공 가능한 설계 문제로 바꾼다. 디자인 단계부터 시즌리스 활용, 수선 가능성, 소재 분리와 잔여 재고 전환 시나리오를 준비해야 규제 변화에 덜 취약하다.",
-      "keywords": [
-        "UNSOLD CLOTHING",
-        "EU REGULATION",
-        "CIRCULARITY",
-        "INVENTORY"
-      ]
-    },
-    {
-      "id": "2026-07-24-sweden-pfas-ban",
-      "category": "MATERIAL",
-      "categoryLabel": "COLOR & MATERIAL",
-      "source": "ECOTEXTILE NEWS",
-      "sourceUrl": "https://www.ecotextile.com/2026072464373/news/legislation/sweden-proposes-nationwide-pfas-ban/",
-      "date": "2026-07-24",
-      "title": "스웨덴, EU 공동 제한에 앞선 국가 PFAS 금지 추진",
-      "summary": "스웨덴이 ‘영원한 화학물질’로 불리는 PFAS에 대해 EU 차원의 제한을 기다리지 않고 국가 단독 금지를 제안했다. 발수·방오·내유 성능을 위해 PFAS 계열 가공에 의존하는 의류와 액세서리는 시장별 규정 차이가 먼저 나타날 수 있다. 소재 소싱에서는 불소계 가공 여부와 대체 성능, 시험 성적을 공급업체 단계에서 문서화할 필요가 커졌다.",
-      "keywords": [
-        "PFAS",
-        "CHEMICAL REGULATION",
-        "TEXTILE FINISHING",
-        "SWEDEN"
-      ]
-    },
-    {
-      "id": "2026-07-24-eu-textile-due-diligence",
-      "category": "TRADE",
-      "categoryLabel": "BUSINESS & TRADE",
-      "source": "ECOTEXTILE NEWS",
-      "sourceUrl": "https://www.ecotextile.com/2026072464377/news/shows-events/eu-textile-body-warns-on-due-diligence-rules/",
-      "date": "2026-07-24",
-      "title": "유럽 섬유업계, 공급망 실사 규정의 국가별 파편화 경고",
-      "summary": "유럽 섬유·의류 단체 Euratex가 기업 지속가능성 실사 지침(CSDDD)이 과도한 행정 부담과 국가별 분절된 집행으로 이어져서는 안 된다고 촉구했다. 규정 완화 논쟁과 별개로 브랜드가 원산지·가공·협력사 정보를 일관된 형식으로 확보해야 한다는 방향은 선명하다. 소규모 조직도 소재와 봉제처 데이터를 시즌 종료 후가 아니라 발주 시점부터 쌓는 편이 안전하다.",
-      "keywords": [
-        "CSDDD",
-        "DUE DILIGENCE",
-        "EURATEX",
-        "SUPPLY CHAIN"
+        "RETAIL INTERIOR",
+        "MOVABLE DISPLAY",
+        "POP-UP",
+        "MULTI-BRAND STORE",
+        "MATERIAL PALETTE"
       ]
     }
   ]
