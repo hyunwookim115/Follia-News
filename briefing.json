@@ -1,91 +1,125 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T08:02:09+09:00",
+  "generatedAt": "2026-07-29T08:01:30+09:00",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-07-27-womens-fashion-week-ss27",
+      "id": "2026-07-28-jeanerica-denim-model",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/womens-fashion-week-ss-2027-what-to-expect-schedule-calendar",
-      "date": "2026-07-27",
-      "title": "S/S 2027 여성 패션위크의 도시별 일정 변화",
-      "summary": "S/S 2027 여성복 패션위크는 뉴욕 9월 10~15일, 런던 17~21일, 밀라노 22~28일, 파리 9월 28일~10월 6일에 열린다. McQueen은 런던으로 돌아오고 Prada는 밀라노의 첫 쇼를 맡으며 Louis Vuitton은 파리의 마지막 쇼로 복귀한다. Henry Zankov의 Diane Von Furstenberg 데뷔와 Christopher Kane의 Mulberry 런웨이 복귀도 예정돼 있다.",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/how-jeanerica-is-taking-scandi-denim-global",
+      "date": "2026-07-28",
+      "title": "Jeanerica, 핵심 실루엣을 축으로 확장하는 데님 모델",
+      "summary": "스웨덴 브랜드 Jeanerica는 튀르키예에서 원단을 조달하고 이탈리아에서 청바지를 생산하며 Isko Denim과 긴밀히 협업한다. 컬렉션의 완전 신제품 비중은 20~30%이고, 나머지는 기존 핵심 스타일에 새로운 워시나 실루엣 변화를 더하는 방식이다. 2025 회계연도 매출은 1억3,000만 스웨덴크로나, 순이익률은 7%였으며 올해 Liberty와 MR PORTER 입점을 준비하고 있다.",
       "keywords": [
-        "SS27",
-        "WOMENSWEAR",
-        "FASHION WEEK",
-        "SCHEDULE",
-        "CREATIVE DIRECTOR"
+        "JEANERICA",
+        "DENIM",
+        "ISKO",
+        "CORE STYLES",
+        "ITALY PRODUCTION"
       ]
     },
     {
-      "id": "2026-07-27-mah-jong-sofa",
+      "id": "2026-07-28-satisfy-levis-stoner",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1531493269334141866",
+      "date": "2026-07-28",
+      "title": "무신사 신호: Satisfy와 Levi’s의 빈티지 501 클라이밍웨어",
+      "summary": "무신사는 Satisfy와 Levi’s의 두 번째 STONER 협업을 소개했다. 이 컬렉션은 1970년대 요세미티 Stonemasters에서 출발해 1970~1990년대 미국산 빈티지 501을 클라이밍 팬츠로 바꾸고, 암벽과 닿는 부위에 이탈리아산 경량 립스톱 패널을 덧댔다. 조절식 벨트와 재구성한 포켓도 움직임과 수납을 위해 적용됐다.",
+      "keywords": [
+        "SATISFY",
+        "LEVI'S",
+        "VINTAGE 501",
+        "CLIMBING WEAR",
+        "RIPSTOP"
+      ]
+    },
+    {
+      "id": "2026-07-28-yabu-pushelberg-amagansett",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon",
-      "date": "2026-07-27",
-      "title": "쿠션 조합으로 공간을 바꾸는 1971년 Mah Jong 소파",
-      "summary": "Hans Hopfer가 Roche Bobois를 위해 1971년 만든 Mah Jong은 코너·등받이·평면 쿠션을 조합하는 완전 모듈형 좌석 시스템이다. 대담한 직물로 마감된 쿠션은 생활 방식의 변화에 맞춰 구성을 바꾸도록 설계됐고, 이후 Kenzo Takada·Missoni·Sonia Rykiel이 소파의 직물 작업에 참여했다.",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/yabu-pushelberg-amagansett-home-tribu-outdoor-furniture-collections",
+      "date": "2026-07-28",
+      "title": "사구와 수평선에 맞춘 Yabu Pushelberg의 Amagansett 주택",
+      "summary": "Yabu Pushelberg의 Amagansett 주택은 보호 사구를 따라 세 개 층으로 구성됐고, 요트 설계에서 공간 배치의 아이디어를 얻었다. 2층의 주방·식당·거실은 둘레 발코니로 열리며, 코너 기둥을 없애고 바닥부터 천장까지 이어지는 유리벽이 완전히 밀려나도록 설계됐다. 식탁과 의자는 거실 가구와의 관계를 위해 높이를 3인치 낮췄다.",
       "keywords": [
-        "MAH JONG",
-        "MODULAR SOFA",
-        "HANS HOPFER",
-        "BOLD TEXTILES",
-        "ROCHE BOBOIS"
+        "YABU PUSHELBERG",
+        "AMAGANSETT",
+        "PROTECTED DUNES",
+        "SLIDING GLASS",
+        "NEUTRAL MATERIALS"
       ]
     },
     {
-      "id": "2026-07-27-formentera-retreat",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/pirajean-lees-formentera-retreat",
-      "date": "2026-07-27",
-      "title": "현지 재료로 복원한 Pirajean Lees의 포르멘테라 주택",
-      "summary": "Pirajean Lees는 포르멘테라의 방치된 1960년대 주택을 전면 교체보다 수선 중심으로 개조했다. 분리돼 있던 주방·거실·식당을 연결하고, 기존 아치형 주방 천장과 벽난로를 보존했으며 바닥은 테라코타 인서트를 넣은 수작업 연마 콘크리트로 교체했다. 건축과 가구에는 회수한 현지 건식 석재, 사비나 목재, 오크 목공과 현지 장인 제작물을 사용했다.",
-      "keywords": [
-        "RENOVATION",
-        "LOCAL STONE",
-        "SABINA TIMBER",
-        "TERRACOTTA",
-        "CRAFT"
-      ]
-    },
-    {
-      "id": "2026-07-27-gulbenkian-museum-restoration",
+      "id": "2026-07-28-draper-studio-london-house",
       "category": "ARCHITECTURE",
       "categoryLabel": "ARCHITECTURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/gulbenkian-museum-portugal",
-      "date": "2026-07-27",
-      "title": "1969년 설계 원칙을 되살린 Gulbenkian Museum",
-      "summary": "리스본 Gulbenkian Museum의 복원은 건물을 확장하거나 재창조하지 않고 1969년 원안의 원칙과 정원과의 관계를 회복하는 데 초점을 맞췄다. 청동색 유리에 UV 차단 필름과 미세 타공 패브릭 스크린을 더하고, 유럽 갤러리의 일부 칸막이를 철거해 공간의 투명성과 연속성을 복원했다. 내부는 목재·콘크리트·청동·석재·가죽·실크의 고유 색을 활용하며 도장 벽을 두지 않았다.",
+      "sourceUrl": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
+      "date": "2026-07-28",
+      "title": "회수 재료와 노출 구조로 확장한 런던 건축가의 집",
+      "summary": "Draper Studio는 빅토리아 시대 주택을 확장하며 여분의 석재 벽돌을 재사용하고, 기존 콘크리트 기초를 개비언 벽의 채움재로 활용했다. 내부에는 석회암 블록 벽, 노출된 레드우드 소나무 골조, 도장하지 않은 헴프 플라스터를 사용했고, 콘크리트 바닥에는 테라코타 타일과 돌, 조개를 함께 타설했다. 목구조는 외부 제작해 현장에서 조립했으며 욕실 황동 부품도 회수품을 사용했다.",
       "keywords": [
-        "MUSEUM RESTORATION",
-        "MODERNISM",
-        "UV FILTER",
-        "MICRO-PERFORATED FABRIC",
-        "MATERIAL PALETTE"
+        "DRAPER STUDIO",
+        "REUSE",
+        "HEMP PLASTER",
+        "LIMESTONE",
+        "EXPOSED TIMBER"
       ]
     },
     {
-      "id": "2026-07-27-lvmh-q2-fashion-sales",
+      "id": "2026-07-28-blue-green-works-garden",
+      "category": "MATERIAL",
+      "categoryLabel": "COLOR & MATERIAL",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/lighting/blue-green-works-garden-lighting-collection-murano-glass",
+      "date": "2026-07-28",
+      "title": "무라노 유리의 가장자리와 구조를 드러낸 Garden 조명",
+      "summary": "Blue Green Works의 일곱 번째 컬렉션 Garden은 무라노 공방 및 가마 전문가들과 7개월간 개발됐다. 투명 유리를 잎과 깃털처럼 배열하고 가장자리와 결합 구조를 숨기지 않았으며, 일곱 작품은 모두 고객별로 손작업하는 단일 제작물이다.",
+      "keywords": [
+        "BLUE GREEN WORKS",
+        "MURANO GLASS",
+        "LIGHTING",
+        "VISIBLE CONSTRUCTION",
+        "ONE-OFF"
+      ]
+    },
+    {
+      "id": "2026-07-28-aalto-unesco",
+      "category": "ARCHITECTURE",
+      "categoryLabel": "ARCHITECTURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1181723/unesco-inscribes-13-aalto-works-on-the-world-heritage-list",
+      "date": "2026-07-28",
+      "title": "Aalto의 핀란드 건축 13곳, 유네스코 세계유산 등재",
+      "summary": "유네스코는 핀란드 전역의 Aino Marsio-Aalto, Elissa Aalto, Alvar Aalto가 설계한 건축물과 앙상블 13곳을 세계유산 목록에 올렸다. 대상은 1920년대 후반부터 1980년대까지 이어지며, 유네스코는 건축과 일상생활·자연·사회적 웰빙의 관계를 강조한 인간 중심 접근을 등재 이유로 제시했다.",
+      "keywords": [
+        "AALTO",
+        "UNESCO",
+        "FINLAND",
+        "HUMAN-CENTERED ARCHITECTURE",
+        "WORLD HERITAGE"
+      ]
+    },
+    {
+      "id": "2026-07-28-kering-gucci-q2",
       "category": "TRADE",
       "categoryLabel": "BUSINESS & TRADE",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/lvmhs-fashion-sales-rise-1-in-q2",
-      "date": "2026-07-27",
-      "title": "LVMH 패션·가죽 부문, 7개 분기 만에 매출 성장",
-      "summary": "LVMH의 2026년 2분기 패션·가죽 부문 매출은 1% 증가한 88억9,000만 유로로, 7개 분기 연속 감소 뒤 처음 성장했다. 그룹 전체 유기적 매출은 3% 증가한 195억2,000만 유로였고, 지역별 매출은 일본 14%, 미국 6%, 일본 제외 아시아 4% 증가했으며 유럽은 보합이었다. 회사는 Dior에서 Jonathan Anderson의 첫 컬렉션이 성과를 냈고 가죽 제품과 여성 레디투웨어가 상대적으로 앞섰다고 밝혔다.",
+      "sourceUrl": "https://www.vogue.com/article/guccis-sales-decline-eases-in-q2-beating-expectations",
+      "date": "2026-07-28",
+      "title": "Kering 2분기 성장 전환, Gucci 매출 감소폭 축소",
+      "summary": "Kering의 2026년 2분기 매출은 비교 기준 2% 증가한 36억5,000만 유로였고, 패션·가죽 부문은 29억5,000만 유로로 보합을 기록했다. Gucci 매출은 2% 감소한 14억1,000만 유로로 1분기의 8% 감소보다 낙폭이 줄었다. Kering은 2026년 상반기에 매장 84곳을 닫았고, Gucci는 Alpine F1 팀과 연계한 상품을 위한 Gucci Racing 부문을 신설했다.",
       "keywords": [
-        "LVMH",
-        "LUXURY BUSINESS",
+        "KERING",
+        "GUCCI",
         "Q2 2026",
-        "FASHION AND LEATHER GOODS",
-        "REGIONAL SALES"
+        "LUXURY BUSINESS",
+        "STORE CLOSURES"
       ]
     }
   ]
