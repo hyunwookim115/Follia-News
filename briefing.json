@@ -1,130 +1,205 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-01T10:31:25+09:00",
-  "briefingDate": "2026-08-01",
+  "generatedAt": "2026-08-02T07:59:18+09:00",
+  "briefingDate": "2026-08-02",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-07-31-copenhagen-sustainability-standards",
+      "id": "2026-08-01-copenhagen-street-style-decade",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/how-sustainability-standards-changed-the-trajectory-of-copenhagen-fashion-week",
-      "date": "2026-07-31",
-      "title": "지속가능성 기준을 확장하는 Copenhagen Fashion Week",
-      "summary": "Copenhagen Fashion Week의 S/S 2027 시즌은 행사 20주년이자 역대 최대 규모로 열린다. 참가 브랜드는 첫 시즌부터 환경·사회 영향을 밝히는 설문을 제출하고 두 시즌 이후에는 전체 지속가능성 기준을 준수해야 한다. Berlin·Oslo·Amsterdam 패션위크가 이 기준을 채택했으며, Copenhagen Fashion Week는 이번 시즌 Renoon과 함께 심사 과정에 AI를 적용하는 방안을 시험한다.",
+      "sourceUrl": "https://www.vogue.com/article/copenhagen-fashion-week-street-style-trends",
+      "date": "2026-08-01",
+      "title": "10년간 축적된 Copenhagen 스트리트 스타일의 변화",
+      "summary": "VOGUE는 Copenhagen Fashion Week 20주년을 앞두고 2016년부터 2026년까지의 스트리트 스타일을 연도별로 정리했다. 2017년에는 가죽 스커트·팬츠·부츠·코트, 2018년에는 스트레이트 진, 2019년에는 버터 옐로가 두드러졌다. 이후 Ganni 스웨터 베스트와 카우보이 부츠, 플로럴 브로치, 럭비 셔츠를 거쳐 2026년에는 Cecilie Bahnsen의 프릴과 퍼프 소매 드레스가 나타났다.",
       "keywords": [
         "COPENHAGEN FASHION WEEK",
-        "SS27",
-        "SUSTAINABILITY STANDARDS",
-        "BRAND ASSESSMENT",
-        "RENOON"
+        "STREET STYLE",
+        "BUTTER YELLOW",
+        "GANNI",
+        "PUFF SLEEVES"
       ]
     },
     {
-      "id": "2026-07-31-29cm-siyazu-summer",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/07/31/siyazu",
-      "date": "2026-07-31",
-      "title": "29CM 신호: 시야쥬의 가벼운 여름 소재와 실루엣",
-      "summary": "29CM은 시야쥬의 여름 스타일링을 소개하는 프로모션을 7월 31일부터 8월 6일까지 진행한다. 제품 구성에는 8부 길이의 가벼운 카프리 팬츠, 신축성 있는 나일론 A라인 스커트, 유연한 저지 소재의 카울넥 탑, 은은한 광택의 실키 셔츠가 포함됐다.",
-      "keywords": [
-        "SIYAZU",
-        "29CM",
-        "CAPRI PANTS",
-        "NYLON SKIRT",
-        "SUMMER FABRIC"
-      ]
-    },
-    {
-      "id": "2026-07-31-semibreve-studio",
+      "id": "2026-08-01-lecomte-apartment",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/sao-paulo-apartment-clara-nahas",
-      "date": "2026-07-31",
-      "title": "음악과 기억을 공간으로 옮긴 Semibreve Studio",
-      "summary": "Clara Nahas는 Casacor São Paulo에 55㎡ 규모의 Semibreve Studio를 설계했다. 중앙의 버건디 원통은 짙은 적색 세라믹 타일로 마감해 욕실을 감싸고, 서재 책상과 음악 코너·화장대를 함께 만든다. 기존 목재 파켓 바닥과 박공형 천장을 보존하면서 Giardino 색상의 오크 무늬목, Da Vinci 규암, Napoleon Bordeaux 대리석을 더했다.",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1181752/lecomte-apartment-atelier-orzan",
+      "date": "2026-08-01",
+      "title": "가족주택 1층을 55㎡ 주거로 바꾼 Lecomte Apartment",
+      "summary": "Atelier Orzan은 프랑스 Le Havre의 Costière 주거지에 있는 옛 가족주택 1층을 차분한 현대식 55㎡ 주거 공간으로 전환했다. 프로젝트 페이지는 주요 재료로 목재, 강철, 직물을 명시한다.",
       "keywords": [
-        "CLARA NAHAS",
-        "SEMIBREVE STUDIO",
-        "CERAMIC TILE",
-        "OAK VENEER",
-        "QUARTZITE"
+        "ATELIER ORZAN",
+        "APARTMENT INTERIOR",
+        "55 SQ M",
+        "WOOD",
+        "STEEL"
       ]
     },
     {
-      "id": "2026-07-31-latin-america-adaptation",
+      "id": "2026-08-01-border-architecture-mobility",
       "category": "ARCHITECTURE",
       "categoryLabel": "ARCHITECTURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181936/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience",
-      "date": "2026-07-31",
-      "title": "적응·유산·공공 공간으로 읽는 라틴아메리카 건축",
-      "summary": "ArchDaily는 라틴아메리카의 최근 건축 흐름을 환경 위험에 대한 적응, 문화시설 재고, 기존 건축의 수명 연장으로 정리했다. 에콰도르 국립박물관 공모에서는 SANAA 등이 이끄는 Living Strata가 최종 선정됐으며, 전시 공간을 중정·정원·공공 프로그램과 결합해 Quito의 La Carolina Park를 확장하는 시민 경관으로 계획했다. Montevideo의 Feltrinelli 서점은 역사적 채광창·계단·파사드를 보존하면서 접근성과 동선, 전시 공간을 재구성했다.",
+      "sourceUrl": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
+      "date": "2026-08-01",
+      "title": "이동을 통제하고 다시 상상하는 경계의 건축",
+      "summary": "ArchDaily는 국경이 지도 위 선뿐 아니라 벽의 높이, 복도의 폭, 카메라 각도 같은 물리적 공간으로 만들어진다고 설명한다. 기사에는 자연광과 명확한 표지, 어린이 공간을 갖춘 검문소와 구금 논리를 거부하는 접수센터가 대안으로 제시된다. Teddy Cruz와 Fonna Forman의 커뮤니티 거점, Ronald Rael과 Virginia San Fratello의 분홍색 시소는 경계를 만남의 공간으로 다룬 사례로 소개됐다.",
       "keywords": [
-        "LATIN AMERICA",
-        "ADAPTIVE REUSE",
+        "BORDER ARCHITECTURE",
+        "MOBILITY",
         "PUBLIC SPACE",
-        "MUSEUM",
-        "HERITAGE"
+        "COMMUNITY STATIONS",
+        "SPATIAL CONTROL"
       ]
     },
     {
-      "id": "2026-07-31-nilufar-vista-mare",
+      "id": "2026-08-01-modernist-villa-materials",
       "category": "MATERIAL",
       "categoryLabel": "COLOR & MATERIAL",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/furniture/nilufar-galerie56-grand-hotel-vista-mare",
-      "date": "2026-07-31",
-      "title": "Formica·목재·직물로 만든 Nilufar의 베네치아 풍경",
-      "summary": "Nilufar와 Galerie56의 ‘Grand Hotel, Vista Mare’ 전시는 가구와 오브제로 베네치아 Lido의 해변 호텔 장면을 구성했다. Formica 상판의 Carlo Mollino 테이블과 Luis Barragán의 목재 의자, Barbro Nilsson의 황금빛 매듭 러그, Fontana Arte 테이블과 Gabriella Crespi 조명을 함께 배치했다. 1902년 Carlo Bugatti의 거울 겸 선반에는 스텐실 장식, 엠보싱 구리, 자개 요소가 사용됐다.",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1181460/modernist-harmony-in-a-historic-villa-lbwa",
+      "date": "2026-08-01",
+      "title": "목재와 석재로 이어간 1930년대 모더니스트 빌라",
+      "summary": "LBWA가 작업한 Poznań의 220㎡ 주거 공간은 1930년대 모더니즘의 기하학적 형태와 절제된 비례를 지닌 전간기 빌라에 자리한다. 원문은 건물에 장식, 러스틱 요소, 필라스터가 없다고 설명하며 프로젝트의 주요 재료로 목재와 석재를 제시한다.",
       "keywords": [
-        "NILUFAR",
-        "FORMICA",
+        "LBWA",
+        "MODERNISM",
         "WOOD",
-        "KNOTTED RUG",
-        "COPPER"
-      ]
-    },
-    {
-      "id": "2026-07-31-lvmh-patou-sale",
-      "category": "TRADE",
-      "categoryLabel": "BUSINESS & TRADE",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta",
-      "date": "2026-07-31",
-      "title": "LVMH, Patou를 이전 주주 Dilesh Mehta에게 매각",
-      "summary": "LVMH는 Patou를 Dilesh Mehta의 지주회사 Nirvana Investments LLC-FZ에 매각했다. LVMH는 2018년 Mehta에게서 Patou 지배 지분을 인수했으며 Mehta는 이후에도 지분 30%를 보유했다. 이번 거래는 LVMH가 올해 Marc Jacobs를 WHP Global에 매각한 뒤 이어졌다.",
-      "keywords": [
-        "LVMH",
-        "PATOU",
-        "DILESH MEHTA",
-        "NIRVANA INVESTMENTS",
-        "M&A"
-      ]
-    },
-    {
-      "id": "2026-07-31-dior-godron-tableware",
-      "category": "MATERIAL",
-      "categoryLabel": "COLOR & MATERIAL",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/interior-accessories/dior-maison-godron-collection-tableware",
-      "date": "2026-07-31",
-      "title": "Dior 아카이브의 Godron 모티프를 되살린 테이블웨어",
-      "summary": "Dior Maison은 1974년 오브제에서 시작해 1980~1990년대 컬렉션에 널리 쓰인 Godron 모티프를 새 테이블웨어에 적용했다. 흰색·네이비·골드의 둥근 해칭 사각형과 가는 파란 줄무늬를 Limoges 자기의 에그컵부터 타원형 플래터까지 확장하고, 같은 패턴을 트레이·화병·프레임·린넨·비치웨어에도 연결했다.",
-      "keywords": [
-        "DIOR MAISON",
-        "GODRON",
-        "ART DECO",
-        "LIMOGES PORCELAIN",
-        "ARCHIVE MOTIF"
+        "STONE",
+        "HISTORIC VILLA"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-01T10:31:25+09:00",
+      "briefingDate": "2026-08-01",
+      "generatedAt": "2026-08-01T10:31:25+09:00",
+      "cards": [
+        {
+          "id": "2026-07-31-copenhagen-sustainability-standards",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/how-sustainability-standards-changed-the-trajectory-of-copenhagen-fashion-week",
+          "date": "2026-07-31",
+          "title": "지속가능성 기준을 확장하는 Copenhagen Fashion Week",
+          "summary": "Copenhagen Fashion Week의 S/S 2027 시즌은 행사 20주년이자 역대 최대 규모로 열린다. 참가 브랜드는 첫 시즌부터 환경·사회 영향을 밝히는 설문을 제출하고 두 시즌 이후에는 전체 지속가능성 기준을 준수해야 한다. Berlin·Oslo·Amsterdam 패션위크가 이 기준을 채택했으며, Copenhagen Fashion Week는 이번 시즌 Renoon과 함께 심사 과정에 AI를 적용하는 방안을 시험한다.",
+          "keywords": [
+            "COPENHAGEN FASHION WEEK",
+            "SS27",
+            "SUSTAINABILITY STANDARDS",
+            "BRAND ASSESSMENT",
+            "RENOON"
+          ]
+        },
+        {
+          "id": "2026-07-31-29cm-siyazu-summer",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/07/31/siyazu",
+          "date": "2026-07-31",
+          "title": "29CM 신호: 시야쥬의 가벼운 여름 소재와 실루엣",
+          "summary": "29CM은 시야쥬의 여름 스타일링을 소개하는 프로모션을 7월 31일부터 8월 6일까지 진행한다. 제품 구성에는 8부 길이의 가벼운 카프리 팬츠, 신축성 있는 나일론 A라인 스커트, 유연한 저지 소재의 카울넥 탑, 은은한 광택의 실키 셔츠가 포함됐다.",
+          "keywords": [
+            "SIYAZU",
+            "29CM",
+            "CAPRI PANTS",
+            "NYLON SKIRT",
+            "SUMMER FABRIC"
+          ]
+        },
+        {
+          "id": "2026-07-31-semibreve-studio",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/sao-paulo-apartment-clara-nahas",
+          "date": "2026-07-31",
+          "title": "음악과 기억을 공간으로 옮긴 Semibreve Studio",
+          "summary": "Clara Nahas는 Casacor São Paulo에 55㎡ 규모의 Semibreve Studio를 설계했다. 중앙의 버건디 원통은 짙은 적색 세라믹 타일로 마감해 욕실을 감싸고, 서재 책상과 음악 코너·화장대를 함께 만든다. 기존 목재 파켓 바닥과 박공형 천장을 보존하면서 Giardino 색상의 오크 무늬목, Da Vinci 규암, Napoleon Bordeaux 대리석을 더했다.",
+          "keywords": [
+            "CLARA NAHAS",
+            "SEMIBREVE STUDIO",
+            "CERAMIC TILE",
+            "OAK VENEER",
+            "QUARTZITE"
+          ]
+        },
+        {
+          "id": "2026-07-31-latin-america-adaptation",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181936/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience",
+          "date": "2026-07-31",
+          "title": "적응·유산·공공 공간으로 읽는 라틴아메리카 건축",
+          "summary": "ArchDaily는 라틴아메리카의 최근 건축 흐름을 환경 위험에 대한 적응, 문화시설 재고, 기존 건축의 수명 연장으로 정리했다. 에콰도르 국립박물관 공모에서는 SANAA 등이 이끄는 Living Strata가 최종 선정됐으며, 전시 공간을 중정·정원·공공 프로그램과 결합해 Quito의 La Carolina Park를 확장하는 시민 경관으로 계획했다. Montevideo의 Feltrinelli 서점은 역사적 채광창·계단·파사드를 보존하면서 접근성과 동선, 전시 공간을 재구성했다.",
+          "keywords": [
+            "LATIN AMERICA",
+            "ADAPTIVE REUSE",
+            "PUBLIC SPACE",
+            "MUSEUM",
+            "HERITAGE"
+          ]
+        },
+        {
+          "id": "2026-07-31-nilufar-vista-mare",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/furniture/nilufar-galerie56-grand-hotel-vista-mare",
+          "date": "2026-07-31",
+          "title": "Formica·목재·직물로 만든 Nilufar의 베네치아 풍경",
+          "summary": "Nilufar와 Galerie56의 ‘Grand Hotel, Vista Mare’ 전시는 가구와 오브제로 베네치아 Lido의 해변 호텔 장면을 구성했다. Formica 상판의 Carlo Mollino 테이블과 Luis Barragán의 목재 의자, Barbro Nilsson의 황금빛 매듭 러그, Fontana Arte 테이블과 Gabriella Crespi 조명을 함께 배치했다. 1902년 Carlo Bugatti의 거울 겸 선반에는 스텐실 장식, 엠보싱 구리, 자개 요소가 사용됐다.",
+          "keywords": [
+            "NILUFAR",
+            "FORMICA",
+            "WOOD",
+            "KNOTTED RUG",
+            "COPPER"
+          ]
+        },
+        {
+          "id": "2026-07-31-lvmh-patou-sale",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta",
+          "date": "2026-07-31",
+          "title": "LVMH, Patou를 이전 주주 Dilesh Mehta에게 매각",
+          "summary": "LVMH는 Patou를 Dilesh Mehta의 지주회사 Nirvana Investments LLC-FZ에 매각했다. LVMH는 2018년 Mehta에게서 Patou 지배 지분을 인수했으며 Mehta는 이후에도 지분 30%를 보유했다. 이번 거래는 LVMH가 올해 Marc Jacobs를 WHP Global에 매각한 뒤 이어졌다.",
+          "keywords": [
+            "LVMH",
+            "PATOU",
+            "DILESH MEHTA",
+            "NIRVANA INVESTMENTS",
+            "M&A"
+          ]
+        },
+        {
+          "id": "2026-07-31-dior-godron-tableware",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/interior-accessories/dior-maison-godron-collection-tableware",
+          "date": "2026-07-31",
+          "title": "Dior 아카이브의 Godron 모티프를 되살린 테이블웨어",
+          "summary": "Dior Maison은 1974년 오브제에서 시작해 1980~1990년대 컬렉션에 널리 쓰인 Godron 모티프를 새 테이블웨어에 적용했다. 흰색·네이비·골드의 둥근 해칭 사각형과 가는 파란 줄무늬를 Limoges 자기의 에그컵부터 타원형 플래터까지 확장하고, 같은 패턴을 트레이·화병·프레임·린넨·비치웨어에도 연결했다.",
+          "keywords": [
+            "DIOR MAISON",
+            "GODRON",
+            "ART DECO",
+            "LIMOGES PORCELAIN",
+            "ARCHIVE MOTIF"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-07-31T08:04:48+09:00",
       "briefingDate": "2026-07-31",
