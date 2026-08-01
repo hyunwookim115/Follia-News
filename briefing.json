@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-08-01T07:59:01+09:00",
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-01T10:31:25+09:00",
+  "briefingDate": "2026-08-01",
   "period": "지난 24시간",
   "cards": [
     {
@@ -103,6 +104,707 @@
         "DILESH MEHTA",
         "NIRVANA INVESTMENTS",
         "M&A"
+      ]
+    },
+    {
+      "id": "2026-07-31-dior-godron-tableware",
+      "category": "MATERIAL",
+      "categoryLabel": "COLOR & MATERIAL",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/interior-accessories/dior-maison-godron-collection-tableware",
+      "date": "2026-07-31",
+      "title": "Dior 아카이브의 Godron 모티프를 되살린 테이블웨어",
+      "summary": "Dior Maison은 1974년 오브제에서 시작해 1980~1990년대 컬렉션에 널리 쓰인 Godron 모티프를 새 테이블웨어에 적용했다. 흰색·네이비·골드의 둥근 해칭 사각형과 가는 파란 줄무늬를 Limoges 자기의 에그컵부터 타원형 플래터까지 확장하고, 같은 패턴을 트레이·화병·프레임·린넨·비치웨어에도 연결했다.",
+      "keywords": [
+        "DIOR MAISON",
+        "GODRON",
+        "ART DECO",
+        "LIMOGES PORCELAIN",
+        "ARCHIVE MOTIF"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "id": "2026-07-31T08:04:48+09:00",
+      "briefingDate": "2026-07-31",
+      "generatedAt": "2026-07-31T08:04:48+09:00",
+      "cards": [
+        {
+          "id": "2026-07-30-ralph-lauren-gees-bend",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/ralph-lauren-gees-bend-quilt-collaboration",
+          "date": "2026-07-30",
+          "title": "Gee’s Bend 퀼트를 의류와 홈웨어로 옮긴 Ralph Lauren",
+          "summary": "Ralph Lauren은 ‘Artist in Residence’ 프로그램에서 Gee’s Bend의 섬유 예술가 Loretta Pettway Bennett, Claudia Pettway Charley와 협업했다. 두 작가의 원본 퀼트는 재킷, Polo Play Bag, 쿠션, 손으로 채색한 세라믹으로 재해석됐고, 의류에는 주로 데님과 업사이클 Ralph Lauren 원단이 사용됐다. 원본 퀼트의 즉흥적 모티프와 작가들이 부여한 상징도 제품에 유지됐다.",
+          "keywords": [
+            "GEE'S BEND",
+            "QUILTING",
+            "DENIM",
+            "UPCYCLED FABRIC",
+            "CRAFT"
+          ]
+        },
+        {
+          "id": "2026-07-30-jeffrey-atlanta-boutique",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/a-first-look-inside-atlantas-new-jeffrey-boutique",
+          "date": "2026-07-30",
+          "title": "SELECT SHOP 신호: 애틀랜타에 돌아온 Jeffrey",
+          "summary": "애틀랜타 Buckhead Village의 3,000제곱피트 Jeffrey 부티크가 8월 2일 문을 연다. 2020년 기존 세 매장이 폐점한 지 6년 만의 복귀로, 50개 디자이너 브랜드를 정기적으로 갱신하는 타이트한 구성으로 선보인다. 사전 예약 판매에서는 Daniela Gregis의 크롭 재킷이 판매됐고, 창립자 Jeffrey Kalinsky는 애틀랜타에서 다른 곳에 없는 상품과 매장 스타일링 서비스를 강조했다.",
+          "keywords": [
+            "JEFFREY",
+            "ATLANTA",
+            "SPECIALTY STORE",
+            "CURATED RETAIL",
+            "DESIGNER BRANDS"
+          ]
+        },
+        {
+          "id": "2026-07-30-cubitts-manchester",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/cubitts-manchester-store-opening-youth-studio",
+          "date": "2026-07-30",
+          "title": "맨체스터 산업 유산을 재해석한 Cubitts 매장",
+          "summary": "맨체스터 디자인 스튜디오 Youth는 옛 Affleck & Brown 백화점 일부에 Cubitts의 첫 맨체스터 매장을 설계했다. 정밀한 철제 구조와 빗물 질감 유리 진열대를 거친 회벽과 대비시키고, 손으로 표면을 만든 거울과 패싯 오크 카운터를 배치했다. 수선 데스크, 검안실, 맞춤 상담 공간은 뒤로 숨기지 않고 매장 안에 드러냈다.",
+          "keywords": [
+            "YOUTH STUDIO",
+            "RETAIL INTERIOR",
+            "TEXTURED GLASS",
+            "STEELWORK",
+            "OAK"
+          ]
+        },
+        {
+          "id": "2026-07-30-sl-house-sao-paulo",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/sl-house-upstate-sao-paulo-home-padovani-brazil",
+          "date": "2026-07-30",
+          "title": "조경의 빈 공간을 중심에 둔 상파울루 SL House",
+          "summary": "Padovani Arquitetos의 SL House는 완만한 경사지에 낮고 층층이 놓인 볼륨으로 구성됐다. 거리와 같은 높이의 T자형 축에서 계획의 빈 공간을 조경으로 채웠고, 실내외로 이어지는 석재와 온기를 더하는 목재로 분절된 볼륨을 통합했다. 조경은 건축의 연장으로 설계돼 수영장, 반사 연못, 스파를 포함한다.",
+          "keywords": [
+            "PADOVANI ARQUITETOS",
+            "LANDSCAPE",
+            "STONE",
+            "TIMBER",
+            "T-SHAPED PLAN"
+          ]
+        },
+        {
+          "id": "2026-07-30-knoll-pillo-bed",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/furniture/knoll-willo-perron-pillo-bed",
+          "date": "2026-07-30",
+          "title": "쿠션과 침대의 경계를 흐린 Knoll Pillo",
+          "summary": "Willo Perron이 Knoll과 만든 Pillo는 이 회사가 20년 만에 추가한 침대 디자인이다. 부드러운 업홀스터리 프레임과 대형 쿠션처럼 기능하는 헤드보드로 베개와 침대의 경계를 흐렸으며, 구매자는 공간에 맞춰 업홀스터리 색상을 선택할 수 있다. Perron은 재료·색상·맥락에 따라 각 공간에 맞게 달라지는 적응형 시스템으로 자신의 제품을 설명했다.",
+          "keywords": [
+            "WILLO PERRON",
+            "KNOLL",
+            "UPHOLSTERY",
+            "CUSTOM COLOR",
+            "PILLO"
+          ]
+        },
+        {
+          "id": "2026-07-30-reformation-ipo",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/now-public-reformation-is-worth-dollar886-million-whats-next",
+          "date": "2026-07-30",
+          "title": "Reformation, 기업가치 8억8,600만 달러로 상장",
+          "summary": "Reformation은 7월 30일 ‘REF’ 티커로 뉴욕증권거래소에 상장했으며 기업가치는 8억8,600만 달러로 평가됐다. 주가는 공모가와 같은 15달러에 출발했고, 보통주 1,406만 주를 매각해 2억1,090만 달러를 조달했으며 Permira는 지배 지분을 유지했다. 최근 패션 업계의 IPO가 드물었던 가운데 이번 상장은 업계의 주목을 받았다.",
+          "keywords": [
+            "REFORMATION",
+            "IPO",
+            "NYSE",
+            "PERMIRA",
+            "FASHION BUSINESS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30T08:01:16+09:00",
+      "briefingDate": "2026-07-30",
+      "generatedAt": "2026-07-30T08:01:16+09:00",
+      "cards": [
+        {
+          "id": "2026-07-29-neo-knitwear-boom",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/inside-the-neo-knitwear-boom",
+          "date": "2026-07-29",
+          "title": "공예와 기술 혁신이 이끄는 네오 니트웨어",
+          "summary": "VOGUE는 니트웨어를 창작의 중심에 두고 공예와 기술 혁신을 결합하는 디자이너들이 늘고 있다고 전했다. EDITED 집계에서 2026년 니트웨어 정가 판매 완료는 Loro Piana가 40%, Brunello Cucinelli가 23% 증가했고, 캐시미어는 럭셔리 리테일러 니트웨어 판매 완료의 3분의 1을 차지했다. 심리스 편직·Wholegarment·정교한 플랫베드 기계는 더 적은 솔기와 정밀한 구조, 생산 폐기를 줄일 가능성을 제공하며, 일반적인 최소 주문량도 과거 300장에서 현재 50~100장 수준으로 낮아졌다.",
+          "keywords": [
+            "KNITWEAR",
+            "WHOLEGARMENT",
+            "SEAMLESS KNITTING",
+            "CASHMERE",
+            "MOQ"
+          ]
+        },
+        {
+          "id": "2026-07-29-noah-converse-louie-lopez",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1531839693924399725",
+          "date": "2026-07-29",
+          "title": "무신사 신호: Noah × Converse의 Louie Lopez 2 Pro",
+          "summary": "무신사는 Noah와 Converse가 Louie Lopez 2 Pro를 기반으로 제작한 협업 스케이트화를 소개했다. 기존 스타·쉐브론 로고 대신 퍼포레이션 아웃라인을 넣고, 그린 풀그레인 스웨이드에 더 밝고 부드러운 스웨이드를 토와 백탭에 배치했으며 브라운 검 솔로 마감했다. 제품은 7월 30일 Converse·Noah·일부 리테일러에서 발매되고 무신사와 Noah Cityhouse에는 8월 입고될 예정이다.",
+          "keywords": [
+            "NOAH",
+            "CONVERSE",
+            "LOUIE LOPEZ 2 PRO",
+            "SUEDE",
+            "SKATE SHOES"
+          ]
+        },
+        {
+          "id": "2026-07-29-neon-rated-office",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/neon-rated-offices-los-angeles-studio-muka",
+          "date": "2026-07-29",
+          "title": "영화의 기억을 공간 언어로 옮긴 Neon Rated 사무실",
+          "summary": "Studio Muka는 1940년대 건물을 재사용해 Neon Rated의 산타모니카 사무실을 설계했다. 1만 제곱피트 공간에는 골재가 드러나도록 연마한 콘크리트 바닥, 중앙 안뜰, 노출된 보와 기둥, 오크 합판 목공을 적용했다. 스크리닝룸은 짙은 파란색으로 감싸고 한 장의 금속판을 접어 만든 벽등에 서브웨이 그레이팅을 겹쳤다.",
+          "keywords": [
+            "STUDIO MUKA",
+            "ADAPTIVE REUSE",
+            "OAK PLYWOOD",
+            "EXPOSED STRUCTURE",
+            "SCREENING ROOM"
+          ]
+        },
+        {
+          "id": "2026-07-29-shenzhen-natural-history-museum",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181785/shenzhen-natural-history-museum-designed-by-3xn-b-plus-h-architects-and-zhubo-opens-in-china",
+          "date": "2026-07-29",
+          "title": "지형을 연장한 선전 자연사박물관 개관",
+          "summary": "3XN, B+H Architects, Zhubo Design이 공동 설계한 선전 자연사박물관이 개관했다. 10만㎡가 넘는 건물은 경사면·테라스·광장으로 이어지는 공개 옥상 경관을 통해 인접 공원과 연결된다. 화강암 외피의 개구부가 자연광을 들이고, 다섯 개 원뿔형 볼륨이 주요 갤러리와 동선·중정·조망 지점을 구성한다.",
+          "keywords": [
+            "3XN",
+            "SHENZHEN",
+            "NATURAL HISTORY MUSEUM",
+            "ROOFSCAPE",
+            "GRANITE"
+          ]
+        },
+        {
+          "id": "2026-07-29-marc-newson-bookstand",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-accessories/bookstand-taschen-marc-newson",
+          "date": "2026-07-29",
+          "title": "아크릴·알루미늄·강철로 만든 Marc Newson의 Bookstand",
+          "summary": "Marc Newson이 Taschen을 위해 설계한 14kg Bookstand는 아크릴 유리, 알루미늄, 강철로 제작돼 대형 서적을 지지한다. 단조 알루미늄 삼각대 헤드 위에 두꺼운 투명 아크릴 판을 휘어 올렸고, 밝은 빨간색 알루미늄 조절 장치를 사용한다.",
+          "keywords": [
+            "MARC NEWSON",
+            "ACRYLIC GLASS",
+            "ALUMINIUM",
+            "STEEL",
+            "BOOKSTAND"
+          ]
+        },
+        {
+          "id": "2026-07-29-hermes-q2",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/hermes-reports-67-sales-uplift-in-q2",
+          "date": "2026-07-29",
+          "title": "Hermès 2분기 매출 6.7% 증가",
+          "summary": "Hermès의 2026년 2분기 매출은 고정환율 기준 6.7% 증가한 41억 유로였고, 상반기 EBIT 마진은 41%였다. 제품별로 가죽 제품·안장은 10.2%, 레디투웨어·액세서리는 3.6%, 실크·텍스타일은 12.2% 성장했다. 지역별 매출은 미주 13.7%, 일본 12.3%, 일본 제외 아시아태평양 2.5% 증가했으며 한국이 해당 지역의 성장을 이끌었다.",
+          "keywords": [
+            "HERMES",
+            "Q2 2026",
+            "LEATHER GOODS",
+            "SILK AND TEXTILES",
+            "LUXURY SALES"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29T08:01:30+09:00",
+      "briefingDate": "2026-07-29",
+      "generatedAt": "2026-07-29T08:01:30+09:00",
+      "cards": [
+        {
+          "id": "2026-07-28-jeanerica-denim-model",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/how-jeanerica-is-taking-scandi-denim-global",
+          "date": "2026-07-28",
+          "title": "Jeanerica, 핵심 실루엣을 축으로 확장하는 데님 모델",
+          "summary": "스웨덴 브랜드 Jeanerica는 튀르키예에서 원단을 조달하고 이탈리아에서 청바지를 생산하며 Isko Denim과 긴밀히 협업한다. 컬렉션의 완전 신제품 비중은 20~30%이고, 나머지는 기존 핵심 스타일에 새로운 워시나 실루엣 변화를 더하는 방식이다. 2025 회계연도 매출은 1억3,000만 스웨덴크로나, 순이익률은 7%였으며 올해 Liberty와 MR PORTER 입점을 준비하고 있다.",
+          "keywords": [
+            "JEANERICA",
+            "DENIM",
+            "ISKO",
+            "CORE STYLES",
+            "ITALY PRODUCTION"
+          ]
+        },
+        {
+          "id": "2026-07-28-satisfy-levis-stoner",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1531493269334141866",
+          "date": "2026-07-28",
+          "title": "무신사 신호: Satisfy와 Levi’s의 빈티지 501 클라이밍웨어",
+          "summary": "무신사는 Satisfy와 Levi’s의 두 번째 STONER 협업을 소개했다. 이 컬렉션은 1970년대 요세미티 Stonemasters에서 출발해 1970~1990년대 미국산 빈티지 501을 클라이밍 팬츠로 바꾸고, 암벽과 닿는 부위에 이탈리아산 경량 립스톱 패널을 덧댔다. 조절식 벨트와 재구성한 포켓도 움직임과 수납을 위해 적용됐다.",
+          "keywords": [
+            "SATISFY",
+            "LEVI'S",
+            "VINTAGE 501",
+            "CLIMBING WEAR",
+            "RIPSTOP"
+          ]
+        },
+        {
+          "id": "2026-07-28-yabu-pushelberg-amagansett",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/yabu-pushelberg-amagansett-home-tribu-outdoor-furniture-collections",
+          "date": "2026-07-28",
+          "title": "사구와 수평선에 맞춘 Yabu Pushelberg의 Amagansett 주택",
+          "summary": "Yabu Pushelberg의 Amagansett 주택은 보호 사구를 따라 세 개 층으로 구성됐고, 요트 설계에서 공간 배치의 아이디어를 얻었다. 2층의 주방·식당·거실은 둘레 발코니로 열리며, 코너 기둥을 없애고 바닥부터 천장까지 이어지는 유리벽이 완전히 밀려나도록 설계됐다. 식탁과 의자는 거실 가구와의 관계를 위해 높이를 3인치 낮췄다.",
+          "keywords": [
+            "YABU PUSHELBERG",
+            "AMAGANSETT",
+            "PROTECTED DUNES",
+            "SLIDING GLASS",
+            "NEUTRAL MATERIALS"
+          ]
+        },
+        {
+          "id": "2026-07-28-draper-studio-london-house",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
+          "date": "2026-07-28",
+          "title": "회수 재료와 노출 구조로 확장한 런던 건축가의 집",
+          "summary": "Draper Studio는 빅토리아 시대 주택을 확장하며 여분의 석재 벽돌을 재사용하고, 기존 콘크리트 기초를 개비언 벽의 채움재로 활용했다. 내부에는 석회암 블록 벽, 노출된 레드우드 소나무 골조, 도장하지 않은 헴프 플라스터를 사용했고, 콘크리트 바닥에는 테라코타 타일과 돌, 조개를 함께 타설했다. 목구조는 외부 제작해 현장에서 조립했으며 욕실 황동 부품도 회수품을 사용했다.",
+          "keywords": [
+            "DRAPER STUDIO",
+            "REUSE",
+            "HEMP PLASTER",
+            "LIMESTONE",
+            "EXPOSED TIMBER"
+          ]
+        },
+        {
+          "id": "2026-07-28-blue-green-works-garden",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/lighting/blue-green-works-garden-lighting-collection-murano-glass",
+          "date": "2026-07-28",
+          "title": "무라노 유리의 가장자리와 구조를 드러낸 Garden 조명",
+          "summary": "Blue Green Works의 일곱 번째 컬렉션 Garden은 무라노 공방 및 가마 전문가들과 7개월간 개발됐다. 투명 유리를 잎과 깃털처럼 배열하고 가장자리와 결합 구조를 숨기지 않았으며, 일곱 작품은 모두 고객별로 손작업하는 단일 제작물이다.",
+          "keywords": [
+            "BLUE GREEN WORKS",
+            "MURANO GLASS",
+            "LIGHTING",
+            "VISIBLE CONSTRUCTION",
+            "ONE-OFF"
+          ]
+        },
+        {
+          "id": "2026-07-28-aalto-unesco",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181723/unesco-inscribes-13-aalto-works-on-the-world-heritage-list",
+          "date": "2026-07-28",
+          "title": "Aalto의 핀란드 건축 13곳, 유네스코 세계유산 등재",
+          "summary": "유네스코는 핀란드 전역의 Aino Marsio-Aalto, Elissa Aalto, Alvar Aalto가 설계한 건축물과 앙상블 13곳을 세계유산 목록에 올렸다. 대상은 1920년대 후반부터 1980년대까지 이어지며, 유네스코는 건축과 일상생활·자연·사회적 웰빙의 관계를 강조한 인간 중심 접근을 등재 이유로 제시했다.",
+          "keywords": [
+            "AALTO",
+            "UNESCO",
+            "FINLAND",
+            "HUMAN-CENTERED ARCHITECTURE",
+            "WORLD HERITAGE"
+          ]
+        },
+        {
+          "id": "2026-07-28-kering-gucci-q2",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/guccis-sales-decline-eases-in-q2-beating-expectations",
+          "date": "2026-07-28",
+          "title": "Kering 2분기 성장 전환, Gucci 매출 감소폭 축소",
+          "summary": "Kering의 2026년 2분기 매출은 비교 기준 2% 증가한 36억5,000만 유로였고, 패션·가죽 부문은 29억5,000만 유로로 보합을 기록했다. Gucci 매출은 2% 감소한 14억1,000만 유로로 1분기의 8% 감소보다 낙폭이 줄었다. Kering은 2026년 상반기에 매장 84곳을 닫았고, Gucci는 Alpine F1 팀과 연계한 상품을 위한 Gucci Racing 부문을 신설했다.",
+          "keywords": [
+            "KERING",
+            "GUCCI",
+            "Q2 2026",
+            "LUXURY BUSINESS",
+            "STORE CLOSURES"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-28T08:02:09+09:00",
+      "briefingDate": "2026-07-28",
+      "generatedAt": "2026-07-28T08:02:09+09:00",
+      "cards": [
+        {
+          "id": "2026-07-27-womens-fashion-week-ss27",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/womens-fashion-week-ss-2027-what-to-expect-schedule-calendar",
+          "date": "2026-07-27",
+          "title": "S/S 2027 여성 패션위크의 도시별 일정 변화",
+          "summary": "S/S 2027 여성복 패션위크는 뉴욕 9월 10~15일, 런던 17~21일, 밀라노 22~28일, 파리 9월 28일~10월 6일에 열린다. McQueen은 런던으로 돌아오고 Prada는 밀라노의 첫 쇼를 맡으며 Louis Vuitton은 파리의 마지막 쇼로 복귀한다. Henry Zankov의 Diane Von Furstenberg 데뷔와 Christopher Kane의 Mulberry 런웨이 복귀도 예정돼 있다.",
+          "keywords": [
+            "SS27",
+            "WOMENSWEAR",
+            "FASHION WEEK",
+            "SCHEDULE",
+            "CREATIVE DIRECTOR"
+          ]
+        },
+        {
+          "id": "2026-07-27-mah-jong-sofa",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon",
+          "date": "2026-07-27",
+          "title": "쿠션 조합으로 공간을 바꾸는 1971년 Mah Jong 소파",
+          "summary": "Hans Hopfer가 Roche Bobois를 위해 1971년 만든 Mah Jong은 코너·등받이·평면 쿠션을 조합하는 완전 모듈형 좌석 시스템이다. 대담한 직물로 마감된 쿠션은 생활 방식의 변화에 맞춰 구성을 바꾸도록 설계됐고, 이후 Kenzo Takada·Missoni·Sonia Rykiel이 소파의 직물 작업에 참여했다.",
+          "keywords": [
+            "MAH JONG",
+            "MODULAR SOFA",
+            "HANS HOPFER",
+            "BOLD TEXTILES",
+            "ROCHE BOBOIS"
+          ]
+        },
+        {
+          "id": "2026-07-27-formentera-retreat",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/pirajean-lees-formentera-retreat",
+          "date": "2026-07-27",
+          "title": "현지 재료로 복원한 Pirajean Lees의 포르멘테라 주택",
+          "summary": "Pirajean Lees는 포르멘테라의 방치된 1960년대 주택을 전면 교체보다 수선 중심으로 개조했다. 분리돼 있던 주방·거실·식당을 연결하고, 기존 아치형 주방 천장과 벽난로를 보존했으며 바닥은 테라코타 인서트를 넣은 수작업 연마 콘크리트로 교체했다. 건축과 가구에는 회수한 현지 건식 석재, 사비나 목재, 오크 목공과 현지 장인 제작물을 사용했다.",
+          "keywords": [
+            "RENOVATION",
+            "LOCAL STONE",
+            "SABINA TIMBER",
+            "TERRACOTTA",
+            "CRAFT"
+          ]
+        },
+        {
+          "id": "2026-07-27-gulbenkian-museum-restoration",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/gulbenkian-museum-portugal",
+          "date": "2026-07-27",
+          "title": "1969년 설계 원칙을 되살린 Gulbenkian Museum",
+          "summary": "리스본 Gulbenkian Museum의 복원은 건물을 확장하거나 재창조하지 않고 1969년 원안의 원칙과 정원과의 관계를 회복하는 데 초점을 맞췄다. 청동색 유리에 UV 차단 필름과 미세 타공 패브릭 스크린을 더하고, 유럽 갤러리의 일부 칸막이를 철거해 공간의 투명성과 연속성을 복원했다. 내부는 목재·콘크리트·청동·석재·가죽·실크의 고유 색을 활용하며 도장 벽을 두지 않았다.",
+          "keywords": [
+            "MUSEUM RESTORATION",
+            "MODERNISM",
+            "UV FILTER",
+            "MICRO-PERFORATED FABRIC",
+            "MATERIAL PALETTE"
+          ]
+        },
+        {
+          "id": "2026-07-27-lvmh-q2-fashion-sales",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/lvmhs-fashion-sales-rise-1-in-q2",
+          "date": "2026-07-27",
+          "title": "LVMH 패션·가죽 부문, 7개 분기 만에 매출 성장",
+          "summary": "LVMH의 2026년 2분기 패션·가죽 부문 매출은 1% 증가한 88억9,000만 유로로, 7개 분기 연속 감소 뒤 처음 성장했다. 그룹 전체 유기적 매출은 3% 증가한 195억2,000만 유로였고, 지역별 매출은 일본 14%, 미국 6%, 일본 제외 아시아 4% 증가했으며 유럽은 보합이었다. 회사는 Dior에서 Jonathan Anderson의 첫 컬렉션이 성과를 냈고 가죽 제품과 여성 레디투웨어가 상대적으로 앞섰다고 밝혔다.",
+          "keywords": [
+            "LVMH",
+            "LUXURY BUSINESS",
+            "Q2 2026",
+            "FASHION AND LEATHER GOODS",
+            "REGIONAL SALES"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-27T08:01:28+09:00",
+      "briefingDate": "2026-07-27",
+      "generatedAt": "2026-07-27T08:01:28+09:00",
+      "cards": [
+        {
+          "id": "2026-07-26-vogue-korea-designer-tshirts",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/07/26/%EB%B3%B4%EA%B7%B8-%EC%BD%94%EB%A6%AC%EC%95%84-%EC%B0%BD%EA%B0%84-30%EC%A3%BC%EB%85%84-%ED%95%9C%EA%B5%AD-%ED%8C%A8%EC%85%98%EC%9D%84-%EC%9E%85%EB%8A%94-%EC%9D%BC/",
+          "date": "2026-07-26",
+          "title": "한국 디자이너 티셔츠와 패션 하우스 가을 룩의 조합",
+          "summary": "보그 코리아는 창간 30주년 화보에서 한국 디자이너의 티셔츠와 패션 하우스의 가을 룩을 조합했다. 잉크의 연결형 티셔츠, 우영미의 로고 티셔츠, 렉토의 날염 티셔츠, 로크의 레이스 티셔츠 등이 마크공·생 로랑·발렌시아가·프라다·루이 비통 제품과 함께 스타일링됐다.",
+          "keywords": [
+            "KOREAN DESIGNERS",
+            "T-SHIRT",
+            "LOGO PLAY",
+            "EDITORIAL STYLING"
+          ]
+        },
+        {
+          "id": "2026-07-26-helinox-crocs-release",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1529711793982680208",
+          "date": "2026-07-26 18:00",
+          "title": "무신사 신호: 헬리녹스 웨어 × 크록스 퀵 트레일 클로그",
+          "summary": "무신사는 헬리녹스 웨어와 크록스의 퀵 트레일 클로그 협업 아이템을 7월 26일 18시 발매 예정으로 안내했다. 페이지는 이를 ‘신상 발매’와 브랜드숍 관련 상품으로 제시하는 플랫폼형 출시 정보다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "HELINOX WEAR",
+            "CROCS",
+            "QUICK TRAIL CLOG",
+            "COLLABORATION"
+          ]
+        },
+        {
+          "id": "2026-07-26-cenca-pizza-bar",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181328/cenca-pizza-bar-in-arq-plus-design",
+          "date": "2026-07-26",
+          "title": "역사적 지하 공간을 밝힌 Cença Pizza Bar",
+          "summary": "IN arq+design은 브라질 쿠리치바의 활용도가 낮았던 역사적 건물 반지하 100㎡를 피자 바로 전환했다. 오프화이트 표면으로 기존 볼륨을 강조하고, 브랜드 색인 오렌지와 퍼플을 바·가구·목공 디테일에 적용했으며 일부에는 골판 금속을 사용했다. 기존 콘크리트 보와 솔리드 벽돌 기둥은 흰색으로 칠해 보존했다.",
+          "keywords": [
+            "RESTAURANT INTERIOR",
+            "ADAPTIVE REUSE",
+            "OFF-WHITE",
+            "ORANGE",
+            "CORRUGATED METAL"
+          ]
+        },
+        {
+          "id": "2026-07-26-zuckerman-art-flat",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/ron-zuckerman-private-art-collection-san-francisco-nudes",
+          "date": "2026-07-26",
+          "title": "샌프란시스코 주거 공간을 채운 45년의 퀴어 아카이브",
+          "summary": "론 주커먼은 45년 동안 모은 작품을 샌프란시스코 카스트로 지구의 1889년 건물 내 플랫 전반에 배치했다. 높은 천장과 긴 복도, 작은 방들이 이어지는 공간의 계단·침실·주방·서재 등 거의 모든 표면에는 20세기와 21세기 퀴어 삶의 장면을 기록한 작품이 걸려 있다. 그는 디자이너를 고용하지 않고 작품 배치를 본능적으로 결정했다고 설명했다.",
+          "keywords": [
+            "PRIVATE COLLECTION",
+            "RESIDENTIAL INTERIOR",
+            "QUEER ARCHIVE",
+            "ART DISPLAY"
+          ]
+        },
+        {
+          "id": "2026-07-26-mami-dan-temple",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
+          "date": "2026-07-26",
+          "title": "흙·대나무·목재로 구성한 Mami Dan Temple",
+          "summary": "베냉 우이다의 770㎡ Mami Dan Temple은 전시·의식·교육·집회 공간을 하나의 순차적 동선으로 엮은 2026년 문화시설이다. 중심에는 전통 바구니 공예와 자연의 유기적 형태에서 영감을 받은 대형 직조 구조가 놓였고, 원형 다짐흙 볼륨에 대나무·목재·현지 수공예를 결합했다. 깊은 처마, 그늘진 중정, 투과성 파사드, 자연 교차환기와 여과된 채광을 적용했다.",
+          "keywords": [
+            "RAMMED EARTH",
+            "BAMBOO",
+            "TIMBER",
+            "PASSIVE DESIGN",
+            "VODUN"
+          ]
+        },
+        {
+          "id": "2026-07-26-bone-residence",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/richard-lareau-bone-residence-san-diego-modernism",
+          "date": "2026-07-26",
+          "title": "협곡 지형과 맞물린 1961년 Bone Residence",
+          "summary": "리처드 라로가 설계해 1961년 완공한 샌디에이고 Bone Residence는 삼나무, 유리 벽과 포스트앤빔 구조로 구성됐다. 여러 층의 데크와 파티오가 협곡을 따라 내려가며 도심·샌디에이고만·태평양 방향의 전망을 만들고, 노출 구조·넓은 처마·수평선·목재와 조적 중심의 재료 팔레트를 유지한다.",
+          "keywords": [
+            "MIDCENTURY MODERN",
+            "POST-AND-BEAM",
+            "CEDAR",
+            "GLASS WALLS",
+            "INDOOR-OUTDOOR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26T08:05:56+09:00",
+      "briefingDate": "2026-07-26",
+      "generatedAt": "2026-07-26T08:05:56+09:00",
+      "cards": [
+        {
+          "id": "2026-07-25-vogue-korea-art-covers",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/07/25/%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%93%A4%EC%9D%B4-%EC%9E%AC%EC%B0%BD%EC%A1%B0%ED%95%9C-%EB%B3%B4%EA%B7%B8-%EC%BD%94%EB%A6%AC%EC%95%84-%EB%B3%B4%EA%B7%B8%EA%B0%80-%EC%98%88%EC%88%A0/",
+          "date": "2026-07-25",
+          "title": "아티스트들이 재창조한 보그 코리아 30주년 표지",
+          "summary": "보그 코리아는 창간 30주년을 맞아 국내외 아티스트들이 잡지 표지를 캔버스와 재료로 삼아 제작한 작품을 공개했다. 진태옥은 창간호 표지에 붉은색과 검은색 비즈를 더했고, 박종진은 인쇄된 종이를 접고 겹쳐 패치 형태의 지층을 만들었다. 구본창은 창간호부터 현재까지 100여 개 표지 이미지를 한 화면에 중첩해 집합적 초상으로 구성했다.",
+          "keywords": [
+            "VOGUE KOREA",
+            "COVER ART",
+            "BEADS",
+            "PAPER",
+            "ARCHIVE"
+          ]
+        },
+        {
+          "id": "2026-07-25-blue-sneakers-denim",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/07/25/%EC%97%AC%EB%A6%84%EC%97%90-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%9E%85%EC%9D%84-%EB%95%8C%EB%8A%94-%EC%9D%B4-%EC%83%89%EA%B9%94-%EC%9A%B4%EB%8F%99%ED%99%94%EB%A5%BC-%EC%8B%A0%EC%9C%BC%EC%84%B8%EC%9A%94/",
+          "date": "2026-07-25",
+          "title": "데님과 블루 스니커즈를 잇는 여름 배색",
+          "summary": "기사는 연청 데님에 선명한 파란색 스니커즈를 매치한 플로렌스 퓨의 착장을 여름 스타일링 사례로 제시한다. 미디엄 워싱 데님에는 파스텔 블루 운동화와 더스티 핑크 조끼를 함께 배치해 신발과 상의의 톤을 맞췄다. 브라운과 레드 컬러 데님에도 블루 스니커즈를 조합할 수 있다고 설명한다.",
+          "keywords": [
+            "DENIM",
+            "BLUE SNEAKERS",
+            "COLOR STYLING",
+            "SUMMER"
+          ]
+        },
+        {
+          "id": "2026-07-25-cowboy-street-style",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/street-style-fashion-week-equestrian-cowboy-fashion",
+          "date": "2026-07-25",
+          "title": "스트리트 스타일 아카이브로 본 웨스턴·승마 요소",
+          "summary": "보그는 내셔널 카우보이 데이를 맞아 밀라노·피렌체·파리 패션위크 스트리트 스타일 아카이브에서 웨스턴과 승마 요소를 모았다. 기사에는 카우보이 해트와 부츠뿐 아니라 브리치, 조드퍼, 챕스, 니하이 라이딩 부츠, 가죽 베스트가 주요 요소로 제시된다. 수록 사진은 2022년부터 2026년까지의 남성복과 여성복 시즌을 아우른다.",
+          "keywords": [
+            "WESTERN",
+            "EQUESTRIAN",
+            "STREET STYLE",
+            "COWBOY BOOTS"
+          ]
+        },
+        {
+          "id": "2026-07-25-filluminate-noonoo-collaboration",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1526050907000865979",
+          "date": "2026-07-25",
+          "title": "무신사 신호: 필루미네이트 × 누누씨 공포 콘셉트 협업",
+          "summary": "필루미네이트는 누누씨와 함께 여름의 무더위를 공포 소재로 풀어낸 협업 컬렉션을 공개했다. 처음 선보이는 ‘유령 누누씨’ 아트워크를 반소매 티셔츠, 짐색, 봉제 인형 키링, 아크릴 키링에 적용했다. 무신사의 자체 소개 콘텐츠이며, 7월 25일 성수와 대구 오프라인 매장에서 선발매한다고 명시했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "COLLABORATION",
+            "CHARACTER GRAPHIC",
+            "ACCESSORIES"
+          ]
+        },
+        {
+          "id": "2026-07-25-us-design-studios-global-roots",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/american-dream-five-usa-designers-with-global-roots",
+          "date": "2026-07-25",
+          "title": "다섯 미국 디자인 스튜디오가 계승한 다문화적 뿌리",
+          "summary": "Wallpaper*는 인도·폴란드·베트남·한국·중국에 뿌리를 두고 미국을 작업 기반으로 삼은 다섯 스튜디오를 소개했다. Soft Geometry는 서로 다른 인도 지역의 문화 경험을 공유 미학으로 연결하고, Vy Voi는 베트남 공예에서 영감을 받은 수공예 오브제를 만든다. 서울 출신 민재 김은 유리섬유를 천처럼 퀼팅한 뒤 레진으로 코팅하는 방식으로 서구 가구 유형을 다시 만들었다.",
+          "keywords": [
+            "DESIGN STUDIO",
+            "CULTURAL HERITAGE",
+            "CRAFT",
+            "FIBREGLASS",
+            "FURNITURE"
+          ]
+        },
+        {
+          "id": "2026-07-25-delft-painters-studio",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/dp6s-painters-studio-delft-netherlands",
+          "date": "2026-07-25",
+          "title": "델프트 운하 주택과 정원을 잇는 화가의 작업실",
+          "summary": "DP6는 델프트 도심의 전통적인 운하변 연립주택을 개조하고 뒤편 정원 끝에 단층 화가 작업실을 추가했다. 주택 후면과 작업실의 파사드를 모두 열 수 있게 해 여름에는 두 건물 사이로 생활이 이어지며, 작업실은 더글러스 퍼 구조와 북향 지붕 채광창을 사용한다. 기존 성목을 보존한 자연 식재, 새 파티오와 타원형 수영장도 정원에 배치됐다.",
+          "keywords": [
+            "ARTIST STUDIO",
+            "RENOVATION",
+            "DOUGLAS FIR",
+            "NORTH LIGHT",
+            "GARDEN"
+          ]
+        },
+        {
+          "id": "2026-07-25-sanduteca-interior",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181310/sanduteca-sandwich-library-estudio-cajalima",
+          "date": "2026-07-25",
+          "title": "샌드위치 조립을 무대로 만든 60㎡ 산두테카",
+          "summary": "상파울루 갈레리아 메트로폴레의 산두테카는 세계 각지의 맛과 양념을 모은 ‘맛의 도서관’을 콘셉트로 설계됐다. 샌드위치 조립 공간을 중심에 두고 카운터, 맞은편 긴 벤치와 메자닌에서 제작 과정을 볼 수 있게 했다. 흰 세라믹 타일, 붉은 안료의 번트 시멘트, 스테인리스 스틸, 파란 타공 금속을 혼합해 건물의 과거와 현재를 연결했다.",
+          "keywords": [
+            "RESTAURANT INTERIOR",
+            "OPEN KITCHEN",
+            "BURNT CEMENT",
+            "PERFORATED METAL"
+          ]
+        },
+        {
+          "id": "2026-07-25-dplusdd-retail-interior",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1148762/d-plus-dd-friendship-bay-store-so-studio",
+          "date": "2026-07-25",
+          "title": "38㎡ 다중 브랜드 매장을 가변형 동네 거점으로 전환",
+          "summary": "중국 친황다오의 D+dd 다중 브랜드 콘셉트 스토어는 38㎡의 기존 지원 시설을 리노베이션한 프로젝트다. 창가 플랫폼과 유리 파사드가 매장 내부와 광장의 일상을 서로 보이게 하고, 이동식 진열 장치와 가변형 전시 시스템이 상품 교체와 팝업 행사에 대응한다. 밝은 목재, 갈색 래커, 베이지 타일, 카펫, 금속과 컬러 직물을 사용해 절제된 내부에 질감과 반사의 층을 만들었다.",
+          "keywords": [
+            "RETAIL INTERIOR",
+            "MOVABLE DISPLAY",
+            "POP-UP",
+            "MULTI-BRAND STORE",
+            "MATERIAL PALETTE"
+          ]
+        }
       ]
     }
   ]
