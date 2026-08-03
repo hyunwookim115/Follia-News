@@ -1,113 +1,239 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T08:03:41+09:00",
-  "briefingDate": "2026-08-03",
+  "generatedAt": "2026-08-04T07:59:18+09:00",
+  "briefingDate": "2026-08-04",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-02-vogue-hot-list-demand",
+      "id": "2026-08-03-fashion-exhibitions-2026-2027",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
-      "date": "2026-08-02",
-      "title": "가을 전환기에 포착된 럭셔리 패션 수요 신호",
-      "summary": "패션 소서 Gab Waller는 8월 초부터 가을 컬렉션 요청이 강해졌다고 전했다. Phoebe Philo는 신발이 가장 많이 요청된 카테고리였고 레디투웨어가 뒤를 이었으며, Celine은 요청 상위 두 브랜드에 들었다. Loewe Origami Cubic 펌프는 출시 전부터 요청이 들어왔고 여러 사이즈가 이미 품절로 표시됐다.",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
+      "date": "2026-08-03",
+      "title": "Galliano·Burberry·Alaïa로 이어지는 패션 전시 일정",
+      "summary": "뉴욕 Met는 2027년 5월 John Galliano의 첫 대규모 회고전 ‘Horizons’를 열어 센트럴 세인트 마틴 졸업 컬렉션부터 40여 년의 작업과 논란을 함께 다룬다. 런던 V&A는 Burberry 170주년에 맞춰 트렌치코트의 보어전쟁 기원부터 Christopher Bailey·Daniel Lee 시기까지 추적하고, 샌프란시스코 Legion of Honor Museum은 조각적 구조와 신체 밀착 실루엣을 중심으로 Azzedine Alaïa 의상 80점을 전시한다.",
       "keywords": [
-        "FALL 2026",
-        "DEMAND SIGNAL",
-        "PHOEBE PHILO",
-        "CELINE",
-        "LOEWE"
+        "JOHN GALLIANO",
+        "BURBERRY TRENCH",
+        "AZZEDINE ALAIA",
+        "FASHION EXHIBITION",
+        "ARCHIVE"
       ]
     },
     {
-      "id": "2026-08-02-musinsa-triples-random-date",
+      "id": "2026-08-03-journal-standard-levis-permanent-blue",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1531820375263947843",
-      "date": "2026-08-02",
-      "title": "무신사 신호: 트리플에스의 취향 교환형 스타일링",
-      "summary": "무신사는 트리플에스 멤버 6명이 메가스토어 성수에서 파트너의 취향을 배제하고 자신의 ‘추구미’로 전신 스타일링을 완성하는 콘텐츠를 공개했다. 결과물에는 ‘여름 청량’, ‘도쿄 걸’, ‘민트코어’가 주요 스타일 키워드로 제시됐다. 무신사가 21개 입점 브랜드와 오프라인 매장을 연결한 플랫폼형 콘텐츠다.",
+      "sourceUrl": "https://www.musinsa.com/content/1533676863026950695",
+      "date": "2026-08-03",
+      "title": "무신사 신호: 저널 스탠다드 × 리바이스 리지드 데님",
+      "summary": "일본 셀렉트숍 Journal Standard는 Levi’s와 2024년부터 전개한 익스클루시브 컬렉션 ‘Permanent Blue’를 다시 출시한다. Type 1·Type 2 트러커 재킷과 501에 짙은 인디고의 셀비지 리지드 데님을 사용했으며, 화보에는 약 2년간 착용해 주름과 색 빠짐이 생긴 워시 샘플을 함께 제시했다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "MUSINSA",
-        "TRIPLES",
-        "MINTCORE",
-        "OFFLINE RETAIL"
+        "JOURNAL STANDARD",
+        "LEVI'S",
+        "RIGID DENIM",
+        "SELVEDGE"
       ]
     },
     {
-      "id": "2026-08-02-listude-woodland-hq",
+      "id": "2026-08-03-mother-beverly-hills-store",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/tech/listude-audio-brand-home-japan",
-      "date": "2026-08-02",
-      "title": "공방·청음실·콘서트홀을 합친 Listude의 숲속 본사",
-      "summary": "Hitotomori Architects는 일본 야마나시의 약 1,000㎡ 부지에 Listude의 제작 공방, 사무실, 청음실, 콘서트홀과 가족 주거를 하나의 직사각형 볼륨으로 구성했다. 건물 중앙의 개구부는 숲속 야외 무대로 이어지고, 후면의 2층 높이 콘서트홀은 두 면이 숲을 향해 열린다. 오디오 공간과 기계·사무·주거 공간의 전기 회로도 분리해 전자기 노이즈를 줄였다.",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store",
+      "date": "2026-08-03",
+      "title": "1970년대 주택의 곡선으로 만든 Mother 첫 단독 매장",
+      "summary": "Mother의 Beverly Hills 플래그십은 곡면 벽, 대화용 선큰 좌석, Halston 아틀리에에서 착안한 거울 피팅룸과 하나의 나선형 동선으로 구성됐다. 3,850제곱피트 공간의 입구에는 매달 컬렉션에 맞춰 바뀌는 ‘Cabinet of Curiosities’를 두고, 데님 바는 매장 뒤편에 배치했다. 브랜드는 카페와 타로·점성술 프로그램도 운영해 방문자가 머무는 공간으로 설계했다.",
       "keywords": [
-        "LISTUDE",
-        "AUDIO WORKSHOP",
-        "LISTENING ROOM",
-        "CONCERT HALL",
-        "WOODLAND"
+        "MOTHER DENIM",
+        "RETAIL INTERIOR",
+        "CONVERSATION PIT",
+        "CURVED WALLS",
+        "BEVERLY HILLS"
       ]
     },
     {
-      "id": "2026-08-02-casa-nido-heritage",
+      "id": "2026-08-03-casa-akiga-passive-design",
       "category": "ARCHITECTURE",
       "categoryLabel": "ARCHITECTURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181865/casa-nido-nesting-within-heritage-iterare-arquitectos",
-      "date": "2026-08-02",
-      "title": "기존 벽돌 외피 안에 새 볼륨을 삽입한 Casa Nido",
-      "summary": "Iterare arquitectos는 발렌시아 Torrefiel의 100㎡ 코너 주택에서 철거 대신 기존 솔리드 벽돌과 석회 모르타르 외피를 보존했다. 그 안에 새 볼륨을 넣고 뒤편 중정과 약 7m 높이의 창을 통해 각 공간에 빛·환기·전망을 연결했다. 중앙 계단 코어는 두 층과 서비스 공간을 묶고, 상층의 생활·서재 공간에는 천창을 설치했다.",
+      "sourceUrl": "https://www.archdaily.com/1182002/casa-akiga-studio-saxe",
+      "date": "2026-08-03",
+      "title": "경사지에 묻힌 두 볼륨과 점토 지붕의 Casa Akíga",
+      "summary": "Studio Saxe는 코스타리카의 다방향 경사지에 Casa Akíga를 부분적으로 매입하고, 두 주요 구조를 자연 속을 통과하는 다리로 연결했다. 현지 석재의 옹벽 위에 가벼운 철골 구조를 얹고, 목재와 점토 지붕을 사용했다. 교차환기, 깊은 처마, 단열 재료와 지중 열용량을 활용해 직사광선과 기계식 냉방 의존을 줄였다.",
       "keywords": [
-        "ADAPTIVE REUSE",
-        "BRICK",
-        "LIME MORTAR",
-        "COURTYARD",
-        "SKYLIGHT"
+        "STUDIO SAXE",
+        "PASSIVE DESIGN",
+        "CLAY ROOF",
+        "LOCAL STONE",
+        "CROSS VENTILATION"
       ]
     },
     {
-      "id": "2026-08-02-dansk-relaunch-textiles",
+      "id": "2026-08-03-architecture-of-craft",
       "category": "MATERIAL",
       "categoryLabel": "COLOR & MATERIAL",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/dansk-design-brand-rebirth-form-portfolios",
-      "date": "2026-08-02",
-      "title": "Dansk의 재출발과 Kim Naver 텍스타일 확장",
-      "summary": "Form Portfolios는 Food52 파산 경매에서 Dansk를 인수한 뒤 코펜하겐 중심의 창작 모델을 복원하고 아카이브·신제품을 함께 전개할 계획이다. 탄소강 에나멜, 구리, 자기, 은, 티크·마호가니·황동을 다뤄온 Dansk는 처음으로 테이블 텍스타일 분야에 진입한다. 덴마크 텍스타일 디자이너 Kim Naver가 새 컬렉션을 맡아 구조적 명료함과 색·재료 감각을 더한다.",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1182030/the-architecture-of-craft-archdailys-august-editorial-focus",
+      "date": "2026-08-03",
+      "title": "손의 흔적과 디지털 제작을 함께 묻는 공예의 건축",
+      "summary": "ArchDaily의 8월 주제는 조상 전승 기술부터 디지털 제작까지, 수공 재료와 맞춤 디테일·불완전한 표면에 담긴 제작자의 흔적을 살핀다. Francis Kéré의 Gando 학교는 점토 시험 벽돌로 재료의 성능을 증명하고 주민을 직접 건축 인력으로 훈련한 사례로 제시됐다. 후속 기사들은 건축가가 벽돌·다짐흙·직물 생산을 설계의 연장으로 다루는 방식과 자동화 시대 공예의 의미를 다룬다.",
       "keywords": [
-        "DANSK",
-        "KIM NAVER",
-        "TABLE TEXTILES",
-        "ENAMEL",
-        "SCANDINAVIAN DESIGN"
+        "CRAFT",
+        "CLAY",
+        "RAMMED EARTH",
+        "TEXTILE",
+        "DIGITAL FABRICATION"
       ]
     },
     {
-      "id": "2026-08-02-cherokee-house-miami",
-      "category": "ARCHITECTURE",
-      "categoryLabel": "ARCHITECTURE",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/residential/miami-house-studiokp2-usa",
-      "date": "2026-08-02",
-      "title": "불투명 콘크리트와 유리로 대비를 만든 Miami Cherokee House",
-      "summary": "StudioKP2와 Corradi Group이 설계한 Cherokee House는 두 개의 블록형 콘크리트 볼륨을 가벼운 유리 볼륨으로 연결했다. 목재·스테인리스 스틸·석재를 실내외에 이어 사용하고, 닫힌 거리 파사드와 달리 내부는 넓은 유리면으로 정원과 연결한다. 마이애미의 아열대 기후에 대응해 그늘진 야외 생활 공간, 테라스와 수영장을 배치했다.",
+      "id": "2026-08-03-us-tariffs-fashion-sourcing",
+      "category": "TRADE",
+      "categoryLabel": "BUSINESS & TRADE",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/what-to-know-about-the-new-us-tariffs",
+      "date": "2026-08-03",
+      "title": "미국 관세 중첩이 흔드는 패션 소싱의 지역화 전략",
+      "summary": "미국은 강제노동 금지 집행을 이유로 60개 경제권 수입품에 10% 또는 12.5%의 Section 301 관세를 부과했고, 브라질 일부 품목에는 별도 25% 관세가 적용됐다. 패션 기업들은 관세 분류·기록·제품 믹스를 재검토하면서 공급업체의 유연성, 민첩성, 규정 준수 역량과 지역 균형을 우선하고 있다. 중국산 원단·부자재를 조달한 응답자는 70%를 넘었고, 중국 소싱 축소 계획은 2024~2025년 80% 이상에서 올해 40%로 낮아졌다.",
       "keywords": [
-        "CONCRETE",
-        "GLASS",
-        "WOOD",
-        "STAINLESS STEEL",
-        "INDOOR-OUTDOOR"
+        "SECTION 301",
+        "TARIFFS",
+        "FASHION SOURCING",
+        "CHINA",
+        "COMPLIANCE"
+      ]
+    },
+    {
+      "id": "2026-08-03-ferragamo-q2-growth",
+      "category": "TRADE",
+      "categoryLabel": "BUSINESS & TRADE",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/ferragamo-hits-growth-in-the-second-quarter",
+      "date": "2026-08-03",
+      "title": "Ferragamo 2분기 매출 성장과 DTC 회복",
+      "summary": "Ferragamo의 2026년 2분기 매출은 고정환율 기준 전년 대비 4.6% 증가한 2억5,900만 유로였고, DTC 매출은 6.6% 늘었지만 도매는 보합이었다. 상반기 매출에서 신발과 가죽제품 비중은 각각 45.4%와 40.8%였으며, 신발 매출은 5.1%, 의류는 5.6%, 실크 및 기타 카테고리는 7.8% 증가했다. 북미 2분기 매출은 13% 성장한 반면 아시아·태평양은 0.6% 감소했다.",
+      "keywords": [
+        "FERRAGAMO",
+        "Q2 2026",
+        "DTC",
+        "FOOTWEAR",
+        "LUXURY BUSINESS"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-03T08:03:41+09:00",
+      "briefingDate": "2026-08-03",
+      "generatedAt": "2026-08-03T08:03:41+09:00",
+      "cards": [
+        {
+          "id": "2026-08-02-vogue-hot-list-demand",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
+          "date": "2026-08-02",
+          "title": "가을 전환기에 포착된 럭셔리 패션 수요 신호",
+          "summary": "패션 소서 Gab Waller는 8월 초부터 가을 컬렉션 요청이 강해졌다고 전했다. Phoebe Philo는 신발이 가장 많이 요청된 카테고리였고 레디투웨어가 뒤를 이었으며, Celine은 요청 상위 두 브랜드에 들었다. Loewe Origami Cubic 펌프는 출시 전부터 요청이 들어왔고 여러 사이즈가 이미 품절로 표시됐다.",
+          "keywords": [
+            "FALL 2026",
+            "DEMAND SIGNAL",
+            "PHOEBE PHILO",
+            "CELINE",
+            "LOEWE"
+          ]
+        },
+        {
+          "id": "2026-08-02-musinsa-triples-random-date",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1531820375263947843",
+          "date": "2026-08-02",
+          "title": "무신사 신호: 트리플에스의 취향 교환형 스타일링",
+          "summary": "무신사는 트리플에스 멤버 6명이 메가스토어 성수에서 파트너의 취향을 배제하고 자신의 ‘추구미’로 전신 스타일링을 완성하는 콘텐츠를 공개했다. 결과물에는 ‘여름 청량’, ‘도쿄 걸’, ‘민트코어’가 주요 스타일 키워드로 제시됐다. 무신사가 21개 입점 브랜드와 오프라인 매장을 연결한 플랫폼형 콘텐츠다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "MUSINSA",
+            "TRIPLES",
+            "MINTCORE",
+            "OFFLINE RETAIL"
+          ]
+        },
+        {
+          "id": "2026-08-02-listude-woodland-hq",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/tech/listude-audio-brand-home-japan",
+          "date": "2026-08-02",
+          "title": "공방·청음실·콘서트홀을 합친 Listude의 숲속 본사",
+          "summary": "Hitotomori Architects는 일본 야마나시의 약 1,000㎡ 부지에 Listude의 제작 공방, 사무실, 청음실, 콘서트홀과 가족 주거를 하나의 직사각형 볼륨으로 구성했다. 건물 중앙의 개구부는 숲속 야외 무대로 이어지고, 후면의 2층 높이 콘서트홀은 두 면이 숲을 향해 열린다. 오디오 공간과 기계·사무·주거 공간의 전기 회로도 분리해 전자기 노이즈를 줄였다.",
+          "keywords": [
+            "LISTUDE",
+            "AUDIO WORKSHOP",
+            "LISTENING ROOM",
+            "CONCERT HALL",
+            "WOODLAND"
+          ]
+        },
+        {
+          "id": "2026-08-02-casa-nido-heritage",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181865/casa-nido-nesting-within-heritage-iterare-arquitectos",
+          "date": "2026-08-02",
+          "title": "기존 벽돌 외피 안에 새 볼륨을 삽입한 Casa Nido",
+          "summary": "Iterare arquitectos는 발렌시아 Torrefiel의 100㎡ 코너 주택에서 철거 대신 기존 솔리드 벽돌과 석회 모르타르 외피를 보존했다. 그 안에 새 볼륨을 넣고 뒤편 중정과 약 7m 높이의 창을 통해 각 공간에 빛·환기·전망을 연결했다. 중앙 계단 코어는 두 층과 서비스 공간을 묶고, 상층의 생활·서재 공간에는 천창을 설치했다.",
+          "keywords": [
+            "ADAPTIVE REUSE",
+            "BRICK",
+            "LIME MORTAR",
+            "COURTYARD",
+            "SKYLIGHT"
+          ]
+        },
+        {
+          "id": "2026-08-02-dansk-relaunch-textiles",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/dansk-design-brand-rebirth-form-portfolios",
+          "date": "2026-08-02",
+          "title": "Dansk의 재출발과 Kim Naver 텍스타일 확장",
+          "summary": "Form Portfolios는 Food52 파산 경매에서 Dansk를 인수한 뒤 코펜하겐 중심의 창작 모델을 복원하고 아카이브·신제품을 함께 전개할 계획이다. 탄소강 에나멜, 구리, 자기, 은, 티크·마호가니·황동을 다뤄온 Dansk는 처음으로 테이블 텍스타일 분야에 진입한다. 덴마크 텍스타일 디자이너 Kim Naver가 새 컬렉션을 맡아 구조적 명료함과 색·재료 감각을 더한다.",
+          "keywords": [
+            "DANSK",
+            "KIM NAVER",
+            "TABLE TEXTILES",
+            "ENAMEL",
+            "SCANDINAVIAN DESIGN"
+          ]
+        },
+        {
+          "id": "2026-08-02-cherokee-house-miami",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/miami-house-studiokp2-usa",
+          "date": "2026-08-02",
+          "title": "불투명 콘크리트와 유리로 대비를 만든 Miami Cherokee House",
+          "summary": "StudioKP2와 Corradi Group이 설계한 Cherokee House는 두 개의 블록형 콘크리트 볼륨을 가벼운 유리 볼륨으로 연결했다. 목재·스테인리스 스틸·석재를 실내외에 이어 사용하고, 닫힌 거리 파사드와 달리 내부는 넓은 유리면으로 정원과 연결한다. 마이애미의 아열대 기후에 대응해 그늘진 야외 생활 공간, 테라스와 수영장을 배치했다.",
+          "keywords": [
+            "CONCRETE",
+            "GLASS",
+            "WOOD",
+            "STAINLESS STEEL",
+            "INDOOR-OUTDOOR"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-02T07:59:18+09:00",
       "briefingDate": "2026-08-02",
