@@ -1,130 +1,239 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-04T07:59:18+09:00",
-  "briefingDate": "2026-08-04",
+  "generatedAt": "2026-08-05T07:58:14+09:00",
+  "briefingDate": "2026-08-05",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-03-fashion-exhibitions-2026-2027",
+      "id": "2026-08-04-white-tops-light-denim",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
-      "date": "2026-08-03",
-      "title": "Galliano·Burberry·Alaïa로 이어지는 패션 전시 일정",
-      "summary": "뉴욕 Met는 2027년 5월 John Galliano의 첫 대규모 회고전 ‘Horizons’를 열어 센트럴 세인트 마틴 졸업 컬렉션부터 40여 년의 작업과 논란을 함께 다룬다. 런던 V&A는 Burberry 170주년에 맞춰 트렌치코트의 보어전쟁 기원부터 Christopher Bailey·Daniel Lee 시기까지 추적하고, 샌프란시스코 Legion of Honor Museum은 조각적 구조와 신체 밀착 실루엣을 중심으로 Azzedine Alaïa 의상 80점을 전시한다.",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/04/%EC%9A%94%EC%A6%98-%EC%98%B7-%EC%A2%80-%EC%9E%85%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%94%BC%ED%94%8C%EC%9D%B4-%EC%B2%AD%EB%B0%94%EC%A7%80%EC%97%90-%EC%9E%85%EB%8A%94-%EC%83%81%EC%9D%98/",
+      "date": "2026-08-04",
+      "title": "밝은 데님과 흰색 상의를 잇는 다섯 가지 여름 조합",
+      "summary": "보그 코리아는 밝은 컬러 데님과 흰색 상의를 결합한 다섯 가지 여름 스타일을 제안했다. 얇은 퍼프 슬리브 블라우스와 벨보텀, 레이스 블라우스와 화이트 데님, 탱크 톱과 플립플롭, 화이트 셔츠와 스카프, 드레이핑 블라우스와 세미 플레어 데님 조합이 포함됐다.",
       "keywords": [
-        "JOHN GALLIANO",
-        "BURBERRY TRENCH",
-        "AZZEDINE ALAIA",
-        "FASHION EXHIBITION",
-        "ARCHIVE"
+        "LIGHT DENIM",
+        "WHITE TOP",
+        "PUFF SLEEVE",
+        "LACE",
+        "DRAPING"
       ]
     },
     {
-      "id": "2026-08-03-journal-standard-levis-permanent-blue",
+      "id": "2026-08-04-beams-hoka-bondi-7",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1533676863026950695",
-      "date": "2026-08-03",
-      "title": "무신사 신호: 저널 스탠다드 × 리바이스 리지드 데님",
-      "summary": "일본 셀렉트숍 Journal Standard는 Levi’s와 2024년부터 전개한 익스클루시브 컬렉션 ‘Permanent Blue’를 다시 출시한다. Type 1·Type 2 트러커 재킷과 501에 짙은 인디고의 셀비지 리지드 데님을 사용했으며, 화보에는 약 2년간 착용해 주름과 색 빠짐이 생긴 워시 샘플을 함께 제시했다.",
+      "sourceUrl": "https://www.musinsa.com/content/1534027999000982556",
+      "date": "2026-08-04",
+      "title": "무신사 신호: Beams × Hoka Bondi 7",
+      "summary": "Beams는 창립 50주년을 맞아 Hoka와 첫 협업 모델인 Bondi 7 Beams를 선보였다. 젠 가든에서 영감받아 자갈을 닮은 톤온톤 패턴과 모래의 갈퀴 자국을 표현한 세로 오버레이를 적용했다. 8월 7일 Beams 하라주쿠 매장 선발매 뒤 Beams 온·오프라인, Hoka 글로벌과 일부 공식 매장에서 순차 발매된다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "JOURNAL STANDARD",
-        "LEVI'S",
-        "RIGID DENIM",
-        "SELVEDGE"
+        "BEAMS",
+        "HOKA",
+        "BONDI 7",
+        "ZEN GARDEN"
       ]
     },
     {
-      "id": "2026-08-03-mother-beverly-hills-store",
+      "id": "2026-08-04-tamarindo-apartment",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store",
-      "date": "2026-08-03",
-      "title": "1970년대 주택의 곡선으로 만든 Mother 첫 단독 매장",
-      "summary": "Mother의 Beverly Hills 플래그십은 곡면 벽, 대화용 선큰 좌석, Halston 아틀리에에서 착안한 거울 피팅룸과 하나의 나선형 동선으로 구성됐다. 3,850제곱피트 공간의 입구에는 매달 컬렉션에 맞춰 바뀌는 ‘Cabinet of Curiosities’를 두고, 데님 바는 매장 뒤편에 배치했다. 브랜드는 카페와 타로·점성술 프로그램도 운영해 방문자가 머무는 공간으로 설계했다.",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
+      "date": "2026-08-04",
+      "title": "기존 구조와 브라질 요소를 함께 드러낸 Tamarindo Apartment",
+      "summary": "Estúdio Minke는 상파울루 Higienópolis의 113㎡ 아파트를 거주자의 역사와 연결된 주거 공간으로 개조했다. 원문은 자연 요소와 브라질 레퍼런스를 결합하고, 기존 구조를 드러내는 산업적 언어를 적용했다고 설명한다.",
       "keywords": [
-        "MOTHER DENIM",
-        "RETAIL INTERIOR",
-        "CONVERSATION PIT",
-        "CURVED WALLS",
-        "BEVERLY HILLS"
+        "ESTUDIO MINKE",
+        "APARTMENT INTERIOR",
+        "BRAZILIAN REFERENCES",
+        "ORIGINAL STRUCTURE",
+        "INDUSTRIAL LANGUAGE"
       ]
     },
     {
-      "id": "2026-08-03-casa-akiga-passive-design",
+      "id": "2026-08-04-la-tuilerie-cultural-center",
       "category": "ARCHITECTURE",
       "categoryLabel": "ARCHITECTURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1182002/casa-akiga-studio-saxe",
-      "date": "2026-08-03",
-      "title": "경사지에 묻힌 두 볼륨과 점토 지붕의 Casa Akíga",
-      "summary": "Studio Saxe는 코스타리카의 다방향 경사지에 Casa Akíga를 부분적으로 매입하고, 두 주요 구조를 자연 속을 통과하는 다리로 연결했다. 현지 석재의 옹벽 위에 가벼운 철골 구조를 얹고, 목재와 점토 지붕을 사용했다. 교차환기, 깊은 처마, 단열 재료와 지중 열용량을 활용해 직사광선과 기계식 냉방 의존을 줄였다.",
+      "sourceUrl": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
+      "date": "2026-08-04",
+      "title": "폐타일 공장을 복합 문화시설로 바꾼 La Tuilerie",
+      "summary": "Ferrier Marchetti Studio는 프랑스 Limoux의 폐타일 공장을 미디어 도서관, 음악원, 지방공동체 본부와 2,000석 홀을 묶은 문화시설로 전환했다. 모든 출입구가 새 공공광장을 향하도록 구성하고 강변 산책로와 연결했다. 철거된 광물 재료는 현장에서 파쇄·재사용했으며, 매달린 타일망으로 투과성 페리스타일을 만들었다.",
       "keywords": [
-        "STUDIO SAXE",
-        "PASSIVE DESIGN",
-        "CLAY ROOF",
-        "LOCAL STONE",
-        "CROSS VENTILATION"
+        "ADAPTIVE REUSE",
+        "CULTURAL CENTER",
+        "PUBLIC SQUARE",
+        "REUSED MINERAL MATERIALS",
+        "HANGING TILES"
       ]
     },
     {
-      "id": "2026-08-03-architecture-of-craft",
+      "id": "2026-08-04-craft-after-conflict",
       "category": "MATERIAL",
       "categoryLabel": "COLOR & MATERIAL",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1182030/the-architecture-of-craft-archdailys-august-editorial-focus",
-      "date": "2026-08-03",
-      "title": "손의 흔적과 디지털 제작을 함께 묻는 공예의 건축",
-      "summary": "ArchDaily의 8월 주제는 조상 전승 기술부터 디지털 제작까지, 수공 재료와 맞춤 디테일·불완전한 표면에 담긴 제작자의 흔적을 살핀다. Francis Kéré의 Gando 학교는 점토 시험 벽돌로 재료의 성능을 증명하고 주민을 직접 건축 인력으로 훈련한 사례로 제시됐다. 후속 기사들은 건축가가 벽돌·다짐흙·직물 생산을 설계의 연장으로 다루는 방식과 자동화 시대 공예의 의미를 다룬다.",
+      "sourceUrl": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
+      "date": "2026-08-04",
+      "title": "재건의 재료보다 먼저 복원해야 할 전통 공예 지식",
+      "summary": "ArchDaily는 도면·스캔·사진만으로는 전통 볼트 조립, 지역 기후에 맞춘 석회 모르타르, 현장 수리 기술 같은 암묵지를 온전히 기록할 수 없다고 설명한다. 베이루트의 복원은 석공·목공·금속공 도제교육을 보존 작업과 결합했고, Mosul 재건은 전통 시공 교육과 지역 고용을 함께 만들었다. 지역 장인의 지식이 남아야 국제 지원 이후에도 재료와 건축을 계속 수리할 수 있다는 주장이다.",
       "keywords": [
-        "CRAFT",
-        "CLAY",
-        "RAMMED EARTH",
-        "TEXTILE",
-        "DIGITAL FABRICATION"
+        "CRAFT KNOWLEDGE",
+        "LIME MORTAR",
+        "MASONRY",
+        "APPRENTICESHIP",
+        "HERITAGE RECONSTRUCTION"
       ]
     },
     {
-      "id": "2026-08-03-us-tariffs-fashion-sourcing",
+      "id": "2026-08-04-luxury-q2-takeaways",
       "category": "TRADE",
       "categoryLabel": "BUSINESS & TRADE",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/what-to-know-about-the-new-us-tariffs",
-      "date": "2026-08-03",
-      "title": "미국 관세 중첩이 흔드는 패션 소싱의 지역화 전략",
-      "summary": "미국은 강제노동 금지 집행을 이유로 60개 경제권 수입품에 10% 또는 12.5%의 Section 301 관세를 부과했고, 브라질 일부 품목에는 별도 25% 관세가 적용됐다. 패션 기업들은 관세 분류·기록·제품 믹스를 재검토하면서 공급업체의 유연성, 민첩성, 규정 준수 역량과 지역 균형을 우선하고 있다. 중국산 원단·부자재를 조달한 응답자는 70%를 넘었고, 중국 소싱 축소 계획은 2024~2025년 80% 이상에서 올해 40%로 낮아졌다.",
+      "sourceUrl": "https://www.vogue.com/article/key-takeaways-from-luxurys-q2-earnings",
+      "date": "2026-08-04",
+      "title": "럭셔리 2분기 성장의 중심이 된 주얼리와 미국·한국 소비",
+      "summary": "2026년 2분기 럭셔리 섹터의 평균 유기적 매출 성장은 7%로 집계됐고, 소프트 럭셔리보다 주얼리 매출이 강했다. 원문은 성장이 미국인과 한국인 소비에 집중됐으며 중국 소비는 정체됐다고 설명한다. 브랜드의 창의적 쇄신, 가죽제품 혁신, 가격 재조정, 아이콘 제품 재정비와 고객 행사가 회복 요인의 일부로 제시됐다.",
       "keywords": [
-        "SECTION 301",
-        "TARIFFS",
-        "FASHION SOURCING",
-        "CHINA",
-        "COMPLIANCE"
-      ]
-    },
-    {
-      "id": "2026-08-03-ferragamo-q2-growth",
-      "category": "TRADE",
-      "categoryLabel": "BUSINESS & TRADE",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/ferragamo-hits-growth-in-the-second-quarter",
-      "date": "2026-08-03",
-      "title": "Ferragamo 2분기 매출 성장과 DTC 회복",
-      "summary": "Ferragamo의 2026년 2분기 매출은 고정환율 기준 전년 대비 4.6% 증가한 2억5,900만 유로였고, DTC 매출은 6.6% 늘었지만 도매는 보합이었다. 상반기 매출에서 신발과 가죽제품 비중은 각각 45.4%와 40.8%였으며, 신발 매출은 5.1%, 의류는 5.6%, 실크 및 기타 카테고리는 7.8% 증가했다. 북미 2분기 매출은 13% 성장한 반면 아시아·태평양은 0.6% 감소했다.",
-      "keywords": [
-        "FERRAGAMO",
-        "Q2 2026",
-        "DTC",
-        "FOOTWEAR",
-        "LUXURY BUSINESS"
+        "LUXURY Q2",
+        "JEWELRY",
+        "SOUTH KOREA",
+        "UNITED STATES",
+        "CREATIVE RENEWAL"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-04T07:59:18+09:00",
+      "briefingDate": "2026-08-04",
+      "generatedAt": "2026-08-04T07:59:18+09:00",
+      "cards": [
+        {
+          "id": "2026-08-03-fashion-exhibitions-2026-2027",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
+          "date": "2026-08-03",
+          "title": "Galliano·Burberry·Alaïa로 이어지는 패션 전시 일정",
+          "summary": "뉴욕 Met는 2027년 5월 John Galliano의 첫 대규모 회고전 ‘Horizons’를 열어 센트럴 세인트 마틴 졸업 컬렉션부터 40여 년의 작업과 논란을 함께 다룬다. 런던 V&A는 Burberry 170주년에 맞춰 트렌치코트의 보어전쟁 기원부터 Christopher Bailey·Daniel Lee 시기까지 추적하고, 샌프란시스코 Legion of Honor Museum은 조각적 구조와 신체 밀착 실루엣을 중심으로 Azzedine Alaïa 의상 80점을 전시한다.",
+          "keywords": [
+            "JOHN GALLIANO",
+            "BURBERRY TRENCH",
+            "AZZEDINE ALAIA",
+            "FASHION EXHIBITION",
+            "ARCHIVE"
+          ]
+        },
+        {
+          "id": "2026-08-03-journal-standard-levis-permanent-blue",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1533676863026950695",
+          "date": "2026-08-03",
+          "title": "무신사 신호: 저널 스탠다드 × 리바이스 리지드 데님",
+          "summary": "일본 셀렉트숍 Journal Standard는 Levi’s와 2024년부터 전개한 익스클루시브 컬렉션 ‘Permanent Blue’를 다시 출시한다. Type 1·Type 2 트러커 재킷과 501에 짙은 인디고의 셀비지 리지드 데님을 사용했으며, 화보에는 약 2년간 착용해 주름과 색 빠짐이 생긴 워시 샘플을 함께 제시했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "JOURNAL STANDARD",
+            "LEVI'S",
+            "RIGID DENIM",
+            "SELVEDGE"
+          ]
+        },
+        {
+          "id": "2026-08-03-mother-beverly-hills-store",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store",
+          "date": "2026-08-03",
+          "title": "1970년대 주택의 곡선으로 만든 Mother 첫 단독 매장",
+          "summary": "Mother의 Beverly Hills 플래그십은 곡면 벽, 대화용 선큰 좌석, Halston 아틀리에에서 착안한 거울 피팅룸과 하나의 나선형 동선으로 구성됐다. 3,850제곱피트 공간의 입구에는 매달 컬렉션에 맞춰 바뀌는 ‘Cabinet of Curiosities’를 두고, 데님 바는 매장 뒤편에 배치했다. 브랜드는 카페와 타로·점성술 프로그램도 운영해 방문자가 머무는 공간으로 설계했다.",
+          "keywords": [
+            "MOTHER DENIM",
+            "RETAIL INTERIOR",
+            "CONVERSATION PIT",
+            "CURVED WALLS",
+            "BEVERLY HILLS"
+          ]
+        },
+        {
+          "id": "2026-08-03-casa-akiga-passive-design",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1182002/casa-akiga-studio-saxe",
+          "date": "2026-08-03",
+          "title": "경사지에 묻힌 두 볼륨과 점토 지붕의 Casa Akíga",
+          "summary": "Studio Saxe는 코스타리카의 다방향 경사지에 Casa Akíga를 부분적으로 매입하고, 두 주요 구조를 자연 속을 통과하는 다리로 연결했다. 현지 석재의 옹벽 위에 가벼운 철골 구조를 얹고, 목재와 점토 지붕을 사용했다. 교차환기, 깊은 처마, 단열 재료와 지중 열용량을 활용해 직사광선과 기계식 냉방 의존을 줄였다.",
+          "keywords": [
+            "STUDIO SAXE",
+            "PASSIVE DESIGN",
+            "CLAY ROOF",
+            "LOCAL STONE",
+            "CROSS VENTILATION"
+          ]
+        },
+        {
+          "id": "2026-08-03-architecture-of-craft",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1182030/the-architecture-of-craft-archdailys-august-editorial-focus",
+          "date": "2026-08-03",
+          "title": "손의 흔적과 디지털 제작을 함께 묻는 공예의 건축",
+          "summary": "ArchDaily의 8월 주제는 조상 전승 기술부터 디지털 제작까지, 수공 재료와 맞춤 디테일·불완전한 표면에 담긴 제작자의 흔적을 살핀다. Francis Kéré의 Gando 학교는 점토 시험 벽돌로 재료의 성능을 증명하고 주민을 직접 건축 인력으로 훈련한 사례로 제시됐다. 후속 기사들은 건축가가 벽돌·다짐흙·직물 생산을 설계의 연장으로 다루는 방식과 자동화 시대 공예의 의미를 다룬다.",
+          "keywords": [
+            "CRAFT",
+            "CLAY",
+            "RAMMED EARTH",
+            "TEXTILE",
+            "DIGITAL FABRICATION"
+          ]
+        },
+        {
+          "id": "2026-08-03-us-tariffs-fashion-sourcing",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/what-to-know-about-the-new-us-tariffs",
+          "date": "2026-08-03",
+          "title": "미국 관세 중첩이 흔드는 패션 소싱의 지역화 전략",
+          "summary": "미국은 강제노동 금지 집행을 이유로 60개 경제권 수입품에 10% 또는 12.5%의 Section 301 관세를 부과했고, 브라질 일부 품목에는 별도 25% 관세가 적용됐다. 패션 기업들은 관세 분류·기록·제품 믹스를 재검토하면서 공급업체의 유연성, 민첩성, 규정 준수 역량과 지역 균형을 우선하고 있다. 중국산 원단·부자재를 조달한 응답자는 70%를 넘었고, 중국 소싱 축소 계획은 2024~2025년 80% 이상에서 올해 40%로 낮아졌다.",
+          "keywords": [
+            "SECTION 301",
+            "TARIFFS",
+            "FASHION SOURCING",
+            "CHINA",
+            "COMPLIANCE"
+          ]
+        },
+        {
+          "id": "2026-08-03-ferragamo-q2-growth",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/ferragamo-hits-growth-in-the-second-quarter",
+          "date": "2026-08-03",
+          "title": "Ferragamo 2분기 매출 성장과 DTC 회복",
+          "summary": "Ferragamo의 2026년 2분기 매출은 고정환율 기준 전년 대비 4.6% 증가한 2억5,900만 유로였고, DTC 매출은 6.6% 늘었지만 도매는 보합이었다. 상반기 매출에서 신발과 가죽제품 비중은 각각 45.4%와 40.8%였으며, 신발 매출은 5.1%, 의류는 5.6%, 실크 및 기타 카테고리는 7.8% 증가했다. 북미 2분기 매출은 13% 성장한 반면 아시아·태평양은 0.6% 감소했다.",
+          "keywords": [
+            "FERRAGAMO",
+            "Q2 2026",
+            "DTC",
+            "FOOTWEAR",
+            "LUXURY BUSINESS"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-03T08:03:41+09:00",
       "briefingDate": "2026-08-03",
