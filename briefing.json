@@ -1,113 +1,222 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-05T07:58:14+09:00",
-  "briefingDate": "2026-08-05",
+  "generatedAt": "2026-08-06T07:58:28+09:00",
+  "briefingDate": "2026-08-06",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-04-white-tops-light-denim",
+      "id": "2026-08-05-antwerp-fashion-department",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/04/%EC%9A%94%EC%A6%98-%EC%98%B7-%EC%A2%80-%EC%9E%85%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%94%BC%ED%94%8C%EC%9D%B4-%EC%B2%AD%EB%B0%94%EC%A7%80%EC%97%90-%EC%9E%85%EB%8A%94-%EC%83%81%EC%9D%98/",
-      "date": "2026-08-04",
-      "title": "밝은 데님과 흰색 상의를 잇는 다섯 가지 여름 조합",
-      "summary": "보그 코리아는 밝은 컬러 데님과 흰색 상의를 결합한 다섯 가지 여름 스타일을 제안했다. 얇은 퍼프 슬리브 블라우스와 벨보텀, 레이스 블라우스와 화이트 데님, 탱크 톱과 플립플롭, 화이트 셔츠와 스카프, 드레이핑 블라우스와 세미 플레어 데님 조합이 포함됐다.",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/looks-looks-looks-momu-antwerp-royal-academy-of-fine-arts-exhibition",
+      "date": "2026-08-05",
+      "title": "앤트워프 패션학과의 제작 과정을 펼친 ‘Looks, Looks, Looks’",
+      "summary": "MoMu의 ‘Looks, Looks, Looks’는 앤트워프 왕립예술학교 패션학과 학생들의 드로잉·스케치북·실루엣을 전시하며, 같은 미술관의 앤트워프 식스 회고전과 현재 세대를 연결한다. 브랜던 웬과 톰 반 데르 보르흐트가 기획·디자인한 전시는 학과가 강조하는 공예, 디테일과 강도 높은 표현을 보여주며 2026년 11월 8일까지 열린다.",
       "keywords": [
-        "LIGHT DENIM",
-        "WHITE TOP",
-        "PUFF SLEEVE",
-        "LACE",
-        "DRAPING"
+        "ROYAL ACADEMY OF FINE ARTS ANTWERP",
+        "MOMU",
+        "FASHION EDUCATION",
+        "CRAFT",
+        "ANTWERP SIX"
       ]
     },
     {
-      "id": "2026-08-04-beams-hoka-bondi-7",
+      "id": "2026-08-05-rilakkuma-kitchen-daily",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1534027999000982556",
-      "date": "2026-08-04",
-      "title": "무신사 신호: Beams × Hoka Bondi 7",
-      "summary": "Beams는 창립 50주년을 맞아 Hoka와 첫 협업 모델인 Bondi 7 Beams를 선보였다. 젠 가든에서 영감받아 자갈을 닮은 톤온톤 패턴과 모래의 갈퀴 자국을 표현한 세로 오버레이를 적용했다. 8월 7일 Beams 하라주쿠 매장 선발매 뒤 Beams 온·오프라인, Hoka 글로벌과 일부 공식 매장에서 순차 발매된다.",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/29-limited-order/2026/08/rilakkuma",
+      "date": "2026-08-05",
+      "title": "29CM 신호: 리락쿠마 키친·데일리 컬렉션 단독 전개",
+      "summary": "29CM은 8월 5일부터 18일까지 리락쿠마 키친·데일리 컬렉션을 29 리미티드 오더에서 단독으로 선보인다. 피규어 리드 머그컵, 요거트볼, 플레이트와 수세미부터 키링·파우치·스티커·편지지까지 구성하며, 기간 중 단독 5% 혜택을 제공한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "BEAMS",
-        "HOKA",
-        "BONDI 7",
-        "ZEN GARDEN"
+        "29CM",
+        "RILAKKUMA",
+        "KITCHENWARE",
+        "DAILY GOODS"
       ]
     },
     {
-      "id": "2026-08-04-tamarindo-apartment",
+      "id": "2026-08-05-paraiso-remodel",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
-      "date": "2026-08-04",
-      "title": "기존 구조와 브라질 요소를 함께 드러낸 Tamarindo Apartment",
-      "summary": "Estúdio Minke는 상파울루 Higienópolis의 113㎡ 아파트를 거주자의 역사와 연결된 주거 공간으로 개조했다. 원문은 자연 요소와 브라질 레퍼런스를 결합하고, 기존 구조를 드러내는 산업적 언어를 적용했다고 설명한다.",
+      "sourceUrl": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
+      "date": "2026-08-05",
+      "title": "어둡게 분절된 랜치 하우스를 밝은 가족 주택으로 바꾼 Paraiso Remodel",
+      "summary": "Austin Sandy Architects는 미국 댄빌의 2,700ft² 랜치 하우스를 2025년에 리모델링했다. T자형 원형 구조에 1960년대 증축이 조각조각 더해지며 어둡고 분절됐던 집을 빛이 드는 가족 주택으로 전환했다.",
       "keywords": [
-        "ESTUDIO MINKE",
-        "APARTMENT INTERIOR",
-        "BRAZILIAN REFERENCES",
-        "ORIGINAL STRUCTURE",
-        "INDUSTRIAL LANGUAGE"
+        "AUSTIN SANDY ARCHITECTS",
+        "RANCH HOUSE",
+        "RESIDENTIAL INTERIOR",
+        "REMODEL",
+        "DAYLIGHT"
       ]
     },
     {
-      "id": "2026-08-04-la-tuilerie-cultural-center",
+      "id": "2026-08-05-shenzhen-bay-culture-square",
       "category": "ARCHITECTURE",
       "categoryLabel": "ARCHITECTURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
-      "date": "2026-08-04",
-      "title": "폐타일 공장을 복합 문화시설로 바꾼 La Tuilerie",
-      "summary": "Ferrier Marchetti Studio는 프랑스 Limoux의 폐타일 공장을 미디어 도서관, 음악원, 지방공동체 본부와 2,000석 홀을 묶은 문화시설로 전환했다. 모든 출입구가 새 공공광장을 향하도록 구성하고 강변 산책로와 연결했다. 철거된 광물 재료는 현장에서 파쇄·재사용했으며, 매달린 타일망으로 투과성 페리스타일을 만들었다.",
+      "sourceUrl": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china",
+      "date": "2026-08-05",
+      "title": "녹색 지붕과 해안 습지를 잇는 Shenzhen Bay Culture Square",
+      "summary": "MAD가 완공한 188,000㎡ 규모의 Shenzhen Bay Culture Square는 디자인·문화 교류 시설과 해안 공원을 결합한다. 두 개의 전시홀 군은 갤러리, 공공 교육 공간, 디자인 도서관과 다목적 극장을 담고, 도시에서 수변으로 높이가 낮아진다. 지붕에는 토착종만 심었으며, 자연 백색 화강암을 가늘게 절단해 곡선을 따라 외장했다.",
       "keywords": [
-        "ADAPTIVE REUSE",
-        "CULTURAL CENTER",
-        "PUBLIC SQUARE",
-        "REUSED MINERAL MATERIALS",
-        "HANGING TILES"
+        "MAD ARCHITECTS",
+        "DESIGN MUSEUM",
+        "GREEN ROOF",
+        "NATIVE PLANTS",
+        "WHITE GRANITE"
       ]
     },
     {
-      "id": "2026-08-04-craft-after-conflict",
+      "id": "2026-08-05-vollebak-fwahbl-material",
       "category": "MATERIAL",
       "categoryLabel": "COLOR & MATERIAL",
-      "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
-      "date": "2026-08-04",
-      "title": "재건의 재료보다 먼저 복원해야 할 전통 공예 지식",
-      "summary": "ArchDaily는 도면·스캔·사진만으로는 전통 볼트 조립, 지역 기후에 맞춘 석회 모르타르, 현장 수리 기술 같은 암묵지를 온전히 기록할 수 없다고 설명한다. 베이루트의 복원은 석공·목공·금속공 도제교육을 보존 작업과 결합했고, Mosul 재건은 전통 시공 교육과 지역 고용을 함께 만들었다. 지역 장인의 지식이 남아야 국제 지원 이후에도 재료와 건축을 계속 수리할 수 있다는 주장이다.",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/tech/vollebak-fwahbl-jacket",
+      "date": "2026-08-05",
+      "title": "화학 보호복 소재를 트렌치로 전환한 Vollebak FWAHBL",
+      "summary": "Vollebak은 완전 밀폐형 화학 보호복에 쓰이는 선명한 노란 소재를 트렌치 형태로 바꾼 FWAHBL 재킷을 10벌 한정으로 제작했다. 소재는 직조 폴리에스터 코어 양면에 폴리클로로프렌 고무를 코팅한 구조로, 오일·오존·불에 견디도록 설계됐다. 다만 브랜드는 이 제품이 인증된 안전 장비는 아니라고 명시했다.",
       "keywords": [
-        "CRAFT KNOWLEDGE",
-        "LIME MORTAR",
-        "MASONRY",
-        "APPRENTICESHIP",
-        "HERITAGE RECONSTRUCTION"
+        "POLYCHLOROPRENE",
+        "WOVEN POLYESTER",
+        "PROTECTIVE MATERIAL",
+        "TRENCH COAT",
+        "VOLLEBAK"
       ]
     },
     {
-      "id": "2026-08-04-luxury-q2-takeaways",
+      "id": "2026-08-05-independent-brands-china",
       "category": "TRADE",
       "categoryLabel": "BUSINESS & TRADE",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/key-takeaways-from-luxurys-q2-earnings",
-      "date": "2026-08-04",
-      "title": "럭셔리 2분기 성장의 중심이 된 주얼리와 미국·한국 소비",
-      "summary": "2026년 2분기 럭셔리 섹터의 평균 유기적 매출 성장은 7%로 집계됐고, 소프트 럭셔리보다 주얼리 매출이 강했다. 원문은 성장이 미국인과 한국인 소비에 집중됐으며 중국 소비는 정체됐다고 설명한다. 브랜드의 창의적 쇄신, 가죽제품 혁신, 가격 재조정, 아이콘 제품 재정비와 고객 행사가 회복 요인의 일부로 제시됐다.",
+      "sourceUrl": "https://www.vogue.com/article/the-new-rules-for-independent-brands-selling-in-china",
+      "date": "2026-08-05",
+      "title": "중국 진출 독립 브랜드에 요구되는 소재·공예와 지역 커뮤니티",
+      "summary": "중국의 멀티브랜드 부티크는 전국적으로 존재감이 커졌고, 취급 범위도 중국 브랜드 중심에서 글로벌 조합으로 넓어졌다. 기사에 따르면 소비자는 로고보다 소재와 공예에 초점을 둔 브랜드에 관심을 보이며, 해외 독립 브랜드는 팝업·모임·특별 프로젝트로 지역 커뮤니티와 관계를 구축할 필요가 있다. 현지화는 문화와 시장을 이해하되 브랜드 정체성을 희석하지 않는 방식이어야 한다.",
       "keywords": [
-        "LUXURY Q2",
-        "JEWELRY",
-        "SOUTH KOREA",
-        "UNITED STATES",
-        "CREATIVE RENEWAL"
+        "CHINA MARKET",
+        "INDEPENDENT BRANDS",
+        "MULTI-BRAND BOUTIQUES",
+        "CRAFT",
+        "LOCALIZATION"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-05T07:58:14+09:00",
+      "briefingDate": "2026-08-05",
+      "generatedAt": "2026-08-05T07:58:14+09:00",
+      "cards": [
+        {
+          "id": "2026-08-04-white-tops-light-denim",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/04/%EC%9A%94%EC%A6%98-%EC%98%B7-%EC%A2%80-%EC%9E%85%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%94%BC%ED%94%8C%EC%9D%B4-%EC%B2%AD%EB%B0%94%EC%A7%80%EC%97%90-%EC%9E%85%EB%8A%94-%EC%83%81%EC%9D%98/",
+          "date": "2026-08-04",
+          "title": "밝은 데님과 흰색 상의를 잇는 다섯 가지 여름 조합",
+          "summary": "보그 코리아는 밝은 컬러 데님과 흰색 상의를 결합한 다섯 가지 여름 스타일을 제안했다. 얇은 퍼프 슬리브 블라우스와 벨보텀, 레이스 블라우스와 화이트 데님, 탱크 톱과 플립플롭, 화이트 셔츠와 스카프, 드레이핑 블라우스와 세미 플레어 데님 조합이 포함됐다.",
+          "keywords": [
+            "LIGHT DENIM",
+            "WHITE TOP",
+            "PUFF SLEEVE",
+            "LACE",
+            "DRAPING"
+          ]
+        },
+        {
+          "id": "2026-08-04-beams-hoka-bondi-7",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1534027999000982556",
+          "date": "2026-08-04",
+          "title": "무신사 신호: Beams × Hoka Bondi 7",
+          "summary": "Beams는 창립 50주년을 맞아 Hoka와 첫 협업 모델인 Bondi 7 Beams를 선보였다. 젠 가든에서 영감받아 자갈을 닮은 톤온톤 패턴과 모래의 갈퀴 자국을 표현한 세로 오버레이를 적용했다. 8월 7일 Beams 하라주쿠 매장 선발매 뒤 Beams 온·오프라인, Hoka 글로벌과 일부 공식 매장에서 순차 발매된다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "BEAMS",
+            "HOKA",
+            "BONDI 7",
+            "ZEN GARDEN"
+          ]
+        },
+        {
+          "id": "2026-08-04-tamarindo-apartment",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
+          "date": "2026-08-04",
+          "title": "기존 구조와 브라질 요소를 함께 드러낸 Tamarindo Apartment",
+          "summary": "Estúdio Minke는 상파울루 Higienópolis의 113㎡ 아파트를 거주자의 역사와 연결된 주거 공간으로 개조했다. 원문은 자연 요소와 브라질 레퍼런스를 결합하고, 기존 구조를 드러내는 산업적 언어를 적용했다고 설명한다.",
+          "keywords": [
+            "ESTUDIO MINKE",
+            "APARTMENT INTERIOR",
+            "BRAZILIAN REFERENCES",
+            "ORIGINAL STRUCTURE",
+            "INDUSTRIAL LANGUAGE"
+          ]
+        },
+        {
+          "id": "2026-08-04-la-tuilerie-cultural-center",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
+          "date": "2026-08-04",
+          "title": "폐타일 공장을 복합 문화시설로 바꾼 La Tuilerie",
+          "summary": "Ferrier Marchetti Studio는 프랑스 Limoux의 폐타일 공장을 미디어 도서관, 음악원, 지방공동체 본부와 2,000석 홀을 묶은 문화시설로 전환했다. 모든 출입구가 새 공공광장을 향하도록 구성하고 강변 산책로와 연결했다. 철거된 광물 재료는 현장에서 파쇄·재사용했으며, 매달린 타일망으로 투과성 페리스타일을 만들었다.",
+          "keywords": [
+            "ADAPTIVE REUSE",
+            "CULTURAL CENTER",
+            "PUBLIC SQUARE",
+            "REUSED MINERAL MATERIALS",
+            "HANGING TILES"
+          ]
+        },
+        {
+          "id": "2026-08-04-craft-after-conflict",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge",
+          "date": "2026-08-04",
+          "title": "재건의 재료보다 먼저 복원해야 할 전통 공예 지식",
+          "summary": "ArchDaily는 도면·스캔·사진만으로는 전통 볼트 조립, 지역 기후에 맞춘 석회 모르타르, 현장 수리 기술 같은 암묵지를 온전히 기록할 수 없다고 설명한다. 베이루트의 복원은 석공·목공·금속공 도제교육을 보존 작업과 결합했고, Mosul 재건은 전통 시공 교육과 지역 고용을 함께 만들었다. 지역 장인의 지식이 남아야 국제 지원 이후에도 재료와 건축을 계속 수리할 수 있다는 주장이다.",
+          "keywords": [
+            "CRAFT KNOWLEDGE",
+            "LIME MORTAR",
+            "MASONRY",
+            "APPRENTICESHIP",
+            "HERITAGE RECONSTRUCTION"
+          ]
+        },
+        {
+          "id": "2026-08-04-luxury-q2-takeaways",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/key-takeaways-from-luxurys-q2-earnings",
+          "date": "2026-08-04",
+          "title": "럭셔리 2분기 성장의 중심이 된 주얼리와 미국·한국 소비",
+          "summary": "2026년 2분기 럭셔리 섹터의 평균 유기적 매출 성장은 7%로 집계됐고, 소프트 럭셔리보다 주얼리 매출이 강했다. 원문은 성장이 미국인과 한국인 소비에 집중됐으며 중국 소비는 정체됐다고 설명한다. 브랜드의 창의적 쇄신, 가죽제품 혁신, 가격 재조정, 아이콘 제품 재정비와 고객 행사가 회복 요인의 일부로 제시됐다.",
+          "keywords": [
+            "LUXURY Q2",
+            "JEWELRY",
+            "SOUTH KOREA",
+            "UNITED STATES",
+            "CREATIVE RENEWAL"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-04T07:59:18+09:00",
       "briefingDate": "2026-08-04",
