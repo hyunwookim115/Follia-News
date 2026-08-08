@@ -1,113 +1,205 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-06T07:58:28+09:00",
-  "briefingDate": "2026-08-06",
+  "generatedAt": "2026-08-09T08:05:10+09:00",
+  "briefingDate": "2026-08-09",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-05-antwerp-fashion-department",
+      "id": "2026-08-08-fw26-denim-variations",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/looks-looks-looks-momu-antwerp-royal-academy-of-fine-arts-exhibition",
-      "date": "2026-08-05",
-      "title": "앤트워프 패션학과의 제작 과정을 펼친 ‘Looks, Looks, Looks’",
-      "summary": "MoMu의 ‘Looks, Looks, Looks’는 앤트워프 왕립예술학교 패션학과 학생들의 드로잉·스케치북·실루엣을 전시하며, 같은 미술관의 앤트워프 식스 회고전과 현재 세대를 연결한다. 브랜던 웬과 톰 반 데르 보르흐트가 기획·디자인한 전시는 학과가 강조하는 공예, 디테일과 강도 높은 표현을 보여주며 2026년 11월 8일까지 열린다.",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/08/%EB%82%A8%EC%9D%80-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EC%B1%85%EC%9E%84%EC%A7%88-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-9/",
+      "date": "2026-08-08",
+      "title": "2026 F/W 런웨이가 확장한 데님의 역할",
+      "summary": "2026 F/W 런웨이에서는 청바지가 편안하고 여유로운 기본 아이템을 넘어 장식과 색, 소재 대비를 활용한 ‘멋 내기용’ 아이템으로 제시됐다. 디올은 헐렁한 청바지에 턱시도 재킷을, 코너 아이브스는 장식 데님에 퍼 코트를 조합했고, 클로에는 레드와 코발트 블루, 알투자라는 초콜릿 브라운 데님을 선보였다.",
       "keywords": [
-        "ROYAL ACADEMY OF FINE ARTS ANTWERP",
-        "MOMU",
-        "FASHION EDUCATION",
-        "CRAFT",
-        "ANTWERP SIX"
+        "2026 F/W",
+        "DENIM",
+        "DIOR",
+        "CONNER IVES",
+        "COLOR DENIM"
       ]
     },
     {
-      "id": "2026-08-05-rilakkuma-kitchen-daily",
+      "id": "2026-08-08-power-shoulder-return",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/street-style-trend-power-shoulders",
+      "date": "2026-08-08",
+      "title": "실험적 실루엣으로 돌아온 파워 숄더",
+      "summary": "보그는 과장된 파워 숄더가 업무복의 틀을 벗어나 다시 패션의 대화로 돌아왔다고 전했다. 패딩, 조형, 드레이프, 연장형 어깨가 스트리트 스타일에 나타났으며, 기사에는 2026년 가을 꾸뛰르부터 과거 시즌까지 다양한 사례가 제시됐다.",
+      "keywords": [
+        "POWER SHOULDER",
+        "SILHOUETTE",
+        "STREET STYLE",
+        "DRAPING",
+        "FALL 2026 COUTURE"
+      ]
+    },
+    {
+      "id": "2026-08-08-ostkaka-focus",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29-limited-order/2026/08/rilakkuma",
-      "date": "2026-08-05",
-      "title": "29CM 신호: 리락쿠마 키친·데일리 컬렉션 단독 전개",
-      "summary": "29CM은 8월 5일부터 18일까지 리락쿠마 키친·데일리 컬렉션을 29 리미티드 오더에서 단독으로 선보인다. 피규어 리드 머그컵, 요거트볼, 플레이트와 수세미부터 키링·파우치·스티커·편지지까지 구성하며, 기간 중 단독 5% 혜택을 제공한다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/focus/2026/08/08/ostkaka",
+      "date": "2026-08-08",
+      "title": "29CM 신호: 오스트카카 2일 기획전",
+      "summary": "29CM은 북유럽 자연에서 출발한 담백한 디자인과 편안한 감성을 내세운 오스트카카 기획전을 8월 8일부터 10일까지 진행한다. 참여 상품에 쿠폰을 적용하며, 10만원 이상 구매한 선착순 20명에게 볼 포인트 롱목걸이를 증정한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
         "29CM",
-        "RILAKKUMA",
-        "KITCHENWARE",
-        "DAILY GOODS"
+        "OSTKAKA",
+        "NORDIC DESIGN",
+        "PROMOTION"
       ]
     },
     {
-      "id": "2026-08-05-paraiso-remodel",
+      "id": "2026-08-08-sliding-doors-house",
       "category": "INTERIOR",
-      "categoryLabel": "INTERIOR",
-      "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
-      "date": "2026-08-05",
-      "title": "어둡게 분절된 랜치 하우스를 밝은 가족 주택으로 바꾼 Paraiso Remodel",
-      "summary": "Austin Sandy Architects는 미국 댄빌의 2,700ft² 랜치 하우스를 2025년에 리모델링했다. T자형 원형 구조에 1960년대 증축이 조각조각 더해지며 어둡고 분절됐던 집을 빛이 드는 가족 주택으로 전환했다.",
-      "keywords": [
-        "AUSTIN SANDY ARCHITECTS",
-        "RANCH HOUSE",
-        "RESIDENTIAL INTERIOR",
-        "REMODEL",
-        "DAYLIGHT"
-      ]
-    },
-    {
-      "id": "2026-08-05-shenzhen-bay-culture-square",
-      "category": "ARCHITECTURE",
-      "categoryLabel": "ARCHITECTURE",
-      "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china",
-      "date": "2026-08-05",
-      "title": "녹색 지붕과 해안 습지를 잇는 Shenzhen Bay Culture Square",
-      "summary": "MAD가 완공한 188,000㎡ 규모의 Shenzhen Bay Culture Square는 디자인·문화 교류 시설과 해안 공원을 결합한다. 두 개의 전시홀 군은 갤러리, 공공 교육 공간, 디자인 도서관과 다목적 극장을 담고, 도시에서 수변으로 높이가 낮아진다. 지붕에는 토착종만 심었으며, 자연 백색 화강암을 가늘게 절단해 곡선을 따라 외장했다.",
-      "keywords": [
-        "MAD ARCHITECTS",
-        "DESIGN MUSEUM",
-        "GREEN ROOF",
-        "NATIVE PLANTS",
-        "WHITE GRANITE"
-      ]
-    },
-    {
-      "id": "2026-08-05-vollebak-fwahbl-material",
-      "category": "MATERIAL",
-      "categoryLabel": "COLOR & MATERIAL",
+      "categoryLabel": "INTERIOR & FURNITURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/tech/vollebak-fwahbl-jacket",
-      "date": "2026-08-05",
-      "title": "화학 보호복 소재를 트렌치로 전환한 Vollebak FWAHBL",
-      "summary": "Vollebak은 완전 밀폐형 화학 보호복에 쓰이는 선명한 노란 소재를 트렌치 형태로 바꾼 FWAHBL 재킷을 10벌 한정으로 제작했다. 소재는 직조 폴리에스터 코어 양면에 폴리클로로프렌 고무를 코팅한 구조로, 오일·오존·불에 견디도록 설계됐다. 다만 브랜드는 이 제품이 인증된 안전 장비는 아니라고 명시했다.",
+      "sourceUrl": "https://www.wallpaper.com/architecture/architects-directory/dharq-arquitectos-chile",
+      "date": "2026-08-08",
+      "title": "22개 슬라이딩 패널로 기후를 조절하는 칠레 주택",
+      "summary": "Dharq Arquitectos의 Sliding Doors House는 칠레 카사블랑카 계곡의 소나무 숲과 농경지 사이에 놓인 단독주택이다. 22개 슬라이딩 패널이 빛, 환기와 프라이버시를 조절하며, 목재 바닥 프레임과 아연도금 강철 지붕 구조는 콘크리트 기둥 위에 떠 있다. 패널을 열면 집 전체가 주변 환경에 열린 공간으로 바뀐다.",
       "keywords": [
-        "POLYCHLOROPRENE",
-        "WOVEN POLYESTER",
-        "PROTECTIVE MATERIAL",
-        "TRENCH COAT",
-        "VOLLEBAK"
+        "SLIDING PANELS",
+        "CLIMATE CONTROL",
+        "TIMBER FRAME",
+        "GALVANIZED STEEL",
+        "CHILE"
       ]
     },
     {
-      "id": "2026-08-05-independent-brands-china",
-      "category": "TRADE",
-      "categoryLabel": "BUSINESS & TRADE",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-new-rules-for-independent-brands-selling-in-china",
-      "date": "2026-08-05",
-      "title": "중국 진출 독립 브랜드에 요구되는 소재·공예와 지역 커뮤니티",
-      "summary": "중국의 멀티브랜드 부티크는 전국적으로 존재감이 커졌고, 취급 범위도 중국 브랜드 중심에서 글로벌 조합으로 넓어졌다. 기사에 따르면 소비자는 로고보다 소재와 공예에 초점을 둔 브랜드에 관심을 보이며, 해외 독립 브랜드는 팝업·모임·특별 프로젝트로 지역 커뮤니티와 관계를 구축할 필요가 있다. 현지화는 문화와 시장을 이해하되 브랜드 정체성을 희석하지 않는 방식이어야 한다.",
+      "id": "2026-08-08-urn-studios-us-collection",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/urn-studios-us-collection",
+      "date": "2026-08-08",
+      "title": "일곱 작가가 재해석한 Urn Studios의 미국 컬렉션",
+      "summary": "영국의 Urn Studios는 미국 작가 일곱 명과 함께 첫 미국 컬렉션을 선보였다. 작가들은 촉각적 유약, 역사적 도자 전통, 조각적 형태, 촛대와 꽃을 통합한 구조를 활용해 유골함을 정체성과 친밀성을 담는 디자인 오브제로 재해석했다. 컬렉션에는 굵은 손잡이, 예상 밖의 실루엣과 불규칙한 표면이 공통적으로 나타난다.",
       "keywords": [
-        "CHINA MARKET",
-        "INDEPENDENT BRANDS",
-        "MULTI-BRAND BOUTIQUES",
+        "URN STUDIOS",
+        "CERAMICS",
         "CRAFT",
-        "LOCALIZATION"
+        "MATERIALITY",
+        "MEMORIAL DESIGN"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-06T07:58:28+09:00",
+      "briefingDate": "2026-08-06",
+      "generatedAt": "2026-08-06T07:58:28+09:00",
+      "cards": [
+        {
+          "id": "2026-08-05-antwerp-fashion-department",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/looks-looks-looks-momu-antwerp-royal-academy-of-fine-arts-exhibition",
+          "date": "2026-08-05",
+          "title": "앤트워프 패션학과의 제작 과정을 펼친 ‘Looks, Looks, Looks’",
+          "summary": "MoMu의 ‘Looks, Looks, Looks’는 앤트워프 왕립예술학교 패션학과 학생들의 드로잉·스케치북·실루엣을 전시하며, 같은 미술관의 앤트워프 식스 회고전과 현재 세대를 연결한다. 브랜던 웬과 톰 반 데르 보르흐트가 기획·디자인한 전시는 학과가 강조하는 공예, 디테일과 강도 높은 표현을 보여주며 2026년 11월 8일까지 열린다.",
+          "keywords": [
+            "ROYAL ACADEMY OF FINE ARTS ANTWERP",
+            "MOMU",
+            "FASHION EDUCATION",
+            "CRAFT",
+            "ANTWERP SIX"
+          ]
+        },
+        {
+          "id": "2026-08-05-rilakkuma-kitchen-daily",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29-limited-order/2026/08/rilakkuma",
+          "date": "2026-08-05",
+          "title": "29CM 신호: 리락쿠마 키친·데일리 컬렉션 단독 전개",
+          "summary": "29CM은 8월 5일부터 18일까지 리락쿠마 키친·데일리 컬렉션을 29 리미티드 오더에서 단독으로 선보인다. 피규어 리드 머그컵, 요거트볼, 플레이트와 수세미부터 키링·파우치·스티커·편지지까지 구성하며, 기간 중 단독 5% 혜택을 제공한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "RILAKKUMA",
+            "KITCHENWARE",
+            "DAILY GOODS"
+          ]
+        },
+        {
+          "id": "2026-08-05-paraiso-remodel",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181897/paraiso-remodel-austin-sandy-architects",
+          "date": "2026-08-05",
+          "title": "어둡게 분절된 랜치 하우스를 밝은 가족 주택으로 바꾼 Paraiso Remodel",
+          "summary": "Austin Sandy Architects는 미국 댄빌의 2,700ft² 랜치 하우스를 2025년에 리모델링했다. T자형 원형 구조에 1960년대 증축이 조각조각 더해지며 어둡고 분절됐던 집을 빛이 드는 가족 주택으로 전환했다.",
+          "keywords": [
+            "AUSTIN SANDY ARCHITECTS",
+            "RANCH HOUSE",
+            "RESIDENTIAL INTERIOR",
+            "REMODEL",
+            "DAYLIGHT"
+          ]
+        },
+        {
+          "id": "2026-08-05-shenzhen-bay-culture-square",
+          "category": "ARCHITECTURE",
+          "categoryLabel": "ARCHITECTURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china",
+          "date": "2026-08-05",
+          "title": "녹색 지붕과 해안 습지를 잇는 Shenzhen Bay Culture Square",
+          "summary": "MAD가 완공한 188,000㎡ 규모의 Shenzhen Bay Culture Square는 디자인·문화 교류 시설과 해안 공원을 결합한다. 두 개의 전시홀 군은 갤러리, 공공 교육 공간, 디자인 도서관과 다목적 극장을 담고, 도시에서 수변으로 높이가 낮아진다. 지붕에는 토착종만 심었으며, 자연 백색 화강암을 가늘게 절단해 곡선을 따라 외장했다.",
+          "keywords": [
+            "MAD ARCHITECTS",
+            "DESIGN MUSEUM",
+            "GREEN ROOF",
+            "NATIVE PLANTS",
+            "WHITE GRANITE"
+          ]
+        },
+        {
+          "id": "2026-08-05-vollebak-fwahbl-material",
+          "category": "MATERIAL",
+          "categoryLabel": "COLOR & MATERIAL",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/tech/vollebak-fwahbl-jacket",
+          "date": "2026-08-05",
+          "title": "화학 보호복 소재를 트렌치로 전환한 Vollebak FWAHBL",
+          "summary": "Vollebak은 완전 밀폐형 화학 보호복에 쓰이는 선명한 노란 소재를 트렌치 형태로 바꾼 FWAHBL 재킷을 10벌 한정으로 제작했다. 소재는 직조 폴리에스터 코어 양면에 폴리클로로프렌 고무를 코팅한 구조로, 오일·오존·불에 견디도록 설계됐다. 다만 브랜드는 이 제품이 인증된 안전 장비는 아니라고 명시했다.",
+          "keywords": [
+            "POLYCHLOROPRENE",
+            "WOVEN POLYESTER",
+            "PROTECTIVE MATERIAL",
+            "TRENCH COAT",
+            "VOLLEBAK"
+          ]
+        },
+        {
+          "id": "2026-08-05-independent-brands-china",
+          "category": "TRADE",
+          "categoryLabel": "BUSINESS & TRADE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-new-rules-for-independent-brands-selling-in-china",
+          "date": "2026-08-05",
+          "title": "중국 진출 독립 브랜드에 요구되는 소재·공예와 지역 커뮤니티",
+          "summary": "중국의 멀티브랜드 부티크는 전국적으로 존재감이 커졌고, 취급 범위도 중국 브랜드 중심에서 글로벌 조합으로 넓어졌다. 기사에 따르면 소비자는 로고보다 소재와 공예에 초점을 둔 브랜드에 관심을 보이며, 해외 독립 브랜드는 팝업·모임·특별 프로젝트로 지역 커뮤니티와 관계를 구축할 필요가 있다. 현지화는 문화와 시장을 이해하되 브랜드 정체성을 희석하지 않는 방식이어야 한다.",
+          "keywords": [
+            "CHINA MARKET",
+            "INDEPENDENT BRANDS",
+            "MULTI-BRAND BOUTIQUES",
+            "CRAFT",
+            "LOCALIZATION"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-05T07:58:14+09:00",
       "briefingDate": "2026-08-05",
