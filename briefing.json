@@ -1,96 +1,205 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-09T08:05:10+09:00",
-  "briefingDate": "2026-08-09",
+  "generatedAt": "2026-08-10T07:59:58+09:00",
+  "briefingDate": "2026-08-10",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-08-fw26-denim-variations",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/08/%EB%82%A8%EC%9D%80-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EC%B1%85%EC%9E%84%EC%A7%88-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-9/",
-      "date": "2026-08-08",
-      "title": "2026 F/W 런웨이가 확장한 데님의 역할",
-      "summary": "2026 F/W 런웨이에서는 청바지가 편안하고 여유로운 기본 아이템을 넘어 장식과 색, 소재 대비를 활용한 ‘멋 내기용’ 아이템으로 제시됐다. 디올은 헐렁한 청바지에 턱시도 재킷을, 코너 아이브스는 장식 데님에 퍼 코트를 조합했고, 클로에는 레드와 코발트 블루, 알투자라는 초콜릿 브라운 데님을 선보였다.",
-      "keywords": [
-        "2026 F/W",
-        "DENIM",
-        "DIOR",
-        "CONNER IVES",
-        "COLOR DENIM"
-      ]
-    },
-    {
-      "id": "2026-08-08-power-shoulder-return",
+      "id": "2026-08-09-balenciaga-bridal-couture",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/street-style-trend-power-shoulders",
-      "date": "2026-08-08",
-      "title": "실험적 실루엣으로 돌아온 파워 숄더",
-      "summary": "보그는 과장된 파워 숄더가 업무복의 틀을 벗어나 다시 패션의 대화로 돌아왔다고 전했다. 패딩, 조형, 드레이프, 연장형 어깨가 스트리트 스타일에 나타났으며, 기사에는 2026년 가을 꾸뛰르부터 과거 시즌까지 다양한 사례가 제시됐다.",
+      "sourceUrl": "https://www.vogue.com/article/tallulah-willis-balenciaga-wedding-dress-final-fitting",
+      "date": "2026-08-09",
+      "title": "Pierpaolo Piccioli가 설계한 Balenciaga 초기 브라이덜 꾸뛰르",
+      "summary": "Balenciaga 크리에이티브 디렉터 Pierpaolo Piccioli는 Tallulah Willis를 위한 맞춤 웨딩드레스를 제작했으며, 이는 그가 현 직책에서 만든 초기 브라이덜 가운 중 하나다. 실크 새틴의 스트랩리스 칼럼 드레스는 실크 오간자로 받치고 드레이프 트레인과 뒤 리본을 더했다. 드레스에는 총 712시간이 투입됐고, 오간자 꽃잎은 개별 비딩한 뒤 손으로 하나씩 부착했다.",
       "keywords": [
-        "POWER SHOULDER",
-        "SILHOUETTE",
-        "STREET STYLE",
-        "DRAPING",
-        "FALL 2026 COUTURE"
+        "BALENCIAGA",
+        "PIERPAOLO PICCIOLI",
+        "BRIDAL COUTURE",
+        "SILK SATIN",
+        "HAND EMBROIDERY"
       ]
     },
     {
-      "id": "2026-08-08-ostkaka-focus",
+      "id": "2026-08-09-aw26-transformation",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+      "date": "2026-08-09",
+      "title": "A/W 2026 컬렉션이 제시한 변신과 정체성",
+      "summary": "Wallpaper*는 A/W 2026 시즌에서 Chanel의 나비 변신, Prada의 레이어 제거, Givenchy·Dior·Valentino의 연극성, Saint Laurent의 재해석된 Le Smoking을 연결해 옷의 변신 능력을 조명했다. 커버 촬영은 드라마틱한 실루엣과 실크·레이스·시어링 질감을 사용해 한 모델이 여러 정체성으로 바뀌는 장면을 구성했다.",
+      "keywords": [
+        "A/W 2026",
+        "CHANEL",
+        "PRADA",
+        "LE SMOKING",
+        "SILHOUETTE"
+      ]
+    },
+    {
+      "id": "2026-08-09-fforme-organza-dress",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/katie-holmes-guild-hall-gala-jason-bard-yarmosky",
+      "date": "2026-08-09",
+      "title": "Fforme F/W 2026 오간자 드레스의 여름 전환",
+      "summary": "Katie Holmes는 Fforme의 2026년 가을 컬렉션에 포함된 실크·코튼 오간자 스트랩리스 드레스를 여름 갈라에 착용했다. 드레스는 레이어와 질감을 강조했으며, Tory Burch의 Fleming 디스트레스드 포셰트 백을 함께 매치했다.",
+      "keywords": [
+        "FFORME",
+        "F/W 2026",
+        "SILK COTTON ORGANZA",
+        "TORY BURCH",
+        "TEXTURE"
+      ]
+    },
+    {
+      "id": "2026-08-09-us-open-shopping-edit",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/focus/2026/08/08/ostkaka",
-      "date": "2026-08-08",
-      "title": "29CM 신호: 오스트카카 2일 기획전",
-      "summary": "29CM은 북유럽 자연에서 출발한 담백한 디자인과 편안한 감성을 내세운 오스트카카 기획전을 8월 8일부터 10일까지 진행한다. 참여 상품에 쿠폰을 적용하며, 10만원 이상 구매한 선착순 20명에게 볼 포인트 롱목걸이를 증정한다.",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/what-to-wear-to-the-us-open",
+      "date": "2026-08-09",
+      "title": "Vogue 셀렉트 신호: US 오픈용 테니스·프레피 상품 편성",
+      "summary": "Vogue Shopping은 2026 US 오픈 관람용으로 테니스 드레스, 폴로 셔츠, 플리츠 스커트와 스니커즈를 묶은 상품 편성을 제시했다. Nike, Adidas Originals × Song for the Mute, On × Zendaya, Vivienne Westwood, Polo Ralph Lauren 제품이 포함됐으며 각 상품 구매 링크를 연결했다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "29CM",
-        "OSTKAKA",
-        "NORDIC DESIGN",
-        "PROMOTION"
+        "US OPEN",
+        "TENNIS STYLE",
+        "SPORTSWEAR",
+        "SHOPPING EDIT"
       ]
     },
     {
-      "id": "2026-08-08-sliding-doors-house",
+      "id": "2026-08-09-paros-villa-sol-mare",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/architects-directory/dharq-arquitectos-chile",
-      "date": "2026-08-08",
-      "title": "22개 슬라이딩 패널로 기후를 조절하는 칠레 주택",
-      "summary": "Dharq Arquitectos의 Sliding Doors House는 칠레 카사블랑카 계곡의 소나무 숲과 농경지 사이에 놓인 단독주택이다. 22개 슬라이딩 패널이 빛, 환기와 프라이버시를 조절하며, 목재 바닥 프레임과 아연도금 강철 지붕 구조는 콘크리트 기둥 위에 떠 있다. 패널을 열면 집 전체가 주변 환경에 열린 공간으로 바뀐다.",
+      "sourceUrl": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
+      "date": "2026-08-09",
+      "title": "파로스 전통 재료와 옥상 수영장을 결합한 Villa Sol Mare",
+      "summary": "Isola Studio는 그리스 파로스섬 나우사의 90㎡ 키클라데스 주택 Villa Sol Mare를 침실과 욕실 각 세 개를 갖춘 집으로 재구성했다. 손으로 바른 질감 플라스터, 목재 창호, 에게해색 셔터, 테라코타 바닥과 목공을 사용하고, 배럴 볼트 아래에는 맞춤 월넛 수납을 넣었다. 지붕을 보강해 수영장과 테라스, 토착 식재를 추가했다.",
       "keywords": [
-        "SLIDING PANELS",
-        "CLIMATE CONTROL",
-        "TIMBER FRAME",
-        "GALVANIZED STEEL",
-        "CHILE"
+        "CYCLADIC HOUSE",
+        "TEXTURED PLASTER",
+        "TERRACOTTA",
+        "WALNUT JOINERY",
+        "ROOFTOP POOL"
       ]
     },
     {
-      "id": "2026-08-08-urn-studios-us-collection",
+      "id": "2026-08-09-hyatt-regency-olympia",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/urn-studios-us-collection",
-      "date": "2026-08-08",
-      "title": "일곱 작가가 재해석한 Urn Studios의 미국 컬렉션",
-      "summary": "영국의 Urn Studios는 미국 작가 일곱 명과 함께 첫 미국 컬렉션을 선보였다. 작가들은 촉각적 유약, 역사적 도자 전통, 조각적 형태, 촛대와 꽃을 통합한 구조를 활용해 유골함을 정체성과 친밀성을 담는 디자인 오브제로 재해석했다. 컬렉션에는 굵은 손잡이, 예상 밖의 실루엣과 불규칙한 표면이 공통적으로 나타난다.",
+      "sourceUrl": "https://www.wallpaper.com/travel/hotels/hyatt-regency-london-olympia-review",
+      "date": "2026-08-09",
+      "title": "1937년 주차장을 아르데코 호텔로 전환한 Hyatt Regency London Olympia",
+      "summary": "Hyatt Regency London Olympia는 1937년 주차장 건물의 초기 모더니즘 외관을 보존하면서 204실 호텔로 전환한 프로젝트다. Twenty2degrees는 브러시드 브라스 프레임의 리디드 글라스, 둥근 모서리 가구와 리브드 기둥을 사용해 절제된 아르데코 요소를 내부에 적용했다.",
       "keywords": [
-        "URN STUDIOS",
-        "CERAMICS",
-        "CRAFT",
-        "MATERIALITY",
-        "MEMORIAL DESIGN"
+        "ADAPTIVE REUSE",
+        "ART DECO",
+        "REEDED GLASS",
+        "BRUSHED BRASS",
+        "HOTEL INTERIOR"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-09T08:05:10+09:00",
+      "briefingDate": "2026-08-09",
+      "generatedAt": "2026-08-09T08:05:10+09:00",
+      "cards": [
+        {
+          "id": "2026-08-08-fw26-denim-variations",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/08/%EB%82%A8%EC%9D%80-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EC%B1%85%EC%9E%84%EC%A7%88-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-9/",
+          "date": "2026-08-08",
+          "title": "2026 F/W 런웨이가 확장한 데님의 역할",
+          "summary": "2026 F/W 런웨이에서는 청바지가 편안하고 여유로운 기본 아이템을 넘어 장식과 색, 소재 대비를 활용한 ‘멋 내기용’ 아이템으로 제시됐다. 디올은 헐렁한 청바지에 턱시도 재킷을, 코너 아이브스는 장식 데님에 퍼 코트를 조합했고, 클로에는 레드와 코발트 블루, 알투자라는 초콜릿 브라운 데님을 선보였다.",
+          "keywords": [
+            "2026 F/W",
+            "DENIM",
+            "DIOR",
+            "CONNER IVES",
+            "COLOR DENIM"
+          ]
+        },
+        {
+          "id": "2026-08-08-power-shoulder-return",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/street-style-trend-power-shoulders",
+          "date": "2026-08-08",
+          "title": "실험적 실루엣으로 돌아온 파워 숄더",
+          "summary": "보그는 과장된 파워 숄더가 업무복의 틀을 벗어나 다시 패션의 대화로 돌아왔다고 전했다. 패딩, 조형, 드레이프, 연장형 어깨가 스트리트 스타일에 나타났으며, 기사에는 2026년 가을 꾸뛰르부터 과거 시즌까지 다양한 사례가 제시됐다.",
+          "keywords": [
+            "POWER SHOULDER",
+            "SILHOUETTE",
+            "STREET STYLE",
+            "DRAPING",
+            "FALL 2026 COUTURE"
+          ]
+        },
+        {
+          "id": "2026-08-08-ostkaka-focus",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/focus/2026/08/08/ostkaka",
+          "date": "2026-08-08",
+          "title": "29CM 신호: 오스트카카 2일 기획전",
+          "summary": "29CM은 북유럽 자연에서 출발한 담백한 디자인과 편안한 감성을 내세운 오스트카카 기획전을 8월 8일부터 10일까지 진행한다. 참여 상품에 쿠폰을 적용하며, 10만원 이상 구매한 선착순 20명에게 볼 포인트 롱목걸이를 증정한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "OSTKAKA",
+            "NORDIC DESIGN",
+            "PROMOTION"
+          ]
+        },
+        {
+          "id": "2026-08-08-sliding-doors-house",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/architects-directory/dharq-arquitectos-chile",
+          "date": "2026-08-08",
+          "title": "22개 슬라이딩 패널로 기후를 조절하는 칠레 주택",
+          "summary": "Dharq Arquitectos의 Sliding Doors House는 칠레 카사블랑카 계곡의 소나무 숲과 농경지 사이에 놓인 단독주택이다. 22개 슬라이딩 패널이 빛, 환기와 프라이버시를 조절하며, 목재 바닥 프레임과 아연도금 강철 지붕 구조는 콘크리트 기둥 위에 떠 있다. 패널을 열면 집 전체가 주변 환경에 열린 공간으로 바뀐다.",
+          "keywords": [
+            "SLIDING PANELS",
+            "CLIMATE CONTROL",
+            "TIMBER FRAME",
+            "GALVANIZED STEEL",
+            "CHILE"
+          ]
+        },
+        {
+          "id": "2026-08-08-urn-studios-us-collection",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/urn-studios-us-collection",
+          "date": "2026-08-08",
+          "title": "일곱 작가가 재해석한 Urn Studios의 미국 컬렉션",
+          "summary": "영국의 Urn Studios는 미국 작가 일곱 명과 함께 첫 미국 컬렉션을 선보였다. 작가들은 촉각적 유약, 역사적 도자 전통, 조각적 형태, 촛대와 꽃을 통합한 구조를 활용해 유골함을 정체성과 친밀성을 담는 디자인 오브제로 재해석했다. 컬렉션에는 굵은 손잡이, 예상 밖의 실루엣과 불규칙한 표면이 공통적으로 나타난다.",
+          "keywords": [
+            "URN STUDIOS",
+            "CERAMICS",
+            "CRAFT",
+            "MATERIALITY",
+            "MEMORIAL DESIGN"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-06T07:58:28+09:00",
       "briefingDate": "2026-08-06",
