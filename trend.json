@@ -1,89 +1,145 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T08:15:00+09:00",
+  "generatedAt": "2026-08-10T08:05:23+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
-      "id": "live-power-shoulder",
-      "keyword": "POWER SHOULDER",
+      "id": "live-mid-length-bottoms",
+      "keyword": "MID-LENGTH BOTTOMS",
       "category": "SILHOUETTE",
       "direction": "UP",
       "market": "GLOBAL → KOREA",
-      "signal": "SEARCH",
-      "summary": "조형적인 어깨선과 파워 숄더가 런웨이·스트리트 검색 신호에서 함께 반복됩니다.",
-      "detail": "정확한 검색량이 공개되지 않은 플랫폼은 수치 대신 반복 등장과 확산 방향만 기록합니다.",
+      "signal": "SOCIAL",
+      "summary": "카프리 레깅스와 테일러드 버뮤다가 코펜하겐 패션위크 거리에서 반복되며 ‘애매한 중간 길이’ 하의가 다시 확산되고 있습니다.",
+      "detail": "지난 7일의 현장 사진·에디토리얼에서 카프리와 버뮤다 노출이 동시에 반복된 관측 신호입니다. 무신사에는 국내 상품·콘텐츠 기반이 확인되지만 공개 검색량이나 최근 판매 순위는 없어 수치로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "VOGUE · POWER SHOULDERS",
-          "url": "https://www.vogue.com/article/street-style-trend-power-shoulders"
+          "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
         },
         {
-          "label": "GOOGLE TRENDS",
-          "url": "https://trends.google.com/trends/explore?q=power%20shoulder,structured%20shoulder"
+          "label": "WHO WHAT WEAR · BERMUDA SHORTS",
+          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
+        },
+        {
+          "label": "MUSINSA · CAPRI CONTEXT",
+          "url": "https://www.musinsa.com/content/1498518384847439225"
         }
       ]
     },
     {
-      "id": "live-denim-variation",
-      "keyword": "DENIM VARIATION",
-      "category": "ITEM",
-      "direction": "UP",
-      "market": "KOREA / GLOBAL",
-      "signal": "DEMAND",
-      "summary": "컬러·장식·테일러링 조합으로 데님이 기본 아이템에서 포인트 아이템으로 이동합니다.",
-      "detail": "런웨이 사례와 국내 스타일 콘텐츠의 반복을 함께 보고 수요 변화 여부를 후속 추적합니다.",
+      "id": "live-eyelet-lace-top",
+      "keyword": "EYELET & LACE TOP",
+      "category": "MATERIAL",
+      "direction": "NEW",
+      "market": "GLOBAL",
+      "signal": "SOCIAL",
+      "summary": "레이스·아일렛 소재가 스커트 장식에서 블라우스와 톱의 주재료로 이동하며 흰 탱크톱을 대체하는 초기 확산 신호가 나타났습니다.",
+      "detail": "8월 3~7일 코펜하겐 패션위크에서 레이스 크롭 톱, 케이프 블라우스, 아일렛 탱크가 여러 참석자와 브랜드 주변에서 반복 관찰됐습니다. 기존 UTILITY LACE 항목을 실제 착장 신호와 합쳤습니다.",
       "sources": [
         {
-          "label": "VOGUE KOREA · DENIM",
+          "label": "MARIE CLAIRE · CPHFW EYELET TOPS",
+          "url": "https://www.marieclaire.com/fashion/copenhagen-fashion-week-street-style-trend-spring-summer-2027-white-lace-top/"
+        },
+        {
+          "label": "WHO WHAT WEAR · CPHFW STREET STYLE",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
+        }
+      ]
+    },
+    {
+      "id": "live-mesh-perforated-flats",
+      "keyword": "MESH & PERFORATED FLATS",
+      "category": "ITEM",
+      "direction": "UP",
+      "market": "GLOBAL / KOREA",
+      "signal": "PLATFORM",
+      "summary": "메쉬·펀칭 발레리나 플랫이 셀러브리티 착장, 패션위크 거리, 글로벌 리테일 편성에서 동시에 반복되고 있습니다.",
+      "detail": "리한나의 메쉬 플랫 착장과 코펜하겐 거리의 펀칭 플랫 반복 노출, KREAM의 국내 상품 노출을 함께 기록했습니다. KREAM 페이지에는 최근 체결 증가가 공개되지 않아 거래 수요 상승으로 해석하지 않았습니다.",
+      "sources": [
+        {
+          "label": "MARIE CLAIRE · MESH BALLET FLATS",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/rihanna-carnival-2026-barbados-mesh-shoe-trend/"
+        },
+        {
+          "label": "WHO WHAT WEAR · PERFORATED FLATS",
+          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
+        },
+        {
+          "label": "KREAM · MIU MIU MESH BALLERINAS",
+          "url": "https://kream.co.kr/products/799756"
+        }
+      ]
+    },
+    {
+      "id": "live-relaxed-straight-denim",
+      "keyword": "RELAXED STRAIGHT DENIM",
+      "category": "SILHOUETTE",
+      "direction": "UP",
+      "market": "GLOBAL → KOREA",
+      "signal": "SOCIAL",
+      "summary": "과장된 배럴·벌룬 진에서 한 단계 정돈된 릴랙스드 스트레이트 데님으로 관심이 이동하는 신호가 확인됩니다.",
+      "detail": "코펜하겐 거리에서 클래식한 스트레이트 진이 반복됐고, 국내 매체의 8월 데님 스타일링 노출도 이어졌습니다. 기존 DENIM VARIATION을 더 구체적인 실루엣 항목으로 정리했으며 판매량 수치는 만들지 않았습니다.",
+      "sources": [
+        {
+          "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
+          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
+        },
+        {
+          "label": "VOGUE KOREA · DENIM STYLING",
           "url": "https://www.vogue.co.kr/2026/08/08/%EB%82%A8%EC%9D%80-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EC%B1%85%EC%9E%84%EC%A7%88-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-9/"
         }
       ]
     },
     {
-      "id": "live-kfashion-crossborder",
-      "keyword": "K-FASHION CROSS-BORDER",
-      "category": "MARKET",
-      "direction": "UP",
-      "market": "KOREA → GLOBAL",
-      "signal": "PLATFORM",
-      "summary": "국내 브랜드 소비 신호가 내수 랭킹을 넘어 외국인 구매와 글로벌 유통으로 확장됩니다.",
-      "detail": "브랜드명보다 해외 소비자가 반복 선택하는 카테고리·가격대·아이템을 중심으로 축적합니다.",
-      "sources": [
-        {
-          "label": "MUSINSA NEWSROOM",
-          "url": "https://about.musinsa.com/newsroom/2025-0225"
-        }
-      ]
-    },
-    {
-      "id": "live-utility-lace",
-      "keyword": "UTILITY LACE",
-      "category": "MATERIAL",
+      "id": "live-waist-adornment",
+      "keyword": "WAIST ADORNMENT",
+      "category": "DETAIL",
       "direction": "NEW",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "레이스가 로맨틱 장식보다 보머·스포츠·워크웨어의 대비 소재로 노출되기 시작했습니다.",
-      "detail": "예측 키워드가 실제 상품과 스타일링 조합으로 전환되는지를 플랫폼별로 관찰합니다.",
+      "summary": "실크·레이스 스카프, 시퀸 벨트, 셔츠 매듭을 허리에 두르는 장식 방식이 새로운 스타일링 신호로 반복되고 있습니다.",
+      "detail": "코펜하겐 패션위크 참석자 사진에서 기존 의류와 액세서리를 허리 장식으로 전환하는 사례가 다수 관찰됐습니다. 소셜 저장·노출에 관한 정량 수치는 공개되지 않아 반복 착장만 기록했습니다.",
       "sources": [
         {
-          "label": "PINTEREST · LACED UP",
-          "url": "https://business.pinterest.com/pinterest-predicts/2026/laced-up/"
+          "label": "WHO WHAT WEAR · WAIST ADORNMENTS",
+          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
         }
       ]
     },
     {
-      "id": "live-brooch-demand",
-      "keyword": "BROOCH RETURN",
-      "category": "DETAIL",
-      "direction": "HOLD",
+      "id": "live-stripe-takeover",
+      "keyword": "STRIPE TAKEOVER",
+      "category": "PATTERN",
+      "direction": "UP",
       "market": "GLOBAL",
-      "signal": "DEMAND",
-      "summary": "브로치와 빈티지 핀이 재킷 라펠을 넘어 니트·가방·모자로 확장되고 있습니다.",
-      "detail": "예측 단계와 실제 리셀·셀렉트숍 수요를 분리해, 상품 노출이 이어지는지 확인합니다.",
+      "signal": "SOCIAL",
+      "summary": "브레통 카디건부터 풋볼 저지와 로우웨이스트 팬츠까지 스트라이프가 여러 품목에 걸쳐 반복되며 노출 범위를 넓히고 있습니다.",
+      "detail": "지난주 코펜하겐 거리에서 스트라이프 착장이 다수 포착됐다는 현장 관측에 기반합니다. 검색량이나 판매 비중이 아니라 패턴의 품목 간 확산을 방향 신호로 사용했습니다.",
       "sources": [
         {
-          "label": "PINTEREST · BROOCHED",
-          "url": "https://business.pinterest.com/pinterest-predicts/2026/brooched/"
+          "label": "WHO WHAT WEAR · CPHFW STRIPES",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
+        }
+      ]
+    },
+    {
+      "id": "live-pencil-skirt",
+      "keyword": "CASUAL PENCIL SKIRT",
+      "category": "ITEM",
+      "direction": "UP",
+      "market": "GLOBAL",
+      "signal": "SOCIAL",
+      "summary": "펜슬 스커트가 오피스 수트에서 분리돼 컬러 셔츠·크롭 티와 결합하는 캐주얼 착장으로 확산되고 있습니다.",
+      "detail": "가죽·다크 데님·새틴 소재의 펜슬 스커트가 코펜하겐 거리에서 반복 관찰됐습니다. 런웨이 예측이 아니라 지난 7일의 실제 거리 착장 전환만 반영했습니다.",
+      "sources": [
+        {
+          "label": "WHO WHAT WEAR · CPHFW PENCIL SKIRTS",
+          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
+        },
+        {
+          "label": "WHO WHAT WEAR · AUGUST STREET STYLE",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
         }
       ]
     }
