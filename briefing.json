@@ -1,113 +1,290 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-10T07:59:58+09:00",
-  "briefingDate": "2026-08-10",
+  "generatedAt": "2026-08-11T08:01:17+09:00",
+  "briefingDate": "2026-08-11",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-09-balenciaga-bridal-couture",
+      "id": "2026-08-10-juunj-china-expansion",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/tallulah-willis-balenciaga-wedding-dress-final-fitting",
-      "date": "2026-08-09",
-      "title": "Pierpaolo Piccioli가 설계한 Balenciaga 초기 브라이덜 꾸뛰르",
-      "summary": "Balenciaga 크리에이티브 디렉터 Pierpaolo Piccioli는 Tallulah Willis를 위한 맞춤 웨딩드레스를 제작했으며, 이는 그가 현 직책에서 만든 초기 브라이덜 가운 중 하나다. 실크 새틴의 스트랩리스 칼럼 드레스는 실크 오간자로 받치고 드레이프 트레인과 뒤 리본을 더했다. 드레스에는 총 712시간이 투입됐고, 오간자 꽃잎은 개별 비딩한 뒤 손으로 하나씩 부착했다.",
+      "source": "삼성물산 뉴스룸",
+      "sourceUrl": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%ED%8C%A8%EC%85%98%EB%B6%80%EB%AC%B8/2026-08-%EC%82%BC%EC%84%B1%EB%AC%BC%EC%82%B0-%ED%8C%A8%EC%85%98%EB%B6%80%EB%AC%B8-%EC%A4%80%EC%A7%80-%EC%A4%91%EA%B5%AD-%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%8B%9C%EC%9E%A5-%EB%B3%B8%EA%B2%A9-%EC%A7%84%EC%B6%9C/",
+      "date": "2026-08-10",
+      "title": "준지, 중국 유통 파트너십과 베이징 단독 매장으로 중화권 확장",
+      "summary": "준지는 미스토홀딩스와 중화권 유통 사업의 전략적 파트너십을 체결하고 베이징 싼리툰 타이쿠리에 신규 매장을 열었다. 중국 전용 상품을 일부 출시하고 현지 서예 아티스트가 한글·영문·중문 브랜드명을 조합한 이미지를 매장 디지털 사이니지에 적용했다. 7월에는 티몰 입점과 청두점 개점을 마쳤으며 연말까지 매장 한 곳을 추가할 계획이다.",
       "keywords": [
-        "BALENCIAGA",
-        "PIERPAOLO PICCIOLI",
-        "BRIDAL COUTURE",
-        "SILK SATIN",
-        "HAND EMBROIDERY"
+        "JUUN.J",
+        "CHINA MARKET",
+        "RETAIL EXPANSION",
+        "TMALL",
+        "CHINA EXCLUSIVE"
       ]
     },
     {
-      "id": "2026-08-09-aw26-transformation",
+      "id": "2026-08-10-la-bagatelle-selvedge-denim",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/cowgirls-of-copenhagen-la-bagatelle-launches-japanese-selvedge-jeans",
+      "date": "2026-08-10",
+      "title": "La Bagatelle, 일본 셀비지 데님으로 첫 진 컬렉션 출시",
+      "summary": "La Bagatelle은 일본에서 생산한 단단한 셀비지 데님으로 브랜드의 첫 청바지 ‘Jimmy jeans’를 출시했다. Malene Malling은 슬림하면서 남성복처럼 테일러드된 핏을 개발했으며, 진한 색과 4년간 입은 모습을 표현한 밝은 워시를 함께 선보였다. 브랜드는 실루엣을 유지하고 세계 각지에서 조달한 직물을 바꾸는 방식으로 한정된 스타일을 전개한다.",
+      "keywords": [
+        "LA BAGATELLE",
+        "JAPANESE SELVEDGE",
+        "DENIM",
+        "TAILORED FIT",
+        "SPRING 2027"
+      ]
+    },
+    {
+      "id": "2026-08-10-sezane-brand-reset",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane",
+      "date": "2026-08-10",
+      "title": "Sézane, 성장 속도를 낮추고 소재와 디자인을 성숙하게 재정비",
+      "summary": "Sézane은 더 느리고 의도적인 운영을 위해 신상품을 월 단위로 내되 편집된 수량으로 축소한다. 브랜드는 더 높은 품질의 소재에 투자하고 소프트한 곡선에 각진 어깨와 직선 칼라를 병치한 방향을 제시했다. 새 로고와 웹사이트는 8월 19일 공개되며, 실크 스카프와 캔버스 백을 시작으로 전체 컬렉션이 이달 안에 출시된다.",
+      "keywords": [
+        "SEZANE",
+        "BRAND RESET",
+        "MATERIAL QUALITY",
+        "MONTHLY DROPS",
+        "NEW LOGO"
+      ]
+    },
+    {
+      "id": "2026-08-10-hermes-london-maison",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
-      "date": "2026-08-09",
-      "title": "A/W 2026 컬렉션이 제시한 변신과 정체성",
-      "summary": "Wallpaper*는 A/W 2026 시즌에서 Chanel의 나비 변신, Prada의 레이어 제거, Givenchy·Dior·Valentino의 연극성, Saint Laurent의 재해석된 Le Smoking을 연결해 옷의 변신 능력을 조명했다. 커버 촬영은 드라마틱한 실루엣과 실크·레이스·시어링 질감을 사용해 한 모델이 여러 정체성으로 바뀌는 장면을 구성했다.",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/hermes-london-maison-pierre-alexis-dumas-interview",
+      "date": "2026-08-10",
+      "title": "Hermès, 런던의 여섯 보존 건물을 55실 Maison으로 통합",
+      "summary": "Hermès는 런던 뉴 본드 스트리트의 Grade II 보존 건물 여섯 동을 연결해 5개 층과 두 개의 옥상 테라스, 55개 방으로 구성된 Maison을 완성했다. Rena Dumas Architecture Intérieure는 영국 장인과 협업해 짚·말총 마케트리, 랭커셔산 질감 벽지, 파티나 구리 패널과 육각 오크 파켓을 내부에 적용했다.",
       "keywords": [
-        "A/W 2026",
-        "CHANEL",
-        "PRADA",
-        "LE SMOKING",
-        "SILHOUETTE"
+        "HERMES",
+        "LONDON MAISON",
+        "RETAIL DESIGN",
+        "CRAFT",
+        "MATERIAL PALETTE"
       ]
     },
     {
-      "id": "2026-08-09-fforme-organza-dress",
+      "id": "2026-08-10-copenhagen-flipflop-socks",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/katie-holmes-guild-hall-gala-jason-bard-yarmosky",
-      "date": "2026-08-09",
-      "title": "Fforme F/W 2026 오간자 드레스의 여름 전환",
-      "summary": "Katie Holmes는 Fforme의 2026년 가을 컬렉션에 포함된 실크·코튼 오간자 스트랩리스 드레스를 여름 갈라에 착용했다. 드레스는 레이어와 질감을 강조했으며, Tory Burch의 Fleming 디스트레스드 포셰트 백을 함께 매치했다.",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/10/%EC%9A%94%EC%A6%98-%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90-%EB%A9%8B%EC%9F%81%EC%9D%B4%EB%93%A4%EC%9D%80-%EC%AA%BC%EB%A6%AC%EC%97%90-%EC%96%91%EB%A7%90%EC%9D%84-%EC%8B%A0%EC%8A%B5%EB%8B%88%EB%8B%A4/",
+      "date": "2026-08-10",
+      "title": "코펜하겐 2027 S/S에서 확장된 플립플롭과 컷아웃 삭스",
+      "summary": "코펜하겐 2027 S/S 패션위크에서는 Studio Constance가 엄지발가락만 가린 힐 플립플롭을 선보였다. 스트리트 스타일에는 뒤꿈치가 열린 니삭스와 발가락·뒤꿈치를 노출한 오픈토 양말이 등장했으며, 기사는 Miu Miu 2025 S/S의 컷아웃 삭스와 오픈토 슈즈 조합을 선행 사례로 제시했다.",
       "keywords": [
-        "FFORME",
-        "F/W 2026",
-        "SILK COTTON ORGANZA",
-        "TORY BURCH",
-        "TEXTURE"
+        "COPENHAGEN FASHION WEEK",
+        "SPRING 2027",
+        "FLIP-FLOPS",
+        "CUTOUT SOCKS",
+        "STUDIO CONSTANCE"
       ]
     },
     {
-      "id": "2026-08-09-us-open-shopping-edit",
+      "id": "2026-08-10-fall-shoe-shopping-edit",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/what-to-wear-to-the-us-open",
-      "date": "2026-08-09",
-      "title": "Vogue 셀렉트 신호: US 오픈용 테니스·프레피 상품 편성",
-      "summary": "Vogue Shopping은 2026 US 오픈 관람용으로 테니스 드레스, 폴로 셔츠, 플리츠 스커트와 스니커즈를 묶은 상품 편성을 제시했다. Nike, Adidas Originals × Song for the Mute, On × Zendaya, Vivienne Westwood, Polo Ralph Lauren 제품이 포함됐으며 각 상품 구매 링크를 연결했다.",
+      "sourceUrl": "https://www.vogue.com/article/fall-2026-shoe-trends",
+      "date": "2026-08-10",
+      "title": "Vogue 셀렉트 신호: F/W 2026 키튼 힐·T스트랩·슬리퍼 편성",
+      "summary": "Vogue Shopping은 F/W 2026 신발을 키튼 힐, 포인티드 펌프, 조형적 힐, T스트랩과 슬리퍼로 나눠 상품 구매 링크와 함께 편성했다. Celine·Prada·Proenza Schouler는 키튼 힐을 장식과 하드웨어로 변형했고, Gucci·Ralph Lauren·Conner Ives는 퍼 안감과 패턴·자수를 사용한 슬리퍼를 선보였다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "US OPEN",
-        "TENNIS STYLE",
-        "SPORTSWEAR",
-        "SHOPPING EDIT"
+        "F/W 2026",
+        "KITTEN HEEL",
+        "T-STRAP",
+        "SLIPPER"
       ]
     },
     {
-      "id": "2026-08-09-paros-villa-sol-mare",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
-      "date": "2026-08-09",
-      "title": "파로스 전통 재료와 옥상 수영장을 결합한 Villa Sol Mare",
-      "summary": "Isola Studio는 그리스 파로스섬 나우사의 90㎡ 키클라데스 주택 Villa Sol Mare를 침실과 욕실 각 세 개를 갖춘 집으로 재구성했다. 손으로 바른 질감 플라스터, 목재 창호, 에게해색 셔터, 테라코타 바닥과 목공을 사용하고, 배럴 볼트 아래에는 맞춤 월넛 수납을 넣었다. 지붕을 보강해 수영장과 테라스, 토착 식재를 추가했다.",
+      "id": "2026-08-10-beams-subu-collaboration",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1536209649822446912",
+      "date": "2026-08-10",
+      "title": "무신사 신호: Beams × Subu 기념 샌들",
+      "summary": "Beams 창립 50주년과 Subu 론칭 10주년을 기념한 한정판 샌들 두 종류가 공개됐다. 애니멀 패턴 제품은 레오파드·파이톤·타이거로 구성하고 내측 기모와 4층 인솔을 적용했으며, 다른 제품은 페이크 무톤과 퍼 안감으로 무스탕 재킷을 재해석했다. 컬렉션은 Beams 공식 웹사이트에서 주문받아 9월 초부터 순차 배송한다.",
       "keywords": [
-        "CYCLADIC HOUSE",
-        "TEXTURED PLASTER",
-        "TERRACOTTA",
-        "WALNUT JOINERY",
-        "ROOFTOP POOL"
+        "SELECT SHOP SIGNAL",
+        "BEAMS",
+        "SUBU",
+        "ANNIVERSARY COLLABORATION",
+        "FAKE MOUTON"
       ]
     },
     {
-      "id": "2026-08-09-hyatt-regency-olympia",
+      "id": "2026-08-10-accessible-bag-shopping-edit",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/10/%EA%B0%80%EA%B2%A9-%EB%8C%80%EB%B9%84-%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%B0%B1-28/",
+      "date": "2026-08-10",
+      "title": "Vogue Korea 셀렉트 신호: SPA·컨템퍼러리 백 28종",
+      "summary": "Vogue Korea는 Zara·Massimo Dutti·COS·Mango 등 합리적 가격대 브랜드의 가방 28종을 구매 링크와 함께 편성했다. 여름용 스트라이프·라피아·메시 백과 다음 계절을 위한 브라운 레더·숄더·볼링·스웨이드 백으로 구분했다.",
+      "keywords": [
+        "SELECT SHOP SIGNAL",
+        "HANDBAG EDIT",
+        "SPA BRANDS",
+        "RAFFIA",
+        "BROWN LEATHER"
+      ]
+    },
+    {
+      "id": "2026-08-10-cottage-annexe",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/travel/hotels/hyatt-regency-london-olympia-review",
-      "date": "2026-08-09",
-      "title": "1937년 주차장을 아르데코 호텔로 전환한 Hyatt Regency London Olympia",
-      "summary": "Hyatt Regency London Olympia는 1937년 주차장 건물의 초기 모더니즘 외관을 보존하면서 204실 호텔로 전환한 프로젝트다. Twenty2degrees는 브러시드 브라스 프레임의 리디드 글라스, 둥근 모서리 가구와 리브드 기둥을 사용해 절제된 아르데코 요소를 내부에 적용했다.",
+      "sourceUrl": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
+      "date": "2026-08-10",
+      "title": "두 중정으로 협소 부지를 연결한 런던 Cottage Annexe",
+      "summary": "OGA는 런던 보존지구의 기존 2층 코티지를 보수하고 단층 생활 공간과 두 개의 중정을 연결했다. 새 공간에는 오픈형 주방·식당·거실과 원형 창을 두고, 외부에는 아연 클래딩과 런던 스톡 벽돌을 사용했다. 내부의 맞춤 수납, 노출 천장 보와 높이 변화는 미드센추리 분위기를 만든다.",
       "keywords": [
-        "ADAPTIVE REUSE",
-        "ART DECO",
-        "REEDED GLASS",
-        "BRUSHED BRASS",
-        "HOTEL INTERIOR"
+        "INFILL HOUSE",
+        "COURTYARD",
+        "LONDON STOCK BRICK",
+        "BESPOKE CABINETRY",
+        "MID-CENTURY"
+      ]
+    },
+    {
+      "id": "2026-08-10-casa-limoneros",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1182410/casa-limoneros",
+      "date": "2026-08-10",
+      "title": "탄화 전나무와 연속 대리석으로 구성한 Casa Limoneros",
+      "summary": "Quaterna Arquitectos는 Valle de Bravo의 전통 경사지붕을 현대적으로 해석해 Casa Limoneros를 두 개의 독립된 단층 볼륨으로 구성했다. 현지산 오야멜 전나무 보와 판재를 전통 방식으로 탄화해 짙은 회색과 검정의 재료 팔레트를 만들었다. Santo Tomás 대리석을 실내 바닥과 테라스에 연속 적용하고, 벽과 지붕 사이의 고측창으로 부드러운 자연광을 들였다.",
+      "keywords": [
+        "CHARRED TIMBER",
+        "OYAMEL FIR",
+        "SANTO TOMAS MARBLE",
+        "CLERESTORY",
+        "RESIDENTIAL INTERIOR"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-10T07:59:58+09:00",
+      "briefingDate": "2026-08-10",
+      "generatedAt": "2026-08-10T07:59:58+09:00",
+      "cards": [
+        {
+          "id": "2026-08-09-balenciaga-bridal-couture",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/tallulah-willis-balenciaga-wedding-dress-final-fitting",
+          "date": "2026-08-09",
+          "title": "Pierpaolo Piccioli가 설계한 Balenciaga 초기 브라이덜 꾸뛰르",
+          "summary": "Balenciaga 크리에이티브 디렉터 Pierpaolo Piccioli는 Tallulah Willis를 위한 맞춤 웨딩드레스를 제작했으며, 이는 그가 현 직책에서 만든 초기 브라이덜 가운 중 하나다. 실크 새틴의 스트랩리스 칼럼 드레스는 실크 오간자로 받치고 드레이프 트레인과 뒤 리본을 더했다. 드레스에는 총 712시간이 투입됐고, 오간자 꽃잎은 개별 비딩한 뒤 손으로 하나씩 부착했다.",
+          "keywords": [
+            "BALENCIAGA",
+            "PIERPAOLO PICCIOLI",
+            "BRIDAL COUTURE",
+            "SILK SATIN",
+            "HAND EMBROIDERY"
+          ]
+        },
+        {
+          "id": "2026-08-09-aw26-transformation",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/september-2026-style-issue-cover-shoot-aw-2026-trend",
+          "date": "2026-08-09",
+          "title": "A/W 2026 컬렉션이 제시한 변신과 정체성",
+          "summary": "Wallpaper*는 A/W 2026 시즌에서 Chanel의 나비 변신, Prada의 레이어 제거, Givenchy·Dior·Valentino의 연극성, Saint Laurent의 재해석된 Le Smoking을 연결해 옷의 변신 능력을 조명했다. 커버 촬영은 드라마틱한 실루엣과 실크·레이스·시어링 질감을 사용해 한 모델이 여러 정체성으로 바뀌는 장면을 구성했다.",
+          "keywords": [
+            "A/W 2026",
+            "CHANEL",
+            "PRADA",
+            "LE SMOKING",
+            "SILHOUETTE"
+          ]
+        },
+        {
+          "id": "2026-08-09-fforme-organza-dress",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/katie-holmes-guild-hall-gala-jason-bard-yarmosky",
+          "date": "2026-08-09",
+          "title": "Fforme F/W 2026 오간자 드레스의 여름 전환",
+          "summary": "Katie Holmes는 Fforme의 2026년 가을 컬렉션에 포함된 실크·코튼 오간자 스트랩리스 드레스를 여름 갈라에 착용했다. 드레스는 레이어와 질감을 강조했으며, Tory Burch의 Fleming 디스트레스드 포셰트 백을 함께 매치했다.",
+          "keywords": [
+            "FFORME",
+            "F/W 2026",
+            "SILK COTTON ORGANZA",
+            "TORY BURCH",
+            "TEXTURE"
+          ]
+        },
+        {
+          "id": "2026-08-09-us-open-shopping-edit",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/what-to-wear-to-the-us-open",
+          "date": "2026-08-09",
+          "title": "Vogue 셀렉트 신호: US 오픈용 테니스·프레피 상품 편성",
+          "summary": "Vogue Shopping은 2026 US 오픈 관람용으로 테니스 드레스, 폴로 셔츠, 플리츠 스커트와 스니커즈를 묶은 상품 편성을 제시했다. Nike, Adidas Originals × Song for the Mute, On × Zendaya, Vivienne Westwood, Polo Ralph Lauren 제품이 포함됐으며 각 상품 구매 링크를 연결했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "US OPEN",
+            "TENNIS STYLE",
+            "SPORTSWEAR",
+            "SHOPPING EDIT"
+          ]
+        },
+        {
+          "id": "2026-08-09-paros-villa-sol-mare",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/paros-house-island-greece",
+          "date": "2026-08-09",
+          "title": "파로스 전통 재료와 옥상 수영장을 결합한 Villa Sol Mare",
+          "summary": "Isola Studio는 그리스 파로스섬 나우사의 90㎡ 키클라데스 주택 Villa Sol Mare를 침실과 욕실 각 세 개를 갖춘 집으로 재구성했다. 손으로 바른 질감 플라스터, 목재 창호, 에게해색 셔터, 테라코타 바닥과 목공을 사용하고, 배럴 볼트 아래에는 맞춤 월넛 수납을 넣었다. 지붕을 보강해 수영장과 테라스, 토착 식재를 추가했다.",
+          "keywords": [
+            "CYCLADIC HOUSE",
+            "TEXTURED PLASTER",
+            "TERRACOTTA",
+            "WALNUT JOINERY",
+            "ROOFTOP POOL"
+          ]
+        },
+        {
+          "id": "2026-08-09-hyatt-regency-olympia",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/travel/hotels/hyatt-regency-london-olympia-review",
+          "date": "2026-08-09",
+          "title": "1937년 주차장을 아르데코 호텔로 전환한 Hyatt Regency London Olympia",
+          "summary": "Hyatt Regency London Olympia는 1937년 주차장 건물의 초기 모더니즘 외관을 보존하면서 204실 호텔로 전환한 프로젝트다. Twenty2degrees는 브러시드 브라스 프레임의 리디드 글라스, 둥근 모서리 가구와 리브드 기둥을 사용해 절제된 아르데코 요소를 내부에 적용했다.",
+          "keywords": [
+            "ADAPTIVE REUSE",
+            "ART DECO",
+            "REEDED GLASS",
+            "BRUSHED BRASS",
+            "HOTEL INTERIOR"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-09T08:05:10+09:00",
       "briefingDate": "2026-08-09",
