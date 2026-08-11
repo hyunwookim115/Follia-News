@@ -1,181 +1,358 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-11T08:01:17+09:00",
-  "briefingDate": "2026-08-11",
+  "generatedAt": "2026-08-12T08:01:09+09:00",
+  "briefingDate": "2026-08-12",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-10-juunj-china-expansion",
+      "id": "2026-08-11-fila-ojos-fourth-collaboration",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "삼성물산 뉴스룸",
-      "sourceUrl": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%ED%8C%A8%EC%85%98%EB%B6%80%EB%AC%B8/2026-08-%EC%82%BC%EC%84%B1%EB%AC%BC%EC%82%B0-%ED%8C%A8%EC%85%98%EB%B6%80%EB%AC%B8-%EC%A4%80%EC%A7%80-%EC%A4%91%EA%B5%AD-%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%8B%9C%EC%9E%A5-%EB%B3%B8%EA%B2%A9-%EC%A7%84%EC%B6%9C/",
-      "date": "2026-08-10",
-      "title": "준지, 중국 유통 파트너십과 베이징 단독 매장으로 중화권 확장",
-      "summary": "준지는 미스토홀딩스와 중화권 유통 사업의 전략적 파트너십을 체결하고 베이징 싼리툰 타이쿠리에 신규 매장을 열었다. 중국 전용 상품을 일부 출시하고 현지 서예 아티스트가 한글·영문·중문 브랜드명을 조합한 이미지를 매장 디지털 사이니지에 적용했다. 7월에는 티몰 입점과 청두점 개점을 마쳤으며 연말까지 매장 한 곳을 추가할 계획이다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12123842",
+      "date": "2026-08-11 10:51",
+      "title": "휠라 × 오호스, 발레와 퍼포먼스 러닝을 결합한 네 번째 협업",
+      "summary": "휠라는 국내 디자이너 브랜드 오호스와 네 번째 협업 컬렉션을 공개했다. 협업은 발레의 유연한 움직임과 퍼포먼스 러닝의 에너지를 결합했으며, 길이 조절이 가능한 두 개의 벨크로 스트랩과 리본 디테일을 적용한 발레 스타일 스니커즈를 대표 제품으로 제시했다.",
       "keywords": [
-        "JUUN.J",
-        "CHINA MARKET",
-        "RETAIL EXPANSION",
-        "TMALL",
-        "CHINA EXCLUSIVE"
+        "FILA",
+        "OJOS",
+        "K-FASHION",
+        "BALLET SNEAKERS",
+        "COLLABORATION"
       ]
     },
     {
-      "id": "2026-08-10-la-bagatelle-selvedge-denim",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/cowgirls-of-copenhagen-la-bagatelle-launches-japanese-selvedge-jeans",
-      "date": "2026-08-10",
-      "title": "La Bagatelle, 일본 셀비지 데님으로 첫 진 컬렉션 출시",
-      "summary": "La Bagatelle은 일본에서 생산한 단단한 셀비지 데님으로 브랜드의 첫 청바지 ‘Jimmy jeans’를 출시했다. Malene Malling은 슬림하면서 남성복처럼 테일러드된 핏을 개발했으며, 진한 색과 4년간 입은 모습을 표현한 밝은 워시를 함께 선보였다. 브랜드는 실루엣을 유지하고 세계 각지에서 조달한 직물을 바꾸는 방식으로 한정된 스타일을 전개한다.",
-      "keywords": [
-        "LA BAGATELLE",
-        "JAPANESE SELVEDGE",
-        "DENIM",
-        "TAILORED FIT",
-        "SPRING 2027"
-      ]
-    },
-    {
-      "id": "2026-08-10-sezane-brand-reset",
+      "id": "2026-08-11-sherris-trim-deadstock-menswear",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane",
-      "date": "2026-08-10",
-      "title": "Sézane, 성장 속도를 낮추고 소재와 디자인을 성숙하게 재정비",
-      "summary": "Sézane은 더 느리고 의도적인 운영을 위해 신상품을 월 단위로 내되 편집된 수량으로 축소한다. 브랜드는 더 높은 품질의 소재에 투자하고 소프트한 곡선에 각진 어깨와 직선 칼라를 병치한 방향을 제시했다. 새 로고와 웹사이트는 8월 19일 공개되며, 실크 스카프와 캔버스 백을 시작으로 전체 컬렉션이 이달 안에 출시된다.",
+      "sourceUrl": "https://www.vogue.com/article/sherris-trim-menswear-sustainable-polos-swim",
+      "date": "2026-08-11",
+      "title": "Sherris × Trim, 데드스톡과 재생 나일론으로 남성 여름 컬렉션 전개",
+      "summary": "뉴욕 디자이너 Maayan Sherris는 LA 브랜드 Trim의 Richard Xiang과 협업해 처음으로 남성복에 진출했다. Sherris는 재생 나일론으로 수영복·티셔츠·클라이밍 팬츠를 만들고, Trim은 데드스톡 코튼으로 폴로 셔츠를 구성했다. Sherris는 나일론이 가볍고 빨리 마르는 특성을 컬렉션의 활동성에 연결했다.",
       "keywords": [
-        "SEZANE",
-        "BRAND RESET",
-        "MATERIAL QUALITY",
-        "MONTHLY DROPS",
-        "NEW LOGO"
+        "SHERRIS",
+        "TRIM",
+        "DEADSTOCK",
+        "RECYCLED NYLON",
+        "MENSWEAR"
       ]
     },
     {
-      "id": "2026-08-10-hermes-london-maison",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/hermes-london-maison-pierre-alexis-dumas-interview",
-      "date": "2026-08-10",
-      "title": "Hermès, 런던의 여섯 보존 건물을 55실 Maison으로 통합",
-      "summary": "Hermès는 런던 뉴 본드 스트리트의 Grade II 보존 건물 여섯 동을 연결해 5개 층과 두 개의 옥상 테라스, 55개 방으로 구성된 Maison을 완성했다. Rena Dumas Architecture Intérieure는 영국 장인과 협업해 짚·말총 마케트리, 랭커셔산 질감 벽지, 파티나 구리 패널과 육각 오크 파켓을 내부에 적용했다.",
-      "keywords": [
-        "HERMES",
-        "LONDON MAISON",
-        "RETAIL DESIGN",
-        "CRAFT",
-        "MATERIAL PALETTE"
-      ]
-    },
-    {
-      "id": "2026-08-10-copenhagen-flipflop-socks",
+      "id": "2026-08-11-sson-climate-resortwear",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/10/%EC%9A%94%EC%A6%98-%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90-%EB%A9%8B%EC%9F%81%EC%9D%B4%EB%93%A4%EC%9D%80-%EC%AA%BC%EB%A6%AC%EC%97%90-%EC%96%91%EB%A7%90%EC%9D%84-%EC%8B%A0%EC%8A%B5%EB%8B%88%EB%8B%A4/",
-      "date": "2026-08-10",
-      "title": "코펜하겐 2027 S/S에서 확장된 플립플롭과 컷아웃 삭스",
-      "summary": "코펜하겐 2027 S/S 패션위크에서는 Studio Constance가 엄지발가락만 가린 힐 플립플롭을 선보였다. 스트리트 스타일에는 뒤꿈치가 열린 니삭스와 발가락·뒤꿈치를 노출한 오픈토 양말이 등장했으며, 기사는 Miu Miu 2025 S/S의 컷아웃 삭스와 오픈토 슈즈 조합을 선행 사례로 제시했다.",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/11/%EA%B8%B0%ED%9B%84%EB%B3%80%ED%99%94-%EC%9D%B4%EC%A0%A0-%EB%95%80%EC%9E%90%EA%B5%AD%EC%9D%B4-%ED%8C%A8%EC%85%98%EC%9D%B4-%EB%90%A9%EB%8B%88%EB%8B%A4/",
+      "date": "2026-08-11",
+      "title": "Sson 2027 S/S, 기후변화 이후의 리조트웨어를 상상",
+      "summary": "스웨덴 디자이너 Yulia Kjellsson의 브랜드 Sson은 코펜하겐 2027 S/S 패션위크에서 기후변화를 직접 다룬 컬렉션을 선보였다. 20세기 여행 광고와 리조트 화보에서 출발해 땀자국이 남은 티셔츠와 큰 여행 가방 등 변화한 휴가의 모습을 옷과 쇼 공간에 반영했고, 모래 무대에는 쓰레기를 섞었다.",
       "keywords": [
+        "SSON",
         "COPENHAGEN FASHION WEEK",
         "SPRING 2027",
-        "FLIP-FLOPS",
-        "CUTOUT SOCKS",
-        "STUDIO CONSTANCE"
+        "CLIMATE CHANGE",
+        "RESORTWEAR"
       ]
     },
     {
-      "id": "2026-08-10-fall-shoe-shopping-edit",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
+      "id": "2026-08-11-exemplar-luxury-retail-reset",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/fall-2026-shoe-trends",
-      "date": "2026-08-10",
-      "title": "Vogue 셀렉트 신호: F/W 2026 키튼 힐·T스트랩·슬리퍼 편성",
-      "summary": "Vogue Shopping은 F/W 2026 신발을 키튼 힐, 포인티드 펌프, 조형적 힐, T스트랩과 슬리퍼로 나눠 상품 구매 링크와 함께 편성했다. Celine·Prada·Proenza Schouler는 키튼 힐을 장식과 하드웨어로 변형했고, Gucci·Ralph Lauren·Conner Ives는 퍼 안감과 패턴·자수를 사용한 슬리퍼를 선보였다.",
+      "sourceUrl": "https://www.vogue.com/article/exemplar-luxury-group-is-ready-to-win-back-brands-and-vics",
+      "date": "2026-08-11",
+      "title": "Exemplar Luxury Group, 브랜드 신뢰와 고객 경험 재구축",
+      "summary": "Saks Global에서 이름을 바꾼 Exemplar Luxury Group은 파산 절차 종료 후 Saks Fifth Avenue·Neiman Marcus·Bergdorf Goodman의 브랜드와 고객 신뢰 회복에 나섰다. 회사는 컬렉션과 큐레이션, 통합 리테일, 2,500만 명의 럭셔리 소비자 데이터를 핵심 축으로 제시하고 매장·온라인·판매사원 거래를 연결하며 AI로 개인화 서비스를 확장할 계획이라고 밝혔다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "F/W 2026",
-        "KITTEN HEEL",
-        "T-STRAP",
-        "SLIPPER"
+        "EXEMPLAR LUXURY GROUP",
+        "SAKS FIFTH AVENUE",
+        "NEIMAN MARCUS",
+        "OMNICHANNEL",
+        "CLIENTELING"
       ]
     },
     {
-      "id": "2026-08-10-beams-subu-collaboration",
+      "id": "2026-08-11-india-genz-luxury-retail",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/indias-gen-z-is-rewriting-the-luxury-playbook",
+      "date": "2026-08-11",
+      "title": "인도 Z세대가 바꾸는 럭셔리 편성과 매장 경험",
+      "summary": "인도 럭셔리 유통사들은 Z세대가 브랜드명보다 창의적 정체성, 문화적 관련성, 협업과 제품의 이야기를 본다고 설명했다. Tata Cliq Luxury는 액세서리·신발·뷰티를 진입 카테고리로, 의류에서는 티셔츠와 캐주얼 셔츠 같은 일상적 기본품을 주요 구매군으로 제시했다. 기사에 인용된 유통사들은 디지털이 인지도를 만들고 오프라인 매장이 공예·원단·핏을 확인하는 역할을 한다고 말했다.",
+      "keywords": [
+        "INDIA",
+        "GEN Z",
+        "LUXURY RETAIL",
+        "ASSORTMENT",
+        "PHYGITAL"
+      ]
+    },
+    {
+      "id": "2026-08-11-musinsa-standard-ssg-landers",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1536209649822446912",
-      "date": "2026-08-10",
-      "title": "무신사 신호: Beams × Subu 기념 샌들",
-      "summary": "Beams 창립 50주년과 Subu 론칭 10주년을 기념한 한정판 샌들 두 종류가 공개됐다. 애니멀 패턴 제품은 레오파드·파이톤·타이거로 구성하고 내측 기모와 4층 인솔을 적용했으며, 다른 제품은 페이크 무톤과 퍼 안감으로 무스탕 재킷을 재해석했다. 컬렉션은 Beams 공식 웹사이트에서 주문받아 9월 초부터 순차 배송한다.",
+      "sourceUrl": "https://www.musinsa.com/content/1531889305729170536",
+      "date": "2026-08-11",
+      "title": "무신사 신호: 무신사 스탠다드 × SSG랜더스 ‘무한인천’",
+      "summary": "무신사는 무신사 스탠다드와 SSG랜더스가 야구 유니폼의 구조를 일상용 베이스볼 웨어로 확장한 ‘무한인천’ 컬렉션을 소개했다. 피그먼트 다이드 베이스볼 셔츠·티셔츠·후디드 집업에 차콜 그레이와 서로 다른 그래픽을 적용하고, MA-1 보머 재킷·볼캡·드로스트링 백·머플러를 더했다. 컬렉션은 무신사 온라인과 송도·잠실 오프라인 매장에서 판매한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "BEAMS",
-        "SUBU",
-        "ANNIVERSARY COLLABORATION",
-        "FAKE MOUTON"
+        "MUSINSA STANDARD",
+        "SSG LANDERS",
+        "BASEBALL WEAR",
+        "PIGMENT DYE"
       ]
     },
     {
-      "id": "2026-08-10-accessible-bag-shopping-edit",
+      "id": "2026-08-11-gramicci-nonnative-linen-cotton",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/10/%EA%B0%80%EA%B2%A9-%EB%8C%80%EB%B9%84-%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%B0%B1-28/",
-      "date": "2026-08-10",
-      "title": "Vogue Korea 셀렉트 신호: SPA·컨템퍼러리 백 28종",
-      "summary": "Vogue Korea는 Zara·Massimo Dutti·COS·Mango 등 합리적 가격대 브랜드의 가방 28종을 구매 링크와 함께 편성했다. 여름용 스트라이프·라피아·메시 백과 다음 계절을 위한 브라운 레더·숄더·볼링·스웨이드 백으로 구분했다.",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1536573388185254751",
+      "date": "2026-08-11",
+      "title": "무신사 신호: Gramicci × Nonnative 리넨 코튼 팬츠",
+      "summary": "무신사는 Gramicci와 Nonnative의 2026 여름 협업 팬츠 컬렉션을 소개했다. 워커 ST 이지 팬츠와 워커 이지 쇼츠는 리넨·코튼 혼방 옥스퍼드 원단을 사용하며, 기사에서는 거친 질감과 땀 흡수력, 착용에 따라 몸에 길드는 특성을 설명했다. 컬렉션은 8월 중순 두 브랜드 공식 숍과 일부 지정 매장에서 발매될 예정이다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "HANDBAG EDIT",
-        "SPA BRANDS",
-        "RAFFIA",
-        "BROWN LEATHER"
+        "GRAMICCI",
+        "NONNATIVE",
+        "LINEN COTTON",
+        "OXFORD FABRIC"
       ]
     },
     {
-      "id": "2026-08-10-cottage-annexe",
+      "id": "2026-08-11-bellier-fw26-layering",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1534803181204185714",
+      "date": "2026-08-11",
+      "title": "무신사 신호: Bellier F/W 2026의 톤온톤 레이어링",
+      "summary": "무신사는 Bellier의 F/W 2026 브랜드 필름과 컬렉션을 공개했다. Bellier는 같은 톤 안에서 서로 다른 원단을 겹치고, 클래식 테일러링에 거친 텍스처를 더하며, 절제된 색 안에서 소재 대비가 드러나도록 구성했다고 밝혔다.",
+      "keywords": [
+        "SELECT SHOP SIGNAL",
+        "BELLIER",
+        "F/W 2026",
+        "LAYERING",
+        "TEXTURE"
+      ]
+    },
+    {
+      "id": "2026-08-11-wink-optometrist-interior",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
-      "date": "2026-08-10",
-      "title": "두 중정으로 협소 부지를 연결한 런던 Cottage Annexe",
-      "summary": "OGA는 런던 보존지구의 기존 2층 코티지를 보수하고 단층 생활 공간과 두 개의 중정을 연결했다. 새 공간에는 오픈형 주방·식당·거실과 원형 창을 두고, 외부에는 아연 클래딩과 런던 스톡 벽돌을 사용했다. 내부의 맞춤 수납, 노출 천장 보와 높이 변화는 미드센추리 분위기를 만든다.",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/interior-design/optometrist-office-australia-wink-brud-studia",
+      "date": "2026-08-11",
+      "title": "카운터 대신 주방을 둔 WINK 안경원",
+      "summary": "Brud Studia는 멜버른 WINK 안경원을 전통적인 판매 공간 대신 가상의 인물이 사는 집처럼 설계했다. 판매 카운터를 중앙 아일랜드가 있는 주방으로 바꾸고, 스테인리스 스틸·원색 블록·목재 가구·수집형 디자인 오브제를 조합했다. 붉은 래커 수납장, 작은 모자이크 타일, 서랍과 손잡이, 반사 재료를 사용해 공간이 단계적으로 드러나도록 구성했다.",
       "keywords": [
-        "INFILL HOUSE",
-        "COURTYARD",
-        "LONDON STOCK BRICK",
-        "BESPOKE CABINETRY",
-        "MID-CENTURY"
+        "RETAIL INTERIOR",
+        "BRUD STUDIA",
+        "KITCHEN ISLAND",
+        "LACQUERED CABINETRY",
+        "REFLECTIVE MATERIALS"
       ]
     },
     {
-      "id": "2026-08-10-casa-limoneros",
+      "id": "2026-08-11-house-in-kinuta-custom-furniture",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1182410/casa-limoneros",
-      "date": "2026-08-10",
-      "title": "탄화 전나무와 연속 대리석으로 구성한 Casa Limoneros",
-      "summary": "Quaterna Arquitectos는 Valle de Bravo의 전통 경사지붕을 현대적으로 해석해 Casa Limoneros를 두 개의 독립된 단층 볼륨으로 구성했다. 현지산 오야멜 전나무 보와 판재를 전통 방식으로 탄화해 짙은 회색과 검정의 재료 팔레트를 만들었다. Santo Tomás 대리석을 실내 바닥과 테라스에 연속 적용하고, 벽과 지붕 사이의 고측창으로 부드러운 자연광을 들였다.",
+      "sourceUrl": "https://www.archdaily.com/1182330/house-in-kinuta-kenta-hirayama-architect-and-associates",
+      "date": "2026-08-11",
+      "title": "맞춤 밤나무 식탁과 반사 조명을 품은 House in Kinuta",
+      "summary": "도쿄 House in Kinuta는 2층 목조 맞배지붕 주택으로, 1층의 복층고 미디어 아틀리에와 2층의 거실·식당·주방으로 구성됐다. 남측 베이윈도에는 계절별 직사광을 부드럽게 확산하는 블라인드를 통합했고, 집 중앙의 밤나무 식탁과 반사판이 있는 조명은 공간에 맞춰 별도 제작했다.",
       "keywords": [
-        "CHARRED TIMBER",
-        "OYAMEL FIR",
-        "SANTO TOMAS MARBLE",
-        "CLERESTORY",
-        "RESIDENTIAL INTERIOR"
+        "HOUSE IN KINUTA",
+        "CUSTOM FURNITURE",
+        "CHESTNUT TABLE",
+        "BAY WINDOW",
+        "DIFFUSED LIGHT"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-11T08:01:17+09:00",
+      "briefingDate": "2026-08-11",
+      "generatedAt": "2026-08-11T08:01:17+09:00",
+      "cards": [
+        {
+          "id": "2026-08-10-juunj-china-expansion",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "삼성물산 뉴스룸",
+          "sourceUrl": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%ED%8C%A8%EC%85%98%EB%B6%80%EB%AC%B8/2026-08-%EC%82%BC%EC%84%B1%EB%AC%BC%EC%82%B0-%ED%8C%A8%EC%85%98%EB%B6%80%EB%AC%B8-%EC%A4%80%EC%A7%80-%EC%A4%91%EA%B5%AD-%EB%9F%AD%EC%85%94%EB%A6%AC-%EC%8B%9C%EC%9E%A5-%EB%B3%B8%EA%B2%A9-%EC%A7%84%EC%B6%9C/",
+          "date": "2026-08-10",
+          "title": "준지, 중국 유통 파트너십과 베이징 단독 매장으로 중화권 확장",
+          "summary": "준지는 미스토홀딩스와 중화권 유통 사업의 전략적 파트너십을 체결하고 베이징 싼리툰 타이쿠리에 신규 매장을 열었다. 중국 전용 상품을 일부 출시하고 현지 서예 아티스트가 한글·영문·중문 브랜드명을 조합한 이미지를 매장 디지털 사이니지에 적용했다. 7월에는 티몰 입점과 청두점 개점을 마쳤으며 연말까지 매장 한 곳을 추가할 계획이다.",
+          "keywords": [
+            "JUUN.J",
+            "CHINA MARKET",
+            "RETAIL EXPANSION",
+            "TMALL",
+            "CHINA EXCLUSIVE"
+          ]
+        },
+        {
+          "id": "2026-08-10-la-bagatelle-selvedge-denim",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/cowgirls-of-copenhagen-la-bagatelle-launches-japanese-selvedge-jeans",
+          "date": "2026-08-10",
+          "title": "La Bagatelle, 일본 셀비지 데님으로 첫 진 컬렉션 출시",
+          "summary": "La Bagatelle은 일본에서 생산한 단단한 셀비지 데님으로 브랜드의 첫 청바지 ‘Jimmy jeans’를 출시했다. Malene Malling은 슬림하면서 남성복처럼 테일러드된 핏을 개발했으며, 진한 색과 4년간 입은 모습을 표현한 밝은 워시를 함께 선보였다. 브랜드는 실루엣을 유지하고 세계 각지에서 조달한 직물을 바꾸는 방식으로 한정된 스타일을 전개한다.",
+          "keywords": [
+            "LA BAGATELLE",
+            "JAPANESE SELVEDGE",
+            "DENIM",
+            "TAILORED FIT",
+            "SPRING 2027"
+          ]
+        },
+        {
+          "id": "2026-08-10-sezane-brand-reset",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane",
+          "date": "2026-08-10",
+          "title": "Sézane, 성장 속도를 낮추고 소재와 디자인을 성숙하게 재정비",
+          "summary": "Sézane은 더 느리고 의도적인 운영을 위해 신상품을 월 단위로 내되 편집된 수량으로 축소한다. 브랜드는 더 높은 품질의 소재에 투자하고 소프트한 곡선에 각진 어깨와 직선 칼라를 병치한 방향을 제시했다. 새 로고와 웹사이트는 8월 19일 공개되며, 실크 스카프와 캔버스 백을 시작으로 전체 컬렉션이 이달 안에 출시된다.",
+          "keywords": [
+            "SEZANE",
+            "BRAND RESET",
+            "MATERIAL QUALITY",
+            "MONTHLY DROPS",
+            "NEW LOGO"
+          ]
+        },
+        {
+          "id": "2026-08-10-hermes-london-maison",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/hermes-london-maison-pierre-alexis-dumas-interview",
+          "date": "2026-08-10",
+          "title": "Hermès, 런던의 여섯 보존 건물을 55실 Maison으로 통합",
+          "summary": "Hermès는 런던 뉴 본드 스트리트의 Grade II 보존 건물 여섯 동을 연결해 5개 층과 두 개의 옥상 테라스, 55개 방으로 구성된 Maison을 완성했다. Rena Dumas Architecture Intérieure는 영국 장인과 협업해 짚·말총 마케트리, 랭커셔산 질감 벽지, 파티나 구리 패널과 육각 오크 파켓을 내부에 적용했다.",
+          "keywords": [
+            "HERMES",
+            "LONDON MAISON",
+            "RETAIL DESIGN",
+            "CRAFT",
+            "MATERIAL PALETTE"
+          ]
+        },
+        {
+          "id": "2026-08-10-copenhagen-flipflop-socks",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/10/%EC%9A%94%EC%A6%98-%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90-%EB%A9%8B%EC%9F%81%EC%9D%B4%EB%93%A4%EC%9D%80-%EC%AA%BC%EB%A6%AC%EC%97%90-%EC%96%91%EB%A7%90%EC%9D%84-%EC%8B%A0%EC%8A%B5%EB%8B%88%EB%8B%A4/",
+          "date": "2026-08-10",
+          "title": "코펜하겐 2027 S/S에서 확장된 플립플롭과 컷아웃 삭스",
+          "summary": "코펜하겐 2027 S/S 패션위크에서는 Studio Constance가 엄지발가락만 가린 힐 플립플롭을 선보였다. 스트리트 스타일에는 뒤꿈치가 열린 니삭스와 발가락·뒤꿈치를 노출한 오픈토 양말이 등장했으며, 기사는 Miu Miu 2025 S/S의 컷아웃 삭스와 오픈토 슈즈 조합을 선행 사례로 제시했다.",
+          "keywords": [
+            "COPENHAGEN FASHION WEEK",
+            "SPRING 2027",
+            "FLIP-FLOPS",
+            "CUTOUT SOCKS",
+            "STUDIO CONSTANCE"
+          ]
+        },
+        {
+          "id": "2026-08-10-fall-shoe-shopping-edit",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/fall-2026-shoe-trends",
+          "date": "2026-08-10",
+          "title": "Vogue 셀렉트 신호: F/W 2026 키튼 힐·T스트랩·슬리퍼 편성",
+          "summary": "Vogue Shopping은 F/W 2026 신발을 키튼 힐, 포인티드 펌프, 조형적 힐, T스트랩과 슬리퍼로 나눠 상품 구매 링크와 함께 편성했다. Celine·Prada·Proenza Schouler는 키튼 힐을 장식과 하드웨어로 변형했고, Gucci·Ralph Lauren·Conner Ives는 퍼 안감과 패턴·자수를 사용한 슬리퍼를 선보였다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "F/W 2026",
+            "KITTEN HEEL",
+            "T-STRAP",
+            "SLIPPER"
+          ]
+        },
+        {
+          "id": "2026-08-10-beams-subu-collaboration",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1536209649822446912",
+          "date": "2026-08-10",
+          "title": "무신사 신호: Beams × Subu 기념 샌들",
+          "summary": "Beams 창립 50주년과 Subu 론칭 10주년을 기념한 한정판 샌들 두 종류가 공개됐다. 애니멀 패턴 제품은 레오파드·파이톤·타이거로 구성하고 내측 기모와 4층 인솔을 적용했으며, 다른 제품은 페이크 무톤과 퍼 안감으로 무스탕 재킷을 재해석했다. 컬렉션은 Beams 공식 웹사이트에서 주문받아 9월 초부터 순차 배송한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "BEAMS",
+            "SUBU",
+            "ANNIVERSARY COLLABORATION",
+            "FAKE MOUTON"
+          ]
+        },
+        {
+          "id": "2026-08-10-accessible-bag-shopping-edit",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/10/%EA%B0%80%EA%B2%A9-%EB%8C%80%EB%B9%84-%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%B0%B1-28/",
+          "date": "2026-08-10",
+          "title": "Vogue Korea 셀렉트 신호: SPA·컨템퍼러리 백 28종",
+          "summary": "Vogue Korea는 Zara·Massimo Dutti·COS·Mango 등 합리적 가격대 브랜드의 가방 28종을 구매 링크와 함께 편성했다. 여름용 스트라이프·라피아·메시 백과 다음 계절을 위한 브라운 레더·숄더·볼링·스웨이드 백으로 구분했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "HANDBAG EDIT",
+            "SPA BRANDS",
+            "RAFFIA",
+            "BROWN LEATHER"
+          ]
+        },
+        {
+          "id": "2026-08-10-cottage-annexe",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/oga-the-cottage-annexe-north-london",
+          "date": "2026-08-10",
+          "title": "두 중정으로 협소 부지를 연결한 런던 Cottage Annexe",
+          "summary": "OGA는 런던 보존지구의 기존 2층 코티지를 보수하고 단층 생활 공간과 두 개의 중정을 연결했다. 새 공간에는 오픈형 주방·식당·거실과 원형 창을 두고, 외부에는 아연 클래딩과 런던 스톡 벽돌을 사용했다. 내부의 맞춤 수납, 노출 천장 보와 높이 변화는 미드센추리 분위기를 만든다.",
+          "keywords": [
+            "INFILL HOUSE",
+            "COURTYARD",
+            "LONDON STOCK BRICK",
+            "BESPOKE CABINETRY",
+            "MID-CENTURY"
+          ]
+        },
+        {
+          "id": "2026-08-10-casa-limoneros",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1182410/casa-limoneros",
+          "date": "2026-08-10",
+          "title": "탄화 전나무와 연속 대리석으로 구성한 Casa Limoneros",
+          "summary": "Quaterna Arquitectos는 Valle de Bravo의 전통 경사지붕을 현대적으로 해석해 Casa Limoneros를 두 개의 독립된 단층 볼륨으로 구성했다. 현지산 오야멜 전나무 보와 판재를 전통 방식으로 탄화해 짙은 회색과 검정의 재료 팔레트를 만들었다. Santo Tomás 대리석을 실내 바닥과 테라스에 연속 적용하고, 벽과 지붕 사이의 고측창으로 부드러운 자연광을 들였다.",
+          "keywords": [
+            "CHARRED TIMBER",
+            "OYAMEL FIR",
+            "SANTO TOMAS MARBLE",
+            "CLERESTORY",
+            "RESIDENTIAL INTERIOR"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-10T07:59:58+09:00",
       "briefingDate": "2026-08-10",
