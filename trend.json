@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T08:22:59+09:00",
+  "generatedAt": "2026-08-13T08:25:22+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -31,11 +31,11 @@
       "id": "live-eyelet-lace-top",
       "keyword": "EYELET & LACE TOP",
       "category": "MATERIAL",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "레이스·아일렛 소재가 스커트 장식에서 블라우스와 톱의 주재료로 이동하며 흰 탱크톱을 대체하는 초기 확산 신호가 나타났습니다.",
-      "detail": "8월 3~7일 코펜하겐 패션위크에서 레이스 크롭 톱, 케이프 블라우스, 아일렛 탱크가 여러 참석자와 브랜드 주변에서 반복 관찰됐습니다. 기존 UTILITY LACE 항목을 실제 착장 신호와 합쳤습니다.",
+      "summary": "레이스·아일렛 소재가 블라우스와 톱의 주재료로 이동한 뒤, 패션위크 거리와 셀러브리티 착장·쇼핑 편성에서 후속 노출이 이어지고 있습니다.",
+      "detail": "8월 3~7일 코펜하겐 패션위크에서 레이스 크롭 톱, 케이프 블라우스, 아일렛 탱크가 반복 관찰됐고, 8월 12일 Jennifer Lopez의 화이트 아일렛 캐미솔 착장과 유사 상품 편성이 추가로 확인됐습니다. 공개 검색량이나 판매 순위는 없어 반복 노출만 방향 신호로 사용했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · CPHFW EYELET TOPS",
@@ -44,6 +44,10 @@
         {
           "label": "WHO WHAT WEAR · CPHFW STREET STYLE",
           "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
+        },
+        {
+          "label": "INSTYLE · EYELET CAMISOLE FOLLOW-UP",
+          "url": "https://www.instyle.com/jennifer-lopez-boho-free-people-top-12058324"
         }
       ]
     },
