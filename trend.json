@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T08:25:22+09:00",
+  "generatedAt": "2026-08-14T08:58:14+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -59,7 +59,7 @@
       "market": "GLOBAL / KOREA",
       "signal": "PLATFORM",
       "summary": "메쉬·펀칭 발레리나 플랫이 셀러브리티 착장, 패션위크 거리, 글로벌 리테일 편성에서 동시에 반복되고 있습니다.",
-      "detail": "리한나의 메쉬 플랫 착장과 코펜하겐 거리의 펀칭 플랫 반복 노출, KREAM의 국내 상품 노출을 함께 기록했습니다. KREAM 페이지에는 최근 체결 증가가 공개되지 않아 거래 수요 상승으로 해석하지 않았습니다.",
+      "detail": "리한나의 메쉬 플랫 착장과 코펜하겐 거리의 펀칭 플랫 반복 노출에 이어, 8월 13일 공개 Instagram 편집물에서도 메쉬 플랫이 다시 제시됐습니다. KREAM에는 국내 상품 노출이 있으나 최근 체결 증가가 공개되지 않아 거래 수요 상승으로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · MESH BALLET FLATS",
@@ -72,6 +72,10 @@
         {
           "label": "KREAM · MIU MIU MESH BALLERINAS",
           "url": "https://kream.co.kr/products/799756"
+        },
+        {
+          "label": "INSTAGRAM · MESH FLATS FOLLOW-UP",
+          "url": "https://www.instagram.com/p/Db-tO6aiNJq/"
         }
       ]
     },
@@ -83,7 +87,7 @@
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
       "summary": "과장된 배럴·벌룬 진에서 한 단계 정돈된 릴랙스드 스트레이트 데님으로 관심이 이동하는 신호가 확인됩니다.",
-      "detail": "코펜하겐 거리에서 클래식한 스트레이트 진이 반복됐고, 국내 매체의 8월 데님 스타일링 노출도 이어졌습니다. 기존 DENIM VARIATION을 더 구체적인 실루엣 항목으로 정리했으며 판매량 수치는 만들지 않았습니다.",
+      "detail": "코펜하겐 거리에서 클래식한 스트레이트 진이 반복됐고, 8월 13일 보그 코리아가 같은 현장의 헐렁한 데님 착장을 국내 독자에게 다시 노출했습니다. 국내 후속 기사는 ‘릴랙스드’ 방향을 보강하지만 정확한 스트레이트 핏의 판매량을 뜻하지는 않으므로 판매 수치로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -92,6 +96,10 @@
         {
           "label": "VOGUE KOREA · DENIM STYLING",
           "url": "https://www.vogue.co.kr/2026/08/08/%EB%82%A8%EC%9D%80-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EC%B1%85%EC%9E%84%EC%A7%88-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-9/"
+        },
+        {
+          "label": "VOGUE KOREA · RELAXED DENIM FOLLOW-UP",
+          "url": "https://www.vogue.co.kr/2026/08/13/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%97%90%EB%8F%84-%ED%97%90%EB%A0%81%ED%95%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%AA%BB-%EC%9D%B4%EA%B9%81%EB%8B%88%EB%8B%A4/"
         }
       ]
     },
