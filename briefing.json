@@ -1,181 +1,357 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-14T08:05:01+09:00",
-  "briefingDate": "2026-08-14",
+  "generatedAt": "2026-08-15T08:00:29+09:00",
+  "briefingDate": "2026-08-15",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-13-ff-discovery-global-ip",
+      "id": "2026-08-14-wednesday-oasis-kids-autumn-lookbook",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260813147900030",
-      "date": "2026-08-13 16:56",
-      "title": "F&F, 디스커버리 익스페디션 글로벌 상표권·IP 인수",
-      "summary": "F&F는 미국 디스커버리 커뮤니케이션즈로부터 디스커버리 익스페디션의 글로벌 상표권과 관련 지식재산권을 8천만 달러에 인수했다. 대상에는 의류·신발·가방·안경과 소매 서비스 상표권, 도메인, SNS 계정, 마케팅 저작물과 영업권이 포함된다. F&F는 브랜드 영역을 라이프스타일 아웃도어에서 고기능성 의류를 아우르는 ‘액티브 웰니스’로 확장할 계획이다.",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1536615889495503523",
+      "date": "2026-08-14",
+      "title": "웬즈데이오아시스 키즈, 가을로 향하는 2026 룩북 공개",
+      "summary": "웬즈데이오아시스 키즈는 8월 14일 ‘애즈 타임 턴즈 투 오텀’ 룩북을 공개했다. 룩북은 짧아서 더 소중한 가을방학과 천천히 가을을 닮아가는 시간을 주제로 제시한다.",
       "keywords": [
-        "F&F",
-        "DISCOVERY EXPEDITION",
-        "GLOBAL IP",
-        "ACTIVE WELLNESS",
-        "BRAND OWNERSHIP"
+        "WEDNESDAY OASIS KIDS",
+        "2026 LOOKBOOK",
+        "AUTUMN",
+        "KOREAN BRAND"
       ]
     },
     {
-      "id": "2026-08-13-blue-elephant-beverly-hills",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/business/12126448",
-      "date": "2026-08-13 14:00",
-      "title": "블루엘리펀트, 베벌리힐스에 미국 첫 플래그십",
-      "summary": "국내 아이웨어 브랜드 블루엘리펀트는 LA 베벌리힐스에 약 650㎡ 규모의 미국 첫 플래그십을 열었다. 1940년대 건축물과 보우스트링 트러스를 살린 ‘SPACE 2.0’을 적용하고, 캘리포니아 해변·할리우드 사인·베벌리힐스에서 영감을 받은 미국 전용 10개 모델을 선보인다.",
-      "keywords": [
-        "BLUE ELEPHANT",
-        "BEVERLY HILLS",
-        "FLAGSHIP STORE",
-        "SPACE 2.0",
-        "LA EXCLUSIVE"
-      ]
-    },
-    {
-      "id": "2026-08-13-taekwang-modacrylic-expansion",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260813086600003",
-      "date": "2026-08-13 16:47",
-      "title": "태광산업, 패션 소재 모다크릴 생산능력 2.2배 확대",
-      "summary": "태광산업은 울산 모다크릴 생산라인 증설에 1천500억원을 투자해 연간 생산능력을 1만2천t에서 2만6천t으로 확대한다. 신규 설비는 2028년 6월 상업 생산을 시작할 예정이다. 태광산업은 난연성과 가공성을 갖춘 모다크릴을 ‘모다본’이라는 패션 소재 브랜드로 전개하고 있다.",
-      "keywords": [
-        "TAEKWANG INDUSTRIAL",
-        "MODACRYLIC",
-        "MODABON",
-        "FUNCTIONAL FIBER",
-        "CAPACITY EXPANSION"
-      ]
-    },
-    {
-      "id": "2026-08-13-robert-wun-bjork-balloon-couture",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/bjork-robert-wun-balloon-look-solar-eclipse-rave-iceland",
-      "date": "2026-08-13",
-      "title": "Robert Wun, 풍선 소재 꾸뛰르를 Björk 공연 의상으로 재구성",
-      "summary": "Björk는 아이슬란드 개기일식 공연에서 Robert Wun의 F/W 2026 풍선 꾸뛰르를 맞춤 제작한 의상을 입었다. 런던의 풍선 장인들이 크기가 다른 반투명 흰 풍선 약 700개로 공연용 구조를 만들었고, 터진 풍선도 공연 과정의 일부로 받아들이도록 설계했다. Wun은 고무와 풍선도 진지하게 다루면 공예가 될 수 있다고 설명했다.",
-      "keywords": [
-        "ROBERT WUN",
-        "BJORK",
-        "F/W 2026",
-        "BALLOON COUTURE",
-        "PERFORMANCE COSTUME"
-      ]
-    },
-    {
-      "id": "2026-08-13-dior-animated-brand-history",
+      "id": "2026-08-14-aw26-defining-looks",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/miss-dior-animated-film-ugo-bienvenu-interview",
-      "date": "2026-08-13",
-      "title": "Dior, 브랜드 역사와 Miss Dior를 손그림 애니메이션으로 연결",
-      "summary": "Dior Beauty는 Ugo Bienvenu와 함께 Miss Dior의 역사를 다룬 첫 애니메이션 캠페인을 제작했다. 영화는 Catherine Dior와 프로방스에서 받은 영감, 1947년 첫 패션쇼와 향수 공개, 역대 광고 캠페인의 연속성을 세 축으로 구성했다. 배경은 구아슈와 아크릴 물감으로 모두 손으로 제작했다.",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/standout-looks-trends-accessories-aw-2026",
+      "date": "2026-08-14",
+      "title": "2026 F/W, 가벼운 가죽·슬림 실루엣·드롭 웨이스트 부상",
+      "summary": "Wallpaper*는 2026 F/W를 정의한 열 가지 흐름으로 커프링크, 보디컨셔스 드레스, 과장된 칼라, 플랫 슈즈, 턱시도, 시어 레이어, 가벼운 가죽, 슬림 실루엣, 오페라 장갑과 드롭 웨이스트를 선정했다. Tod’s와 Bottega Veneta는 가죽을 유연하고 여유로운 형태로 다뤘고, Prada·Dior·Celine의 남성복에서는 길고 슬림한 선이 두드러졌다. Chanel의 Matthieu Blazy는 일부 허리선을 힙 아래까지 낮췄다.",
       "keywords": [
-        "DIOR",
-        "MISS DIOR",
-        "ANIMATION CAMPAIGN",
-        "BRAND HERITAGE",
-        "HAND-PAINTED"
+        "F/W 2026",
+        "LIGHTWEIGHT LEATHER",
+        "SLIM SILHOUETTE",
+        "DROPPED WAIST",
+        "RUNWAY DESIGN"
       ]
     },
     {
-      "id": "2026-08-13-beams-converse-all-star",
+      "id": "2026-08-14-gen-z-club-brand-activations",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
+      "date": "2026-08-14",
+      "title": "패션 브랜드, Z세대 클럽 문화에서 체험형 접점 확대",
+      "summary": "YSL Beauty는 여러 도시에서 ‘Block Party’를 열었고, Casablanca는 이비사에서 공연 연계 행사와 해변 팝업을 운영했으며, Armani Exchange는 Amnesia 클럽에서 일요일 파티를 진행했다. 기사에 인용된 관계자들은 클럽을 의복·음악·시각 연출이 공유되는 공간으로 설명하면서, 브랜드가 현장 문화를 차용하기보다 이를 만드는 인물과 협업해야 한다고 강조했다.",
+      "keywords": [
+        "GEN Z",
+        "CLUB CULTURE",
+        "EXPERIENTIAL ACTIVATION",
+        "YSL BEAUTY",
+        "CASABLANCA"
+      ]
+    },
+    {
+      "id": "2026-08-14-marc-jacobs-the-swap",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/14/%EB%A7%88%ED%81%AC-%EC%A0%9C%EC%9D%B4%EC%BD%A5%EC%8A%A4%EA%B0%80-%EC%84%A0%EB%B3%B4%EC%9D%B4%EB%8A%94-%ED%8C%A8%EC%85%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%93%9C%EB%9D%BC%EB%A7%88/",
+      "date": "2026-08-14",
+      "title": "Marc Jacobs, 핸드백을 중심에 둔 마이크로 드라마 공개",
+      "summary": "Marc Jacobs는 가을 캠페인을 위해 에피소드형 마이크로 드라마 ‘The Swap’을 공개했다. Rowan Blanchard와 Jemima Kirke가 뉴욕 패션쇼에서 서로의 핸드백을 바꿔 들며 이야기가 시작되고, 브랜드는 이를 정체성과 인식에 대한 탐구라고 설명했다. 추가 에피소드는 가을 시즌 동안 브랜드 소셜 플랫폼에서 공개된다.",
+      "keywords": [
+        "MARC JACOBS",
+        "THE SWAP",
+        "MICRO DRAMA",
+        "HANDBAG",
+        "CAMPAIGN"
+      ]
+    },
+    {
+      "id": "2026-08-14-carmen-busquets-parsons-award",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
+      "date": "2026-08-14",
+      "title": "Carmen Busquets·Parsons, 장애 패션 학생 지원상 신설",
+      "summary": "Carmen Busquets Foundation은 Parsons School of Design과 장애가 있는 패션 학생을 위한 상을 신설했다. 2027/2028 학년도까지 MPS Fashion Management 학생에게 매년 1만2,500달러의 보조금을 제공하고, 수상자는 멘토링과 보조금을 지원하는 Parsons의 Disabled Fashion Student Program에도 참여한다.",
+      "keywords": [
+        "CARMEN BUSQUETS",
+        "PARSONS",
+        "DISABLED FASHION STUDENTS",
+        "FASHION EDUCATION",
+        "GRANT"
+      ]
+    },
+    {
+      "id": "2026-08-14-zara-transitional-drop",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/best-zara-finds",
+      "date": "2026-08-14",
+      "title": "셀렉트 숍 신호: Zara, 늦여름과 초가을을 잇는 신상품",
+      "summary": "Vogue가 소개한 Zara 신상품은 스트라이프 팬츠와 마리니에르 셔츠 같은 늦여름 제품과 카고 팬츠·변형 화이트 셔츠 같은 초가을 기본물을 함께 구성한다. 레이스 트리밍 팬츠와 배럴 레그 진, 스웨이드 블레이저·부츠·로퍼가 포함됐으며, Aaron Levine과의 두 번째 협업도 신상품군에 들어갔다.",
+      "keywords": [
+        "SELECT SHOP SIGNAL",
+        "ZARA",
+        "TRANSITIONAL SEASON",
+        "SUEDE",
+        "AARON LEVINE"
+      ]
+    },
+    {
+      "id": "2026-08-14-noah-converse-jack-purcell",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1537283740642478989",
-      "date": "2026-08-13",
-      "title": "무신사 신호: BEAMS × Converse 1976 All Star",
-      "summary": "무신사는 BEAMS 창립 50주년을 기념한 Converse All Star 특별판을 소개했다. 1976년 모델에서 영감을 받아 워싱 블랙 캔버스, 사이드 스티치, 노치가 있는 앵클 패치와 코튼 레이스를 재현했다. 하이탑과 로우탑은 8월 22일부터 BEAMS 매장과 공식 홈페이지에서 발매된다.",
+      "sourceUrl": "https://www.musinsa.com/content/1537641849267958371",
+      "date": "2026-08-14",
+      "title": "무신사 신호: Noah × Converse Jack Purcell 1935",
+      "summary": "Noah와 Converse는 코튼 어퍼에 Noah의 멀티 컬러 체크 패턴을 적용한 Jack Purcell 1935 협업 모델을 선보였다. 십자 자수와 별도 힐 라벨, 4스티치 힐 스트랩, 비대칭 토가드, 새 해부학적 라스트와 13mm PU 웨지 힐을 적용했다. 8월 21일 일본 Noah 매장과 온라인에서 먼저 발매되고, 26일부터 일본 Converse 채널로 확대된다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "BEAMS",
+        "NOAH",
         "CONVERSE",
-        "ALL STAR",
-        "1976"
+        "JACK PURCELL 1935",
+        "COLLABORATION"
       ]
     },
     {
-      "id": "2026-08-13-29cm-deviwear",
+      "id": "2026-08-14-north-face-ventus-on",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/focus/2026/08/13/deviwear?cache=true",
-      "date": "2026-08-13",
-      "title": "29CM 신호: 데비웨어 애슬레저 기획전",
-      "summary": "29CM는 운동과 일상을 잇는 애슬레저 브랜드 데비웨어의 기획전을 공개했다. 플랫폼은 감각적인 디자인, 편안한 기능성과 부드러운 촉감을 브랜드 특성으로 제시했다. 기획전과 쿠폰은 8월 13일부터 26일까지 운영된다.",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1537720129894714181",
+      "date": "2026-08-14",
+      "title": "무신사 신호: The North Face 경량 패딩 전 컬러 품절",
+      "summary": "The North Face의 Ventus On Jacket은 무신사 전체 랭킹 상위권에 올랐고 현재 모든 색상이 품절됐다. 제품은 경량 원단과 Onball 충전재, 일체형 후드를 사용하며, 새 색상은 무신사에서 먼저 공개됐다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "29CM",
-        "DEVIWEAR",
-        "ATHLEISURE",
-        "PLATFORM CURATION"
+        "THE NORTH FACE",
+        "VENTUS ON JACKET",
+        "LIGHTWEIGHT PADDING",
+        "SOLD OUT"
       ]
     },
     {
-      "id": "2026-08-13-musinsa-bigbang-drop",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260813024200030",
-      "date": "2026-08-13 09:01",
-      "title": "무신사 신호: 빅뱅 20주년 상품 58종 단독 발매",
-      "summary": "무신사는 빅뱅 데뷔 20주년과 2026–2027 월드투어를 기념한 상품 58종을 ‘무신사 드롭’에서 단독 발매한다. 구성은 유니폼·볼캡·토트백·미니 러그·라이트 스틱 쿠션과 응원봉을 포함한다. 8월 14일부터 무신사 메가스토어 성수와 무신사 스탠다드 명동점에서 청음 공간과 포토존을 갖춘 팝업도 연다.",
-      "keywords": [
-        "SELECT SHOP SIGNAL",
-        "MUSINSA DROP",
-        "BIGBANG",
-        "ANNIVERSARY MERCHANDISE",
-        "POP-UP STORE"
-      ]
-    },
-    {
-      "id": "2026-08-13-chinese-handmade-surfaces",
+      "id": "2026-08-14-super-jinjiang-retail",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183160/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors",
-      "date": "2026-08-13",
-      "title": "중국 현대 인테리어가 되살린 불완전한 수공 표면",
-      "summary": "ArchDaily는 중국 현대 인테리어에서 목재의 불규칙성, 테라초 골재, 수공 마감과 하드웨어가 공간 언어로 통합되는 사례를 모았다. 청두 % Arabica는 기존 목재 기둥의 검은 페인트를 벗기고 오래된 회색 벽돌과 불규칙한 수제 벽돌을 결합했다. Art Vessels는 중국 수제 종이를 유리에 적층해 조명과 공간 구획을 겸하는 발광 벽으로 만들었다.",
+      "sourceUrl": "https://www.archdaily.com/1183083/super-jinjiang-colorfull-yujing-design",
+      "date": "2026-08-14",
+      "title": "Super Jinjiang, 지역 브랜드와 문화를 엮은 ‘Super Runway’",
+      "summary": "COLORFULL YUJING DESIGN은 중국 진장의 첫 플래그십 체험 매장을 브랜드·문화·사람이 만나는 ‘Super Runway’로 설계했다. 분할 레벨과 교차 시선으로 탐색형 동선을 만들고, 3층에는 신진 브랜드와 텍스타일 아트를 전시하는 패션 갤러리를 배치했다. 골판 알루미늄·노출 철골·고성능 유리와 모듈식 시공을 사용했으며, 지역 전통 타일의 문양과 색을 금속 마감과 결합했다.",
       "keywords": [
-        "CHINESE INTERIORS",
-        "HANDMADE SURFACE",
-        "TIMBER",
-        "HANDCRAFTED BRICK",
-        "HANDMADE PAPER"
+        "SUPER JINJIANG",
+        "RETAIL INTERIOR",
+        "SUPER RUNWAY",
+        "MODULAR CONSTRUCTION",
+        "TEXTILE ART"
       ]
     },
     {
-      "id": "2026-08-13-emeco-house-adaptive-reuse",
+      "id": "2026-08-14-rageleje-holiday-house",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1181309/emeco-house-david-saik-studio",
-      "date": "2026-08-13",
-      "title": "Emeco House, 봉제공장을 작업·전시·숙박 공간으로 재생",
-      "summary": "david saik studio는 LA 베니스의 옛 봉제공장을 Emeco의 작업·전시·행사 공간과 방문객 숙박 공간으로 전환했다. 기존 구조를 최대한 보존한 뒤 중앙 광정과 천창, 개폐식 유리 패널을 추가해 자연채광과 수동 환기를 확보했다. 현지 제작자들은 맞춤 철제 창호와 수납장, 회반죽 마감, Emeco 공장에서 생산한 하드웨어와 욕실 부속을 제작했다.",
+      "sourceUrl": "https://www.archdaily.com/1183164/holiday-house-in-rageleje-jesper-kusk-arkitekter",
+      "date": "2026-08-14",
+      "title": "Rågeleje 주택, 덴마크 오크와 목구조로 바다·빛을 연결",
+      "summary": "Jesper Kusk Arkitekter는 덴마크 Rågeleje의 바다를 향한 좁고 높은 대지에 장방형 박공지붕 주택을 설계했다. 천창과 동서측 오목한 테라스가 실내 채광과 바람을 피하는 외부 생활 공간을 만들며, 주방과 거실은 Kattegat 전망을 활용하도록 북쪽에 배치했다. 구조 대부분은 목재로 만들고 창과 외장에는 덴마크산 오크를 사용했다.",
       "keywords": [
-        "EMECO HOUSE",
-        "ADAPTIVE REUSE",
-        "FORMER FACTORY",
-        "CUSTOM FABRICATION",
-        "PASSIVE VENTILATION"
+        "RAGELEJE",
+        "TIMBER STRUCTURE",
+        "DANISH OAK",
+        "SKYLIGHT",
+        "HOLIDAY HOUSE"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-14T08:05:01+09:00",
+      "briefingDate": "2026-08-14",
+      "generatedAt": "2026-08-14T08:05:01+09:00",
+      "cards": [
+        {
+          "id": "2026-08-13-ff-discovery-global-ip",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "연합뉴스",
+          "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260813147900030",
+          "date": "2026-08-13 16:56",
+          "title": "F&F, 디스커버리 익스페디션 글로벌 상표권·IP 인수",
+          "summary": "F&F는 미국 디스커버리 커뮤니케이션즈로부터 디스커버리 익스페디션의 글로벌 상표권과 관련 지식재산권을 8천만 달러에 인수했다. 대상에는 의류·신발·가방·안경과 소매 서비스 상표권, 도메인, SNS 계정, 마케팅 저작물과 영업권이 포함된다. F&F는 브랜드 영역을 라이프스타일 아웃도어에서 고기능성 의류를 아우르는 ‘액티브 웰니스’로 확장할 계획이다.",
+          "keywords": [
+            "F&F",
+            "DISCOVERY EXPEDITION",
+            "GLOBAL IP",
+            "ACTIVE WELLNESS",
+            "BRAND OWNERSHIP"
+          ]
+        },
+        {
+          "id": "2026-08-13-blue-elephant-beverly-hills",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "매일경제",
+          "sourceUrl": "https://www.mk.co.kr/news/business/12126448",
+          "date": "2026-08-13 14:00",
+          "title": "블루엘리펀트, 베벌리힐스에 미국 첫 플래그십",
+          "summary": "국내 아이웨어 브랜드 블루엘리펀트는 LA 베벌리힐스에 약 650㎡ 규모의 미국 첫 플래그십을 열었다. 1940년대 건축물과 보우스트링 트러스를 살린 ‘SPACE 2.0’을 적용하고, 캘리포니아 해변·할리우드 사인·베벌리힐스에서 영감을 받은 미국 전용 10개 모델을 선보인다.",
+          "keywords": [
+            "BLUE ELEPHANT",
+            "BEVERLY HILLS",
+            "FLAGSHIP STORE",
+            "SPACE 2.0",
+            "LA EXCLUSIVE"
+          ]
+        },
+        {
+          "id": "2026-08-13-taekwang-modacrylic-expansion",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "연합뉴스",
+          "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260813086600003",
+          "date": "2026-08-13 16:47",
+          "title": "태광산업, 패션 소재 모다크릴 생산능력 2.2배 확대",
+          "summary": "태광산업은 울산 모다크릴 생산라인 증설에 1천500억원을 투자해 연간 생산능력을 1만2천t에서 2만6천t으로 확대한다. 신규 설비는 2028년 6월 상업 생산을 시작할 예정이다. 태광산업은 난연성과 가공성을 갖춘 모다크릴을 ‘모다본’이라는 패션 소재 브랜드로 전개하고 있다.",
+          "keywords": [
+            "TAEKWANG INDUSTRIAL",
+            "MODACRYLIC",
+            "MODABON",
+            "FUNCTIONAL FIBER",
+            "CAPACITY EXPANSION"
+          ]
+        },
+        {
+          "id": "2026-08-13-robert-wun-bjork-balloon-couture",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/bjork-robert-wun-balloon-look-solar-eclipse-rave-iceland",
+          "date": "2026-08-13",
+          "title": "Robert Wun, 풍선 소재 꾸뛰르를 Björk 공연 의상으로 재구성",
+          "summary": "Björk는 아이슬란드 개기일식 공연에서 Robert Wun의 F/W 2026 풍선 꾸뛰르를 맞춤 제작한 의상을 입었다. 런던의 풍선 장인들이 크기가 다른 반투명 흰 풍선 약 700개로 공연용 구조를 만들었고, 터진 풍선도 공연 과정의 일부로 받아들이도록 설계했다. Wun은 고무와 풍선도 진지하게 다루면 공예가 될 수 있다고 설명했다.",
+          "keywords": [
+            "ROBERT WUN",
+            "BJORK",
+            "F/W 2026",
+            "BALLOON COUTURE",
+            "PERFORMANCE COSTUME"
+          ]
+        },
+        {
+          "id": "2026-08-13-dior-animated-brand-history",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/miss-dior-animated-film-ugo-bienvenu-interview",
+          "date": "2026-08-13",
+          "title": "Dior, 브랜드 역사와 Miss Dior를 손그림 애니메이션으로 연결",
+          "summary": "Dior Beauty는 Ugo Bienvenu와 함께 Miss Dior의 역사를 다룬 첫 애니메이션 캠페인을 제작했다. 영화는 Catherine Dior와 프로방스에서 받은 영감, 1947년 첫 패션쇼와 향수 공개, 역대 광고 캠페인의 연속성을 세 축으로 구성했다. 배경은 구아슈와 아크릴 물감으로 모두 손으로 제작했다.",
+          "keywords": [
+            "DIOR",
+            "MISS DIOR",
+            "ANIMATION CAMPAIGN",
+            "BRAND HERITAGE",
+            "HAND-PAINTED"
+          ]
+        },
+        {
+          "id": "2026-08-13-beams-converse-all-star",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1537283740642478989",
+          "date": "2026-08-13",
+          "title": "무신사 신호: BEAMS × Converse 1976 All Star",
+          "summary": "무신사는 BEAMS 창립 50주년을 기념한 Converse All Star 특별판을 소개했다. 1976년 모델에서 영감을 받아 워싱 블랙 캔버스, 사이드 스티치, 노치가 있는 앵클 패치와 코튼 레이스를 재현했다. 하이탑과 로우탑은 8월 22일부터 BEAMS 매장과 공식 홈페이지에서 발매된다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "BEAMS",
+            "CONVERSE",
+            "ALL STAR",
+            "1976"
+          ]
+        },
+        {
+          "id": "2026-08-13-29cm-deviwear",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/focus/2026/08/13/deviwear?cache=true",
+          "date": "2026-08-13",
+          "title": "29CM 신호: 데비웨어 애슬레저 기획전",
+          "summary": "29CM는 운동과 일상을 잇는 애슬레저 브랜드 데비웨어의 기획전을 공개했다. 플랫폼은 감각적인 디자인, 편안한 기능성과 부드러운 촉감을 브랜드 특성으로 제시했다. 기획전과 쿠폰은 8월 13일부터 26일까지 운영된다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "DEVIWEAR",
+            "ATHLEISURE",
+            "PLATFORM CURATION"
+          ]
+        },
+        {
+          "id": "2026-08-13-musinsa-bigbang-drop",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "연합뉴스",
+          "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260813024200030",
+          "date": "2026-08-13 09:01",
+          "title": "무신사 신호: 빅뱅 20주년 상품 58종 단독 발매",
+          "summary": "무신사는 빅뱅 데뷔 20주년과 2026–2027 월드투어를 기념한 상품 58종을 ‘무신사 드롭’에서 단독 발매한다. 구성은 유니폼·볼캡·토트백·미니 러그·라이트 스틱 쿠션과 응원봉을 포함한다. 8월 14일부터 무신사 메가스토어 성수와 무신사 스탠다드 명동점에서 청음 공간과 포토존을 갖춘 팝업도 연다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "MUSINSA DROP",
+            "BIGBANG",
+            "ANNIVERSARY MERCHANDISE",
+            "POP-UP STORE"
+          ]
+        },
+        {
+          "id": "2026-08-13-chinese-handmade-surfaces",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183160/the-handmade-surface-imperfection-texture-and-craft-in-contemporary-chinese-interiors",
+          "date": "2026-08-13",
+          "title": "중국 현대 인테리어가 되살린 불완전한 수공 표면",
+          "summary": "ArchDaily는 중국 현대 인테리어에서 목재의 불규칙성, 테라초 골재, 수공 마감과 하드웨어가 공간 언어로 통합되는 사례를 모았다. 청두 % Arabica는 기존 목재 기둥의 검은 페인트를 벗기고 오래된 회색 벽돌과 불규칙한 수제 벽돌을 결합했다. Art Vessels는 중국 수제 종이를 유리에 적층해 조명과 공간 구획을 겸하는 발광 벽으로 만들었다.",
+          "keywords": [
+            "CHINESE INTERIORS",
+            "HANDMADE SURFACE",
+            "TIMBER",
+            "HANDCRAFTED BRICK",
+            "HANDMADE PAPER"
+          ]
+        },
+        {
+          "id": "2026-08-13-emeco-house-adaptive-reuse",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1181309/emeco-house-david-saik-studio",
+          "date": "2026-08-13",
+          "title": "Emeco House, 봉제공장을 작업·전시·숙박 공간으로 재생",
+          "summary": "david saik studio는 LA 베니스의 옛 봉제공장을 Emeco의 작업·전시·행사 공간과 방문객 숙박 공간으로 전환했다. 기존 구조를 최대한 보존한 뒤 중앙 광정과 천창, 개폐식 유리 패널을 추가해 자연채광과 수동 환기를 확보했다. 현지 제작자들은 맞춤 철제 창호와 수납장, 회반죽 마감, Emeco 공장에서 생산한 하드웨어와 욕실 부속을 제작했다.",
+          "keywords": [
+            "EMECO HOUSE",
+            "ADAPTIVE REUSE",
+            "FORMER FACTORY",
+            "CUSTOM FABRICATION",
+            "PASSIVE VENTILATION"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-13T07:58:09+09:00",
       "briefingDate": "2026-08-13",
