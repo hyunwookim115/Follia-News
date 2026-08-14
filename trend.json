@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T08:58:14+09:00",
+  "generatedAt": "2026-08-15T08:47:53+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -34,8 +34,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "레이스·아일렛 소재가 블라우스와 톱의 주재료로 이동한 뒤, 패션위크 거리와 셀러브리티 착장·쇼핑 편성에서 후속 노출이 이어지고 있습니다.",
-      "detail": "8월 3~7일 코펜하겐 패션위크에서 레이스 크롭 톱, 케이프 블라우스, 아일렛 탱크가 반복 관찰됐고, 8월 12일 Jennifer Lopez의 화이트 아일렛 캐미솔 착장과 유사 상품 편성이 추가로 확인됐습니다. 공개 검색량이나 판매 순위는 없어 반복 노출만 방향 신호로 사용했습니다.",
+      "summary": "레이스·아일렛 소재가 블라우스와 톱의 주재료로 이동한 뒤, 패션위크 거리와 셀러브리티 착장에 더해 Lyst 인기 상품 신호까지 이어지고 있습니다.",
+      "detail": "8월 3~7일 코펜하겐 패션위크에서 레이스 크롭 톱, 케이프 블라우스, 아일렛 탱크가 반복 관찰됐고, Jennifer Lopez의 화이트 아일렛 캐미솔 후속 노출도 확인됐습니다. 또한 레이스 트리밍을 핵심으로 한 Dôen의 Iona Shorts가 Lyst Q2 Hottest Products 8위로 공개돼 반복 노출 외 수요 신호를 보강했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · CPHFW EYELET TOPS",
@@ -48,6 +48,10 @@
         {
           "label": "INSTYLE · EYELET CAMISOLE FOLLOW-UP",
           "url": "https://www.instyle.com/jennifer-lopez-boho-free-people-top-12058324"
+        },
+        {
+          "label": "MARIE CLAIRE · DÔEN / LYST #8",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/doen-summer-2026-celebrity-looks/"
         }
       ]
     },
@@ -163,11 +167,11 @@
       "id": "live-heeled-thong-sandals",
       "keyword": "HEEL-DRESSED THONG SANDALS",
       "category": "ITEM",
-      "direction": "NEW",
-      "market": "GLOBAL",
+      "direction": "UP",
+      "market": "GLOBAL / KOREA",
       "signal": "DEMAND",
-      "summary": "통 샌들이 키튼·스틸레토 힐과 결합하며 해변용 플립플롭에서 패션 슈즈로 이동하는 수요 신호가 선명해졌습니다.",
-      "detail": "Gucci 비토리아 통 샌들은 Lyst Q2 Hottest Products 4위로 공개됐고, 지난 7일 동안 Havaianas의 첫 힐 통 샌들 공개가 Vogue·Harper’s Bazaar 등에서 반복 노출됐습니다. KREAM의 비토리아 상품은 국내에 노출돼 있지만 체결 거래가 없어 한국 수요 상승으로는 해석하지 않았습니다.",
+      "summary": "힐 플립플랍이 글로벌 인기 상품 순위와 셀러브리티 반복 착장에 이어 국내 플랫폼 상품 편성까지 넓어지며 상승 신호로 전환됐습니다.",
+      "detail": "Gucci 비토리아 통 샌들의 Lyst Q2 Hottest Products 4위에 이어 Massimo Dutti 미드힐 토 샌들이 6위로 공개됐고, Hailey Bieber가 블랙·화이트 두 색을 반복 착용한 사실이 지난 7일 기사에서 확인됐습니다. 무신사에도 웨지형 플립플랍 힐 상품과 스타일 스냅이 노출되지만 공개 판매 순위는 없어 국내 수요 수치로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · LYST #4 GUCCI VITTORIA",
@@ -180,6 +184,14 @@
         {
           "label": "KREAM · GUCCI VITTORIA / NO TRADES",
           "url": "https://kream.co.kr/products/914732"
+        },
+        {
+          "label": "MARIE CLAIRE · MASSIMO DUTTI / LYST #6",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/hailey-bieber-flip-flop-wedges-massimo-dutti-sandals/"
+        },
+        {
+          "label": "MUSINSA · FLIP-FLOP HEEL LISTING",
+          "url": "https://www.musinsa.com/products/6671757"
         }
       ]
     }
