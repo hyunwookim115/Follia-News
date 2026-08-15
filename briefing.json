@@ -1,180 +1,272 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-15T08:00:29+09:00",
-  "briefingDate": "2026-08-15",
+  "generatedAt": "2026-08-16T08:01:24+09:00",
+  "briefingDate": "2026-08-16",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-14-wednesday-oasis-kids-autumn-lookbook",
+      "id": "2026-08-15-kuho-francesco-fucci-autumn",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1536615889495503523",
-      "date": "2026-08-14",
-      "title": "웬즈데이오아시스 키즈, 가을로 향하는 2026 룩북 공개",
-      "summary": "웬즈데이오아시스 키즈는 8월 14일 ‘애즈 타임 턴즈 투 오텀’ 룩북을 공개했다. 룩북은 짧아서 더 소중한 가을방학과 천천히 가을을 닮아가는 시간을 주제로 제시한다.",
+      "source": "NEWSIS",
+      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260814_0003749738",
+      "date": "2026-08-15 09:00:00",
+      "title": "구호, Francesco Fucci와 구조적 테일러링의 가을 협업",
+      "summary": "구호는 Francesco Fucci와 협업한 2026년 가을 컬렉션을 공개했다. 이탈리아 건축에서 영감을 받은 구조적 재단에 울·면·실크·모헤어의 질감을 살렸고, 오버사이즈 점퍼·민소매 드레스·클래식 셔츠·테이퍼드 팬츠로 구성했다. 구호는 Fucci와의 협업을 지난해 두 차례에서 올해 네 차례로 늘렸으며, 11월에는 겨울 협업 컬렉션을 공개할 예정이다.",
       "keywords": [
-        "WEDNESDAY OASIS KIDS",
-        "2026 LOOKBOOK",
-        "AUTUMN",
-        "KOREAN BRAND"
+        "KUHO",
+        "FRANCESCO FUCCI",
+        "2026 AUTUMN",
+        "TAILORING",
+        "MATERIAL TEXTURE"
       ]
     },
     {
-      "id": "2026-08-14-aw26-defining-looks",
+      "id": "2026-08-15-torisheju-aw26-craft",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/standout-looks-trends-accessories-aw-2026",
-      "date": "2026-08-14",
-      "title": "2026 F/W, 가벼운 가죽·슬림 실루엣·드롭 웨이스트 부상",
-      "summary": "Wallpaper*는 2026 F/W를 정의한 열 가지 흐름으로 커프링크, 보디컨셔스 드레스, 과장된 칼라, 플랫 슈즈, 턱시도, 시어 레이어, 가벼운 가죽, 슬림 실루엣, 오페라 장갑과 드롭 웨이스트를 선정했다. Tod’s와 Bottega Veneta는 가죽을 유연하고 여유로운 형태로 다뤘고, Prada·Dior·Celine의 남성복에서는 길고 슬림한 선이 두드러졌다. Chanel의 Matthieu Blazy는 일부 허리선을 힙 아래까지 낮췄다.",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/torisheju-dumi-interview-aw-26",
+      "date": "2026-08-15",
+      "title": "Torishéju, 나이지리아 lappa와 대비 소재로 A/W 2026 전개",
+      "summary": "Torishéju Dumi의 A/W 2026 컬렉션은 잘록한 재킷과 직조·매듭 디테일, 몸에 묶는 여분 소매를 통해 역사적 복식과 나이지리아 lappa를 다시 다뤘다. 거친 보일드 울과 매끄러운 뒤셰스 새틴을 병치해 질감의 대비를 만들었다. Dumi는 9월 파리에서 선보일 S/S 2027 컬렉션을 작업 중이다.",
       "keywords": [
-        "F/W 2026",
-        "LIGHTWEIGHT LEATHER",
-        "SLIM SILHOUETTE",
-        "DROPPED WAIST",
-        "RUNWAY DESIGN"
+        "TORISHÉJU",
+        "A/W 2026",
+        "LAPPA",
+        "BOILED WOOL",
+        "DUCHESSE SATIN"
       ]
     },
     {
-      "id": "2026-08-14-gen-z-club-brand-activations",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
-      "date": "2026-08-14",
-      "title": "패션 브랜드, Z세대 클럽 문화에서 체험형 접점 확대",
-      "summary": "YSL Beauty는 여러 도시에서 ‘Block Party’를 열었고, Casablanca는 이비사에서 공연 연계 행사와 해변 팝업을 운영했으며, Armani Exchange는 Amnesia 클럽에서 일요일 파티를 진행했다. 기사에 인용된 관계자들은 클럽을 의복·음악·시각 연출이 공유되는 공간으로 설명하면서, 브랜드가 현장 문화를 차용하기보다 이를 만드는 인물과 협업해야 한다고 강조했다.",
-      "keywords": [
-        "GEN Z",
-        "CLUB CULTURE",
-        "EXPERIENTIAL ACTIVATION",
-        "YSL BEAUTY",
-        "CASABLANCA"
-      ]
-    },
-    {
-      "id": "2026-08-14-marc-jacobs-the-swap",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/14/%EB%A7%88%ED%81%AC-%EC%A0%9C%EC%9D%B4%EC%BD%A5%EC%8A%A4%EA%B0%80-%EC%84%A0%EB%B3%B4%EC%9D%B4%EB%8A%94-%ED%8C%A8%EC%85%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%93%9C%EB%9D%BC%EB%A7%88/",
-      "date": "2026-08-14",
-      "title": "Marc Jacobs, 핸드백을 중심에 둔 마이크로 드라마 공개",
-      "summary": "Marc Jacobs는 가을 캠페인을 위해 에피소드형 마이크로 드라마 ‘The Swap’을 공개했다. Rowan Blanchard와 Jemima Kirke가 뉴욕 패션쇼에서 서로의 핸드백을 바꿔 들며 이야기가 시작되고, 브랜드는 이를 정체성과 인식에 대한 탐구라고 설명했다. 추가 에피소드는 가을 시즌 동안 브랜드 소셜 플랫폼에서 공개된다.",
-      "keywords": [
-        "MARC JACOBS",
-        "THE SWAP",
-        "MICRO DRAMA",
-        "HANDBAG",
-        "CAMPAIGN"
-      ]
-    },
-    {
-      "id": "2026-08-14-carmen-busquets-parsons-award",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
-      "date": "2026-08-14",
-      "title": "Carmen Busquets·Parsons, 장애 패션 학생 지원상 신설",
-      "summary": "Carmen Busquets Foundation은 Parsons School of Design과 장애가 있는 패션 학생을 위한 상을 신설했다. 2027/2028 학년도까지 MPS Fashion Management 학생에게 매년 1만2,500달러의 보조금을 제공하고, 수상자는 멘토링과 보조금을 지원하는 Parsons의 Disabled Fashion Student Program에도 참여한다.",
-      "keywords": [
-        "CARMEN BUSQUETS",
-        "PARSONS",
-        "DISABLED FASHION STUDENTS",
-        "FASHION EDUCATION",
-        "GRANT"
-      ]
-    },
-    {
-      "id": "2026-08-14-zara-transitional-drop",
+      "id": "2026-08-16-wconcept-season-preview",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/best-zara-finds",
-      "date": "2026-08-14",
-      "title": "셀렉트 숍 신호: Zara, 늦여름과 초가을을 잇는 신상품",
-      "summary": "Vogue가 소개한 Zara 신상품은 스트라이프 팬츠와 마리니에르 셔츠 같은 늦여름 제품과 카고 팬츠·변형 화이트 셔츠 같은 초가을 기본물을 함께 구성한다. 레이스 트리밍 팬츠와 배럴 레그 진, 스웨이드 블레이저·부츠·로퍼가 포함됐으며, Aaron Levine과의 두 번째 협업도 신상품군에 들어갔다.",
+      "source": "NEWSIS",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260814_0003749712",
+      "date": "2026-08-16 06:00:00",
+      "title": "W컨셉, 국내 디자이너 브랜드 가을 신상품·선공개 편성",
+      "summary": "W컨셉은 8월 17일부터 29일까지 ‘시즌 프리뷰’를 진행하며 프론트로우·마롭·무니드·루에브르·모노로우 등의 가을 신규 컬렉션을 선보인다. ‘W 온니’에는 하시에·오브에르·드레썸·러브듀이·민주킴 파쿠아가, 신상 선공개에는 망고매니플리즈·이바나헬싱키·우이·르메메·폴뉴아 등이 포함된다. 플랫폼은 텍스처 레이어링, 드레이프 로맨스, 모던 헤리티지, 스테이트먼트 휴를 올가을 키워드로 제안했다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "ZARA",
-        "TRANSITIONAL SEASON",
-        "SUEDE",
-        "AARON LEVINE"
+        "W CONCEPT",
+        "SEASON PREVIEW",
+        "DESIGNER BRANDS",
+        "PRE-RELEASE",
+        "AUTUMN 2026"
       ]
     },
     {
-      "id": "2026-08-14-noah-converse-jack-purcell",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1537641849267958371",
-      "date": "2026-08-14",
-      "title": "무신사 신호: Noah × Converse Jack Purcell 1935",
-      "summary": "Noah와 Converse는 코튼 어퍼에 Noah의 멀티 컬러 체크 패턴을 적용한 Jack Purcell 1935 협업 모델을 선보였다. 십자 자수와 별도 힐 라벨, 4스티치 힐 스트랩, 비대칭 토가드, 새 해부학적 라스트와 13mm PU 웨지 힐을 적용했다. 8월 21일 일본 Noah 매장과 온라인에서 먼저 발매되고, 26일부터 일본 Converse 채널로 확대된다.",
-      "keywords": [
-        "SELECT SHOP SIGNAL",
-        "NOAH",
-        "CONVERSE",
-        "JACK PURCELL 1935",
-        "COLLABORATION"
-      ]
-    },
-    {
-      "id": "2026-08-14-north-face-ventus-on",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1537720129894714181",
-      "date": "2026-08-14",
-      "title": "무신사 신호: The North Face 경량 패딩 전 컬러 품절",
-      "summary": "The North Face의 Ventus On Jacket은 무신사 전체 랭킹 상위권에 올랐고 현재 모든 색상이 품절됐다. 제품은 경량 원단과 Onball 충전재, 일체형 후드를 사용하며, 새 색상은 무신사에서 먼저 공개됐다.",
-      "keywords": [
-        "SELECT SHOP SIGNAL",
-        "THE NORTH FACE",
-        "VENTUS ON JACKET",
-        "LIGHTWEIGHT PADDING",
-        "SOLD OUT"
-      ]
-    },
-    {
-      "id": "2026-08-14-super-jinjiang-retail",
+      "id": "2026-08-15-sartoriale-offices",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183083/super-jinjiang-colorfull-yujing-design",
-      "date": "2026-08-14",
-      "title": "Super Jinjiang, 지역 브랜드와 문화를 엮은 ‘Super Runway’",
-      "summary": "COLORFULL YUJING DESIGN은 중국 진장의 첫 플래그십 체험 매장을 브랜드·문화·사람이 만나는 ‘Super Runway’로 설계했다. 분할 레벨과 교차 시선으로 탐색형 동선을 만들고, 3층에는 신진 브랜드와 텍스타일 아트를 전시하는 패션 갤러리를 배치했다. 골판 알루미늄·노출 철골·고성능 유리와 모듈식 시공을 사용했으며, 지역 전통 타일의 문양과 색을 금속 마감과 결합했다.",
+      "sourceUrl": "https://www.archdaily.com/1183374/sartoriale-offices-dos-g-arquitectos",
+      "date": "2026-08-15",
+      "title": "Sartoriale 오피스, 주거형 동선과 공예적 소재로 브랜드 정체성 구현",
+      "summary": "DOS-G arquitectos는 파나마시티의 125㎡ Sartoriale 오피스를 로비·주방 겸 식당·회의실·스튜디오·도서관·업무공간이 이어지는 주거형 구성으로 설계했다. 트래버틴·목재·자연 마감재를 사용하고, 솔리드와 보이드가 교차하는 파티션으로 동선·프라이버시·시각적 연속성을 조율했다. 중앙 도서관에는 회사의 역사와 참고물을 모아 일상적 공간 경험 속에 브랜드 정체성을 담았다.",
       "keywords": [
-        "SUPER JINJIANG",
-        "RETAIL INTERIOR",
-        "SUPER RUNWAY",
-        "MODULAR CONSTRUCTION",
-        "TEXTILE ART"
+        "SARTORIALE",
+        "OFFICE INTERIOR",
+        "TRAVERTINE",
+        "WOOD",
+        "PARTITION SYSTEM"
       ]
     },
     {
-      "id": "2026-08-14-rageleje-holiday-house",
+      "id": "2026-08-15-villa-arena-reclaimed-materials",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183164/holiday-house-in-rageleje-jesper-kusk-arkitekter",
-      "date": "2026-08-14",
-      "title": "Rågeleje 주택, 덴마크 오크와 목구조로 바다·빛을 연결",
-      "summary": "Jesper Kusk Arkitekter는 덴마크 Rågeleje의 바다를 향한 좁고 높은 대지에 장방형 박공지붕 주택을 설계했다. 천창과 동서측 오목한 테라스가 실내 채광과 바람을 피하는 외부 생활 공간을 만들며, 주방과 거실은 Kattegat 전망을 활용하도록 북쪽에 배치했다. 구조 대부분은 목재로 만들고 창과 외장에는 덴마크산 오크를 사용했다.",
+      "sourceUrl": "https://www.archdaily.com/1148796/villa-arena-abaton",
+      "date": "2026-08-15",
+      "title": "Villa Arena, 회수 재료와 연속 마감으로 장소성을 연결",
+      "summary": "Ábaton의 Villa Arena는 안료를 섞은 석회 모르타르로 마감한 두 개의 솔리드 볼륨과 남북으로 열린 중앙 보이드로 구성됐다. 바닥·벽·계단에는 연속 마감을 적용하고, 인근 건물에서 찾은 테라코타 타일·문·골동 지붕기와로 만든 벽등을 사용했다. 식당에는 Hans J. Wegner의 CH24 Wishbone 의자와 중국풍 가구를 두고, 주방에서는 회수 테라코타 바닥을 Macael 대리석 상판·천연 목재와 대비시켰다.",
       "keywords": [
-        "RAGELEJE",
-        "TIMBER STRUCTURE",
-        "DANISH OAK",
-        "SKYLIGHT",
-        "HOLIDAY HOUSE"
+        "VILLA ARENA",
+        "RECLAIMED MATERIALS",
+        "LIME MORTAR",
+        "TERRACOTTA",
+        "CH24 WISHBONE"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-15T08:00:29+09:00",
+      "briefingDate": "2026-08-15",
+      "generatedAt": "2026-08-15T08:00:29+09:00",
+      "cards": [
+        {
+          "id": "2026-08-14-wednesday-oasis-kids-autumn-lookbook",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1536615889495503523",
+          "date": "2026-08-14",
+          "title": "웬즈데이오아시스 키즈, 가을로 향하는 2026 룩북 공개",
+          "summary": "웬즈데이오아시스 키즈는 8월 14일 ‘애즈 타임 턴즈 투 오텀’ 룩북을 공개했다. 룩북은 짧아서 더 소중한 가을방학과 천천히 가을을 닮아가는 시간을 주제로 제시한다.",
+          "keywords": [
+            "WEDNESDAY OASIS KIDS",
+            "2026 LOOKBOOK",
+            "AUTUMN",
+            "KOREAN BRAND"
+          ]
+        },
+        {
+          "id": "2026-08-14-aw26-defining-looks",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/standout-looks-trends-accessories-aw-2026",
+          "date": "2026-08-14",
+          "title": "2026 F/W, 가벼운 가죽·슬림 실루엣·드롭 웨이스트 부상",
+          "summary": "Wallpaper*는 2026 F/W를 정의한 열 가지 흐름으로 커프링크, 보디컨셔스 드레스, 과장된 칼라, 플랫 슈즈, 턱시도, 시어 레이어, 가벼운 가죽, 슬림 실루엣, 오페라 장갑과 드롭 웨이스트를 선정했다. Tod’s와 Bottega Veneta는 가죽을 유연하고 여유로운 형태로 다뤘고, Prada·Dior·Celine의 남성복에서는 길고 슬림한 선이 두드러졌다. Chanel의 Matthieu Blazy는 일부 허리선을 힙 아래까지 낮췄다.",
+          "keywords": [
+            "F/W 2026",
+            "LIGHTWEIGHT LEATHER",
+            "SLIM SILHOUETTE",
+            "DROPPED WAIST",
+            "RUNWAY DESIGN"
+          ]
+        },
+        {
+          "id": "2026-08-14-gen-z-club-brand-activations",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
+          "date": "2026-08-14",
+          "title": "패션 브랜드, Z세대 클럽 문화에서 체험형 접점 확대",
+          "summary": "YSL Beauty는 여러 도시에서 ‘Block Party’를 열었고, Casablanca는 이비사에서 공연 연계 행사와 해변 팝업을 운영했으며, Armani Exchange는 Amnesia 클럽에서 일요일 파티를 진행했다. 기사에 인용된 관계자들은 클럽을 의복·음악·시각 연출이 공유되는 공간으로 설명하면서, 브랜드가 현장 문화를 차용하기보다 이를 만드는 인물과 협업해야 한다고 강조했다.",
+          "keywords": [
+            "GEN Z",
+            "CLUB CULTURE",
+            "EXPERIENTIAL ACTIVATION",
+            "YSL BEAUTY",
+            "CASABLANCA"
+          ]
+        },
+        {
+          "id": "2026-08-14-marc-jacobs-the-swap",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/14/%EB%A7%88%ED%81%AC-%EC%A0%9C%EC%9D%B4%EC%BD%A5%EC%8A%A4%EA%B0%80-%EC%84%A0%EB%B3%B4%EC%9D%B4%EB%8A%94-%ED%8C%A8%EC%85%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%93%9C%EB%9D%BC%EB%A7%88/",
+          "date": "2026-08-14",
+          "title": "Marc Jacobs, 핸드백을 중심에 둔 마이크로 드라마 공개",
+          "summary": "Marc Jacobs는 가을 캠페인을 위해 에피소드형 마이크로 드라마 ‘The Swap’을 공개했다. Rowan Blanchard와 Jemima Kirke가 뉴욕 패션쇼에서 서로의 핸드백을 바꿔 들며 이야기가 시작되고, 브랜드는 이를 정체성과 인식에 대한 탐구라고 설명했다. 추가 에피소드는 가을 시즌 동안 브랜드 소셜 플랫폼에서 공개된다.",
+          "keywords": [
+            "MARC JACOBS",
+            "THE SWAP",
+            "MICRO DRAMA",
+            "HANDBAG",
+            "CAMPAIGN"
+          ]
+        },
+        {
+          "id": "2026-08-14-carmen-busquets-parsons-award",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
+          "date": "2026-08-14",
+          "title": "Carmen Busquets·Parsons, 장애 패션 학생 지원상 신설",
+          "summary": "Carmen Busquets Foundation은 Parsons School of Design과 장애가 있는 패션 학생을 위한 상을 신설했다. 2027/2028 학년도까지 MPS Fashion Management 학생에게 매년 1만2,500달러의 보조금을 제공하고, 수상자는 멘토링과 보조금을 지원하는 Parsons의 Disabled Fashion Student Program에도 참여한다.",
+          "keywords": [
+            "CARMEN BUSQUETS",
+            "PARSONS",
+            "DISABLED FASHION STUDENTS",
+            "FASHION EDUCATION",
+            "GRANT"
+          ]
+        },
+        {
+          "id": "2026-08-14-zara-transitional-drop",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/best-zara-finds",
+          "date": "2026-08-14",
+          "title": "셀렉트 숍 신호: Zara, 늦여름과 초가을을 잇는 신상품",
+          "summary": "Vogue가 소개한 Zara 신상품은 스트라이프 팬츠와 마리니에르 셔츠 같은 늦여름 제품과 카고 팬츠·변형 화이트 셔츠 같은 초가을 기본물을 함께 구성한다. 레이스 트리밍 팬츠와 배럴 레그 진, 스웨이드 블레이저·부츠·로퍼가 포함됐으며, Aaron Levine과의 두 번째 협업도 신상품군에 들어갔다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "ZARA",
+            "TRANSITIONAL SEASON",
+            "SUEDE",
+            "AARON LEVINE"
+          ]
+        },
+        {
+          "id": "2026-08-14-noah-converse-jack-purcell",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1537641849267958371",
+          "date": "2026-08-14",
+          "title": "무신사 신호: Noah × Converse Jack Purcell 1935",
+          "summary": "Noah와 Converse는 코튼 어퍼에 Noah의 멀티 컬러 체크 패턴을 적용한 Jack Purcell 1935 협업 모델을 선보였다. 십자 자수와 별도 힐 라벨, 4스티치 힐 스트랩, 비대칭 토가드, 새 해부학적 라스트와 13mm PU 웨지 힐을 적용했다. 8월 21일 일본 Noah 매장과 온라인에서 먼저 발매되고, 26일부터 일본 Converse 채널로 확대된다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "NOAH",
+            "CONVERSE",
+            "JACK PURCELL 1935",
+            "COLLABORATION"
+          ]
+        },
+        {
+          "id": "2026-08-14-north-face-ventus-on",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1537720129894714181",
+          "date": "2026-08-14",
+          "title": "무신사 신호: The North Face 경량 패딩 전 컬러 품절",
+          "summary": "The North Face의 Ventus On Jacket은 무신사 전체 랭킹 상위권에 올랐고 현재 모든 색상이 품절됐다. 제품은 경량 원단과 Onball 충전재, 일체형 후드를 사용하며, 새 색상은 무신사에서 먼저 공개됐다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "THE NORTH FACE",
+            "VENTUS ON JACKET",
+            "LIGHTWEIGHT PADDING",
+            "SOLD OUT"
+          ]
+        },
+        {
+          "id": "2026-08-14-super-jinjiang-retail",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183083/super-jinjiang-colorfull-yujing-design",
+          "date": "2026-08-14",
+          "title": "Super Jinjiang, 지역 브랜드와 문화를 엮은 ‘Super Runway’",
+          "summary": "COLORFULL YUJING DESIGN은 중국 진장의 첫 플래그십 체험 매장을 브랜드·문화·사람이 만나는 ‘Super Runway’로 설계했다. 분할 레벨과 교차 시선으로 탐색형 동선을 만들고, 3층에는 신진 브랜드와 텍스타일 아트를 전시하는 패션 갤러리를 배치했다. 골판 알루미늄·노출 철골·고성능 유리와 모듈식 시공을 사용했으며, 지역 전통 타일의 문양과 색을 금속 마감과 결합했다.",
+          "keywords": [
+            "SUPER JINJIANG",
+            "RETAIL INTERIOR",
+            "SUPER RUNWAY",
+            "MODULAR CONSTRUCTION",
+            "TEXTILE ART"
+          ]
+        },
+        {
+          "id": "2026-08-14-rageleje-holiday-house",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183164/holiday-house-in-rageleje-jesper-kusk-arkitekter",
+          "date": "2026-08-14",
+          "title": "Rågeleje 주택, 덴마크 오크와 목구조로 바다·빛을 연결",
+          "summary": "Jesper Kusk Arkitekter는 덴마크 Rågeleje의 바다를 향한 좁고 높은 대지에 장방형 박공지붕 주택을 설계했다. 천창과 동서측 오목한 테라스가 실내 채광과 바람을 피하는 외부 생활 공간을 만들며, 주방과 거실은 Kattegat 전망을 활용하도록 북쪽에 배치했다. 구조 대부분은 목재로 만들고 창과 외장에는 덴마크산 오크를 사용했다.",
+          "keywords": [
+            "RAGELEJE",
+            "TIMBER STRUCTURE",
+            "DANISH OAK",
+            "SKYLIGHT",
+            "HOLIDAY HOUSE"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-14T08:05:01+09:00",
       "briefingDate": "2026-08-14",
