@@ -1,96 +1,171 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-16T08:01:24+09:00",
-  "briefingDate": "2026-08-16",
+  "generatedAt": "2026-08-17T07:58:20+09:00",
+  "briefingDate": "2026-08-17",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-15-kuho-francesco-fucci-autumn",
+      "id": "2026-08-16-gucci-rodriguez-ronaldo-wedding",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "NEWSIS",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260814_0003749738",
-      "date": "2026-08-15 09:00:00",
-      "title": "구호, Francesco Fucci와 구조적 테일러링의 가을 협업",
-      "summary": "구호는 Francesco Fucci와 협업한 2026년 가을 컬렉션을 공개했다. 이탈리아 건축에서 영감을 받은 구조적 재단에 울·면·실크·모헤어의 질감을 살렸고, 오버사이즈 점퍼·민소매 드레스·클래식 셔츠·테이퍼드 팬츠로 구성했다. 구호는 Fucci와의 협업을 지난해 두 차례에서 올해 네 차례로 늘렸으며, 11월에는 겨울 협업 컬렉션을 공개할 예정이다.",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
+      "date": "2026-08-16",
+      "title": "Gucci, Georgina Rodríguez·Cristiano Ronaldo의 절제된 웨딩 룩 제작",
+      "summary": "Georgina Rodríguez와 Cristiano Ronaldo는 자택 결혼식에서 Gucci를 착용했다. Georgina의 룩은 흰색 실크 파유 스커트 수트와 은색 홀스빗 장식 새틴 슈즈로, Cristiano의 룩은 맞춤형 연베이지 코튼 수트와 로퍼로 구성됐다. Gucci 아티스틱 디렉터 Demna가 두 사람의 의상을 맡았고, Georgina는 단순한 날에 ‘코스튬’처럼 보이지 않는 방향을 원했다고 설명했다.",
       "keywords": [
-        "KUHO",
-        "FRANCESCO FUCCI",
-        "2026 AUTUMN",
-        "TAILORING",
-        "MATERIAL TEXTURE"
+        "GUCCI",
+        "DEMNA",
+        "WEDDING",
+        "SILK FAILLE",
+        "CUSTOM TAILORING"
       ]
     },
     {
-      "id": "2026-08-15-torisheju-aw26-craft",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/torisheju-dumi-interview-aw-26",
-      "date": "2026-08-15",
-      "title": "Torishéju, 나이지리아 lappa와 대비 소재로 A/W 2026 전개",
-      "summary": "Torishéju Dumi의 A/W 2026 컬렉션은 잘록한 재킷과 직조·매듭 디테일, 몸에 묶는 여분 소매를 통해 역사적 복식과 나이지리아 lappa를 다시 다뤘다. 거친 보일드 울과 매끄러운 뒤셰스 새틴을 병치해 질감의 대비를 만들었다. Dumi는 9월 파리에서 선보일 S/S 2027 컬렉션을 작업 중이다.",
-      "keywords": [
-        "TORISHÉJU",
-        "A/W 2026",
-        "LAPPA",
-        "BOILED WOOL",
-        "DUCHESSE SATIN"
-      ]
-    },
-    {
-      "id": "2026-08-16-wconcept-season-preview",
+      "id": "2026-08-16-baemin-fila-siyazu-fashion-delivery",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "NEWSIS",
-      "sourceUrl": "https://www.newsis.com/view/NISX20260814_0003749712",
-      "date": "2026-08-16 06:00:00",
-      "title": "W컨셉, 국내 디자이너 브랜드 가을 신상품·선공개 편성",
-      "summary": "W컨셉은 8월 17일부터 29일까지 ‘시즌 프리뷰’를 진행하며 프론트로우·마롭·무니드·루에브르·모노로우 등의 가을 신규 컬렉션을 선보인다. ‘W 온니’에는 하시에·오브에르·드레썸·러브듀이·민주킴 파쿠아가, 신상 선공개에는 망고매니플리즈·이바나헬싱키·우이·르메메·폴뉴아 등이 포함된다. 플랫폼은 텍스처 레이어링, 드레이프 로맨스, 모던 헤리티지, 스테이트먼트 휴를 올가을 키워드로 제안했다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12129044",
+      "date": "2026-08-16 17:33",
+      "title": "배민, FILA 이어 SIYAZU 입점…패션 1시간 배송 확대",
+      "summary": "배달의민족은 패션 카테고리에 FILA를 입점시켰고, 이달 말 국내 디자이너 여성복 브랜드 SIYAZU를 추가할 예정이다. FILA는 8개 매장을 통해 의류와 신발 400여 종을 판매하며, SIYAZU는 한남·도산·돌곶이 매장 인근 고객에게 상품을 1시간 안에 배송할 계획이다. 배민은 하반기 셀렉트숍과 주얼리 브랜드까지 제휴 대상을 확대할 방침이다.",
       "keywords": [
-        "W CONCEPT",
-        "SEASON PREVIEW",
-        "DESIGNER BRANDS",
-        "PRE-RELEASE",
-        "AUTUMN 2026"
+        "SELECT SHOP SIGNAL",
+        "BAEMIN",
+        "FILA",
+        "SIYAZU",
+        "QUICK COMMERCE"
       ]
     },
     {
-      "id": "2026-08-15-sartoriale-offices",
+      "id": "2026-08-16-jun-matcha-club-local-materials",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183374/sartoriale-offices-dos-g-arquitectos",
-      "date": "2026-08-15",
-      "title": "Sartoriale 오피스, 주거형 동선과 공예적 소재로 브랜드 정체성 구현",
-      "summary": "DOS-G arquitectos는 파나마시티의 125㎡ Sartoriale 오피스를 로비·주방 겸 식당·회의실·스튜디오·도서관·업무공간이 이어지는 주거형 구성으로 설계했다. 트래버틴·목재·자연 마감재를 사용하고, 솔리드와 보이드가 교차하는 파티션으로 동선·프라이버시·시각적 연속성을 조율했다. 중앙 도서관에는 회사의 역사와 참고물을 모아 일상적 공간 경험 속에 브랜드 정체성을 담았다.",
+      "sourceUrl": "https://www.archdaily.com/1183148/jun-matcha-club-cafe-matter-of-something",
+      "date": "2026-08-16",
+      "title": "Jun Matcha Club, 인도네시아 공예와 지역 재료로 차분한 의식 구현",
+      "summary": "Matter of Something은 자카르타 남부의 옛 주거용 차고 33㎡를 Jun Matcha Club으로 바꿨다. 반야외 진입부에는 천연 인디고 염색 패브릭을, 내부에는 바나나 섬유 종이·발리 용암석 타일·재활용 커피 찌꺼기 벽 패널을 적용했다. 수공 종이와 대나무 가구, 티크 스툴도 사용해 말차의 의식과 절제된 분위기를 공간에 옮겼다.",
       "keywords": [
-        "SARTORIALE",
-        "OFFICE INTERIOR",
-        "TRAVERTINE",
-        "WOOD",
-        "PARTITION SYSTEM"
+        "JUN MATCHA CLUB",
+        "INDONESIAN CRAFT",
+        "BANANA FIBRE PAPER",
+        "LAVA STONE",
+        "RECYCLED COFFEE GROUNDS"
       ]
     },
     {
-      "id": "2026-08-15-villa-arena-reclaimed-materials",
+      "id": "2026-08-16-kifisia-apartment-flexible-boundaries",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1148796/villa-arena-abaton",
-      "date": "2026-08-15",
-      "title": "Villa Arena, 회수 재료와 연속 마감으로 장소성을 연결",
-      "summary": "Ábaton의 Villa Arena는 안료를 섞은 석회 모르타르로 마감한 두 개의 솔리드 볼륨과 남북으로 열린 중앙 보이드로 구성됐다. 바닥·벽·계단에는 연속 마감을 적용하고, 인근 건물에서 찾은 테라코타 타일·문·골동 지붕기와로 만든 벽등을 사용했다. 식당에는 Hans J. Wegner의 CH24 Wishbone 의자와 중국풍 가구를 두고, 주방에서는 회수 테라코타 바닥을 Macael 대리석 상판·천연 목재와 대비시켰다.",
+      "sourceUrl": "https://www.archdaily.com/1183236/kifisia-apartment-a-reconfiguration-of-domestic-boundaries-georgios-apostolopoulos-architects",
+      "date": "2026-08-16",
+      "title": "Kifisia Apartment, 가구와 슬라이딩 패널로 생활 경계 재구성",
+      "summary": "Georgios Apostolopoulos Architects는 1970년대에 지어진 80㎡ 아파트의 칸막이를 철거해 연속된 내부 공간을 만들었다. 맞춤 가구가 벽 없이 용도를 구분하고, 주방 아일랜드는 공간의 중심이자 사회적 장치로 배치됐다. 접이식 침대·통합 책상·슬라이딩 패널을 갖춘 가변 공간은 침실·업무·수납 기능을 전환한다.",
       "keywords": [
-        "VILLA ARENA",
-        "RECLAIMED MATERIALS",
-        "LIME MORTAR",
-        "TERRACOTTA",
-        "CH24 WISHBONE"
+        "KIFISIA APARTMENT",
+        "FLEXIBLE INTERIOR",
+        "CUSTOM JOINERY",
+        "SLIDING PANELS",
+        "FOLD-DOWN BED"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-16T08:01:24+09:00",
+      "briefingDate": "2026-08-16",
+      "generatedAt": "2026-08-16T08:01:24+09:00",
+      "cards": [
+        {
+          "id": "2026-08-15-kuho-francesco-fucci-autumn",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "NEWSIS",
+          "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260814_0003749738",
+          "date": "2026-08-15 09:00:00",
+          "title": "구호, Francesco Fucci와 구조적 테일러링의 가을 협업",
+          "summary": "구호는 Francesco Fucci와 협업한 2026년 가을 컬렉션을 공개했다. 이탈리아 건축에서 영감을 받은 구조적 재단에 울·면·실크·모헤어의 질감을 살렸고, 오버사이즈 점퍼·민소매 드레스·클래식 셔츠·테이퍼드 팬츠로 구성했다. 구호는 Fucci와의 협업을 지난해 두 차례에서 올해 네 차례로 늘렸으며, 11월에는 겨울 협업 컬렉션을 공개할 예정이다.",
+          "keywords": [
+            "KUHO",
+            "FRANCESCO FUCCI",
+            "2026 AUTUMN",
+            "TAILORING",
+            "MATERIAL TEXTURE"
+          ]
+        },
+        {
+          "id": "2026-08-15-torisheju-aw26-craft",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/torisheju-dumi-interview-aw-26",
+          "date": "2026-08-15",
+          "title": "Torishéju, 나이지리아 lappa와 대비 소재로 A/W 2026 전개",
+          "summary": "Torishéju Dumi의 A/W 2026 컬렉션은 잘록한 재킷과 직조·매듭 디테일, 몸에 묶는 여분 소매를 통해 역사적 복식과 나이지리아 lappa를 다시 다뤘다. 거친 보일드 울과 매끄러운 뒤셰스 새틴을 병치해 질감의 대비를 만들었다. Dumi는 9월 파리에서 선보일 S/S 2027 컬렉션을 작업 중이다.",
+          "keywords": [
+            "TORISHÉJU",
+            "A/W 2026",
+            "LAPPA",
+            "BOILED WOOL",
+            "DUCHESSE SATIN"
+          ]
+        },
+        {
+          "id": "2026-08-16-wconcept-season-preview",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "NEWSIS",
+          "sourceUrl": "https://www.newsis.com/view/NISX20260814_0003749712",
+          "date": "2026-08-16 06:00:00",
+          "title": "W컨셉, 국내 디자이너 브랜드 가을 신상품·선공개 편성",
+          "summary": "W컨셉은 8월 17일부터 29일까지 ‘시즌 프리뷰’를 진행하며 프론트로우·마롭·무니드·루에브르·모노로우 등의 가을 신규 컬렉션을 선보인다. ‘W 온니’에는 하시에·오브에르·드레썸·러브듀이·민주킴 파쿠아가, 신상 선공개에는 망고매니플리즈·이바나헬싱키·우이·르메메·폴뉴아 등이 포함된다. 플랫폼은 텍스처 레이어링, 드레이프 로맨스, 모던 헤리티지, 스테이트먼트 휴를 올가을 키워드로 제안했다.",
+          "keywords": [
+            "W CONCEPT",
+            "SEASON PREVIEW",
+            "DESIGNER BRANDS",
+            "PRE-RELEASE",
+            "AUTUMN 2026"
+          ]
+        },
+        {
+          "id": "2026-08-15-sartoriale-offices",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183374/sartoriale-offices-dos-g-arquitectos",
+          "date": "2026-08-15",
+          "title": "Sartoriale 오피스, 주거형 동선과 공예적 소재로 브랜드 정체성 구현",
+          "summary": "DOS-G arquitectos는 파나마시티의 125㎡ Sartoriale 오피스를 로비·주방 겸 식당·회의실·스튜디오·도서관·업무공간이 이어지는 주거형 구성으로 설계했다. 트래버틴·목재·자연 마감재를 사용하고, 솔리드와 보이드가 교차하는 파티션으로 동선·프라이버시·시각적 연속성을 조율했다. 중앙 도서관에는 회사의 역사와 참고물을 모아 일상적 공간 경험 속에 브랜드 정체성을 담았다.",
+          "keywords": [
+            "SARTORIALE",
+            "OFFICE INTERIOR",
+            "TRAVERTINE",
+            "WOOD",
+            "PARTITION SYSTEM"
+          ]
+        },
+        {
+          "id": "2026-08-15-villa-arena-reclaimed-materials",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1148796/villa-arena-abaton",
+          "date": "2026-08-15",
+          "title": "Villa Arena, 회수 재료와 연속 마감으로 장소성을 연결",
+          "summary": "Ábaton의 Villa Arena는 안료를 섞은 석회 모르타르로 마감한 두 개의 솔리드 볼륨과 남북으로 열린 중앙 보이드로 구성됐다. 바닥·벽·계단에는 연속 마감을 적용하고, 인근 건물에서 찾은 테라코타 타일·문·골동 지붕기와로 만든 벽등을 사용했다. 식당에는 Hans J. Wegner의 CH24 Wishbone 의자와 중국풍 가구를 두고, 주방에서는 회수 테라코타 바닥을 Macael 대리석 상판·천연 목재와 대비시켰다.",
+          "keywords": [
+            "VILLA ARENA",
+            "RECLAIMED MATERIALS",
+            "LIME MORTAR",
+            "TERRACOTTA",
+            "CH24 WISHBONE"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-15T08:00:29+09:00",
       "briefingDate": "2026-08-15",
