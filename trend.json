@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T08:02:21+09:00",
+  "generatedAt": "2026-08-18T08:43:35+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -138,32 +138,16 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "브레통 카디건부터 풋볼 저지와 로우웨이스트 팬츠까지 스트라이프가 여러 품목에 걸쳐 반복되며 노출 범위를 넓히고 있습니다.",
-      "detail": "지난주 코펜하겐 거리에서 스트라이프 착장이 다수 포착됐다는 현장 관측에 기반합니다. 검색량이나 판매 비중이 아니라 패턴의 품목 간 확산을 방향 신호로 사용했습니다.",
+      "summary": "코펜하겐 거리에서 포착된 스트라이프가 청바지·톱·드레스·쇼츠·스커트로 확산되고, 패션 인사들의 공개 소셜 착장과 리테일 편성에서도 반복되고 있습니다.",
+      "detail": "코펜하겐 패션위크의 반복 착장 이후 지난 7일 공개된 후속 분석에서 스트라이프가 폴카 도트를 대체하는 패턴으로 제시됐고, 공개 Instagram 기반의 스트라이프 진·톱·드레스·쇼츠 착장과 여러 브랜드의 동시 상품 편성이 확인됐습니다. ‘hot demand’와 ‘viral’이라는 매체 표현은 있으나 공개 판매량·검색량은 없어 수치로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW STRIPES",
           "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
-        }
-      ]
-    },
-    {
-      "id": "live-pencil-skirt",
-      "keyword": "CASUAL PENCIL SKIRT",
-      "category": "ITEM",
-      "direction": "UP",
-      "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "펜슬 스커트가 오피스 수트에서 분리돼 컬러 셔츠·크롭 티와 결합하는 캐주얼 착장으로 확산되고 있습니다.",
-      "detail": "가죽·다크 데님·새틴 소재의 펜슬 스커트가 코펜하겐 거리에서 반복 관찰됐습니다. 런웨이 예측이 아니라 지난 7일의 실제 거리 착장 전환만 반영했습니다.",
-      "sources": [
-        {
-          "label": "WHO WHAT WEAR · CPHFW PENCIL SKIRTS",
-          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
         },
         {
-          "label": "WHO WHAT WEAR · AUGUST STREET STYLE",
-          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
+          "label": "WHO WHAT WEAR · STRIPES ACROSS CATEGORIES",
+          "url": "https://www.whowhatwear.com/fashion/trends/striped-fashion-trend-2026"
         }
       ]
     },
@@ -200,6 +184,26 @@
         {
           "label": "HARPER'S BAZAAR · CAPRI + THONG KITTEN HEELS",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a73435497/daniela-avanzini-katseye-stretchy-yellow-capri-pants-trend-photos/"
+        }
+      ]
+    },
+    {
+      "id": "live-nightie-dress",
+      "keyword": "NIGHTIE & BABYDOLL DRESS",
+      "category": "ITEM",
+      "direction": "NEW",
+      "market": "GLOBAL / KOREA",
+      "signal": "SOCIAL",
+      "summary": "나이트가운형·베이비돌 드레스가 침실풍 아이템에서 늦여름 스트리트웨어로 이동하며 셀러브리티와 패션위크 거리에서 반복되고 있습니다.",
+      "detail": "8월 17일 Vogue는 Kaia Gerber, Bella Hadid, Olivia Rodrigo와 코펜하겐 패션위크 참석자들의 나이트가운형 드레스 착장을 함께 확인했습니다. 레이스·브로더리 앙글레즈·퍼프 소매와 느슨한 실루엣이 공통이며, 무신사에도 국내 베이비돌 드레스 상품과 후기가 노출됩니다. 다만 국내 공개 판매 순위나 검색량은 없어 한국 수요 상승으로 수치화하지 않았습니다.",
+      "sources": [
+        {
+          "label": "VOGUE · VIRAL NIGHTIE DRESS / 6 IT GIRLS",
+          "url": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend"
+        },
+        {
+          "label": "MUSINSA · BABYDOLL DRESS LISTING",
+          "url": "https://www.musinsa.com/products/6182449"
         }
       ]
     }
