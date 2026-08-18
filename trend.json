@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T08:43:35+09:00",
+  "generatedAt": "2026-08-19T08:13:27+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -115,11 +115,11 @@
       "id": "live-waist-adornment",
       "keyword": "WAIST ADORNMENT",
       "category": "DETAIL",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "실크·레이스 스카프, 시퀸 벨트, 셔츠 매듭을 허리에 두르는 장식 방식이 새로운 스타일링 신호로 반복되고 있습니다.",
-      "detail": "코펜하겐 패션위크 참석자 사진에서 기존 의류와 액세서리를 허리 장식으로 전환하는 사례가 다수 관찰됐고, 8월 11일 Vogue의 후속 스트리트 분석에서도 허리에 두른 스카프가 다시 확인됐습니다. 소셜 저장·노출 정량 수치는 공개되지 않아 반복 착장만 기록했습니다.",
+      "summary": "허리에 스카프·시퀸 벨트·셔츠를 두르는 장식 방식은 기존 관측을 유지하지만, 최근 7일 안의 추가 확산 근거가 끊겨 상승 판단을 보류합니다.",
+      "detail": "코펜하겐 패션위크와 8월 11일 Vogue 후속 스트리트 분석에서 허리 장식 사례가 반복됐으나, 현재 이동식 7일 범위에서는 새로운 공개 Instagram 반복 노출이나 플랫폼 검색·판매 순위가 확인되지 않았습니다. 기존 착장 신호는 보존하되 방향을 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · WAIST ADORNMENTS",
