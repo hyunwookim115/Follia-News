@@ -1,86 +1,52 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-18T07:59:03+09:00",
-  "briefingDate": "2026-08-18",
+  "generatedAt": "2026-08-19T08:02:31+09:00",
+  "briefingDate": "2026-08-19",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-17-xexymix-southeast-asia-expansion",
+      "id": "2026-08-18-korean-mules-vogue-mexico",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT NEWS",
-      "sourceUrl": "https://tnnews.co.kr/archives/290807",
-      "date": "2026-08-17",
-      "title": "젝시믹스, 태국·인도네시아로 애슬레저 유통 거점 확대",
-      "summary": "젝시믹스는 태국 유통기업 CP AXTRA와 판매 계약을 맺고 마크로·로터스 입점과 전용 온라인몰 개설을 추진한다. 인도네시아에서는 6월 정식 매장을 열고 쇼피·토코피디아 연계를 강화했으며, 올해 상반기 현지 매출은 전년 동기 대비 100% 이상 증가했다. 국내에서는 ‘RX 러닝’ 라인과 러닝 대회 후원을 확대하고 있다.",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/18/%EC%9A%94%EC%A6%98-%ED%95%B4%EC%99%B8-%EB%B3%B4%EA%B7%B8%EB%8A%94-%EC%B2%AD%EB%B0%94%EC%A7%80%EC%9D%98-%EC%A7%9D%EA%BF%8D%EC%9D%84-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EC%B0%BE%EC%8A%B5%EB%8B%88/",
+      "date": "2026-08-18",
+      "title": "멕시코 Vogue가 주목한 한국 브랜드 뮬의 편안함과 실용성",
+      "summary": "멕시코 Vogue는 한국 브랜드의 뮬을 소개하며 빠른 트렌드 반영, 개성, 편안함과 실용성을 함께 짚었다. Vogue Korea는 클래식한 인상과 매일 신기 좋은 균형이 해외 편집자에게 새롭게 보였다고 전했다.",
       "keywords": [
-        "XEXYMIX",
-        "K-ATHLEISURE",
-        "THAILAND",
-        "INDONESIA",
-        "RX RUNNING"
+        "KOREAN BRANDS",
+        "MULES",
+        "COMFORT",
+        "PRACTICALITY",
+        "VOGUE MEXICO"
       ]
     },
     {
-      "id": "2026-08-17-zara-inditex-retail-system",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/how-marta-ortega-perez-leads-the-worlds-biggest-fashion-retailer",
-      "date": "2026-08-17",
-      "title": "Zara, 매장 판매 데이터와 주 2회 신상품을 연결한 운영 체계",
-      "summary": "Inditex의 Arteixo 단지는 사무실·공장·창고·촬영 스튜디오·디자인 부서·아틀리에·물류센터와 쇼룸을 한곳에 갖췄다. 온라인 팀은 동시에 두 건 이상의 촬영을 운영하며 주 2회 신상품 공개를 준비하고, 상업 운영 건물의 대형 화면은 전 세계 1,495개 매장 계산대와 연결돼 판매 현황을 보여준다. 이 정보는 사내 디자이너가 상품을 빠르게 조정하는 데 쓰인다.",
-      "keywords": [
-        "ZARA",
-        "INDITEX",
-        "RETAIL DATA",
-        "PRODUCT DROP",
-        "IN-HOUSE DESIGN"
-      ]
-    },
-    {
-      "id": "2026-08-17-fashion-influencer-trip-strategy",
+      "id": "2026-08-18-santa-fe-indian-market-designers",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/how-to-pull-off-an-influencer-trip-in-2026",
-      "date": "2026-08-17",
-      "title": "패션 브랜드의 인플루언서 여행, 규모보다 정교한 관객과 장기 콘텐츠로 이동",
-      "summary": "Vogue는 2026년 브랜드 여행이 대규모 인플루언서 중심에서 더 작고 정교하게 선별된 참가자 구성으로 이동했다고 전했다. 브랜드들은 여행 이후에도 남는 콘텐츠와 장기적인 지지, 특정 관객과의 문화적 연결을 중시하고 있다. Mango·J.Crew·Gucci가 자체 여행을 진행했고 Net-a-Porter는 Khaite·Chloé와 유럽 프로그램을 운영했다.",
+      "sourceUrl": "https://www.vogue.com/article/2026-santa-fe-indian-market-highlights",
+      "date": "2026-08-18",
+      "title": "Santa Fe Indian Market, 전통 공예와 동시대 디자인의 결합",
+      "summary": "2026 Santa Fe Indian Market에는 북미 200개 부족 국가에서 온 1,000명 이상의 작가가 참여해 도예·텍스타일·주얼리·의류를 선보였다. Jontay Kahm은 전통 파우와우 복식에서 가져온 프린지와 네온을 사용했고, Devon Tso는 스트라이프 아우터와 담요 형태의 가운·코트를 제시했다.",
       "keywords": [
-        "INFLUENCER TRIP",
-        "BRAND MARKETING",
-        "LONG-TAIL CONTENT",
-        "NET-A-PORTER",
-        "CULTURAL REACH"
+        "SANTA FE INDIAN MARKET",
+        "INDIGENOUS DESIGN",
+        "TEXTILES",
+        "FRINGE",
+        "JONTAY KAHM"
       ]
     },
     {
-      "id": "2026-08-17-institution-ss27-craft",
+      "id": "2026-08-18-comme-des-garcons-dot-comme-auction",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/copenhagen-fashion-week-galib-gassanoff-institution-ss-27",
-      "date": "2026-08-17",
-      "title": "Institution S/S 2027, 코카서스 공예와 해체 가능한 의복 결합",
-      "summary": "Galib Gassanoff의 Institution S/S 2027은 코카서스 지역의 앤티크 카펫 위에 조각적인 실크 코트·니트 숄 카디건·검은 팬츠를 배치했다. 아제르바이잔식 ‘jorab’ 양말과 현지 여성들이 손뜨개한 코튼 코드 탭어드를 사용했다. 조지아 독립 이후의 ‘Tetri’ 동전을 단 흰 실크 시폰 로브는 완전히 펼쳐 벽 장식이나 태피스트리로 전환할 수 있다.",
-      "keywords": [
-        "INSTITUTION",
-        "S/S 2027",
-        "CAUCASUS CRAFT",
-        "HAND KNIT",
-        "TETRI COINS"
-      ]
-    },
-    {
-      "id": "2026-08-17-dot-comme-auction-archive",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/calling-all-rei-kawakubo-fan-comme-is-auctioning-pieces-of-his-epic-collection",
-      "date": "2026-08-17",
-      "title": "dot COMME, Comme des Garçons 아카이브 265점 경매",
-      "summary": "수집가 Octavius La Rosa의 dot COMME는 Kerry Taylor Auctions와 함께 9월 15일 Comme des Garçons 컬렉션 약 265점을 판매한다. 1997년 ‘Body Meets Dress, Dress Meets Body’와 2005년 ‘Broken Bride’, 1984년 드레스 등 여러 시대의 작업이 포함된다. 1980년 이전 제작품은 14개 로트이며 가장 이른 작품은 1975년산이다.",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
+      "date": "2026-08-18",
+      "title": "dot COMME, Comme des Garçons 아카이브 265점 런던 경매",
+      "summary": "Octavius La Rosa의 dot COMME는 Kerry Taylor Auctions와 함께 9월 15일 런던에서 Comme des Garçons 희귀 작품 265점을 판매한다. 1970년대 초기 작업부터 S/S 1997 ‘Body Meets Dress – Dress Meets Body’, A/W 2005 ‘Broken Bride’까지 포함되며 Junya Watanabe 작품도 나온다.",
       "keywords": [
         "COMME DES GARÇONS",
         "REI KAWAKUBO",
@@ -90,92 +56,303 @@
       ]
     },
     {
-      "id": "2026-08-17-savette-soft-symmetry",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
+      "id": "2026-08-18-vacation-menswear-opportunity",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/savette-soft-symmetry-launch",
-      "date": "2026-08-17",
-      "title": "셀렉트 숍 신호: Savette, 구조를 완화한 Soft Symmetry 공개",
-      "summary": "Savette는 기존 Symmetry의 기하학적 비례를 느슨하게 풀고 수납 용량을 늘린 Soft Symmetry를 8월 18일 출시한다. 스무스 카프 가죽에는 골드 잠금장치를, 빈티지 가죽에는 무광 실버 하드웨어를 적용해 파티나와 슬라우치한 질감을 강조했다. 색상은 블랙·코냑·커피 브라운이며, 내부는 넓은 두 칸과 중앙 지퍼 수납으로 구성된다.",
+      "sourceUrl": "https://www.vogue.com/article/the-lucrative-vacation-menswear-opportunity",
+      "date": "2026-08-18",
+      "title": "남성 리조트웨어, 하이서머 캡슐과 여행지 유통으로 확장",
+      "summary": "신생 수영복 브랜드 Descalco는 테일러드 스윔 쇼츠 세 종류로 시장에 진입하고 레디투웨어·액세서리까지 확장할 계획이다. Mytheresa는 Brioni와 ‘Riviera’ 전용 캡슐을 선보였고, Orlebar Brown은 Capri와 Bahamas의 럭셔리 리조트에 판매 거점을 늘렸다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "SAVETTE",
-        "SOFT SYMMETRY",
-        "CALF LEATHER",
-        "VINTAGE FINISH"
+        "MENSWEAR",
+        "RESORTWEAR",
+        "DESCALCO",
+        "MYTHERESA",
+        "BRIONI"
       ]
     },
     {
-      "id": "2026-08-17-29cm-fw-outerwear-edit",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/17/5th?cache=true",
-      "date": "2026-08-17",
-      "title": "29CM 신호: Low Classic·Glowny·Rave·으음키임 F/W 아우터 편성",
-      "summary": "29CM은 8월 17일부터 30일까지 F/W 아우터 기획전을 운영한다. Low Classic의 오버핏 후드 봄버를 선공개하고, Rave의 기존 인기 상품은 프리오더로 편성했다. Glowny와 으음키임의 가을 상품도 같은 기획전에 포함됐다.",
+      "id": "2026-08-18-functional-object-pendants",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/functional-objects-as-pendants",
+      "date": "2026-08-18",
+      "title": "라이터·립스틱·빗·펜을 결합한 기능성 펜던트 확산",
+      "summary": "Vogue는 라이터·에센셜 오일 용기·립스틱 케이스·향수병·빗·펜처럼 실제 기능을 지닌 물건이 펜던트로 전개되는 흐름을 다뤘다. S.T. Dupont, Sophie Buhai, J.Crew, Tiffany & Co., Loro Piana 등의 제품이 사례로 제시됐다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "29CM",
-        "LOW CLASSIC",
-        "RAVE",
-        "F/W OUTERWEAR"
+        "FUNCTIONAL PENDANT",
+        "JEWELRY",
+        "ACCESSORY DESIGN",
+        "LIGHTER HOLDER",
+        "PEN NECKLACE"
       ]
     },
     {
-      "id": "2026-08-17-mistake-project-everyday-brown",
+      "id": "2026-08-18-supreme-nike-air-max-2001",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1536262615403705506",
-      "date": "2026-08-17",
-      "title": "무신사 신호: Mistake Project × Derek ‘Everyday Brown’ 슈즈",
-      "summary": "Mistake Project와 Derek의 ‘Everyday Brown’ 협업은 Cash Loafer와 Munchiken 더비 슈즈 두 모델로 구성됐다. 표면 코팅을 최소화한 소가죽으로 주름·스크래치와 색의 변화를 드러내고, 자체 개발한 경량 러버 아웃솔에 페이크 스티치와 음각을 적용했다. 측면과 발등 패딩, 4mm Ortholite 인솔도 사용했다.",
+      "sourceUrl": "https://www.musinsa.com/content/1539064496660120794",
+      "date": "2026-08-18",
+      "title": "무신사 신호: Supreme × Nike, Y2K Air Max 아카이브 재해석",
+      "summary": "Supreme은 Nike와 협업한 Air Max 2001 Air Ecstasy를 FW 2026 컬렉션의 일부로 공개했다. 단종된 Air Max 2000 Ecstasy Plus의 이름과 콘셉트를 가져와 레드 그라디언트 어퍼, S 로고, 풀 렝스 에어 유닛을 적용했으며 발매 일정과 가격은 아직 공개하지 않았다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "MISTAKE PROJECT",
-        "EVERYDAY BROWN",
-        "COW LEATHER",
-        "LIGHTWEIGHT RUBBER OUTSOLE"
+        "SUPREME",
+        "NIKE",
+        "AIR MAX",
+        "Y2K"
       ]
     },
     {
-      "id": "2026-08-17-made-barbican-furniture",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/made-barbican-furniture-lighting-collection-london-design-festival-2026",
-      "date": "2026-08-17",
-      "title": "Made × Barbican, 브루탈리즘 건축을 23개 가구·조명으로 번역",
-      "summary": "Made와 Barbican은 Barbican의 공공 공간과 기존 아파트에서 영감을 받은 23개 가구·조명 컬렉션을 공개했다. Made 디자인팀은 Barbican 아카이브와 1960년대 후반 쇼하우스를 설계한 Miriam Howitt의 작업을 조사했다. 조각적 형태·모듈 배치·그리드 구조·곡선 실루엣을 가구와 조명, 텍스타일, 액세서리에 반영했다.",
+      "id": "2026-08-18-niceghostclub-junji-ito-sanrio",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1539120994896328787",
+      "date": "2026-08-18",
+      "title": "무신사 신호: Niceghostclub × Junji Ito × Sanrio 삼자 협업",
+      "summary": "Niceghostclub은 Junji Ito와 Sanrio Characters를 결합한 삼자 협업 컬렉션을 출시했다. 갸루 토미에와 헬로키티를 그래픽 티셔츠·파우치 키체인·포토카드 홀더·북 파우치·손거울에 적용했고, 발매 직후 무신사 NEW 랭킹 1위와 상위권에 올랐다.",
       "keywords": [
-        "MADE",
-        "BARBICAN",
-        "BRUTALISM",
-        "MODULAR FURNITURE",
-        "MIRIAM HOWITT"
+        "SELECT SHOP SIGNAL",
+        "NICEGHOSTCLUB",
+        "JUNJI ITO",
+        "SANRIO CHARACTERS",
+        "GRAPHIC COLLECTION"
       ]
     },
     {
-      "id": "2026-08-17-lina-bo-bardi-exhibition-open",
+      "id": "2026-08-18-29cm-heriter-gaya-glassware",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/heriter?cache=true",
+      "date": "2026-08-18",
+      "title": "29CM 신호: HERITER, 가야 토기 모티프 글라스웨어 단독 확장",
+      "summary": "HERITER는 대표작 ‘가야 글라스’를 보울과 플레이트로 확장한 풀 글라스웨어 컬렉션을 29CM 단독으로 기획했다. 가야 토기의 조형에 내열 유리와 스태킹 구조를 적용했으며, 기획전은 8월 18일부터 9월 7일까지 진행된다.",
+      "keywords": [
+        "SELECT SHOP SIGNAL",
+        "29CM",
+        "HERITER",
+        "GAYA GLASS",
+        "HEAT-RESISTANT GLASS"
+      ]
+    },
+    {
+      "id": "2026-08-18-damata-house-regional-materials",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183400/the-poetics-of-survival-open-architecture-designs-lina-bo-bardis-first-exhibition-in-china",
-      "date": "2026-08-17",
-      "title": "OPEN, 리넨 곡면과 재사용 요소로 Lina Bo Bardi 중국 전시 설계",
-      "summary": "OPEN Architecture는 상하이 Power Station of Art의 2,300㎡ 공간에 Lina Bo Bardi의 중국 첫 전시 ‘The Poetics of Survival’을 설계했다. 직사각형 전시실을 가로지르는 하나의 연속 곡면과 천연 리넨으로 연결된 공간을 만들고, SESC Pompéia 실내 연못을 원래 크기로 재현했다. Beam Bench와 진열장을 맞춤 제작하고, 합판 스트립·철근·돌을 전시 구조와 패브릭 고정에 사용했다.",
+      "sourceUrl": "https://www.archdaily.com/1183504/damata-house-melina-romano",
+      "date": "2026-08-18",
+      "title": "Damata House, 상파울루 농촌의 재료와 가구를 실내로 연결",
+      "summary": "Melina Romano는 브라질 Itatiba의 Damata House에 다짐흙 벽과 São Tomé 석재 바닥을 적용해 실내외 재료 언어를 이어갔다. Neca Abrantes의 Kariri 암체어에는 풀어낸 천연 buriti 짚을 사용했고, Evanilce Souza의 수공예 천연섬유 펜던트 조명이 지붕 형태와 시각적으로 연결된다.",
       "keywords": [
-        "LINA BO BARDI",
-        "OPEN ARCHITECTURE",
-        "EXHIBITION DESIGN",
-        "NATURAL LINEN",
-        "REUSED MATERIALS"
+        "DAMATA HOUSE",
+        "RAMMED EARTH",
+        "SÃO TOMÉ STONE",
+        "BURITI STRAW",
+        "CRAFT LIGHTING"
+      ]
+    },
+    {
+      "id": "2026-08-18-hideout-leaf-bamboo-interior",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
+      "date": "2026-08-18",
+      "title": "Hideout Leaf Villa, 검정·노랑 대나무로 구조와 맞춤 가구 통합",
+      "summary": "Pablo Luna Studio의 Hideout Leaf Villa는 네 장의 낙엽에서 가져온 지붕 구성과 최소한의 대나무 기둥으로 개방된 실내를 만들었다. 검정 대나무는 구조·바닥·맞춤 가구에, 노랑 대나무는 색 대비에 사용했으며 연마 석회암과 유리를 함께 배치했다.",
+      "keywords": [
+        "HIDEOUT LEAF",
+        "BAMBOO",
+        "CUSTOM FURNITURE",
+        "LIMESTONE",
+        "TROPICAL INTERIOR"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-18T07:59:03+09:00",
+      "briefingDate": "2026-08-18",
+      "generatedAt": "2026-08-18T07:59:03+09:00",
+      "cards": [
+        {
+          "id": "2026-08-17-xexymix-southeast-asia-expansion",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT NEWS",
+          "sourceUrl": "https://tnnews.co.kr/archives/290807",
+          "date": "2026-08-17",
+          "title": "젝시믹스, 태국·인도네시아로 애슬레저 유통 거점 확대",
+          "summary": "젝시믹스는 태국 유통기업 CP AXTRA와 판매 계약을 맺고 마크로·로터스 입점과 전용 온라인몰 개설을 추진한다. 인도네시아에서는 6월 정식 매장을 열고 쇼피·토코피디아 연계를 강화했으며, 올해 상반기 현지 매출은 전년 동기 대비 100% 이상 증가했다. 국내에서는 ‘RX 러닝’ 라인과 러닝 대회 후원을 확대하고 있다.",
+          "keywords": [
+            "XEXYMIX",
+            "K-ATHLEISURE",
+            "THAILAND",
+            "INDONESIA",
+            "RX RUNNING"
+          ]
+        },
+        {
+          "id": "2026-08-17-zara-inditex-retail-system",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/how-marta-ortega-perez-leads-the-worlds-biggest-fashion-retailer",
+          "date": "2026-08-17",
+          "title": "Zara, 매장 판매 데이터와 주 2회 신상품을 연결한 운영 체계",
+          "summary": "Inditex의 Arteixo 단지는 사무실·공장·창고·촬영 스튜디오·디자인 부서·아틀리에·물류센터와 쇼룸을 한곳에 갖췄다. 온라인 팀은 동시에 두 건 이상의 촬영을 운영하며 주 2회 신상품 공개를 준비하고, 상업 운영 건물의 대형 화면은 전 세계 1,495개 매장 계산대와 연결돼 판매 현황을 보여준다. 이 정보는 사내 디자이너가 상품을 빠르게 조정하는 데 쓰인다.",
+          "keywords": [
+            "ZARA",
+            "INDITEX",
+            "RETAIL DATA",
+            "PRODUCT DROP",
+            "IN-HOUSE DESIGN"
+          ]
+        },
+        {
+          "id": "2026-08-17-fashion-influencer-trip-strategy",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/how-to-pull-off-an-influencer-trip-in-2026",
+          "date": "2026-08-17",
+          "title": "패션 브랜드의 인플루언서 여행, 규모보다 정교한 관객과 장기 콘텐츠로 이동",
+          "summary": "Vogue는 2026년 브랜드 여행이 대규모 인플루언서 중심에서 더 작고 정교하게 선별된 참가자 구성으로 이동했다고 전했다. 브랜드들은 여행 이후에도 남는 콘텐츠와 장기적인 지지, 특정 관객과의 문화적 연결을 중시하고 있다. Mango·J.Crew·Gucci가 자체 여행을 진행했고 Net-a-Porter는 Khaite·Chloé와 유럽 프로그램을 운영했다.",
+          "keywords": [
+            "INFLUENCER TRIP",
+            "BRAND MARKETING",
+            "LONG-TAIL CONTENT",
+            "NET-A-PORTER",
+            "CULTURAL REACH"
+          ]
+        },
+        {
+          "id": "2026-08-17-institution-ss27-craft",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/copenhagen-fashion-week-galib-gassanoff-institution-ss-27",
+          "date": "2026-08-17",
+          "title": "Institution S/S 2027, 코카서스 공예와 해체 가능한 의복 결합",
+          "summary": "Galib Gassanoff의 Institution S/S 2027은 코카서스 지역의 앤티크 카펫 위에 조각적인 실크 코트·니트 숄 카디건·검은 팬츠를 배치했다. 아제르바이잔식 ‘jorab’ 양말과 현지 여성들이 손뜨개한 코튼 코드 탭어드를 사용했다. 조지아 독립 이후의 ‘Tetri’ 동전을 단 흰 실크 시폰 로브는 완전히 펼쳐 벽 장식이나 태피스트리로 전환할 수 있다.",
+          "keywords": [
+            "INSTITUTION",
+            "S/S 2027",
+            "CAUCASUS CRAFT",
+            "HAND KNIT",
+            "TETRI COINS"
+          ]
+        },
+        {
+          "id": "2026-08-17-dot-comme-auction-archive",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/calling-all-rei-kawakubo-fan-comme-is-auctioning-pieces-of-his-epic-collection",
+          "date": "2026-08-17",
+          "title": "dot COMME, Comme des Garçons 아카이브 265점 경매",
+          "summary": "수집가 Octavius La Rosa의 dot COMME는 Kerry Taylor Auctions와 함께 9월 15일 Comme des Garçons 컬렉션 약 265점을 판매한다. 1997년 ‘Body Meets Dress, Dress Meets Body’와 2005년 ‘Broken Bride’, 1984년 드레스 등 여러 시대의 작업이 포함된다. 1980년 이전 제작품은 14개 로트이며 가장 이른 작품은 1975년산이다.",
+          "keywords": [
+            "COMME DES GARÇONS",
+            "REI KAWAKUBO",
+            "DOT COMME",
+            "FASHION ARCHIVE",
+            "AUCTION"
+          ]
+        },
+        {
+          "id": "2026-08-17-savette-soft-symmetry",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/savette-soft-symmetry-launch",
+          "date": "2026-08-17",
+          "title": "셀렉트 숍 신호: Savette, 구조를 완화한 Soft Symmetry 공개",
+          "summary": "Savette는 기존 Symmetry의 기하학적 비례를 느슨하게 풀고 수납 용량을 늘린 Soft Symmetry를 8월 18일 출시한다. 스무스 카프 가죽에는 골드 잠금장치를, 빈티지 가죽에는 무광 실버 하드웨어를 적용해 파티나와 슬라우치한 질감을 강조했다. 색상은 블랙·코냑·커피 브라운이며, 내부는 넓은 두 칸과 중앙 지퍼 수납으로 구성된다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "SAVETTE",
+            "SOFT SYMMETRY",
+            "CALF LEATHER",
+            "VINTAGE FINISH"
+          ]
+        },
+        {
+          "id": "2026-08-17-29cm-fw-outerwear-edit",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/17/5th?cache=true",
+          "date": "2026-08-17",
+          "title": "29CM 신호: Low Classic·Glowny·Rave·으음키임 F/W 아우터 편성",
+          "summary": "29CM은 8월 17일부터 30일까지 F/W 아우터 기획전을 운영한다. Low Classic의 오버핏 후드 봄버를 선공개하고, Rave의 기존 인기 상품은 프리오더로 편성했다. Glowny와 으음키임의 가을 상품도 같은 기획전에 포함됐다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "LOW CLASSIC",
+            "RAVE",
+            "F/W OUTERWEAR"
+          ]
+        },
+        {
+          "id": "2026-08-17-mistake-project-everyday-brown",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1536262615403705506",
+          "date": "2026-08-17",
+          "title": "무신사 신호: Mistake Project × Derek ‘Everyday Brown’ 슈즈",
+          "summary": "Mistake Project와 Derek의 ‘Everyday Brown’ 협업은 Cash Loafer와 Munchiken 더비 슈즈 두 모델로 구성됐다. 표면 코팅을 최소화한 소가죽으로 주름·스크래치와 색의 변화를 드러내고, 자체 개발한 경량 러버 아웃솔에 페이크 스티치와 음각을 적용했다. 측면과 발등 패딩, 4mm Ortholite 인솔도 사용했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "MISTAKE PROJECT",
+            "EVERYDAY BROWN",
+            "COW LEATHER",
+            "LIGHTWEIGHT RUBBER OUTSOLE"
+          ]
+        },
+        {
+          "id": "2026-08-17-made-barbican-furniture",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/made-barbican-furniture-lighting-collection-london-design-festival-2026",
+          "date": "2026-08-17",
+          "title": "Made × Barbican, 브루탈리즘 건축을 23개 가구·조명으로 번역",
+          "summary": "Made와 Barbican은 Barbican의 공공 공간과 기존 아파트에서 영감을 받은 23개 가구·조명 컬렉션을 공개했다. Made 디자인팀은 Barbican 아카이브와 1960년대 후반 쇼하우스를 설계한 Miriam Howitt의 작업을 조사했다. 조각적 형태·모듈 배치·그리드 구조·곡선 실루엣을 가구와 조명, 텍스타일, 액세서리에 반영했다.",
+          "keywords": [
+            "MADE",
+            "BARBICAN",
+            "BRUTALISM",
+            "MODULAR FURNITURE",
+            "MIRIAM HOWITT"
+          ]
+        },
+        {
+          "id": "2026-08-17-lina-bo-bardi-exhibition-open",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183400/the-poetics-of-survival-open-architecture-designs-lina-bo-bardis-first-exhibition-in-china",
+          "date": "2026-08-17",
+          "title": "OPEN, 리넨 곡면과 재사용 요소로 Lina Bo Bardi 중국 전시 설계",
+          "summary": "OPEN Architecture는 상하이 Power Station of Art의 2,300㎡ 공간에 Lina Bo Bardi의 중국 첫 전시 ‘The Poetics of Survival’을 설계했다. 직사각형 전시실을 가로지르는 하나의 연속 곡면과 천연 리넨으로 연결된 공간을 만들고, SESC Pompéia 실내 연못을 원래 크기로 재현했다. Beam Bench와 진열장을 맞춤 제작하고, 합판 스트립·철근·돌을 전시 구조와 패브릭 고정에 사용했다.",
+          "keywords": [
+            "LINA BO BARDI",
+            "OPEN ARCHITECTURE",
+            "EXHIBITION DESIGN",
+            "NATURAL LINEN",
+            "REUSED MATERIALS"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-17T07:58:20+09:00",
       "briefingDate": "2026-08-17",
