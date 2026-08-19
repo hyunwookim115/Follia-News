@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T08:13:27+09:00",
+  "generatedAt": "2026-08-20T08:42:04+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리와 테일러드 버뮤다가 패션위크 거리에서 반복된 데 이어, 8월 15일 셀러브리티 착장까지 이어지며 ‘중간 길이’ 하의의 상승 흐름이 유지되고 있습니다.",
-      "detail": "코펜하겐 현장 사진·에디토리얼의 카프리·버뮤다 반복 노출에 이어, 8월 15일 Harper’s Bazaar가 KATSEYE Daniela Avanzini의 로우라이즈 옐로 카프리 착장을 보도했습니다. 기사에는 해당 사진이 공개 Instagram에도 공유됐다고 명시됐습니다. 무신사에는 국내 상품·콘텐츠 기반이 있지만 공개 검색량이나 최근 판매 순위는 없어 수치로 환산하지 않았습니다.",
+      "summary": "카프리와 테일러드 버뮤다에 이어 미디스커트까지 코펜하겐 거리에서 반복 포착되고, 8월 19일 후속 분석이 이를 다시 확인해 ‘중간 길이’ 하의의 상승 흐름이 유지되고 있습니다.",
+      "detail": "기존 코펜하겐 현장 사진·에디토리얼의 카프리·버뮤다 반복 노출과 8월 15일 KATSEYE Daniela Avanzini의 카프리 착장에 이어, 8월 19일 InStyle은 50페이지 분량의 현장 사진에서 거의 두 명 중 한 명꼴로 종아리 길이 미디스커트가 보였다고 서술했습니다. 이는 매체의 사진 관찰치이며 플랫폼 판매량이나 검색량으로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -28,6 +28,10 @@
         {
           "label": "HARPER'S BAZAAR · CAPRI + THONG KITTEN HEELS",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a73435497/daniela-avanzini-katseye-stretchy-yellow-capri-pants-trend-photos/"
+        },
+        {
+          "label": "INSTYLE · CPHFW MIDISKIRT REPEAT",
+          "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
         }
       ]
     },
@@ -35,11 +39,11 @@
       "id": "live-eyelet-lace-top",
       "keyword": "EYELET & LACE TOP",
       "category": "MATERIAL",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "레이스·아일렛 소재가 블라우스와 톱의 주재료로 이동한 뒤, 패션위크 거리와 셀러브리티 착장에 더해 Lyst 인기 상품 신호까지 이어지고 있습니다.",
-      "detail": "8월 3~7일 코펜하겐 패션위크에서 레이스 크롭 톱, 케이프 블라우스, 아일렛 탱크가 반복 관찰됐고, Jennifer Lopez의 화이트 아일렛 캐미솔 후속 노출도 확인됐습니다. 또한 레이스 트리밍을 핵심으로 한 Dôen의 Iona Shorts가 Lyst Q2 Hottest Products 8위로 공개돼 반복 노출 외 수요 신호를 보강했습니다.",
+      "summary": "레이스·아일렛 톱은 패션위크 거리와 셀러브리티 착장, Lyst 상품 신호를 남겼지만 현재 7일 범위의 신규 반복 근거가 약해 상승 판단을 보류합니다.",
+      "detail": "코펜하겐 패션위크의 레이스·아일렛 톱 반복 착장과 Jennifer Lopez 후속 노출, Dôen의 Lyst Q2 Hottest Products 8위는 기존 흐름을 뒷받침합니다. 다만 8월 14~20일 새 공개 Instagram 반복 노출이나 플랫폼 검색·판매 순위를 추가로 확인하지 못해 기존 항목은 보존하되 방향을 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · CPHFW EYELET TOPS",
@@ -63,11 +67,11 @@
       "id": "live-mesh-perforated-flats",
       "keyword": "MESH & PERFORATED FLATS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL / KOREA",
       "signal": "PLATFORM",
-      "summary": "메쉬·펀칭 발레리나 플랫이 셀러브리티 착장, 패션위크 거리, 글로벌 리테일 편성에서 동시에 반복되고 있습니다.",
-      "detail": "리한나의 메쉬 플랫 착장과 코펜하겐 거리의 펀칭 플랫 반복 노출에 이어, 8월 13일 공개 Instagram 편집물에서도 메쉬 플랫이 다시 제시됐습니다. KREAM에는 국내 상품 노출이 있으나 최근 체결 증가가 공개되지 않아 거래 수요 상승으로 해석하지 않았습니다.",
+      "summary": "메쉬·펀칭 플랫은 셀러브리티·패션위크·리테일 노출을 유지하지만, 최근 7일 안의 추가 공개 신호가 확인되지 않아 상승 판단을 보류합니다.",
+      "detail": "리한나 착장, 코펜하겐 거리의 펀칭 플랫, 8월 13일 공개 Instagram 편집물은 기존 흐름을 설명합니다. 그러나 8월 14~20일 국내외 플랫폼에서 새 검색·판매 순위나 반복 소셜 노출을 확인하지 못했습니다. KREAM 상품 노출도 최근 체결 증가를 공개하지 않아 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · MESH BALLET FLATS",
@@ -94,8 +98,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "과장된 배럴·벌룬 진에서 한 단계 정돈된 릴랙스드 스트레이트 데님으로 관심이 이동하는 신호가 확인됩니다.",
-      "detail": "코펜하겐 거리에서 클래식한 스트레이트 진이 반복됐고, 8월 13일 보그 코리아가 같은 현장의 헐렁한 데님 착장을 국내 독자에게 다시 노출했습니다. 국내 후속 기사는 ‘릴랙스드’ 방향을 보강하지만 정확한 스트레이트 핏의 판매량을 뜻하지는 않으므로 판매 수치로 환산하지 않았습니다.",
+      "summary": "과장된 배럴·벌룬 진에서 한 단계 정돈된 릴랙스드 데님으로 관심이 이동하는 가운데, 코펜하겐의 라이트 워시·배기 착장이 8월 19일 후속 분석에서 다시 노출됐습니다.",
+      "detail": "코펜하겐 거리의 클래식 스트레이트·헐렁한 데님과 8월 13일 보그 코리아 후속 기사에 이어, 8월 19일 InStyle이 라이트 워시 배기·레귤러 웨이스트 진 착장을 별도 흐름으로 제시했습니다. 새 근거는 편안한 핏과 가벼운 워시 방향을 보강하지만 정확한 스트레이트 핏의 판매량을 뜻하지 않으므로 수요 수치로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -108,26 +112,10 @@
         {
           "label": "VOGUE KOREA · RELAXED DENIM FOLLOW-UP",
           "url": "https://www.vogue.co.kr/2026/08/13/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%97%90%EB%8F%84-%ED%97%90%EB%A0%81%ED%95%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%AA%BB-%EC%9D%B4%EA%B9%81%EB%8B%88%EB%8B%A4/"
-        }
-      ]
-    },
-    {
-      "id": "live-waist-adornment",
-      "keyword": "WAIST ADORNMENT",
-      "category": "DETAIL",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "허리에 스카프·시퀸 벨트·셔츠를 두르는 장식 방식은 기존 관측을 유지하지만, 최근 7일 안의 추가 확산 근거가 끊겨 상승 판단을 보류합니다.",
-      "detail": "코펜하겐 패션위크와 8월 11일 Vogue 후속 스트리트 분석에서 허리 장식 사례가 반복됐으나, 현재 이동식 7일 범위에서는 새로운 공개 Instagram 반복 노출이나 플랫폼 검색·판매 순위가 확인되지 않았습니다. 기존 착장 신호는 보존하되 방향을 HOLD로 조정했습니다.",
-      "sources": [
-        {
-          "label": "WHO WHAT WEAR · WAIST ADORNMENTS",
-          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
         },
         {
-          "label": "VOGUE · CPHFW SCARF STYLING",
-          "url": "https://www.vogue.com/article/from-twinning-to-prairie-core-8-street-style-trends-from-the-spring-2027-shows-in-copenhagen"
+          "label": "INSTYLE · LIGHT-WASH RELAXED DENIM",
+          "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
         }
       ]
     },
@@ -204,6 +192,26 @@
         {
           "label": "MUSINSA · BABYDOLL DRESS LISTING",
           "url": "https://www.musinsa.com/products/6182449"
+        }
+      ]
+    },
+    {
+      "id": "live-jazz-shoes",
+      "keyword": "JAZZ SHOES",
+      "category": "ITEM",
+      "direction": "NEW",
+      "market": "GLOBAL / KOREA",
+      "signal": "SOCIAL",
+      "summary": "슬림한 레이스업 재즈 슈즈가 발레 플랫·로퍼의 다음 변형으로 떠오르며, 셀러브리티 후속 착장과 국내 리셀 상품 노출이 동시에 확인됐습니다.",
+      "detail": "8월 19일 InStyle은 나오미 왓츠의 컷아웃 재즈 슈즈 착장을 보도하며 니콜 키드먼·샤를리즈 테론·릴리 콜린스의 선행 착장과 여러 리테일러의 동시 편성을 함께 제시했습니다. FruitsFamily에도 레페토 재즈 슈즈 상품이 노출되고 공개 조회·관심 수치가 표시되지만, 이는 판매 완료나 시장 전체 수요를 뜻하지 않으므로 거래 증가로 해석하지 않았습니다.",
+      "sources": [
+        {
+          "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
+          "url": "https://www.instyle.com/look-of-the-day-2026-08-19-12063640"
+        },
+        {
+          "label": "FRUITSFAMILY · REPETTO JAZZ SHOES",
+          "url": "https://fruitsfamily.com/product/66oq4/%EB%A0%88%ED%8E%98%ED%86%A0-%EC%9E%AC%EC%A6%88-%EC%8A%88%EC%A6%88-41-260-265"
         }
       ]
     }
