@@ -1,181 +1,341 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-19T08:02:31+09:00",
-  "briefingDate": "2026-08-19",
+  "generatedAt": "2026-08-20T08:04:59+09:00",
+  "briefingDate": "2026-08-20",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-18-korean-mules-vogue-mexico",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/18/%EC%9A%94%EC%A6%98-%ED%95%B4%EC%99%B8-%EB%B3%B4%EA%B7%B8%EB%8A%94-%EC%B2%AD%EB%B0%94%EC%A7%80%EC%9D%98-%EC%A7%9D%EA%BF%8D%EC%9D%84-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EC%B0%BE%EC%8A%B5%EB%8B%88/",
-      "date": "2026-08-18",
-      "title": "멕시코 Vogue가 주목한 한국 브랜드 뮬의 편안함과 실용성",
-      "summary": "멕시코 Vogue는 한국 브랜드의 뮬을 소개하며 빠른 트렌드 반영, 개성, 편안함과 실용성을 함께 짚었다. Vogue Korea는 클래식한 인상과 매일 신기 좋은 균형이 해외 편집자에게 새롭게 보였다고 전했다.",
-      "keywords": [
-        "KOREAN BRANDS",
-        "MULES",
-        "COMFORT",
-        "PRACTICALITY",
-        "VOGUE MEXICO"
-      ]
-    },
-    {
-      "id": "2026-08-18-santa-fe-indian-market-designers",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/2026-santa-fe-indian-market-highlights",
-      "date": "2026-08-18",
-      "title": "Santa Fe Indian Market, 전통 공예와 동시대 디자인의 결합",
-      "summary": "2026 Santa Fe Indian Market에는 북미 200개 부족 국가에서 온 1,000명 이상의 작가가 참여해 도예·텍스타일·주얼리·의류를 선보였다. Jontay Kahm은 전통 파우와우 복식에서 가져온 프린지와 네온을 사용했고, Devon Tso는 스트라이프 아우터와 담요 형태의 가운·코트를 제시했다.",
-      "keywords": [
-        "SANTA FE INDIAN MARKET",
-        "INDIGENOUS DESIGN",
-        "TEXTILES",
-        "FRINGE",
-        "JONTAY KAHM"
-      ]
-    },
-    {
-      "id": "2026-08-18-comme-des-garcons-dot-comme-auction",
+      "id": "2026-08-19-paul-smith-nottingham-archive",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
-      "date": "2026-08-18",
-      "title": "dot COMME, Comme des Garçons 아카이브 265점 런던 경매",
-      "summary": "Octavius La Rosa의 dot COMME는 Kerry Taylor Auctions와 함께 9월 15일 런던에서 Comme des Garçons 희귀 작품 265점을 판매한다. 1970년대 초기 작업부터 S/S 1997 ‘Body Meets Dress – Dress Meets Body’, A/W 2005 ‘Broken Bride’까지 포함되며 Junya Watanabe 작품도 나온다.",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/paul-smith-archive-nottingham",
+      "date": "2026-08-19",
+      "title": "Paul Smith, 노팅엄 아카이브를 현재 컬렉션의 설계 자원으로 활용",
+      "summary": "Paul Smith Foundation은 회사 본사에 5,000점이 넘는 의복과 오브제를 보관하는 전용 아카이브를 구축해 브랜드 역사를 체계적으로 정리하고 있다. 이 아카이브는 과거 디자인을 보존하는 동시에 현재 컬렉션에 참고 자료를 제공한다.",
       "keywords": [
-        "COMME DES GARÇONS",
-        "REI KAWAKUBO",
-        "DOT COMME",
+        "PAUL SMITH",
+        "NOTTINGHAM",
         "FASHION ARCHIVE",
-        "AUCTION"
+        "BRAND HERITAGE",
+        "COLLECTION RESEARCH"
       ]
     },
     {
-      "id": "2026-08-18-vacation-menswear-opportunity",
+      "id": "2026-08-19-outerwear-brands-summer-expansion",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-lucrative-vacation-menswear-opportunity",
-      "date": "2026-08-18",
-      "title": "남성 리조트웨어, 하이서머 캡슐과 여행지 유통으로 확장",
-      "summary": "신생 수영복 브랜드 Descalco는 테일러드 스윔 쇼츠 세 종류로 시장에 진입하고 레디투웨어·액세서리까지 확장할 계획이다. Mytheresa는 Brioni와 ‘Riviera’ 전용 캡슐을 선보였고, Orlebar Brown은 Capri와 Bahamas의 럭셔리 리조트에 판매 거점을 늘렸다.",
+      "sourceUrl": "https://www.vogue.com/article/brand-heat-why-winter-brands-are-going-all-in-on-summer",
+      "date": "2026-08-19",
+      "title": "Canada Goose·Moncler·Arc’teryx, 여름용 경량 아우터로 계절 범위 확장",
+      "summary": "Canada Goose는 ‘We do summer, too’ 캠페인으로 계절 범위를 넓혔고, Moncler는 첫 전용 여름 캠페인에서 경량 다운 재킷을 선보였다. Arc’teryx는 나일론 미니 립스톱 소재의 초박형 Demlo 셔츠를 출시하며 기술형 아우터의 여름 제품군을 확대했다.",
       "keywords": [
-        "MENSWEAR",
-        "RESORTWEAR",
-        "DESCALCO",
-        "MYTHERESA",
-        "BRIONI"
+        "CANADA GOOSE",
+        "MONCLER",
+        "ARC’TERYX",
+        "LIGHTWEIGHT OUTERWEAR",
+        "SUMMER COLLECTION"
       ]
     },
     {
-      "id": "2026-08-18-functional-object-pendants",
+      "id": "2026-08-19-neon-rebels-tween-marketplace",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/functional-objects-as-pendants",
-      "date": "2026-08-18",
-      "title": "라이터·립스틱·빗·펜을 결합한 기능성 펜던트 확산",
-      "summary": "Vogue는 라이터·에센셜 오일 용기·립스틱 케이스·향수병·빗·펜처럼 실제 기능을 지닌 물건이 펜던트로 전개되는 흐름을 다뤘다. S.T. Dupont, Sophie Buhai, J.Crew, Tiffany & Co., Loro Piana 등의 제품이 사례로 제시됐다.",
+      "sourceUrl": "https://www.vogue.com/article/with-neon-rebels-maisonette-is-taking-on-the-tween-market",
+      "date": "2026-08-19",
+      "title": "Maisonette, 7~14세용 멀티브랜드 플랫폼 Neon Rebels 출범",
+      "summary": "Maisonette는 7~14세를 위한 마켓플레이스 Neon Rebels를 100개가 넘는 브랜드와 함께 출범했다. 의류·신발·액세서리뿐 아니라 홈·전자기기·뷰티까지 편성하며, 기존 Maisonette의 기술·물류·벤더 관계와 고객 기반을 활용한다.",
       "keywords": [
-        "FUNCTIONAL PENDANT",
-        "JEWELRY",
-        "ACCESSORY DESIGN",
-        "LIGHTER HOLDER",
-        "PEN NECKLACE"
+        "NEON REBELS",
+        "MAISONETTE",
+        "TWEEN MARKET",
+        "MULTI-BRAND",
+        "KIDSWEAR"
       ]
     },
     {
-      "id": "2026-08-18-supreme-nike-air-max-2001",
+      "id": "2026-08-19-fall-2026-fashion-trends",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
+      "date": "2026-08-19",
+      "title": "2026 F/W, 미니멀 실루엣에 풍부한 질감·페플럼·볼륨 결합",
+      "summary": "Vogue는 2026 F/W 런웨이에서 절제된 옷차림보다 표현적인 방향이 강해졌으며, 미니멀한 실루엣과 풍부한 질감의 대비가 나타났다고 정리했다. 클래식 아이템에는 페플럼과 볼륨을 더했고, 수트는 여유로운 테일러링과 조각적인 형태로 업데이트됐다.",
+      "keywords": [
+        "F/W 2026",
+        "TEXTURE",
+        "PEPLUM",
+        "VOLUME",
+        "TAILORING"
+      ]
+    },
+    {
+      "id": "2026-08-19-paf-hidden-ny-capsule",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1539064496660120794",
-      "date": "2026-08-18",
-      "title": "무신사 신호: Supreme × Nike, Y2K Air Max 아카이브 재해석",
-      "summary": "Supreme은 Nike와 협업한 Air Max 2001 Air Ecstasy를 FW 2026 컬렉션의 일부로 공개했다. 단종된 Air Max 2000 Ecstasy Plus의 이름과 콘셉트를 가져와 레드 그라디언트 어퍼, S 로고, 풀 렝스 에어 유닛을 적용했으며 발매 일정과 가격은 아직 공개하지 않았다.",
+      "sourceUrl": "https://www.musinsa.com/content/1539449970255957079",
+      "date": "2026-08-19",
+      "title": "무신사 신호: PAF × Hidden NY 첫 HIDDEN® 수베니어 캡슐",
+      "summary": "Post Archive Faction과 Hidden NY의 첫 협업 캡슐은 그래픽 티셔츠 3종과 캡 1종으로 구성됐다. 캡에는 손으로 엮은 아마조나이트 비즈를 적용했으며, 8월 18일부터 양 브랜드 공식 스토어와 서울 PAF 매장에서 판매한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "SUPREME",
-        "NIKE",
-        "AIR MAX",
-        "Y2K"
+        "POST ARCHIVE FACTION",
+        "HIDDEN NY",
+        "AMAZONITE",
+        "CAPSULE COLLECTION"
       ]
     },
     {
-      "id": "2026-08-18-niceghostclub-junji-ito-sanrio",
+      "id": "2026-08-19-invincible-madness-asics-gel-kayano",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1539120994896328787",
-      "date": "2026-08-18",
-      "title": "무신사 신호: Niceghostclub × Junji Ito × Sanrio 삼자 협업",
-      "summary": "Niceghostclub은 Junji Ito와 Sanrio Characters를 결합한 삼자 협업 컬렉션을 출시했다. 갸루 토미에와 헬로키티를 그래픽 티셔츠·파우치 키체인·포토카드 홀더·북 파우치·손거울에 적용했고, 발매 직후 무신사 NEW 랭킹 1위와 상위권에 올랐다.",
+      "sourceUrl": "https://www.musinsa.com/content/1539453064449373022",
+      "date": "2026-08-19",
+      "title": "무신사 신호: Invincible × Madness × Asics 첫 GEL-Kayano 12.1",
+      "summary": "세 브랜드의 첫 협업 GEL-Kayano 12.1은 돌로마이트 암석의 층상 질감을 열 가지 소재 조합으로 표현했다. 오프화이트 메시 위에 크림 가죽·스웨이드·반투명 소재를 겹쳤으며, Invincible 온라인 스토어에서 8월 20일까지 글로벌 래플을 진행한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "NICEGHOSTCLUB",
-        "JUNJI ITO",
-        "SANRIO CHARACTERS",
-        "GRAPHIC COLLECTION"
+        "INVINCIBLE",
+        "MADNESS",
+        "ASICS",
+        "GEL-KAYANO 12.1"
       ]
     },
     {
-      "id": "2026-08-18-29cm-heriter-gaya-glassware",
+      "id": "2026-08-19-oggitt-changeok-heavytalker",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/heriter?cache=true",
-      "date": "2026-08-18",
-      "title": "29CM 신호: HERITER, 가야 토기 모티프 글라스웨어 단독 확장",
-      "summary": "HERITER는 대표작 ‘가야 글라스’를 보울과 플레이트로 확장한 풀 글라스웨어 컬렉션을 29CM 단독으로 기획했다. 가야 토기의 조형에 내열 유리와 스태킹 구조를 적용했으며, 기획전은 8월 18일부터 9월 7일까지 진행된다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29-limited-order/2026/08/oggitt-changeok-heavytalker?cache=true",
+      "date": "2026-08-19",
+      "title": "29CM 신호: 오끼뜨 × 창억떡 × 하말넘많 ‘누워서 떡 입기’",
+      "summary": "세 팀은 ‘누워서 떡 먹기’를 재해석한 파자마·티셔츠·팬츠 협업 컬렉션을 29CM 단독으로 선보였다. 오끼뜨가 처음 제작한 테리 파자마에는 남녀가 함께 입는 릴랙스 핏을 적용하고, 떡 이미지와 한국적 위트를 그래픽으로 풀었다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
         "29CM",
-        "HERITER",
-        "GAYA GLASS",
-        "HEAT-RESISTANT GLASS"
+        "OGGITT",
+        "CHANGEOK",
+        "TERRY PAJAMAS"
       ]
     },
     {
-      "id": "2026-08-18-damata-house-regional-materials",
+      "id": "2026-08-19-la-claye-reuse-furniture",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183504/damata-house-melina-romano",
-      "date": "2026-08-18",
-      "title": "Damata House, 상파울루 농촌의 재료와 가구를 실내로 연결",
-      "summary": "Melina Romano는 브라질 Itatiba의 Damata House에 다짐흙 벽과 São Tomé 석재 바닥을 적용해 실내외 재료 언어를 이어갔다. Neca Abrantes의 Kariri 암체어에는 풀어낸 천연 buriti 짚을 사용했고, Evanilce Souza의 수공예 천연섬유 펜던트 조명이 지붕 형태와 시각적으로 연결된다.",
+      "sourceUrl": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
+      "date": "2026-08-19",
+      "title": "La Claye 주택, 포플러 합판과 건축 자투리로 실내·가구 통합",
+      "summary": "atelier iso는 내부 벽·파티션·붙박이 요소를 주로 포플러 합판으로 만들고, 젖은 공간에만 석고보드를 제한적으로 사용했다. 공사 과정에서 나온 자투리 재료로 테이블·바·책장을 제작해 재사용 원칙을 가구까지 확장했다.",
       "keywords": [
-        "DAMATA HOUSE",
-        "RAMMED EARTH",
-        "SÃO TOMÉ STONE",
-        "BURITI STRAW",
-        "CRAFT LIGHTING"
+        "POPLAR PLYWOOD",
+        "REUSE",
+        "BUILT-IN FURNITURE",
+        "TIMBER",
+        "LA CLAYE"
       ]
     },
     {
-      "id": "2026-08-18-hideout-leaf-bamboo-interior",
+      "id": "2026-08-19-rasing-umbrella-house-renovation",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
-      "date": "2026-08-18",
-      "title": "Hideout Leaf Villa, 검정·노랑 대나무로 구조와 맞춤 가구 통합",
-      "summary": "Pablo Luna Studio의 Hideout Leaf Villa는 네 장의 낙엽에서 가져온 지붕 구성과 최소한의 대나무 기둥으로 개방된 실내를 만들었다. 검정 대나무는 구조·바닥·맞춤 가구에, 노랑 대나무는 색 대비에 사용했으며 연마 석회암과 유리를 함께 배치했다.",
+      "sourceUrl": "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
+      "date": "2026-08-19",
+      "title": "Chaoffice, 기존 구조벽을 보강해 개방형 주거 내부와 메자닌 확보",
+      "summary": "Chaoffice는 예산과 이웃의 일조·조망 조건 때문에 기존 건물의 범위 안에서 남측 처마만 들어 올리고 지붕 능선을 이동했다. 기존 주요 벽을 보존·보강한 뒤 대부분의 내부 칸막이를 제거했으며, 중앙 내력벽은 엘리베이터와 계단을 묶는 수직 동선의 중심으로 전환했다.",
       "keywords": [
-        "HIDEOUT LEAF",
-        "BAMBOO",
-        "CUSTOM FURNITURE",
-        "LIMESTONE",
-        "TROPICAL INTERIOR"
+        "RENOVATION",
+        "STRUCTURAL REINFORCEMENT",
+        "MEZZANINE",
+        "OPEN INTERIOR",
+        "CHAOFFICE"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-19T08:02:31+09:00",
+      "briefingDate": "2026-08-19",
+      "generatedAt": "2026-08-19T08:02:31+09:00",
+      "cards": [
+        {
+          "id": "2026-08-18-korean-mules-vogue-mexico",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/18/%EC%9A%94%EC%A6%98-%ED%95%B4%EC%99%B8-%EB%B3%B4%EA%B7%B8%EB%8A%94-%EC%B2%AD%EB%B0%94%EC%A7%80%EC%9D%98-%EC%A7%9D%EA%BF%8D%EC%9D%84-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EC%B0%BE%EC%8A%B5%EB%8B%88/",
+          "date": "2026-08-18",
+          "title": "멕시코 Vogue가 주목한 한국 브랜드 뮬의 편안함과 실용성",
+          "summary": "멕시코 Vogue는 한국 브랜드의 뮬을 소개하며 빠른 트렌드 반영, 개성, 편안함과 실용성을 함께 짚었다. Vogue Korea는 클래식한 인상과 매일 신기 좋은 균형이 해외 편집자에게 새롭게 보였다고 전했다.",
+          "keywords": [
+            "KOREAN BRANDS",
+            "MULES",
+            "COMFORT",
+            "PRACTICALITY",
+            "VOGUE MEXICO"
+          ]
+        },
+        {
+          "id": "2026-08-18-santa-fe-indian-market-designers",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/2026-santa-fe-indian-market-highlights",
+          "date": "2026-08-18",
+          "title": "Santa Fe Indian Market, 전통 공예와 동시대 디자인의 결합",
+          "summary": "2026 Santa Fe Indian Market에는 북미 200개 부족 국가에서 온 1,000명 이상의 작가가 참여해 도예·텍스타일·주얼리·의류를 선보였다. Jontay Kahm은 전통 파우와우 복식에서 가져온 프린지와 네온을 사용했고, Devon Tso는 스트라이프 아우터와 담요 형태의 가운·코트를 제시했다.",
+          "keywords": [
+            "SANTA FE INDIAN MARKET",
+            "INDIGENOUS DESIGN",
+            "TEXTILES",
+            "FRINGE",
+            "JONTAY KAHM"
+          ]
+        },
+        {
+          "id": "2026-08-18-comme-des-garcons-dot-comme-auction",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/comme-des-garcons-dot-comme-london-auction",
+          "date": "2026-08-18",
+          "title": "dot COMME, Comme des Garçons 아카이브 265점 런던 경매",
+          "summary": "Octavius La Rosa의 dot COMME는 Kerry Taylor Auctions와 함께 9월 15일 런던에서 Comme des Garçons 희귀 작품 265점을 판매한다. 1970년대 초기 작업부터 S/S 1997 ‘Body Meets Dress – Dress Meets Body’, A/W 2005 ‘Broken Bride’까지 포함되며 Junya Watanabe 작품도 나온다.",
+          "keywords": [
+            "COMME DES GARÇONS",
+            "REI KAWAKUBO",
+            "DOT COMME",
+            "FASHION ARCHIVE",
+            "AUCTION"
+          ]
+        },
+        {
+          "id": "2026-08-18-vacation-menswear-opportunity",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-lucrative-vacation-menswear-opportunity",
+          "date": "2026-08-18",
+          "title": "남성 리조트웨어, 하이서머 캡슐과 여행지 유통으로 확장",
+          "summary": "신생 수영복 브랜드 Descalco는 테일러드 스윔 쇼츠 세 종류로 시장에 진입하고 레디투웨어·액세서리까지 확장할 계획이다. Mytheresa는 Brioni와 ‘Riviera’ 전용 캡슐을 선보였고, Orlebar Brown은 Capri와 Bahamas의 럭셔리 리조트에 판매 거점을 늘렸다.",
+          "keywords": [
+            "MENSWEAR",
+            "RESORTWEAR",
+            "DESCALCO",
+            "MYTHERESA",
+            "BRIONI"
+          ]
+        },
+        {
+          "id": "2026-08-18-functional-object-pendants",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/functional-objects-as-pendants",
+          "date": "2026-08-18",
+          "title": "라이터·립스틱·빗·펜을 결합한 기능성 펜던트 확산",
+          "summary": "Vogue는 라이터·에센셜 오일 용기·립스틱 케이스·향수병·빗·펜처럼 실제 기능을 지닌 물건이 펜던트로 전개되는 흐름을 다뤘다. S.T. Dupont, Sophie Buhai, J.Crew, Tiffany & Co., Loro Piana 등의 제품이 사례로 제시됐다.",
+          "keywords": [
+            "FUNCTIONAL PENDANT",
+            "JEWELRY",
+            "ACCESSORY DESIGN",
+            "LIGHTER HOLDER",
+            "PEN NECKLACE"
+          ]
+        },
+        {
+          "id": "2026-08-18-supreme-nike-air-max-2001",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1539064496660120794",
+          "date": "2026-08-18",
+          "title": "무신사 신호: Supreme × Nike, Y2K Air Max 아카이브 재해석",
+          "summary": "Supreme은 Nike와 협업한 Air Max 2001 Air Ecstasy를 FW 2026 컬렉션의 일부로 공개했다. 단종된 Air Max 2000 Ecstasy Plus의 이름과 콘셉트를 가져와 레드 그라디언트 어퍼, S 로고, 풀 렝스 에어 유닛을 적용했으며 발매 일정과 가격은 아직 공개하지 않았다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "SUPREME",
+            "NIKE",
+            "AIR MAX",
+            "Y2K"
+          ]
+        },
+        {
+          "id": "2026-08-18-niceghostclub-junji-ito-sanrio",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1539120994896328787",
+          "date": "2026-08-18",
+          "title": "무신사 신호: Niceghostclub × Junji Ito × Sanrio 삼자 협업",
+          "summary": "Niceghostclub은 Junji Ito와 Sanrio Characters를 결합한 삼자 협업 컬렉션을 출시했다. 갸루 토미에와 헬로키티를 그래픽 티셔츠·파우치 키체인·포토카드 홀더·북 파우치·손거울에 적용했고, 발매 직후 무신사 NEW 랭킹 1위와 상위권에 올랐다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "NICEGHOSTCLUB",
+            "JUNJI ITO",
+            "SANRIO CHARACTERS",
+            "GRAPHIC COLLECTION"
+          ]
+        },
+        {
+          "id": "2026-08-18-29cm-heriter-gaya-glassware",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/heriter?cache=true",
+          "date": "2026-08-18",
+          "title": "29CM 신호: HERITER, 가야 토기 모티프 글라스웨어 단독 확장",
+          "summary": "HERITER는 대표작 ‘가야 글라스’를 보울과 플레이트로 확장한 풀 글라스웨어 컬렉션을 29CM 단독으로 기획했다. 가야 토기의 조형에 내열 유리와 스태킹 구조를 적용했으며, 기획전은 8월 18일부터 9월 7일까지 진행된다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "HERITER",
+            "GAYA GLASS",
+            "HEAT-RESISTANT GLASS"
+          ]
+        },
+        {
+          "id": "2026-08-18-damata-house-regional-materials",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183504/damata-house-melina-romano",
+          "date": "2026-08-18",
+          "title": "Damata House, 상파울루 농촌의 재료와 가구를 실내로 연결",
+          "summary": "Melina Romano는 브라질 Itatiba의 Damata House에 다짐흙 벽과 São Tomé 석재 바닥을 적용해 실내외 재료 언어를 이어갔다. Neca Abrantes의 Kariri 암체어에는 풀어낸 천연 buriti 짚을 사용했고, Evanilce Souza의 수공예 천연섬유 펜던트 조명이 지붕 형태와 시각적으로 연결된다.",
+          "keywords": [
+            "DAMATA HOUSE",
+            "RAMMED EARTH",
+            "SÃO TOMÉ STONE",
+            "BURITI STRAW",
+            "CRAFT LIGHTING"
+          ]
+        },
+        {
+          "id": "2026-08-18-hideout-leaf-bamboo-interior",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
+          "date": "2026-08-18",
+          "title": "Hideout Leaf Villa, 검정·노랑 대나무로 구조와 맞춤 가구 통합",
+          "summary": "Pablo Luna Studio의 Hideout Leaf Villa는 네 장의 낙엽에서 가져온 지붕 구성과 최소한의 대나무 기둥으로 개방된 실내를 만들었다. 검정 대나무는 구조·바닥·맞춤 가구에, 노랑 대나무는 색 대비에 사용했으며 연마 석회암과 유리를 함께 배치했다.",
+          "keywords": [
+            "HIDEOUT LEAF",
+            "BAMBOO",
+            "CUSTOM FURNITURE",
+            "LIMESTONE",
+            "TROPICAL INTERIOR"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-18T07:59:03+09:00",
       "briefingDate": "2026-08-18",
