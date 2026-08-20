@@ -1,164 +1,341 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-20T08:04:59+09:00",
-  "briefingDate": "2026-08-20",
+  "generatedAt": "2026-08-21T08:05:08+09:00",
+  "briefingDate": "2026-08-21",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-19-paul-smith-nottingham-archive",
+      "id": "2026-08-20-emis-jeju-dream-tower",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/paul-smith-archive-nottingham",
-      "date": "2026-08-19",
-      "title": "Paul Smith, 노팅엄 아카이브를 현재 컬렉션의 설계 자원으로 활용",
-      "summary": "Paul Smith Foundation은 회사 본사에 5,000점이 넘는 의복과 오브제를 보관하는 전용 아카이브를 구축해 브랜드 역사를 체계적으로 정리하고 있다. 이 아카이브는 과거 디자인을 보존하는 동시에 현재 컬렉션에 참고 자료를 제공한다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12132370",
+      "date": "2026-08-20 16:21",
+      "title": "이미스, 제주 드림타워 한컬렉션에 첫 제주 매장 개점",
+      "summary": "라이프스타일 브랜드 이미스가 제주 드림타워의 K패션몰 한컬렉션에 제주 드림타워점을 열었다. 기사 본문은 이미스의 다채로운 컬러와 볼캡 라인업을 소개하고, 브랜드가 제주에서 처음 매장을 선보였다고 전했다.",
       "keywords": [
-        "PAUL SMITH",
-        "NOTTINGHAM",
+        "EMIS",
+        "JEJU",
+        "HAN COLLECTION",
+        "OFFLINE STORE",
+        "K-FASHION"
+      ]
+    },
+    {
+      "id": "2026-08-20-sandy-liang-dressing-up-archive",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/sandy-liang-rizzoli-dressing-up-book",
+      "date": "2026-08-20",
+      "title": "Sandy Liang, 10년의 디자인 기억을 책 형태의 아카이브로 정리",
+      "summary": "공식 아카이브를 유지하지 않았던 Sandy Liang은 Rizzoli와 함께 지난 10년의 기억을 손글씨 주석이 담긴 책 『Dressing Up』으로 만들었다. 작업은 수천 장의 휴대전화 사진과 백스테이지 기록, 제품 사진, 개인적 순간을 모으는 방식으로 진행됐다.",
+      "keywords": [
+        "SANDY LIANG",
+        "RIZZOLI",
+        "DRESSING UP",
         "FASHION ARCHIVE",
-        "BRAND HERITAGE",
-        "COLLECTION RESEARCH"
+        "SCRAPBOOK"
       ]
     },
     {
-      "id": "2026-08-19-outerwear-brands-summer-expansion",
+      "id": "2026-08-20-luxury-brand-price-reset",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/brand-heat-why-winter-brands-are-going-all-in-on-summer",
-      "date": "2026-08-19",
-      "title": "Canada Goose·Moncler·Arc’teryx, 여름용 경량 아우터로 계절 범위 확장",
-      "summary": "Canada Goose는 ‘We do summer, too’ 캠페인으로 계절 범위를 넓혔고, Moncler는 첫 전용 여름 캠페인에서 경량 다운 재킷을 선보였다. Arc’teryx는 나일론 미니 립스톱 소재의 초박형 Demlo 셔츠를 출시하며 기술형 아우터의 여름 제품군을 확대했다.",
+      "sourceUrl": "https://www.vogue.com/article/should-luxury-brands-reduce-their-prices",
+      "date": "2026-08-20",
+      "title": "Gucci, Mercato 토트 가격을 낮추며 럭셔리 가격 전략 재검토",
+      "summary": "Bernstein 분석가들은 Gucci가 2026 S/S 중형 가죽 Mercato 토트의 가격을 약 20~25% 낮춘 변화를 확인했다. Vogue는 이를 판매량을 높이고 열망 소비자와 다시 접점을 만들려는 Gucci와 Kering의 전환 전략 일부로 설명했다.",
       "keywords": [
-        "CANADA GOOSE",
-        "MONCLER",
-        "ARC’TERYX",
-        "LIGHTWEIGHT OUTERWEAR",
-        "SUMMER COLLECTION"
+        "GUCCI",
+        "KERING",
+        "LUXURY PRICING",
+        "MERCATO TOTE",
+        "ASPIRATIONAL CONSUMER"
       ]
     },
     {
-      "id": "2026-08-19-neon-rebels-tween-marketplace",
+      "id": "2026-08-20-eu-unsold-stock-ban",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/with-neon-rebels-maisonette-is-taking-on-the-tween-market",
-      "date": "2026-08-19",
-      "title": "Maisonette, 7~14세용 멀티브랜드 플랫폼 Neon Rebels 출범",
-      "summary": "Maisonette는 7~14세를 위한 마켓플레이스 Neon Rebels를 100개가 넘는 브랜드와 함께 출범했다. 의류·신발·액세서리뿐 아니라 홈·전자기기·뷰티까지 편성하며, 기존 Maisonette의 기술·물류·벤더 관계와 고객 기반을 활용한다.",
+      "sourceUrl": "https://www.vogue.com/article/will-the-eus-ban-on-destroying-unsold-stock-actually-work",
+      "date": "2026-08-20",
+      "title": "EU 미판매 의류 폐기 금지, 브랜드에 재고 데이터·처리 채널 요구",
+      "summary": "유럽의 미판매 의류·텍스타일·신발 폐기 금지는 대형 패션 기업이 사용 가능한 제품을 소각하거나 매립하지 못하도록 한다. 브랜드들은 분산된 공급망 데이터를 수집·정리하고 미판매 재고를 처리할 새 채널을 구축하고 있으며, 2027년 3월부터는 폐기한 섬유 물량을 공개해야 한다.",
       "keywords": [
-        "NEON REBELS",
-        "MAISONETTE",
-        "TWEEN MARKET",
-        "MULTI-BRAND",
-        "KIDSWEAR"
+        "EU",
+        "UNSOLD STOCK",
+        "ESPR",
+        "SUPPLY CHAIN DATA",
+        "CIRCULARITY"
       ]
     },
     {
-      "id": "2026-08-19-fall-2026-fashion-trends",
+      "id": "2026-08-20-mugler-muscular-femininity-campaign",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
-      "date": "2026-08-19",
-      "title": "2026 F/W, 미니멀 실루엣에 풍부한 질감·페플럼·볼륨 결합",
-      "summary": "Vogue는 2026 F/W 런웨이에서 절제된 옷차림보다 표현적인 방향이 강해졌으며, 미니멀한 실루엣과 풍부한 질감의 대비가 나타났다고 정리했다. 클래식 아이템에는 페플럼과 볼륨을 더했고, 수트는 여유로운 테일러링과 조각적인 형태로 업데이트됐다.",
+      "sourceUrl": "https://www.vogue.com/article/its-time-for-brands-to-invest-in-women-who-lift",
+      "date": "2026-08-20",
+      "title": "Mugler, 첫 Aurora 백 캠페인에 여성 보디빌더 기용",
+      "summary": "Mugler는 첫 핸드백 Aurora의 캠페인에서 여성 보디빌더 Tatiana Horslaville가 가방을 덤벨처럼 드는 이미지를 공개했다. 브랜드 매니징 디렉터 Adrian Corsin은 여성 패션에서 보기 드문 근육질 신체가 캠페인에 새로운 표현을 제공했다고 설명했다.",
       "keywords": [
-        "F/W 2026",
-        "TEXTURE",
-        "PEPLUM",
-        "VOLUME",
-        "TAILORING"
+        "MUGLER",
+        "AURORA BAG",
+        "TATIANA HORS LAVILLE",
+        "CAMPAIGN",
+        "MUSCULAR FEMININITY"
       ]
     },
     {
-      "id": "2026-08-19-paf-hidden-ny-capsule",
+      "id": "2026-08-20-musinsa-standard-helinox-durable",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1539449970255957079",
-      "date": "2026-08-19",
-      "title": "무신사 신호: PAF × Hidden NY 첫 HIDDEN® 수베니어 캡슐",
-      "summary": "Post Archive Faction과 Hidden NY의 첫 협업 캡슐은 그래픽 티셔츠 3종과 캡 1종으로 구성됐다. 캡에는 손으로 엮은 아마조나이트 비즈를 적용했으며, 8월 18일부터 양 브랜드 공식 스토어와 서울 PAF 매장에서 판매한다.",
+      "sourceUrl": "https://www.musinsa.com/content/1539802964167609172",
+      "date": "2026-08-20",
+      "title": "무신사 신호: 무신사 스탠다드 × 헬리녹스 듀러블 백",
+      "summary": "듀러블 컬렉션은 헬리녹스 체어에 쓰이는 300데니어 립스톱과 강화 봉제를 적용한 라이프스타일 가방으로 구성됐다. 오거나이징과 파티션을 줄인 구조에 다섯 개의 스티치 포인트와 사이언 블루 키링을 더했으며, 26L·16L 백팩과 메신저백 등을 선보였다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "POST ARCHIVE FACTION",
-        "HIDDEN NY",
-        "AMAZONITE",
-        "CAPSULE COLLECTION"
+        "MUSINSA STANDARD",
+        "HELINOX",
+        "300D RIPSTOP",
+        "DURABLE SERIES"
       ]
     },
     {
-      "id": "2026-08-19-invincible-madness-asics-gel-kayano",
+      "id": "2026-08-20-hillda-gohui-silky-swan",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1539453064449373022",
-      "date": "2026-08-19",
-      "title": "무신사 신호: Invincible × Madness × Asics 첫 GEL-Kayano 12.1",
-      "summary": "세 브랜드의 첫 협업 GEL-Kayano 12.1은 돌로마이트 암석의 층상 질감을 열 가지 소재 조합으로 표현했다. 오프화이트 메시 위에 크림 가죽·스웨이드·반투명 소재를 겹쳤으며, Invincible 온라인 스토어에서 8월 20일까지 글로벌 래플을 진행한다.",
+      "sourceUrl": "https://www.musinsa.com/content/1537364856726324321",
+      "date": "2026-08-20",
+      "title": "무신사 신호: HILLDA × 고희 Silky Swan Blouse II",
+      "summary": "HILLDA는 고희와 협업해 Silky Swan Blouse II를 공개했다. 광택 새틴 몸판과 시폰 소매에 가슴 셔링·플레어·어깨 밴딩을 적용했고, 앞 스트랩은 리본이나 스카프로 연출할 수 있게 설계했다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
-        "INVINCIBLE",
-        "MADNESS",
-        "ASICS",
-        "GEL-KAYANO 12.1"
+        "HILLDA",
+        "GOHUI",
+        "SATIN",
+        "CHIFFON"
       ]
     },
     {
-      "id": "2026-08-19-oggitt-changeok-heavytalker",
+      "id": "2026-08-20-benuet-lee-jumi-fw",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29-limited-order/2026/08/oggitt-changeok-heavytalker?cache=true",
-      "date": "2026-08-19",
-      "title": "29CM 신호: 오끼뜨 × 창억떡 × 하말넘많 ‘누워서 떡 입기’",
-      "summary": "세 팀은 ‘누워서 떡 먹기’를 재해석한 파자마·티셔츠·팬츠 협업 컬렉션을 29CM 단독으로 선보였다. 오끼뜨가 처음 제작한 테리 파자마에는 남녀가 함께 입는 릴랙스 핏을 적용하고, 떡 이미지와 한국적 위트를 그래픽으로 풀었다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/benuet",
+      "date": "2026-08-20",
+      "title": "29CM 신호: 베뉴엣 × 이주미 2026 F/W 단독 편성",
+      "summary": "베뉴엣과 이주미의 2026 F/W 컬렉션은 유연하면서 단정한 실루엣과 절제된 디테일을 중심으로 구성됐다. 불규칙 골지 니트, 스트레이트 세미 와이드 데님, 보온성과 통기성을 갖춘 카디건 등을 29 EDITION 단독으로 소개한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
         "29CM",
-        "OGGITT",
-        "CHANGEOK",
-        "TERRY PAJAMAS"
+        "BENUET",
+        "LEE JUMI",
+        "F/W 2026"
       ]
     },
     {
-      "id": "2026-08-19-la-claye-reuse-furniture",
+      "id": "2026-08-20-casa-pr21-interior",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
-      "date": "2026-08-19",
-      "title": "La Claye 주택, 포플러 합판과 건축 자투리로 실내·가구 통합",
-      "summary": "atelier iso는 내부 벽·파티션·붙박이 요소를 주로 포플러 합판으로 만들고, 젖은 공간에만 석고보드를 제한적으로 사용했다. 공사 과정에서 나온 자투리 재료로 테이블·바·책장을 제작해 재사용 원칙을 가구까지 확장했다.",
+      "sourceUrl": "https://www.archdaily.com/1183443/casa-pr21-alventosa-morell-arquitectes",
+      "date": "2026-08-20",
+      "title": "Casa PR21, 백색 벽돌과 목재·스테인리스 주방으로 빛의 흐름 구성",
+      "summary": "Casa PR21은 제한된 재료 팔레트와 흰색 표면으로 한쪽 파사드에서 다른 쪽까지 자연광이 흐르도록 구성했다. 1층 주방은 목재와 스테인리스 스틸로 제작해 복도를 생활 공간으로 전환하고, 식당 끝의 접이식 문은 중정과 내부를 연결한다.",
       "keywords": [
-        "POPLAR PLYWOOD",
-        "REUSE",
-        "BUILT-IN FURNITURE",
+        "CASA PR21",
+        "WHITE BRICK",
         "TIMBER",
-        "LA CLAYE"
+        "STAINLESS STEEL",
+        "NATURAL LIGHT"
       ]
     },
     {
-      "id": "2026-08-19-rasing-umbrella-house-renovation",
+      "id": "2026-08-20-trilogy-house-walnut-core",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
-      "date": "2026-08-19",
-      "title": "Chaoffice, 기존 구조벽을 보강해 개방형 주거 내부와 메자닌 확보",
-      "summary": "Chaoffice는 예산과 이웃의 일조·조망 조건 때문에 기존 건물의 범위 안에서 남측 처마만 들어 올리고 지붕 능선을 이동했다. 기존 주요 벽을 보존·보강한 뒤 대부분의 내부 칸막이를 제거했으며, 중앙 내력벽은 엘리베이터와 계단을 묶는 수직 동선의 중심으로 전환했다.",
+      "sourceUrl": "https://www.archdaily.com/1183670/trilogy-house-waechter-architecture",
+      "date": "2026-08-20",
+      "title": "Trilogy House, 유리 거실과 월넛 계단 코어로 세 개의 생활 층 연결",
+      "summary": "Trilogy House는 거리·정원·수관 높이에 서로 다른 프로그램과 채광을 가진 세 영역을 배치했다. 중앙의 월넛 계단 코어가 각 층을 연결하고, 삼중 유리로 둘러싸인 거실에는 이동식 벽 패널과 자유롭게 배치한 가구를 적용했다.",
       "keywords": [
-        "RENOVATION",
-        "STRUCTURAL REINFORCEMENT",
-        "MEZZANINE",
-        "OPEN INTERIOR",
-        "CHAOFFICE"
+        "TRILOGY HOUSE",
+        "WALNUT STAIR CORE",
+        "TRIPLE GLAZING",
+        "MOVABLE PANELS",
+        "PORTLAND"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-20T08:04:59+09:00",
+      "briefingDate": "2026-08-20",
+      "generatedAt": "2026-08-20T08:04:59+09:00",
+      "cards": [
+        {
+          "id": "2026-08-19-paul-smith-nottingham-archive",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/paul-smith-archive-nottingham",
+          "date": "2026-08-19",
+          "title": "Paul Smith, 노팅엄 아카이브를 현재 컬렉션의 설계 자원으로 활용",
+          "summary": "Paul Smith Foundation은 회사 본사에 5,000점이 넘는 의복과 오브제를 보관하는 전용 아카이브를 구축해 브랜드 역사를 체계적으로 정리하고 있다. 이 아카이브는 과거 디자인을 보존하는 동시에 현재 컬렉션에 참고 자료를 제공한다.",
+          "keywords": [
+            "PAUL SMITH",
+            "NOTTINGHAM",
+            "FASHION ARCHIVE",
+            "BRAND HERITAGE",
+            "COLLECTION RESEARCH"
+          ]
+        },
+        {
+          "id": "2026-08-19-outerwear-brands-summer-expansion",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/brand-heat-why-winter-brands-are-going-all-in-on-summer",
+          "date": "2026-08-19",
+          "title": "Canada Goose·Moncler·Arc’teryx, 여름용 경량 아우터로 계절 범위 확장",
+          "summary": "Canada Goose는 ‘We do summer, too’ 캠페인으로 계절 범위를 넓혔고, Moncler는 첫 전용 여름 캠페인에서 경량 다운 재킷을 선보였다. Arc’teryx는 나일론 미니 립스톱 소재의 초박형 Demlo 셔츠를 출시하며 기술형 아우터의 여름 제품군을 확대했다.",
+          "keywords": [
+            "CANADA GOOSE",
+            "MONCLER",
+            "ARC’TERYX",
+            "LIGHTWEIGHT OUTERWEAR",
+            "SUMMER COLLECTION"
+          ]
+        },
+        {
+          "id": "2026-08-19-neon-rebels-tween-marketplace",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/with-neon-rebels-maisonette-is-taking-on-the-tween-market",
+          "date": "2026-08-19",
+          "title": "Maisonette, 7~14세용 멀티브랜드 플랫폼 Neon Rebels 출범",
+          "summary": "Maisonette는 7~14세를 위한 마켓플레이스 Neon Rebels를 100개가 넘는 브랜드와 함께 출범했다. 의류·신발·액세서리뿐 아니라 홈·전자기기·뷰티까지 편성하며, 기존 Maisonette의 기술·물류·벤더 관계와 고객 기반을 활용한다.",
+          "keywords": [
+            "NEON REBELS",
+            "MAISONETTE",
+            "TWEEN MARKET",
+            "MULTI-BRAND",
+            "KIDSWEAR"
+          ]
+        },
+        {
+          "id": "2026-08-19-fall-2026-fashion-trends",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
+          "date": "2026-08-19",
+          "title": "2026 F/W, 미니멀 실루엣에 풍부한 질감·페플럼·볼륨 결합",
+          "summary": "Vogue는 2026 F/W 런웨이에서 절제된 옷차림보다 표현적인 방향이 강해졌으며, 미니멀한 실루엣과 풍부한 질감의 대비가 나타났다고 정리했다. 클래식 아이템에는 페플럼과 볼륨을 더했고, 수트는 여유로운 테일러링과 조각적인 형태로 업데이트됐다.",
+          "keywords": [
+            "F/W 2026",
+            "TEXTURE",
+            "PEPLUM",
+            "VOLUME",
+            "TAILORING"
+          ]
+        },
+        {
+          "id": "2026-08-19-paf-hidden-ny-capsule",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1539449970255957079",
+          "date": "2026-08-19",
+          "title": "무신사 신호: PAF × Hidden NY 첫 HIDDEN® 수베니어 캡슐",
+          "summary": "Post Archive Faction과 Hidden NY의 첫 협업 캡슐은 그래픽 티셔츠 3종과 캡 1종으로 구성됐다. 캡에는 손으로 엮은 아마조나이트 비즈를 적용했으며, 8월 18일부터 양 브랜드 공식 스토어와 서울 PAF 매장에서 판매한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "POST ARCHIVE FACTION",
+            "HIDDEN NY",
+            "AMAZONITE",
+            "CAPSULE COLLECTION"
+          ]
+        },
+        {
+          "id": "2026-08-19-invincible-madness-asics-gel-kayano",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1539453064449373022",
+          "date": "2026-08-19",
+          "title": "무신사 신호: Invincible × Madness × Asics 첫 GEL-Kayano 12.1",
+          "summary": "세 브랜드의 첫 협업 GEL-Kayano 12.1은 돌로마이트 암석의 층상 질감을 열 가지 소재 조합으로 표현했다. 오프화이트 메시 위에 크림 가죽·스웨이드·반투명 소재를 겹쳤으며, Invincible 온라인 스토어에서 8월 20일까지 글로벌 래플을 진행한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "INVINCIBLE",
+            "MADNESS",
+            "ASICS",
+            "GEL-KAYANO 12.1"
+          ]
+        },
+        {
+          "id": "2026-08-19-oggitt-changeok-heavytalker",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29-limited-order/2026/08/oggitt-changeok-heavytalker?cache=true",
+          "date": "2026-08-19",
+          "title": "29CM 신호: 오끼뜨 × 창억떡 × 하말넘많 ‘누워서 떡 입기’",
+          "summary": "세 팀은 ‘누워서 떡 먹기’를 재해석한 파자마·티셔츠·팬츠 협업 컬렉션을 29CM 단독으로 선보였다. 오끼뜨가 처음 제작한 테리 파자마에는 남녀가 함께 입는 릴랙스 핏을 적용하고, 떡 이미지와 한국적 위트를 그래픽으로 풀었다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "OGGITT",
+            "CHANGEOK",
+            "TERRY PAJAMAS"
+          ]
+        },
+        {
+          "id": "2026-08-19-la-claye-reuse-furniture",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
+          "date": "2026-08-19",
+          "title": "La Claye 주택, 포플러 합판과 건축 자투리로 실내·가구 통합",
+          "summary": "atelier iso는 내부 벽·파티션·붙박이 요소를 주로 포플러 합판으로 만들고, 젖은 공간에만 석고보드를 제한적으로 사용했다. 공사 과정에서 나온 자투리 재료로 테이블·바·책장을 제작해 재사용 원칙을 가구까지 확장했다.",
+          "keywords": [
+            "POPLAR PLYWOOD",
+            "REUSE",
+            "BUILT-IN FURNITURE",
+            "TIMBER",
+            "LA CLAYE"
+          ]
+        },
+        {
+          "id": "2026-08-19-rasing-umbrella-house-renovation",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
+          "date": "2026-08-19",
+          "title": "Chaoffice, 기존 구조벽을 보강해 개방형 주거 내부와 메자닌 확보",
+          "summary": "Chaoffice는 예산과 이웃의 일조·조망 조건 때문에 기존 건물의 범위 안에서 남측 처마만 들어 올리고 지붕 능선을 이동했다. 기존 주요 벽을 보존·보강한 뒤 대부분의 내부 칸막이를 제거했으며, 중앙 내력벽은 엘리베이터와 계단을 묶는 수직 동선의 중심으로 전환했다.",
+          "keywords": [
+            "RENOVATION",
+            "STRUCTURAL REINFORCEMENT",
+            "MEZZANINE",
+            "OPEN INTERIOR",
+            "CHAOFFICE"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-19T08:02:31+09:00",
       "briefingDate": "2026-08-19",
