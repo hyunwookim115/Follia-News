@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T08:42:04+09:00",
+  "generatedAt": "2026-08-22T08:43:33+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리와 테일러드 버뮤다에 이어 미디스커트까지 코펜하겐 거리에서 반복 포착되고, 8월 19일 후속 분석이 이를 다시 확인해 ‘중간 길이’ 하의의 상승 흐름이 유지되고 있습니다.",
-      "detail": "기존 코펜하겐 현장 사진·에디토리얼의 카프리·버뮤다 반복 노출과 8월 15일 KATSEYE Daniela Avanzini의 카프리 착장에 이어, 8월 19일 InStyle은 50페이지 분량의 현장 사진에서 거의 두 명 중 한 명꼴로 종아리 길이 미디스커트가 보였다고 서술했습니다. 이는 매체의 사진 관찰치이며 플랫폼 판매량이나 검색량으로 환산하지 않았습니다.",
+      "summary": "카프리·버뮤다·미디스커트가 코펜하겐 거리와 셀러브리티 착장에서 반복된 데 이어, 8월 21일 패션 에디터 구매 목록에도 카프리가 다시 등장해 상승 흐름이 유지되고 있습니다.",
+      "detail": "코펜하겐 현장 사진의 카프리·버뮤다·미디스커트 반복 노출과 8월 15일 KATSEYE Daniela Avanzini 착장에 이어, 8월 21일 Who What Wear 편집팀의 가을 구매 목록에서 카프리가 별도 항목으로 제시됐습니다. 이는 에디터 선택과 상품 편성 신호이며 실제 판매량이나 플랫폼 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -32,6 +32,10 @@
         {
           "label": "INSTYLE · CPHFW MIDISKIRT REPEAT",
           "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
+        },
+        {
+          "label": "WHO WHAT WEAR · EDITOR CAPRI PICKS",
+          "url": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-fall-fashion-2026"
         }
       ]
     },
@@ -64,42 +68,14 @@
       ]
     },
     {
-      "id": "live-mesh-perforated-flats",
-      "keyword": "MESH & PERFORATED FLATS",
-      "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL / KOREA",
-      "signal": "PLATFORM",
-      "summary": "메쉬·펀칭 플랫은 셀러브리티·패션위크·리테일 노출을 유지하지만, 최근 7일 안의 추가 공개 신호가 확인되지 않아 상승 판단을 보류합니다.",
-      "detail": "리한나 착장, 코펜하겐 거리의 펀칭 플랫, 8월 13일 공개 Instagram 편집물은 기존 흐름을 설명합니다. 그러나 8월 14~20일 국내외 플랫폼에서 새 검색·판매 순위나 반복 소셜 노출을 확인하지 못했습니다. KREAM 상품 노출도 최근 체결 증가를 공개하지 않아 HOLD로 조정했습니다.",
-      "sources": [
-        {
-          "label": "MARIE CLAIRE · MESH BALLET FLATS",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/rihanna-carnival-2026-barbados-mesh-shoe-trend/"
-        },
-        {
-          "label": "WHO WHAT WEAR · PERFORATED FLATS",
-          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
-        },
-        {
-          "label": "KREAM · MIU MIU MESH BALLERINAS",
-          "url": "https://kream.co.kr/products/799756"
-        },
-        {
-          "label": "INSTAGRAM · MESH FLATS FOLLOW-UP",
-          "url": "https://www.instagram.com/p/Db-tO6aiNJq/"
-        }
-      ]
-    },
-    {
       "id": "live-relaxed-straight-denim",
       "keyword": "RELAXED STRAIGHT DENIM",
       "category": "SILHOUETTE",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "과장된 배럴·벌룬 진에서 한 단계 정돈된 릴랙스드 데님으로 관심이 이동하는 가운데, 코펜하겐의 라이트 워시·배기 착장이 8월 19일 후속 분석에서 다시 노출됐습니다.",
-      "detail": "코펜하겐 거리의 클래식 스트레이트·헐렁한 데님과 8월 13일 보그 코리아 후속 기사에 이어, 8월 19일 InStyle이 라이트 워시 배기·레귤러 웨이스트 진 착장을 별도 흐름으로 제시했습니다. 새 근거는 편안한 핏과 가벼운 워시 방향을 보강하지만 정확한 스트레이트 핏의 판매량을 뜻하지 않으므로 수요 수치로 환산하지 않았습니다.",
+      "summary": "릴랙스드 데님 노출이 이어지는 동시에 시가렛·슬림 스트레이트로 좁아지는 반대 신호가 나타나, 핏 방향의 상승 판단을 보류합니다.",
+      "detail": "8월 19일 InStyle은 코펜하겐의 라이트 워시 배기·레귤러 웨이스트 진을 후속 노출했습니다. 그러나 8월 21일 보그 코리아는 패션위크와 공개 Instagram 착장을 근거로 스키니보다 여유롭되 기존 릴랙스드보다 좁은 시가렛·슬림 스트레이트 핏의 이동을 제시했습니다. 두 신호가 갈리며 공개 판매량·검색 순위도 없어 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -116,6 +92,10 @@
         {
           "label": "INSTYLE · LIGHT-WASH RELAXED DENIM",
           "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
+        },
+        {
+          "label": "VOGUE KOREA · CIGARETTE DENIM COUNTER-SIGNAL",
+          "url": "https://www.vogue.co.kr/2026/08/21/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%9D%98-%EC%8A%A4%ED%82%A4%EB%8B%88-%EC%A7%84%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%83%9D%EA%B2%BC%EC%8A%B5%EB%8B%88%EB%8B%A4/"
         }
       ]
     },
@@ -199,11 +179,11 @@
       "id": "live-jazz-shoes",
       "keyword": "JAZZ SHOES",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL / KOREA",
       "signal": "SOCIAL",
-      "summary": "슬림한 레이스업 재즈 슈즈가 발레 플랫·로퍼의 다음 변형으로 떠오르며, 셀러브리티 후속 착장과 국내 리셀 상품 노출이 동시에 확인됐습니다.",
-      "detail": "8월 19일 InStyle은 나오미 왓츠의 컷아웃 재즈 슈즈 착장을 보도하며 니콜 키드먼·샤를리즈 테론·릴리 콜린스의 선행 착장과 여러 리테일러의 동시 편성을 함께 제시했습니다. FruitsFamily에도 레페토 재즈 슈즈 상품이 노출되고 공개 조회·관심 수치가 표시되지만, 이는 판매 완료나 시장 전체 수요를 뜻하지 않으므로 거래 증가로 해석하지 않았습니다.",
+      "summary": "슬림한 레이스업 재즈 슈즈가 발레 플랫·로퍼의 다음 변형으로 떠오른 뒤, 8월 21일 별도 매체와 다수 리테일 편성에서 다시 확인됐습니다.",
+      "detail": "8월 19일 InStyle의 나오미 왓츠 착장과 니콜 키드먼·샤를리즈 테론·릴리 콜린스의 선행 착장 정리에 이어, 8월 21일 Who What Wear가 Gracie Abrams와 Lily Collins의 착장까지 묶어 후속 보도하고 9개 브랜드 상품을 동시에 편성했습니다. FruitsFamily의 국내 상품 노출은 보조 신호일 뿐 판매 완료나 시장 전체 수요를 뜻하지 않으므로 수치화하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
@@ -212,6 +192,30 @@
         {
           "label": "FRUITSFAMILY · REPETTO JAZZ SHOES",
           "url": "https://fruitsfamily.com/product/66oq4/%EB%A0%88%ED%8E%98%ED%86%A0-%EC%9E%AC%EC%A6%88-%EC%8A%88%EC%A6%88-41-260-265"
+        },
+        {
+          "label": "WHO WHAT WEAR · JAZZ SHOES FOLLOW-UP",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/fall-jazz-flats-outfit-naomi-watts"
+        }
+      ]
+    },
+    {
+      "id": "live-camo-mix-match",
+      "keyword": "CAMO MIX-MATCH",
+      "category": "PATTERN",
+      "direction": "NEW",
+      "market": "GLOBAL → KOREA",
+      "signal": "SOCIAL",
+      "summary": "카무플라주가 단순 밀리터리 복각을 넘어 컬러·스팽글·빈티지 스웨트와 섞이는 패턴으로 코펜하겐 거리와 공개 소셜에서 반복되고 있습니다.",
+      "detail": "8월 19일 InStyle은 코펜하겐 현장에서 카무 팬츠와 올리브 트라우저가 반복됐다고 관찰했고, 8월 21일 보그 코리아는 같은 흐름을 공개 Instagram 착장과 재킷·팬츠·미디스커트 등 여러 상품군으로 다시 제시했습니다. 기사·소셜·상품 편성의 반복은 확인했지만 공개 검색량이나 판매 순위는 없어 SOCIAL 신호로만 분류했습니다.",
+      "sources": [
+        {
+          "label": "INSTYLE · CPHFW CAMO REPEAT",
+          "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
+        },
+        {
+          "label": "VOGUE KOREA · CAMO MIX-MATCH",
+          "url": "https://www.vogue.co.kr/2026/08/21/%ED%95%9C%EB%8F%99%EC%95%88-%EC%9E%8A%EA%B3%A0-%EC%9E%88%EB%8D%98-%EC%B9%B4%EB%AC%B4-%ED%8C%A8%ED%84%B4%EC%9D%B4-%EB%8B%A4%EC%8B%9C-%EC%98%88%EB%BB%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4/"
         }
       ]
     }
