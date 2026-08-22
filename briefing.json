@@ -1,181 +1,290 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T08:03:22+09:00",
-  "briefingDate": "2026-08-22",
+  "generatedAt": "2026-08-23T08:00:57+09:00",
+  "briefingDate": "2026-08-23",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-21-timeout-product-categories",
+      "id": "2026-08-22-musinsa-vietnam-acfc",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "뉴시스",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260821_0003757133",
-      "date": "2026-08-21 10:01:33",
-      "title": "TBH글로벌, 타임아웃을 시티 트래블 캐주얼 4개 카테고리로 전개",
-      "summary": "TBH글로벌은 글로벌 도시 미디어 타임아웃의 라이선스를 확보해 의류·액세서리·뷰티·라이프스타일 네 카테고리의 패션·라이프스타일 브랜드로 전개한다. 오는 11월 의류·액세서리·뷰티 1차 라인업을 선보이며, 뷰티는 독일 더마 테스트와 비건 인증을 받은 K-바디케어로 시작한다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12133792",
+      "date": "2026-08-22 14:15",
+      "title": "무신사, 베트남 ACFC와 독점 유통 계약해 무신사 스탠다드 전개",
+      "summary": "무신사는 베트남 IPPG 산하 ACFC와 독점 유통 계약을 체결하고 무신사 스탠다드를 중심으로 현지 사업을 전개한다. ACFC는 베트남 전역에서 28개 글로벌 패션 브랜드와 280개 이상의 매장을 운영하며, 무신사는 이 유통망을 활용해 오프라인 사업을 확대할 계획이다.",
       "keywords": [
-        "TBH GLOBAL",
-        "TIME OUT",
-        "CITY TRAVEL CASUAL",
-        "BRAND LICENSE",
-        "CATEGORY EXPANSION"
-      ]
-    },
-    {
-      "id": "2026-08-21-shinsegae-leather-fw",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "뉴시스",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260821_0003757013",
-      "date": "2026-08-21 09:10:56",
-      "title": "일라일·델라라나·보브, 2026 F/W 가죽을 아우터에서 하의로 확장",
-      "summary": "신세계인터내셔날의 일라일·델라라나·보브는 2026 F/W 가죽과 스웨이드 제품을 재킷·점퍼뿐 아니라 스커트와 팬츠까지 넓혔다. 일라일은 천연 양가죽, 델라라나는 양가죽과 구스다운·양털을 결합한 봄버, 보브는 인조 가죽과 천연 양가죽·염소가죽 스웨이드를 함께 편성했다.",
-      "keywords": [
-        "LEATHER",
-        "SUEDE",
-        "ILAIL",
-        "DELLA LANA",
-        "VOV"
-      ]
-    },
-    {
-      "id": "2026-08-21-fall-color-trends",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/fall-2026-color-trends",
-      "date": "2026-08-21",
-      "title": "2026 F/W 컬러, 전기적 코발트와 퍼플·피치·터쿼이즈로 확장",
-      "summary": "Vogue는 2026 F/W 컬렉션에서 레드·로열 퍼플·코발트 블루가 이어지고, 피치와 멜론·터쿼이즈·버건디가 주요 색으로 나타났다고 정리했다. 코발트는 Bottega Veneta·Jil Sander·Givenchy·Dries Van Noten·Lii에서, 피치와 멜론은 Tory Burch·Chanel·Miu Miu에서 확인됐다.",
-      "keywords": [
-        "F/W 2026",
-        "COBALT BLUE",
-        "ROYAL PURPLE",
-        "PEACH",
-        "TURQUOISE"
-      ]
-    },
-    {
-      "id": "2026-08-21-mens-hoop-earrings-ss27",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/hoop-earrings-mens-trend",
-      "date": "2026-08-21",
-      "title": "Prada·Louis Vuitton·Celine, S/S 2027 남성 룩에 드롭 후프 이어링 적용",
-      "summary": "Prada는 루비색 스톤 링을 귀에 달았고, Louis Vuitton은 LV 모노그램을 새긴 은색 밴드를, Celine은 크기가 다른 금·은색 링을 겹쳐 S/S 2027 남성 룩에 사용했다. Aubero의 Julian Louie는 후프가 전통적 남성 옷장에 명확한 자리가 없어 스타일의 대조점으로 기능한다고 설명했다.",
-      "keywords": [
-        "S/S 2027",
-        "HOOP EARRINGS",
-        "MENSWEAR",
-        "PRADA",
-        "LOUIS VUITTON"
-      ]
-    },
-    {
-      "id": "2026-08-21-katseye-fashion-business",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-business-of-katseye",
-      "date": "2026-08-21",
-      "title": "Katseye, K팝 훈련과 서구 팝 제작을 결합해 패션 협업 확장",
-      "summary": "Hybe와 Geffen의 합작으로 결성된 Katseye는 한국 아이돌 훈련 체계와 서구 메인스트림 팝 제작을 결합한 교차시장 모델을 사용하며, 이미지 구축에는 Humberto Leon과 스타일리스트 Katie Qian이 참여했다. 8월에는 Primark·Sanrio와 한정 컬렉션을 내고, Sanrio 협업 디자인은 미국 Target에서 독점 판매한다.",
-      "keywords": [
-        "KATSEYE",
-        "HYBE",
-        "GEFFEN",
-        "HUMBERTO LEON",
-        "BRAND COLLABORATION"
-      ]
-    },
-    {
-      "id": "2026-08-21-musinsa-canada-goose-entry",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260821047600030",
-      "date": "2026-08-21 10:13",
-      "title": "무신사 신호: 캐나다구스 공식 입점과 하반기·단독 상품 편성",
-      "summary": "무신사는 국내 패션 플랫폼 최초로 캐나다구스를 공식 입점시키고 대표 제품, 2026년 하반기 신상품, 무신사 단독 상품을 판매한다. 8월 24일부터는 캐나다구스 제품 60만원 이상 구매 고객에게 폴더블백을 한정 수량으로 증정하는 기획전을 진행한다.",
-      "keywords": [
-        "SELECT SHOP SIGNAL",
         "MUSINSA",
-        "CANADA GOOSE",
-        "OFFICIAL ENTRY",
-        "EXCLUSIVE PRODUCT"
+        "MUSINSA STANDARD",
+        "VIETNAM",
+        "ACFC",
+        "EXCLUSIVE DISTRIBUTION"
       ]
     },
     {
-      "id": "2026-08-21-phyps-kimganji-second-life",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1536245177853262895",
-      "date": "2026-08-21",
-      "title": "무신사 신호: 핍스 모터사이클 × 김간지 ‘Second Life’",
-      "summary": "핍스 모터사이클의 첫 2026 F/W 컬렉션은 김간지와 함께 ‘Second Life’를 주제로 혼다 로고와 모터사이클 헤리티지를 빈티지 스포츠웨어·스트리트웨어로 재해석했다. 모토 저지와 나일론 긴소매 티셔츠, 트러커 캡에 더해 워싱 후디와 패치워크 데미지 스웨트 팬츠를 구성하고 무신사 온라인과 성수·용산 메가스토어에서 판매한다.",
+      "id": "2026-08-22-thom-browne-hector-code",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/22/365%EC%9D%BC-%ED%86%B0-%EB%B8%8C%EB%9D%BC%EC%9A%B4-%EC%8A%A4%EC%9B%A8%ED%84%B0%EB%A5%BC-%EC%9E%85%EB%8A%94-%EA%B0%95%EC%95%84%EC%A7%80-%ED%97%A5%ED%84%B0%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88/",
+      "date": "2026-08-22",
+      "title": "톰 브라운, 헥터를 4선 캐시미어와 강아지형 백의 브랜드 모티프로 전개",
+      "summary": "톰 브라운의 닥스훈트 헥터는 브랜드의 4선 줄무늬가 들어간 회색 캐시미어 스웨터를 입는다. 브랜드는 헥터의 모습을 본뜬 강아지 형태의 ‘헥터 백’을 만들었고, 기사에는 2017·2019·2024 리조트 컬렉션 속 헥터 관련 이미지가 함께 실렸다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "PHYPS MOTORCYCLE",
-        "KIM GANJI",
-        "HONDA HERITAGE",
-        "F/W 2026"
+        "THOM BROWNE",
+        "HECTOR BAG",
+        "FOUR-BAR",
+        "CASHMERE",
+        "BRAND MOTIF"
       ]
     },
     {
-      "id": "2026-08-21-vanrohe-gyoere-han",
+      "id": "2026-08-22-handkerchief-street-style",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/street-style-handkerchief-trend",
+      "date": "2026-08-22",
+      "title": "스프링 2026·2027 스트리트에서 스카프형 헤드커버 확산",
+      "summary": "Vogue는 손수건을 머리에 두르는 흐름이 2026 S/S 레디투웨어 쇼의 스트리트에서 본격화됐다고 정리했다. 뉴욕과 코펜하겐의 2026·2027 스프링 시즌 참석자들은 단색과 노벨티 프린트 스카프를 모자처럼 활용했다.",
+      "keywords": [
+        "HANDKERCHIEF",
+        "HEAD COVERING",
+        "STREET STYLE",
+        "SPRING 2027",
+        "ACCESSORIES"
+      ]
+    },
+    {
+      "id": "2026-08-22-29cm-yogawear-popup",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/vanrohe",
-      "date": "2026-08-21",
-      "title": "29CM 신호: 반로에 × 한겨레 2026 F/W 단독 에디션",
-      "summary": "반로에와 한겨레의 29 EDITION은 절제된 실루엣과 소재의 질감에 집중한 2026 F/W 협업으로, 듀 숄더백·페이크 레더 하이넥 블루종·트윌 코튼 셔츠·플리츠 저지 블라우스를 구성했다. 블루종에는 크랙 레더와 숄더 탭·투웨이 지퍼를, 셔츠에는 탄탄한 트윌 코튼과 조절 가능한 커프스·프레스 라인을 적용했으며 29CM가 단독 소개한다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/22/1st",
+      "date": "2026-08-22",
+      "title": "29CM 신호: DDP 팝업 연계 요가웨어 7개 브랜드 편성",
+      "summary": "29CM는 DDP ‘뷰티풀라이프인서울’ 팝업을 기념해 8월 22일부터 25일까지 요가웨어 단독 이벤트를 진행한다. 디야니·콘치웨어·모어아웃·프론투라인·차크라온·온유어오운·포지티브미를 일상과 운동의 경계를 잇는 액티브웨어로 묶고 쿠폰 혜택을 제공한다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
         "29CM",
-        "VAN ROHE",
-        "GYOERE HAN",
-        "F/W 2026"
+        "YOGAWEAR",
+        "ACTIVEWEAR",
+        "DDP POP-UP"
       ]
     },
     {
-      "id": "2026-08-21-mfa-house-reused-furniture",
+      "id": "2026-08-22-achime-bagel-store",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183798/mfa-house-simone-jazbik-arquitetura",
-      "date": "2026-08-21",
-      "title": "MFA House, 프레이조 목재와 기존 디자이너 가구로 해변 주택 구성",
-      "summary": "MFA House는 회색 번트 시멘트 질감의 포슬린 타일과 프레이조 목재 패널을 중립적 바탕으로 사용하고, 컬러 포인트를 더했다. 거실·다이닝 등 공용부에는 가족의 리우데자네이루 아파트에서 가져온 Sergio Rodrigues의 Mole 암체어·Mucki 벤치와 Jader Almeida의 Dinn 테이블·Bank 커피 테이블을 재배치했다.",
+      "sourceUrl": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
+      "date": "2026-08-22",
+      "title": "Achime Bagel, 오픈 키친과 이동식 픽업 월로 생산·판매 동선 통합",
+      "summary": "JOJOWORKSHOP은 서울 문정동 46㎡ 베이커리 중앙에 오픈 키친을 두어 재료 준비부터 성형과 굽기까지 보이게 했다. 흰색·목재·스테인리스·녹색 세라믹·빨간색을 조합하고, 이동·분리가 가능한 선반과 캐비닛으로 픽업 월을 구성했다.",
       "keywords": [
-        "MFA HOUSE",
-        "FREIJO WOOD",
-        "SERGIO RODRIGUES",
-        "JADER ALMEIDA",
-        "FURNITURE REUSE"
+        "ACHIME BAGEL",
+        "OPEN KITCHEN",
+        "MOVABLE FURNITURE",
+        "STAINLESS STEEL",
+        "SPATIAL BRANDING"
       ]
     },
     {
-      "id": "2026-08-21-charles-hollis-jones-lucite",
+      "id": "2026-08-22-breeze-house-interior",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/charles-hollis-jones-obituary",
-      "date": "2026-08-21",
-      "title": "Charles Hollis Jones, 루사이트로 1970년대 할리우드 가구 언어 구축",
-      "summary": "Charles Hollis Jones는 로스앤젤레스에서 CHJ를 설립하고 루사이트라는 아크릴 소재로 투명한 맞춤형 조각 가구를 제작했다. 그는 John Lautner와 12개가 넘는 프로젝트에서 협업하며 Lautner의 주택을 위해 수백 점의 아크릴 가구를 만들었고, Arthur Elrod의 1969년 팜스프링스 주택에도 작품을 공급했다.",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1148787/breeze-house-abaton",
+      "date": "2026-08-22",
+      "title": "Breeze House, 숨겨지는 대형 창과 가구 컬렉션으로 실내외 연결",
+      "summary": "Ábaton은 마드리드의 Breeze House를 경사지에 맞춘 두 층과 부채꼴 독립 볼륨으로 구성하고, 완전히 숨겨지는 맞춤 창으로 교차 환기와 정원 연결을 만들었다. 내부에는 Gaetano Pesce·Franco Albini·Saarinen·Patricia Urquiola·Bouroullec 형제의 가구와 Jaime Hayón의 러그를 배치했다.",
       "keywords": [
-        "CHARLES HOLLIS JONES",
-        "LUCITE",
-        "ACRYLIC FURNITURE",
-        "JOHN LAUTNER",
-        "HOLLYWOOD INTERIORS"
+        "BREEZE HOUSE",
+        "CUSTOM WINDOWS",
+        "CROSS VENTILATION",
+        "DESIGNER FURNITURE",
+        "INDOOR OUTDOOR"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-22T08:03:22+09:00",
+      "briefingDate": "2026-08-22",
+      "generatedAt": "2026-08-22T08:03:22+09:00",
+      "cards": [
+        {
+          "id": "2026-08-21-timeout-product-categories",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "뉴시스",
+          "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260821_0003757133",
+          "date": "2026-08-21 10:01:33",
+          "title": "TBH글로벌, 타임아웃을 시티 트래블 캐주얼 4개 카테고리로 전개",
+          "summary": "TBH글로벌은 글로벌 도시 미디어 타임아웃의 라이선스를 확보해 의류·액세서리·뷰티·라이프스타일 네 카테고리의 패션·라이프스타일 브랜드로 전개한다. 오는 11월 의류·액세서리·뷰티 1차 라인업을 선보이며, 뷰티는 독일 더마 테스트와 비건 인증을 받은 K-바디케어로 시작한다.",
+          "keywords": [
+            "TBH GLOBAL",
+            "TIME OUT",
+            "CITY TRAVEL CASUAL",
+            "BRAND LICENSE",
+            "CATEGORY EXPANSION"
+          ]
+        },
+        {
+          "id": "2026-08-21-shinsegae-leather-fw",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "뉴시스",
+          "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260821_0003757013",
+          "date": "2026-08-21 09:10:56",
+          "title": "일라일·델라라나·보브, 2026 F/W 가죽을 아우터에서 하의로 확장",
+          "summary": "신세계인터내셔날의 일라일·델라라나·보브는 2026 F/W 가죽과 스웨이드 제품을 재킷·점퍼뿐 아니라 스커트와 팬츠까지 넓혔다. 일라일은 천연 양가죽, 델라라나는 양가죽과 구스다운·양털을 결합한 봄버, 보브는 인조 가죽과 천연 양가죽·염소가죽 스웨이드를 함께 편성했다.",
+          "keywords": [
+            "LEATHER",
+            "SUEDE",
+            "ILAIL",
+            "DELLA LANA",
+            "VOV"
+          ]
+        },
+        {
+          "id": "2026-08-21-fall-color-trends",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/fall-2026-color-trends",
+          "date": "2026-08-21",
+          "title": "2026 F/W 컬러, 전기적 코발트와 퍼플·피치·터쿼이즈로 확장",
+          "summary": "Vogue는 2026 F/W 컬렉션에서 레드·로열 퍼플·코발트 블루가 이어지고, 피치와 멜론·터쿼이즈·버건디가 주요 색으로 나타났다고 정리했다. 코발트는 Bottega Veneta·Jil Sander·Givenchy·Dries Van Noten·Lii에서, 피치와 멜론은 Tory Burch·Chanel·Miu Miu에서 확인됐다.",
+          "keywords": [
+            "F/W 2026",
+            "COBALT BLUE",
+            "ROYAL PURPLE",
+            "PEACH",
+            "TURQUOISE"
+          ]
+        },
+        {
+          "id": "2026-08-21-mens-hoop-earrings-ss27",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/hoop-earrings-mens-trend",
+          "date": "2026-08-21",
+          "title": "Prada·Louis Vuitton·Celine, S/S 2027 남성 룩에 드롭 후프 이어링 적용",
+          "summary": "Prada는 루비색 스톤 링을 귀에 달았고, Louis Vuitton은 LV 모노그램을 새긴 은색 밴드를, Celine은 크기가 다른 금·은색 링을 겹쳐 S/S 2027 남성 룩에 사용했다. Aubero의 Julian Louie는 후프가 전통적 남성 옷장에 명확한 자리가 없어 스타일의 대조점으로 기능한다고 설명했다.",
+          "keywords": [
+            "S/S 2027",
+            "HOOP EARRINGS",
+            "MENSWEAR",
+            "PRADA",
+            "LOUIS VUITTON"
+          ]
+        },
+        {
+          "id": "2026-08-21-katseye-fashion-business",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-business-of-katseye",
+          "date": "2026-08-21",
+          "title": "Katseye, K팝 훈련과 서구 팝 제작을 결합해 패션 협업 확장",
+          "summary": "Hybe와 Geffen의 합작으로 결성된 Katseye는 한국 아이돌 훈련 체계와 서구 메인스트림 팝 제작을 결합한 교차시장 모델을 사용하며, 이미지 구축에는 Humberto Leon과 스타일리스트 Katie Qian이 참여했다. 8월에는 Primark·Sanrio와 한정 컬렉션을 내고, Sanrio 협업 디자인은 미국 Target에서 독점 판매한다.",
+          "keywords": [
+            "KATSEYE",
+            "HYBE",
+            "GEFFEN",
+            "HUMBERTO LEON",
+            "BRAND COLLABORATION"
+          ]
+        },
+        {
+          "id": "2026-08-21-musinsa-canada-goose-entry",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "연합뉴스",
+          "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260821047600030",
+          "date": "2026-08-21 10:13",
+          "title": "무신사 신호: 캐나다구스 공식 입점과 하반기·단독 상품 편성",
+          "summary": "무신사는 국내 패션 플랫폼 최초로 캐나다구스를 공식 입점시키고 대표 제품, 2026년 하반기 신상품, 무신사 단독 상품을 판매한다. 8월 24일부터는 캐나다구스 제품 60만원 이상 구매 고객에게 폴더블백을 한정 수량으로 증정하는 기획전을 진행한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "MUSINSA",
+            "CANADA GOOSE",
+            "OFFICIAL ENTRY",
+            "EXCLUSIVE PRODUCT"
+          ]
+        },
+        {
+          "id": "2026-08-21-phyps-kimganji-second-life",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1536245177853262895",
+          "date": "2026-08-21",
+          "title": "무신사 신호: 핍스 모터사이클 × 김간지 ‘Second Life’",
+          "summary": "핍스 모터사이클의 첫 2026 F/W 컬렉션은 김간지와 함께 ‘Second Life’를 주제로 혼다 로고와 모터사이클 헤리티지를 빈티지 스포츠웨어·스트리트웨어로 재해석했다. 모토 저지와 나일론 긴소매 티셔츠, 트러커 캡에 더해 워싱 후디와 패치워크 데미지 스웨트 팬츠를 구성하고 무신사 온라인과 성수·용산 메가스토어에서 판매한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "PHYPS MOTORCYCLE",
+            "KIM GANJI",
+            "HONDA HERITAGE",
+            "F/W 2026"
+          ]
+        },
+        {
+          "id": "2026-08-21-vanrohe-gyoere-han",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/vanrohe",
+          "date": "2026-08-21",
+          "title": "29CM 신호: 반로에 × 한겨레 2026 F/W 단독 에디션",
+          "summary": "반로에와 한겨레의 29 EDITION은 절제된 실루엣과 소재의 질감에 집중한 2026 F/W 협업으로, 듀 숄더백·페이크 레더 하이넥 블루종·트윌 코튼 셔츠·플리츠 저지 블라우스를 구성했다. 블루종에는 크랙 레더와 숄더 탭·투웨이 지퍼를, 셔츠에는 탄탄한 트윌 코튼과 조절 가능한 커프스·프레스 라인을 적용했으며 29CM가 단독 소개한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "VAN ROHE",
+            "GYOERE HAN",
+            "F/W 2026"
+          ]
+        },
+        {
+          "id": "2026-08-21-mfa-house-reused-furniture",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183798/mfa-house-simone-jazbik-arquitetura",
+          "date": "2026-08-21",
+          "title": "MFA House, 프레이조 목재와 기존 디자이너 가구로 해변 주택 구성",
+          "summary": "MFA House는 회색 번트 시멘트 질감의 포슬린 타일과 프레이조 목재 패널을 중립적 바탕으로 사용하고, 컬러 포인트를 더했다. 거실·다이닝 등 공용부에는 가족의 리우데자네이루 아파트에서 가져온 Sergio Rodrigues의 Mole 암체어·Mucki 벤치와 Jader Almeida의 Dinn 테이블·Bank 커피 테이블을 재배치했다.",
+          "keywords": [
+            "MFA HOUSE",
+            "FREIJO WOOD",
+            "SERGIO RODRIGUES",
+            "JADER ALMEIDA",
+            "FURNITURE REUSE"
+          ]
+        },
+        {
+          "id": "2026-08-21-charles-hollis-jones-lucite",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/charles-hollis-jones-obituary",
+          "date": "2026-08-21",
+          "title": "Charles Hollis Jones, 루사이트로 1970년대 할리우드 가구 언어 구축",
+          "summary": "Charles Hollis Jones는 로스앤젤레스에서 CHJ를 설립하고 루사이트라는 아크릴 소재로 투명한 맞춤형 조각 가구를 제작했다. 그는 John Lautner와 12개가 넘는 프로젝트에서 협업하며 Lautner의 주택을 위해 수백 점의 아크릴 가구를 만들었고, Arthur Elrod의 1969년 팜스프링스 주택에도 작품을 공급했다.",
+          "keywords": [
+            "CHARLES HOLLIS JONES",
+            "LUCITE",
+            "ACRYLIC FURNITURE",
+            "JOHN LAUTNER",
+            "HOLLYWOOD INTERIORS"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-21T08:05:08+09:00",
       "briefingDate": "2026-08-21",
