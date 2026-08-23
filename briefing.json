@@ -1,113 +1,273 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-23T08:00:57+09:00",
-  "briefingDate": "2026-08-23",
+  "generatedAt": "2026-08-24T08:00:39+09:00",
+  "briefingDate": "2026-08-24",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-22-musinsa-vietnam-acfc",
+      "id": "2026-08-23-nemer-paris-collection",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/business/12133792",
-      "date": "2026-08-22 14:15",
-      "title": "무신사, 베트남 ACFC와 독점 유통 계약해 무신사 스탠다드 전개",
-      "summary": "무신사는 베트남 IPPG 산하 ACFC와 독점 유통 계약을 체결하고 무신사 스탠다드를 중심으로 현지 사업을 전개한다. ACFC는 베트남 전역에서 28개 글로벌 패션 브랜드와 280개 이상의 매장을 운영하며, 무신사는 이 유통망을 활용해 오프라인 사업을 확대할 계획이다.",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260823009900030",
+      "date": "2026-08-23 08:08",
+      "title": "네메르, Christelle Kocher와 F/W ‘파리 컬렉션’으로 브랜드 개편",
+      "summary": "롯데홈쇼핑은 F/W 시즌을 맞아 네메르를 개편하고 디자이너 Christelle Kocher와 협업한 ‘네메르 파리 컬렉션’을 선보인다. 이탈리아 램스킨 레더 재킷, 캐시미어울 스트라이프 시퀸 니트, 프리미엄 데님을 8월 25일 방송에서 소개할 예정이다.",
       "keywords": [
-        "MUSINSA",
-        "MUSINSA STANDARD",
-        "VIETNAM",
-        "ACFC",
-        "EXCLUSIVE DISTRIBUTION"
+        "NEMER",
+        "CHRISTELLE KOCHER",
+        "F/W 2026",
+        "LAMBSKIN",
+        "CASHMERE WOOL"
       ]
     },
     {
-      "id": "2026-08-22-thom-browne-hector-code",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/22/365%EC%9D%BC-%ED%86%B0-%EB%B8%8C%EB%9D%BC%EC%9A%B4-%EC%8A%A4%EC%9B%A8%ED%84%B0%EB%A5%BC-%EC%9E%85%EB%8A%94-%EA%B0%95%EC%95%84%EC%A7%80-%ED%97%A5%ED%84%B0%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88/",
-      "date": "2026-08-22",
-      "title": "톰 브라운, 헥터를 4선 캐시미어와 강아지형 백의 브랜드 모티프로 전개",
-      "summary": "톰 브라운의 닥스훈트 헥터는 브랜드의 4선 줄무늬가 들어간 회색 캐시미어 스웨터를 입는다. 브랜드는 헥터의 모습을 본뜬 강아지 형태의 ‘헥터 백’을 만들었고, 기사에는 2017·2019·2024 리조트 컬렉션 속 헥터 관련 이미지가 함께 실렸다.",
-      "keywords": [
-        "THOM BROWNE",
-        "HECTOR BAG",
-        "FOUR-BAR",
-        "CASHMERE",
-        "BRAND MOTIF"
-      ]
-    },
-    {
-      "id": "2026-08-22-handkerchief-street-style",
+      "id": "2026-08-23-sezane-new-era",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/street-style-handkerchief-trend",
-      "date": "2026-08-22",
-      "title": "스프링 2026·2027 스트리트에서 스카프형 헤드커버 확산",
-      "summary": "Vogue는 손수건을 머리에 두르는 흐름이 2026 S/S 레디투웨어 쇼의 스트리트에서 본격화됐다고 정리했다. 뉴욕과 코펜하겐의 2026·2027 스프링 시즌 참석자들은 단색과 노벨티 프린트 스카프를 모자처럼 활용했다.",
+      "sourceUrl": "https://www.vogue.com/article/sezane-new-in",
+      "date": "2026-08-23",
+      "title": "Sézane, 새 로고·캠페인과 촉각적 아우터로 ‘New Era’ 전개",
+      "summary": "Sézane은 13년간의 브랜드 전개를 재검토한 뒤 새 로고와 캠페인 이미지로 시각적 방향을 바꾸고 첫 가을 컬렉션을 공개했다. 볼륨 숄더와 퍼널 넥을 적용한 페이크 퍼·울·가죽 재킷과 트렌치코트, 다양한 질감의 레디투웨어와 액세서리를 구성했다.",
       "keywords": [
-        "HANDKERCHIEF",
-        "HEAD COVERING",
-        "STREET STYLE",
-        "SPRING 2027",
-        "ACCESSORIES"
+        "SEZANE",
+        "BRAND IDENTITY",
+        "AUTUMN COLLECTION",
+        "FUNNEL NECK",
+        "TACTILITY"
       ]
     },
     {
-      "id": "2026-08-22-29cm-yogawear-popup",
+      "id": "2026-08-23-denim-mini-revival",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/rihanna-runs-it-back-in-a-2000s-era-rihanna-staple",
+      "date": "2026-08-23",
+      "title": "Meryll Rogge·Dior, 로 헴 데님 미니스커트 흐름을 다시 제시",
+      "summary": "Rihanna는 안감 포켓과 로 헴을 겉으로 드러낸 Meryll Rogge의 다크 워시 데님 미니스커트를 착용했다. Vogue는 Diesel·Miss Sixty·FCUK·Cheap Monday가 이끌었던 2000년대형 데님 미니가 다시 나타나며, Jonathan Anderson의 첫 Dior 여성복에도 포함됐다고 전했다.",
+      "keywords": [
+        "DENIM MINI",
+        "MERYLL ROGGE",
+        "DIOR",
+        "RAW HEM",
+        "2000S REVIVAL"
+      ]
+    },
+    {
+      "id": "2026-08-23-kick-flare-denim",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/zoe-kravitz-experiments-in-a-long-misunderstood-denim-style",
+      "date": "2026-08-23",
+      "title": "크롭 킥 플레어 데님, 로라이즈와 발목 노출로 재해석",
+      "summary": "Zoë Kravitz는 라이트 워시의 로라이즈 크롭 킥 플레어 진을 스웨이드 발레리나 펌프와 조합했다. Vogue는 Isabel Marant가 이 실루엣을 계속 사용해왔고 Toteme·Frame·Ralph Lauren도 현대적인 버전을 제시한다고 설명했다.",
+      "keywords": [
+        "KICK FLARE",
+        "CROPPED DENIM",
+        "LOW RISE",
+        "ISABEL MARANT",
+        "DENIM SILHOUETTE"
+      ]
+    },
+    {
+      "id": "2026-08-23-drawfit-oh-jungkyu-denim",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1537007827925240751",
+      "date": "2026-08-23",
+      "title": "무신사 신호: 드로우핏 × 오정규, 6oz·12.5oz 데님 셋업",
+      "summary": "드로우핏과 오정규는 세미 크롭 데님 셔츠와 세미 스트레이트 데님 팬츠로 협업 컬렉션을 구성했다. 셔츠에는 면 100% 6oz 데님, 팬츠에는 형태를 잡는 12.5oz 데님을 사용하고 워싱으로 촉감과 컬러를 조정했으며 블랙·딥 인디고·미디엄 블루를 마련했다.",
+      "keywords": [
+        "SELECT SHOP SIGNAL",
+        "DRAW FIT",
+        "OH JUNGKYU",
+        "6OZ DENIM",
+        "12.5OZ DENIM"
+      ]
+    },
+    {
+      "id": "2026-08-23-29cm-rising-brands",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/22/1st",
-      "date": "2026-08-22",
-      "title": "29CM 신호: DDP 팝업 연계 요가웨어 7개 브랜드 편성",
-      "summary": "29CM는 DDP ‘뷰티풀라이프인서울’ 팝업을 기념해 8월 22일부터 25일까지 요가웨어 단독 이벤트를 진행한다. 디야니·콘치웨어·모어아웃·프론투라인·차크라온·온유어오운·포지티브미를 일상과 운동의 경계를 잇는 액티브웨어로 묶고 쿠폰 혜택을 제공한다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/23/1st",
+      "date": "2026-08-23",
+      "title": "29CM 신호: 노티아·으음키임·아우브아워 라이징 브랜드 편성",
+      "summary": "29CM는 노티아·으음키임·아우브아워를 라이징 브랜드로 묶어 8월 23일부터 31일까지 소개한다. 노티아의 하이넥 다크 브라운 레더 블루종, 으음키임의 새 컬러 니트 카디건, 아우브아워의 미니멀 하프 트렌치코트를 추천 품목으로 제시했다.",
       "keywords": [
         "SELECT SHOP SIGNAL",
         "29CM",
-        "YOGAWEAR",
-        "ACTIVEWEAR",
-        "DDP POP-UP"
+        "NOTIA",
+        "EMKM",
+        "AUBOUR"
       ]
     },
     {
-      "id": "2026-08-22-achime-bagel-store",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
-      "date": "2026-08-22",
-      "title": "Achime Bagel, 오픈 키친과 이동식 픽업 월로 생산·판매 동선 통합",
-      "summary": "JOJOWORKSHOP은 서울 문정동 46㎡ 베이커리 중앙에 오픈 키친을 두어 재료 준비부터 성형과 굽기까지 보이게 했다. 흰색·목재·스테인리스·녹색 세라믹·빨간색을 조합하고, 이동·분리가 가능한 선반과 캐비닛으로 픽업 월을 구성했다.",
+      "id": "2026-08-23-musinsa-blackcombat",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260823014300030",
+      "date": "2026-08-23 09:17",
+      "title": "무신사 신호: BLACK COMBAT IP와 입점 브랜드 협업 컬렉션 추진",
+      "summary": "무신사는 종합격투기 대회 BLACK COMBAT을 주최하는 이데아파라곤과 스폰서십 계약을 체결했다. 양사는 BLACK COMBAT IP와 무신사·29CM 입점 패션 및 스포츠 브랜드를 연결하고 기획·제작·유통·판매를 함께 추진할 계획이다.",
       "keywords": [
-        "ACHIME BAGEL",
-        "OPEN KITCHEN",
-        "MOVABLE FURNITURE",
-        "STAINLESS STEEL",
-        "SPATIAL BRANDING"
+        "SELECT SHOP SIGNAL",
+        "MUSINSA",
+        "29CM",
+        "BLACK COMBAT",
+        "IP COLLABORATION"
       ]
     },
     {
-      "id": "2026-08-22-breeze-house-interior",
+      "id": "2026-08-23-zimbro-house",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1148787/breeze-house-abaton",
-      "date": "2026-08-22",
-      "title": "Breeze House, 숨겨지는 대형 창과 가구 컬렉션으로 실내외 연결",
-      "summary": "Ábaton은 마드리드의 Breeze House를 경사지에 맞춘 두 층과 부채꼴 독립 볼륨으로 구성하고, 완전히 숨겨지는 맞춤 창으로 교차 환기와 정원 연결을 만들었다. 내부에는 Gaetano Pesce·Franco Albini·Saarinen·Patricia Urquiola·Bouroullec 형제의 가구와 Jaime Hayón의 러그를 배치했다.",
+      "sourceUrl": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
+      "date": "2026-08-23",
+      "title": "Zimbro House, 노출 콘크리트·자연목·유리로 호수와 정원 연결",
+      "summary": "Stemmer Rodrigues Arquitetura는 호수와 정원 사이의 Zimbro House에 노출 콘크리트와 자연 목재, 투명 유리를 사용했다. 재료 조합은 실내외 경계를 흐리고 모든 공간에서 주변 자연을 지속적으로 인식하도록 구성됐다.",
       "keywords": [
-        "BREEZE HOUSE",
-        "CUSTOM WINDOWS",
-        "CROSS VENTILATION",
-        "DESIGNER FURNITURE",
+        "ZIMBRO HOUSE",
+        "EXPOSED CONCRETE",
+        "NATURAL WOOD",
+        "GLASS",
         "INDOOR OUTDOOR"
+      ]
+    },
+    {
+      "id": "2026-08-23-threshold-house",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
+      "date": "2026-08-23",
+      "title": "Threshold House, 벽돌 자알리와 복원 기와로 빛·환기 조절",
+      "summary": "Madras Spaces는 단일 콘크리트 지붕 위에 복원한 망갈로르 기와 지붕을 얹고, 노출 벽돌 내력벽과 석조 기초로 92㎡ 농가 주택을 지었다. 타공 벽돌 자알리는 자연광과 수동 환기를 받아들이면서 열·눈부심·시선을 조절하고, 1층은 고정 기능보다 일상의 변화에 대응하는 연속 생활 공간으로 구성했다.",
+      "keywords": [
+        "THRESHOLD HOUSE",
+        "BRICK JAALI",
+        "MANGALORE TILE",
+        "PASSIVE VENTILATION",
+        "LOCAL MATERIALS"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-23T08:00:57+09:00",
+      "briefingDate": "2026-08-23",
+      "generatedAt": "2026-08-23T08:00:57+09:00",
+      "cards": [
+        {
+          "id": "2026-08-22-musinsa-vietnam-acfc",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "매일경제",
+          "sourceUrl": "https://www.mk.co.kr/news/business/12133792",
+          "date": "2026-08-22 14:15",
+          "title": "무신사, 베트남 ACFC와 독점 유통 계약해 무신사 스탠다드 전개",
+          "summary": "무신사는 베트남 IPPG 산하 ACFC와 독점 유통 계약을 체결하고 무신사 스탠다드를 중심으로 현지 사업을 전개한다. ACFC는 베트남 전역에서 28개 글로벌 패션 브랜드와 280개 이상의 매장을 운영하며, 무신사는 이 유통망을 활용해 오프라인 사업을 확대할 계획이다.",
+          "keywords": [
+            "MUSINSA",
+            "MUSINSA STANDARD",
+            "VIETNAM",
+            "ACFC",
+            "EXCLUSIVE DISTRIBUTION"
+          ]
+        },
+        {
+          "id": "2026-08-22-thom-browne-hector-code",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/22/365%EC%9D%BC-%ED%86%B0-%EB%B8%8C%EB%9D%BC%EC%9A%B4-%EC%8A%A4%EC%9B%A8%ED%84%B0%EB%A5%BC-%EC%9E%85%EB%8A%94-%EA%B0%95%EC%95%84%EC%A7%80-%ED%97%A5%ED%84%B0%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88/",
+          "date": "2026-08-22",
+          "title": "톰 브라운, 헥터를 4선 캐시미어와 강아지형 백의 브랜드 모티프로 전개",
+          "summary": "톰 브라운의 닥스훈트 헥터는 브랜드의 4선 줄무늬가 들어간 회색 캐시미어 스웨터를 입는다. 브랜드는 헥터의 모습을 본뜬 강아지 형태의 ‘헥터 백’을 만들었고, 기사에는 2017·2019·2024 리조트 컬렉션 속 헥터 관련 이미지가 함께 실렸다.",
+          "keywords": [
+            "THOM BROWNE",
+            "HECTOR BAG",
+            "FOUR-BAR",
+            "CASHMERE",
+            "BRAND MOTIF"
+          ]
+        },
+        {
+          "id": "2026-08-22-handkerchief-street-style",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/street-style-handkerchief-trend",
+          "date": "2026-08-22",
+          "title": "스프링 2026·2027 스트리트에서 스카프형 헤드커버 확산",
+          "summary": "Vogue는 손수건을 머리에 두르는 흐름이 2026 S/S 레디투웨어 쇼의 스트리트에서 본격화됐다고 정리했다. 뉴욕과 코펜하겐의 2026·2027 스프링 시즌 참석자들은 단색과 노벨티 프린트 스카프를 모자처럼 활용했다.",
+          "keywords": [
+            "HANDKERCHIEF",
+            "HEAD COVERING",
+            "STREET STYLE",
+            "SPRING 2027",
+            "ACCESSORIES"
+          ]
+        },
+        {
+          "id": "2026-08-22-29cm-yogawear-popup",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/22/1st",
+          "date": "2026-08-22",
+          "title": "29CM 신호: DDP 팝업 연계 요가웨어 7개 브랜드 편성",
+          "summary": "29CM는 DDP ‘뷰티풀라이프인서울’ 팝업을 기념해 8월 22일부터 25일까지 요가웨어 단독 이벤트를 진행한다. 디야니·콘치웨어·모어아웃·프론투라인·차크라온·온유어오운·포지티브미를 일상과 운동의 경계를 잇는 액티브웨어로 묶고 쿠폰 혜택을 제공한다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "YOGAWEAR",
+            "ACTIVEWEAR",
+            "DDP POP-UP"
+          ]
+        },
+        {
+          "id": "2026-08-22-achime-bagel-store",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183424/achime-bagel-store-jojoworkshop",
+          "date": "2026-08-22",
+          "title": "Achime Bagel, 오픈 키친과 이동식 픽업 월로 생산·판매 동선 통합",
+          "summary": "JOJOWORKSHOP은 서울 문정동 46㎡ 베이커리 중앙에 오픈 키친을 두어 재료 준비부터 성형과 굽기까지 보이게 했다. 흰색·목재·스테인리스·녹색 세라믹·빨간색을 조합하고, 이동·분리가 가능한 선반과 캐비닛으로 픽업 월을 구성했다.",
+          "keywords": [
+            "ACHIME BAGEL",
+            "OPEN KITCHEN",
+            "MOVABLE FURNITURE",
+            "STAINLESS STEEL",
+            "SPATIAL BRANDING"
+          ]
+        },
+        {
+          "id": "2026-08-22-breeze-house-interior",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1148787/breeze-house-abaton",
+          "date": "2026-08-22",
+          "title": "Breeze House, 숨겨지는 대형 창과 가구 컬렉션으로 실내외 연결",
+          "summary": "Ábaton은 마드리드의 Breeze House를 경사지에 맞춘 두 층과 부채꼴 독립 볼륨으로 구성하고, 완전히 숨겨지는 맞춤 창으로 교차 환기와 정원 연결을 만들었다. 내부에는 Gaetano Pesce·Franco Albini·Saarinen·Patricia Urquiola·Bouroullec 형제의 가구와 Jaime Hayón의 러그를 배치했다.",
+          "keywords": [
+            "BREEZE HOUSE",
+            "CUSTOM WINDOWS",
+            "CROSS VENTILATION",
+            "DESIGNER FURNITURE",
+            "INDOOR OUTDOOR"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-22T08:03:22+09:00",
       "briefingDate": "2026-08-22",
