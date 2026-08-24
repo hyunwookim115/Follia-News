@@ -1,164 +1,351 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-24T08:00:39+09:00",
-  "briefingDate": "2026-08-24",
+  "generatedAt": "2026-08-25T08:05:59+09:00",
+  "briefingDate": "2026-08-25",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-23-nemer-paris-collection",
+      "id": "2026-08-25-8seconds-minjukim-fw",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260823009900030",
-      "date": "2026-08-23 08:08",
-      "title": "네메르, Christelle Kocher와 F/W ‘파리 컬렉션’으로 브랜드 개편",
-      "summary": "롯데홈쇼핑은 F/W 시즌을 맞아 네메르를 개편하고 디자이너 Christelle Kocher와 협업한 ‘네메르 파리 컬렉션’을 선보인다. 이탈리아 램스킨 레더 재킷, 캐시미어울 스트라이프 시퀸 니트, 프리미엄 데님을 8월 25일 방송에서 소개할 예정이다.",
+      "source": "NEWSIS",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759311",
+      "date": "2026-08-24",
+      "title": "에잇세컨즈 × 민주킴, 리본·프릴·꽃 자수의 두 번째 F/W 협업",
+      "summary": "에잇세컨즈는 민주킴과 두 번째 협업 컬렉션 ‘Bouquet of Heart’를 출시했다. 리본·프릴·꽃 자수와 샤·레이스 소재, 협업을 위해 개발한 하트 클로버 프린트를 적용했으며 의류부터 비즈 헤어핀과 리본 백까지 제품군을 구성했다.",
       "keywords": [
-        "NEMER",
-        "CHRISTELLE KOCHER",
-        "F/W 2026",
-        "LAMBSKIN",
-        "CASHMERE WOOL"
+        "에잇세컨즈",
+        "민주킴",
+        "Bouquet of Heart",
+        "리본",
+        "레이스",
+        "협업"
       ]
     },
     {
-      "id": "2026-08-23-sezane-new-era",
+      "id": "2026-08-25-gsshop-layered-fw",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "NEWSIS",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759256",
+      "date": "2026-08-24",
+      "title": "GS샵 26FW, 변동하는 날씨에 맞춰 ‘레이어드’ 상품 확대",
+      "summary": "GS샵은 26FW 상품 기획의 핵심 키워드로 ‘레이어드’를 제시하고 코어 어센틱과 라삐아프 등 단독 브랜드의 가을 신상품을 공개했다. 셔츠·얇은 긴팔 티셔츠·카디건을 늘리고 베스트와 뷔스티에를 강화해, 초가을 단독 착용과 이후 아우터 레이어링을 모두 고려했다.",
+      "keywords": [
+        "GS샵",
+        "26FW",
+        "레이어드",
+        "간절기",
+        "카디건",
+        "뷔스티에"
+      ]
+    },
+    {
+      "id": "2026-08-25-duran-lantink-couture",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/24/%EB%93%80%EB%9E%80-%EB%9E%9C%ED%8C%85%ED%81%AC%EC%99%80-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EB%A7%8C%EB%82%A8/",
+      "date": "2026-08-24",
+      "title": "듀란 랜팅크, 사부아 페르와 첨단 기술을 결합한 첫 꾸뛰르",
+      "summary": "듀란 랜팅크는 장 폴 고티에에서 생애 첫 꾸뛰르 컬렉션을 선보였으며, 현재 10월 4일의 2027 S/S와 그 전에 공개할 가을 컬렉션을 함께 준비하고 있다. 첫 꾸뛰르는 사부아 페르와 최첨단 기술의 결합에서 출발했고, 영화 ‘올랜도’의 시간 여행을 전통 기법과 미래를 잇는 아이디어로 활용했다.",
+      "keywords": [
+        "듀란 랜팅크",
+        "장 폴 고티에",
+        "꾸뛰르",
+        "사부아 페르",
+        "첨단 기술",
+        "올랜도"
+      ]
+    },
+    {
+      "id": "2026-08-25-aw26-black-runways",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
+      "date": "2026-08-24",
+      "title": "A/W 2026 런웨이, 블랙으로 신체의 그래픽 라인을 강조",
+      "summary": "Wallpaper*는 A/W 2026 컬렉션에서 블랙이 신체를 그래픽 라인으로 드러내는 방식에 주목했다. Fendi에서는 Maria Grazia Chiuri의 새로운 방향을 알리는 블랙 투버튼 블레이저·실크 셔츠·플리츠 스커트가 등장했고, Comme des Garçons는 21개의 제트 블랙 룩과 6개의 핑크 룩을 선보였다.",
+      "keywords": [
+        "A/W 2026",
+        "블랙",
+        "Fendi",
+        "Maria Grazia Chiuri",
+        "Comme des Garçons",
+        "실루엣"
+      ]
+    },
+    {
+      "id": "2026-08-25-luxury-resale-search",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/sezane-new-in",
-      "date": "2026-08-23",
-      "title": "Sézane, 새 로고·캠페인과 촉각적 아우터로 ‘New Era’ 전개",
-      "summary": "Sézane은 13년간의 브랜드 전개를 재검토한 뒤 새 로고와 캠페인 이미지로 시각적 방향을 바꾸고 첫 가을 컬렉션을 공개했다. 볼륨 숄더와 퍼널 넥을 적용한 페이크 퍼·울·가죽 재킷과 트렌치코트, 다양한 질감의 레디투웨어와 액세서리를 구성했다.",
+      "sourceUrl": "https://www.vogue.com/article/in-luxurys-new-resale-era-everyones-a-fashion-expert",
+      "date": "2026-08-24",
+      "title": "럭셔리 리세일 검색, 브랜드명에서 연도·소재·룩 단위로 세분화",
+      "summary": "The RealReal의 2026 리세일 보고서에 따르면 중고 시장 검색은 브랜드명 중심에서 연도·소재·특정 룩을 함께 찾는 방식으로 세분화됐다. 보고서는 15년 이상 된 빈티지 수요가 2020년부터 2026년까지 432% 늘었고, 2000년대 제품 검색 증가율이 1990년대 제품을 앞섰다고 밝혔다.",
       "keywords": [
-        "SEZANE",
-        "BRAND IDENTITY",
-        "AUTUMN COLLECTION",
-        "FUNNEL NECK",
-        "TACTILITY"
+        "럭셔리 리세일",
+        "The RealReal",
+        "빈티지",
+        "검색 행동",
+        "2000년대 패션",
+        "중고 시장"
       ]
     },
     {
-      "id": "2026-08-23-denim-mini-revival",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/rihanna-runs-it-back-in-a-2000s-era-rihanna-staple",
-      "date": "2026-08-23",
-      "title": "Meryll Rogge·Dior, 로 헴 데님 미니스커트 흐름을 다시 제시",
-      "summary": "Rihanna는 안감 포켓과 로 헴을 겉으로 드러낸 Meryll Rogge의 다크 워시 데님 미니스커트를 착용했다. Vogue는 Diesel·Miss Sixty·FCUK·Cheap Monday가 이끌었던 2000년대형 데님 미니가 다시 나타나며, Jonathan Anderson의 첫 Dior 여성복에도 포함됐다고 전했다.",
-      "keywords": [
-        "DENIM MINI",
-        "MERYLL ROGGE",
-        "DIOR",
-        "RAW HEM",
-        "2000S REVIVAL"
-      ]
-    },
-    {
-      "id": "2026-08-23-kick-flare-denim",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/zoe-kravitz-experiments-in-a-long-misunderstood-denim-style",
-      "date": "2026-08-23",
-      "title": "크롭 킥 플레어 데님, 로라이즈와 발목 노출로 재해석",
-      "summary": "Zoë Kravitz는 라이트 워시의 로라이즈 크롭 킥 플레어 진을 스웨이드 발레리나 펌프와 조합했다. Vogue는 Isabel Marant가 이 실루엣을 계속 사용해왔고 Toteme·Frame·Ralph Lauren도 현대적인 버전을 제시한다고 설명했다.",
-      "keywords": [
-        "KICK FLARE",
-        "CROPPED DENIM",
-        "LOW RISE",
-        "ISABEL MARANT",
-        "DENIM SILHOUETTE"
-      ]
-    },
-    {
-      "id": "2026-08-23-drawfit-oh-jungkyu-denim",
+      "id": "2026-08-25-junya-tnf",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1537007827925240751",
-      "date": "2026-08-23",
-      "title": "무신사 신호: 드로우핏 × 오정규, 6oz·12.5oz 데님 셋업",
-      "summary": "드로우핏과 오정규는 세미 크롭 데님 셔츠와 세미 스트레이트 데님 팬츠로 협업 컬렉션을 구성했다. 셔츠에는 면 100% 6oz 데님, 팬츠에는 형태를 잡는 12.5oz 데님을 사용하고 워싱으로 촉감과 컬러를 조정했으며 블랙·딥 인디고·미디엄 블루를 마련했다.",
+      "sourceUrl": "https://www.musinsa.com/content/1541277545431341475",
+      "date": "2026-08-24",
+      "title": "무신사 신호: eYe Junya Watanabe Man × The North Face 아우터",
+      "summary": "eYe Junya Watanabe Man과 The North Face는 DryVent 소재를 공통 적용한 협업 아우터를 공개했다. 테크 베스트 마운틴 재킷은 다중 포켓과 조절 디테일을 더했고, 봄버 재킷은 MA-1 실루엣에 클래식한 수납 배치와 신축 밴딩을 결합했다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "DRAW FIT",
-        "OH JUNGKYU",
-        "6OZ DENIM",
-        "12.5OZ DENIM"
+        "eYe Junya Watanabe Man",
+        "The North Face",
+        "DryVent",
+        "마운틴 재킷",
+        "MA-1",
+        "협업"
       ]
     },
     {
-      "id": "2026-08-23-29cm-rising-brands",
+      "id": "2026-08-25-29cm-folnua",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/23/1st",
-      "date": "2026-08-23",
-      "title": "29CM 신호: 노티아·으음키임·아우브아워 라이징 브랜드 편성",
-      "summary": "29CM는 노티아·으음키임·아우브아워를 라이징 브랜드로 묶어 8월 23일부터 31일까지 소개한다. 노티아의 하이넥 다크 브라운 레더 블루종, 으음키임의 새 컬러 니트 카디건, 아우브아워의 미니멀 하프 트렌치코트를 추천 품목으로 제시했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29-brand-manual/2026/08/folnua",
+      "date": "2026-08-24",
+      "title": "29CM 신호: 폴뉴아 26FW, 모헤어·알파카·부클·스웨이드 편성",
+      "summary": "폴뉴아는 26FW 시즌을 가을과 겨울 사이를 담은 ‘The In-Between’으로 전개한다. 모헤어·알파카·부클·스웨이드에 차분하고 깊은 컬러를 더했으며, 매트한 스웨이드 봄버와 리브 니트 팬츠·에이프런 세트 등을 대표 상품으로 제시했다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
         "29CM",
-        "NOTIA",
-        "EMKM",
-        "AUBOUR"
+        "폴뉴아",
+        "26FW",
+        "모헤어",
+        "알파카",
+        "스웨이드"
       ]
     },
     {
-      "id": "2026-08-23-musinsa-blackcombat",
+      "id": "2026-08-25-frontrow-botero-bags",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260823014300030",
-      "date": "2026-08-23 09:17",
-      "title": "무신사 신호: BLACK COMBAT IP와 입점 브랜드 협업 컬렉션 추진",
-      "summary": "무신사는 종합격투기 대회 BLACK COMBAT을 주최하는 이데아파라곤과 스폰서십 계약을 체결했다. 양사는 BLACK COMBAT IP와 무신사·29CM 입점 패션 및 스포츠 브랜드를 연결하고 기획·제작·유통·판매를 함께 추진할 계획이다.",
+      "source": "NEWSIS",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759230",
+      "date": "2026-08-24",
+      "title": "W컨셉 신호: 프론트로우 × 보테로, 첫 가방 컬렉션 4종",
+      "summary": "W컨셉의 프론트로우는 보테로와 협업해 브랜드의 첫 정식 가방 컬렉션을 출시했다. 천연 소가죽 코팅의 아크 백, 뮤즈백, 뮤즈백 토트, 스웨이드 바게트 피크닉 백 등 4종으로 구성했으며 잡화 카테고리 확대 계획을 밝혔다.",
       "keywords": [
-        "SELECT SHOP SIGNAL",
-        "MUSINSA",
-        "29CM",
-        "BLACK COMBAT",
-        "IP COLLABORATION"
+        "W컨셉",
+        "프론트로우",
+        "보테로",
+        "가방",
+        "스웨이드",
+        "카테고리 확장"
       ]
     },
     {
-      "id": "2026-08-23-zimbro-house",
+      "id": "2026-08-25-raw-warm-residence",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
-      "date": "2026-08-23",
-      "title": "Zimbro House, 노출 콘크리트·자연목·유리로 호수와 정원 연결",
-      "summary": "Stemmer Rodrigues Arquitetura는 호수와 정원 사이의 Zimbro House에 노출 콘크리트와 자연 목재, 투명 유리를 사용했다. 재료 조합은 실내외 경계를 흐리고 모든 공간에서 주변 자연을 지속적으로 인식하도록 구성됐다.",
+      "sourceUrl": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
+      "date": "2026-08-24",
+      "title": "Raw & Warm Residence, 노출 콘크리트와 소나무 합판의 대비",
+      "summary": "Habitat Architects는 기존 노출 콘크리트 천장과 불규칙한 질감을 보존하고, 큰 소나무 합판 면으로 온기와 자연스러운 결을 더했다. 변화하는 미술 컬렉션을 위해 고정 칸막이를 줄이고 반투명 접이문을 사용했으며, 형광 녹색 사이드 테이블과 분홍색 바 스툴을 저채도 공간의 포인트로 배치했다.",
       "keywords": [
-        "ZIMBRO HOUSE",
-        "EXPOSED CONCRETE",
-        "NATURAL WOOD",
-        "GLASS",
-        "INDOOR OUTDOOR"
+        "Raw & Warm Residence",
+        "노출 콘크리트",
+        "소나무 합판",
+        "반투명 접이문",
+        "컬러 가구",
+        "갤러리형 주거"
       ]
     },
     {
-      "id": "2026-08-23-threshold-house",
+      "id": "2026-08-25-house-of-memories",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
-      "date": "2026-08-23",
-      "title": "Threshold House, 벽돌 자알리와 복원 기와로 빛·환기 조절",
-      "summary": "Madras Spaces는 단일 콘크리트 지붕 위에 복원한 망갈로르 기와 지붕을 얹고, 노출 벽돌 내력벽과 석조 기초로 92㎡ 농가 주택을 지었다. 타공 벽돌 자알리는 자연광과 수동 환기를 받아들이면서 열·눈부심·시선을 조절하고, 1층은 고정 기능보다 일상의 변화에 대응하는 연속 생활 공간으로 구성했다.",
+      "sourceUrl": "https://www.archdaily.com/1183766/the-house-of-memories-studio-lagom",
+      "date": "2026-08-24",
+      "title": "House of Memories, 오래된 가구와 우물을 보존한 배리어프리 주거",
+      "summary": "Studio Lagom은 기존 22개 방의 주택 자리에 노년층과 신체적 제약이 있는 가족 구성원을 고려한 배리어프리 주택과 업무 공간을 설계했다. 기존 우물을 계획의 중심에 두고 C자형 주거 공간을 연못이 있는 안뜰 주위에 배치했으며, 과거 주택에서 이어온 목제 가구와 새로운 빈티지풍 가구를 함께 사용했다.",
       "keywords": [
-        "THRESHOLD HOUSE",
-        "BRICK JAALI",
-        "MANGALORE TILE",
-        "PASSIVE VENTILATION",
-        "LOCAL MATERIALS"
+        "House of Memories",
+        "Studio Lagom",
+        "배리어프리",
+        "우물",
+        "안뜰",
+        "빈티지 가구"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-24T08:00:39+09:00",
+      "briefingDate": "2026-08-24",
+      "generatedAt": "2026-08-24T08:00:39+09:00",
+      "cards": [
+        {
+          "id": "2026-08-23-nemer-paris-collection",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "연합뉴스",
+          "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260823009900030",
+          "date": "2026-08-23 08:08",
+          "title": "네메르, Christelle Kocher와 F/W ‘파리 컬렉션’으로 브랜드 개편",
+          "summary": "롯데홈쇼핑은 F/W 시즌을 맞아 네메르를 개편하고 디자이너 Christelle Kocher와 협업한 ‘네메르 파리 컬렉션’을 선보인다. 이탈리아 램스킨 레더 재킷, 캐시미어울 스트라이프 시퀸 니트, 프리미엄 데님을 8월 25일 방송에서 소개할 예정이다.",
+          "keywords": [
+            "NEMER",
+            "CHRISTELLE KOCHER",
+            "F/W 2026",
+            "LAMBSKIN",
+            "CASHMERE WOOL"
+          ]
+        },
+        {
+          "id": "2026-08-23-sezane-new-era",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/sezane-new-in",
+          "date": "2026-08-23",
+          "title": "Sézane, 새 로고·캠페인과 촉각적 아우터로 ‘New Era’ 전개",
+          "summary": "Sézane은 13년간의 브랜드 전개를 재검토한 뒤 새 로고와 캠페인 이미지로 시각적 방향을 바꾸고 첫 가을 컬렉션을 공개했다. 볼륨 숄더와 퍼널 넥을 적용한 페이크 퍼·울·가죽 재킷과 트렌치코트, 다양한 질감의 레디투웨어와 액세서리를 구성했다.",
+          "keywords": [
+            "SEZANE",
+            "BRAND IDENTITY",
+            "AUTUMN COLLECTION",
+            "FUNNEL NECK",
+            "TACTILITY"
+          ]
+        },
+        {
+          "id": "2026-08-23-denim-mini-revival",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/rihanna-runs-it-back-in-a-2000s-era-rihanna-staple",
+          "date": "2026-08-23",
+          "title": "Meryll Rogge·Dior, 로 헴 데님 미니스커트 흐름을 다시 제시",
+          "summary": "Rihanna는 안감 포켓과 로 헴을 겉으로 드러낸 Meryll Rogge의 다크 워시 데님 미니스커트를 착용했다. Vogue는 Diesel·Miss Sixty·FCUK·Cheap Monday가 이끌었던 2000년대형 데님 미니가 다시 나타나며, Jonathan Anderson의 첫 Dior 여성복에도 포함됐다고 전했다.",
+          "keywords": [
+            "DENIM MINI",
+            "MERYLL ROGGE",
+            "DIOR",
+            "RAW HEM",
+            "2000S REVIVAL"
+          ]
+        },
+        {
+          "id": "2026-08-23-kick-flare-denim",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/zoe-kravitz-experiments-in-a-long-misunderstood-denim-style",
+          "date": "2026-08-23",
+          "title": "크롭 킥 플레어 데님, 로라이즈와 발목 노출로 재해석",
+          "summary": "Zoë Kravitz는 라이트 워시의 로라이즈 크롭 킥 플레어 진을 스웨이드 발레리나 펌프와 조합했다. Vogue는 Isabel Marant가 이 실루엣을 계속 사용해왔고 Toteme·Frame·Ralph Lauren도 현대적인 버전을 제시한다고 설명했다.",
+          "keywords": [
+            "KICK FLARE",
+            "CROPPED DENIM",
+            "LOW RISE",
+            "ISABEL MARANT",
+            "DENIM SILHOUETTE"
+          ]
+        },
+        {
+          "id": "2026-08-23-drawfit-oh-jungkyu-denim",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1537007827925240751",
+          "date": "2026-08-23",
+          "title": "무신사 신호: 드로우핏 × 오정규, 6oz·12.5oz 데님 셋업",
+          "summary": "드로우핏과 오정규는 세미 크롭 데님 셔츠와 세미 스트레이트 데님 팬츠로 협업 컬렉션을 구성했다. 셔츠에는 면 100% 6oz 데님, 팬츠에는 형태를 잡는 12.5oz 데님을 사용하고 워싱으로 촉감과 컬러를 조정했으며 블랙·딥 인디고·미디엄 블루를 마련했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "DRAW FIT",
+            "OH JUNGKYU",
+            "6OZ DENIM",
+            "12.5OZ DENIM"
+          ]
+        },
+        {
+          "id": "2026-08-23-29cm-rising-brands",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/23/1st",
+          "date": "2026-08-23",
+          "title": "29CM 신호: 노티아·으음키임·아우브아워 라이징 브랜드 편성",
+          "summary": "29CM는 노티아·으음키임·아우브아워를 라이징 브랜드로 묶어 8월 23일부터 31일까지 소개한다. 노티아의 하이넥 다크 브라운 레더 블루종, 으음키임의 새 컬러 니트 카디건, 아우브아워의 미니멀 하프 트렌치코트를 추천 품목으로 제시했다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "29CM",
+            "NOTIA",
+            "EMKM",
+            "AUBOUR"
+          ]
+        },
+        {
+          "id": "2026-08-23-musinsa-blackcombat",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "연합뉴스",
+          "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260823014300030",
+          "date": "2026-08-23 09:17",
+          "title": "무신사 신호: BLACK COMBAT IP와 입점 브랜드 협업 컬렉션 추진",
+          "summary": "무신사는 종합격투기 대회 BLACK COMBAT을 주최하는 이데아파라곤과 스폰서십 계약을 체결했다. 양사는 BLACK COMBAT IP와 무신사·29CM 입점 패션 및 스포츠 브랜드를 연결하고 기획·제작·유통·판매를 함께 추진할 계획이다.",
+          "keywords": [
+            "SELECT SHOP SIGNAL",
+            "MUSINSA",
+            "29CM",
+            "BLACK COMBAT",
+            "IP COLLABORATION"
+          ]
+        },
+        {
+          "id": "2026-08-23-zimbro-house",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
+          "date": "2026-08-23",
+          "title": "Zimbro House, 노출 콘크리트·자연목·유리로 호수와 정원 연결",
+          "summary": "Stemmer Rodrigues Arquitetura는 호수와 정원 사이의 Zimbro House에 노출 콘크리트와 자연 목재, 투명 유리를 사용했다. 재료 조합은 실내외 경계를 흐리고 모든 공간에서 주변 자연을 지속적으로 인식하도록 구성됐다.",
+          "keywords": [
+            "ZIMBRO HOUSE",
+            "EXPOSED CONCRETE",
+            "NATURAL WOOD",
+            "GLASS",
+            "INDOOR OUTDOOR"
+          ]
+        },
+        {
+          "id": "2026-08-23-threshold-house",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183740/the-threshold-house-madras-spaces",
+          "date": "2026-08-23",
+          "title": "Threshold House, 벽돌 자알리와 복원 기와로 빛·환기 조절",
+          "summary": "Madras Spaces는 단일 콘크리트 지붕 위에 복원한 망갈로르 기와 지붕을 얹고, 노출 벽돌 내력벽과 석조 기초로 92㎡ 농가 주택을 지었다. 타공 벽돌 자알리는 자연광과 수동 환기를 받아들이면서 열·눈부심·시선을 조절하고, 1층은 고정 기능보다 일상의 변화에 대응하는 연속 생활 공간으로 구성했다.",
+          "keywords": [
+            "THRESHOLD HOUSE",
+            "BRICK JAALI",
+            "MANGALORE TILE",
+            "PASSIVE VENTILATION",
+            "LOCAL MATERIALS"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-23T08:00:57+09:00",
       "briefingDate": "2026-08-23",
