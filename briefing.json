@@ -1,191 +1,377 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-25T08:05:59+09:00",
-  "briefingDate": "2026-08-25",
+  "generatedAt": "2026-08-26T08:03:57+09:00",
+  "briefingDate": "2026-08-26",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-25-8seconds-minjukim-fw",
+      "id": "2026-08-26-mardi-mercredi-26fw",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "NEWSIS",
-      "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759311",
-      "date": "2026-08-24",
-      "title": "에잇세컨즈 × 민주킴, 리본·프릴·꽃 자수의 두 번째 F/W 협업",
-      "summary": "에잇세컨즈는 민주킴과 두 번째 협업 컬렉션 ‘Bouquet of Heart’를 출시했다. 리본·프릴·꽃 자수와 샤·레이스 소재, 협업을 위해 개발한 하트 클로버 프린트를 적용했으며 의류부터 비즈 헤어핀과 리본 백까지 제품군을 구성했다.",
+      "source": "PEOPLEGATE",
+      "sourceUrl": "https://www.peoplegate.co.kr/2026/08/mardi-mercredi-kim-goeun-26fw-lautomne-de-notre-muse-news.html",
+      "date": "2026-08-25",
+      "title": "마르디 메크르디 26FW, 니트·스웨이드·램스킨의 질감 레이어링",
+      "summary": "마르디 메크르디는 김고은과 함께한 26FW 컬렉션 ‘L'AUTOMNE DE NOTRE MUSE’를 공개했다. 아가일·스트라이프·플라워 패턴에 니트·스웨이드·램스킨을 조합하고, 브라운·레드·그레이에 핑크와 스카이 블루를 배치해 소재·색·패턴의 레이어링에 초점을 맞췄다.",
       "keywords": [
-        "에잇세컨즈",
-        "민주킴",
-        "Bouquet of Heart",
-        "리본",
-        "레이스",
-        "협업"
-      ]
-    },
-    {
-      "id": "2026-08-25-gsshop-layered-fw",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "NEWSIS",
-      "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759256",
-      "date": "2026-08-24",
-      "title": "GS샵 26FW, 변동하는 날씨에 맞춰 ‘레이어드’ 상품 확대",
-      "summary": "GS샵은 26FW 상품 기획의 핵심 키워드로 ‘레이어드’를 제시하고 코어 어센틱과 라삐아프 등 단독 브랜드의 가을 신상품을 공개했다. 셔츠·얇은 긴팔 티셔츠·카디건을 늘리고 베스트와 뷔스티에를 강화해, 초가을 단독 착용과 이후 아우터 레이어링을 모두 고려했다.",
-      "keywords": [
-        "GS샵",
+        "마르디 메크르디",
         "26FW",
-        "레이어드",
-        "간절기",
-        "카디건",
-        "뷔스티에"
+        "김고은",
+        "스웨이드",
+        "램스킨",
+        "레이어링"
       ]
     },
     {
-      "id": "2026-08-25-duran-lantink-couture",
+      "id": "2026-08-26-skims-erin-magee",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/24/%EB%93%80%EB%9E%80-%EB%9E%9C%ED%8C%85%ED%81%AC%EC%99%80-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EB%A7%8C%EB%82%A8/",
-      "date": "2026-08-24",
-      "title": "듀란 랜팅크, 사부아 페르와 첨단 기술을 결합한 첫 꾸뛰르",
-      "summary": "듀란 랜팅크는 장 폴 고티에에서 생애 첫 꾸뛰르 컬렉션을 선보였으며, 현재 10월 4일의 2027 S/S와 그 전에 공개할 가을 컬렉션을 함께 준비하고 있다. 첫 꾸뛰르는 사부아 페르와 최첨단 기술의 결합에서 출발했고, 영화 ‘올랜도’의 시간 여행을 전통 기법과 미래를 잇는 아이디어로 활용했다.",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/25/%EC%8A%A4%ED%82%B4%EC%8A%A4-%EC%A0%84-%EC%8A%88%ED%94%84%EB%A6%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B1%85%EC%9E%84%EC%9E%90-%EC%97%90%EB%A6%B0-%EB%A7%A4%EA%B8%B0-%EC%98%81%EC%9E%85/",
+      "date": "2026-08-25",
+      "title": "스킴스, 전 슈프림 에린 매기를 첫 최고 디자인 책임자로 영입",
+      "summary": "스킴스는 슈프림 출신 에린 매기를 브랜드 최초의 최고 디자인 책임자로 영입하고, 기존 크리에이티브 디렉터 킴 슈라우브를 최고 브랜드 책임자로 승진시켰다. 매기는 제품 디자인과 컬렉션 크리에이티브를, 슈라우브는 브랜드 이미지를 맡는 이원화 체제가 됐다.",
       "keywords": [
-        "듀란 랜팅크",
-        "장 폴 고티에",
-        "꾸뛰르",
-        "사부아 페르",
-        "첨단 기술",
-        "올랜도"
+        "스킴스",
+        "에린 매기",
+        "슈프림",
+        "최고 디자인 책임자",
+        "조직 개편"
       ]
     },
     {
-      "id": "2026-08-25-aw26-black-runways",
+      "id": "2026-08-26-couture-body-volume",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
-      "date": "2026-08-24",
-      "title": "A/W 2026 런웨이, 블랙으로 신체의 그래픽 라인을 강조",
-      "summary": "Wallpaper*는 A/W 2026 컬렉션에서 블랙이 신체를 그래픽 라인으로 드러내는 방식에 주목했다. Fendi에서는 Maria Grazia Chiuri의 새로운 방향을 알리는 블랙 투버튼 블레이저·실크 셔츠·플리츠 스커트가 등장했고, Comme des Garçons는 21개의 제트 블랙 룩과 6개의 핑크 룩을 선보였다.",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/25/%EC%98%AC%EA%B0%80%EC%9D%84-%EA%BE%B8%EB%9B%B0%EB%A5%B4%EC%9D%98-%EC%83%89%EC%B1%84%EC%99%80-%ED%98%95%ED%83%9C/",
+      "date": "2026-08-25",
+      "title": "2026 F/W 꾸뛰르, 코르셋에서 벗어난 곡선과 관대한 볼륨",
+      "summary": "2026 가을·겨울 파리 오뜨 꾸뛰르에서 디올의 조나단 앤더슨과 샤넬의 마티유 블라지는 코르셋에서 벗어나 신체의 곡선을 감싸는 실루엣을 제시했다. 두 디자이너 모두 실루엣의 긴장을 낮추고 볼륨을 넓혔으며, 블라지는 경쾌하게, 앤더슨은 구조적이고 섬세하게 접근했다.",
       "keywords": [
-        "A/W 2026",
-        "블랙",
-        "Fendi",
-        "Maria Grazia Chiuri",
-        "Comme des Garçons",
+        "오뜨 꾸뛰르",
+        "디올",
+        "샤넬",
+        "조나단 앤더슨",
+        "마티유 블라지",
         "실루엣"
       ]
     },
     {
-      "id": "2026-08-25-luxury-resale-search",
+      "id": "2026-08-26-fall-denim-trends",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/in-luxurys-new-resale-era-everyones-a-fashion-expert",
-      "date": "2026-08-24",
-      "title": "럭셔리 리세일 검색, 브랜드명에서 연도·소재·룩 단위로 세분화",
-      "summary": "The RealReal의 2026 리세일 보고서에 따르면 중고 시장 검색은 브랜드명 중심에서 연도·소재·특정 룩을 함께 찾는 방식으로 세분화됐다. 보고서는 15년 이상 된 빈티지 수요가 2020년부터 2026년까지 432% 늘었고, 2000년대 제품 검색 증가율이 1990년대 제품을 앞섰다고 밝혔다.",
+      "sourceUrl": "https://www.vogue.com/article/fall-denim-trends-experts",
+      "date": "2026-08-25",
+      "title": "2026 가을 데님, 와이드에서 스트레이트·슬림 실루엣으로 이동",
+      "summary": "Vogue는 2026 가을 데님에서 봄의 부츠컷·딥 인디고 워시·컬러 데님 흐름이 이어진다고 전했다. 느슨한 와이드 레그 비중은 줄고 스트레이트 레그와 슬림한 시가렛 핏 같은 간결한 실루엣이 다시 부상했다.",
       "keywords": [
-        "럭셔리 리세일",
-        "The RealReal",
-        "빈티지",
-        "검색 행동",
-        "2000년대 패션",
-        "중고 시장"
+        "데님",
+        "2026 가을",
+        "스트레이트 레그",
+        "시가렛 핏",
+        "딥 인디고",
+        "부츠컷"
       ]
     },
     {
-      "id": "2026-08-25-junya-tnf",
+      "id": "2026-08-26-brand-cultural-patronage",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/should-brands-be-patrons-of-art-and-culture",
+      "date": "2026-08-25",
+      "title": "브랜드 문화 후원, 캠페인 납품물보다 창작자 자율성과 자원 지원으로 이동",
+      "summary": "Vogue는 일부 브랜드가 문화를 직접 제작하는 대신 창작자가 활동할 조건을 자금·접근·자원으로 지원하는 후원 모델을 검토하고 있다고 전했다. 기사에 따르면 후원은 즉각적인 납품물과 판매 성과보다 창작자와 기관의 자율적인 활동을 뒷받침하는 데 무게를 둔다.",
+      "keywords": [
+        "문화 후원",
+        "브랜드 전략",
+        "창작자",
+        "자율성",
+        "예술",
+        "스폰서십"
+      ]
+    },
+    {
+      "id": "2026-08-26-marmot-keen",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1541277545431341475",
-      "date": "2026-08-24",
-      "title": "무신사 신호: eYe Junya Watanabe Man × The North Face 아우터",
-      "summary": "eYe Junya Watanabe Man과 The North Face는 DryVent 소재를 공통 적용한 협업 아우터를 공개했다. 테크 베스트 마운틴 재킷은 다중 포켓과 조절 디테일을 더했고, 봄버 재킷은 MA-1 실루엣에 클래식한 수납 배치와 신축 밴딩을 결합했다.",
+      "sourceUrl": "https://www.musinsa.com/content/1541629246426873596",
+      "date": "2026-08-25",
+      "title": "마모트 × 킨, 타기 EXP WP 기반 첫 하이브리드 하이킹 부츠",
+      "summary": "마모트와 킨은 타기 EXP WP를 기반으로 한 첫 협업 하이브리드 하이킹 부츠를 공개했다. 킨 드라이 방수·투습 소재, 전 지형 러버 아웃솔, 넉넉한 앞코와 천연 방취 기능을 적용했으며 8월 28일 오전 10시 무신사에서 출시한다.",
       "keywords": [
-        "eYe Junya Watanabe Man",
-        "The North Face",
-        "DryVent",
-        "마운틴 재킷",
-        "MA-1",
-        "협업"
+        "마모트",
+        "킨",
+        "타기 EXP WP",
+        "하이킹 부츠",
+        "킨 드라이",
+        "무신사"
       ]
     },
     {
-      "id": "2026-08-25-29cm-folnua",
+      "id": "2026-08-26-idws-kimshabkal",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1539507662803450090",
+      "date": "2026-08-25",
+      "title": "IDWS × 김샤브칼 FW26, 레이어드 헨리넥과 입체 와이드 데님",
+      "summary": "아이돈워너셀과 김샤브칼의 FW26 첫 캡슐은 레이어드 헨리넥 긴소매 티셔츠와 글리프 패치 데님 팬츠로 구성됐다. 티셔츠에는 3버튼 여밈·레이어드 넥·핑거홀을, 데님에는 전후면 절개·앞턱·체인 자수 아플리케와 허리 조절 디테일을 적용했다.",
+      "keywords": [
+        "아이돈워너셀",
+        "김샤브칼",
+        "FW26",
+        "헨리넥",
+        "와이드 데님",
+        "캡슐 컬렉션"
+      ]
+    },
+    {
+      "id": "2026-08-26-29cm-other-stories",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29-brand-manual/2026/08/folnua",
-      "date": "2026-08-24",
-      "title": "29CM 신호: 폴뉴아 26FW, 모헤어·알파카·부클·스웨이드 편성",
-      "summary": "폴뉴아는 26FW 시즌을 가을과 겨울 사이를 담은 ‘The In-Between’으로 전개한다. 모헤어·알파카·부클·스웨이드에 차분하고 깊은 컬러를 더했으며, 매트한 스웨이드 봄버와 리브 니트 팬츠·에이프런 세트 등을 대표 상품으로 제시했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/25/notherstories?cache=true",
+      "date": "2026-08-25",
+      "title": "29CM, 앤아더스토리즈 신상품을 인플루언서 지인의 룩으로 편성",
+      "summary": "29CM는 앤아더스토리즈 신상품을 인플루언서 지인이 제안하는 스타일링으로 편성했다. 첫 룩은 슬림 핏 립 탑에 새틴 맥시 스커트와 레더 트림 토트백을 조합했으며, 기획전은 8월 25일부터 9월 3일까지 진행된다.",
       "keywords": [
         "29CM",
-        "폴뉴아",
-        "26FW",
-        "모헤어",
-        "알파카",
-        "스웨이드"
+        "앤아더스토리즈",
+        "인플루언서",
+        "새틴 맥시 스커트",
+        "토트백",
+        "기획전"
       ]
     },
     {
-      "id": "2026-08-25-frontrow-botero-bags",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "NEWSIS",
-      "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759230",
-      "date": "2026-08-24",
-      "title": "W컨셉 신호: 프론트로우 × 보테로, 첫 가방 컬렉션 4종",
-      "summary": "W컨셉의 프론트로우는 보테로와 협업해 브랜드의 첫 정식 가방 컬렉션을 출시했다. 천연 소가죽 코팅의 아크 백, 뮤즈백, 뮤즈백 토트, 스웨이드 바게트 피크닉 백 등 4종으로 구성했으며 잡화 카테고리 확대 계획을 밝혔다.",
-      "keywords": [
-        "W컨셉",
-        "프론트로우",
-        "보테로",
-        "가방",
-        "스웨이드",
-        "카테고리 확장"
-      ]
-    },
-    {
-      "id": "2026-08-25-raw-warm-residence",
+      "id": "2026-08-26-leaf-canopy",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
-      "date": "2026-08-24",
-      "title": "Raw & Warm Residence, 노출 콘크리트와 소나무 합판의 대비",
-      "summary": "Habitat Architects는 기존 노출 콘크리트 천장과 불규칙한 질감을 보존하고, 큰 소나무 합판 면으로 온기와 자연스러운 결을 더했다. 변화하는 미술 컬렉션을 위해 고정 칸막이를 줄이고 반투명 접이문을 사용했으며, 형광 녹색 사이드 테이블과 분홍색 바 스툴을 저채도 공간의 포인트로 배치했다.",
+      "sourceUrl": "https://www.archdaily.com/1183655/a-leaf-canopy-by-the-sea-studio-10",
+      "date": "2026-08-25",
+      "title": "Studio 10의 해변 리테일, 바나나 잎 지붕과 이동식 프리패브 구조",
+      "summary": "Studio 10은 선전 해안 공원의 48㎡ 리테일 공간에 바나나 잎을 닮은 방수·단열 지붕과 우산형 경량 철골 구조를 적용했다. 공장 제작 구조는 이동·조립·재활용이 가능하고, 낮은 벽 마감에는 바나나 섬유를 섞어 내후성과 수공 질감을 더했다.",
       "keywords": [
-        "Raw & Warm Residence",
-        "노출 콘크리트",
-        "소나무 합판",
-        "반투명 접이문",
-        "컬러 가구",
-        "갤러리형 주거"
+        "Studio 10",
+        "리테일 인테리어",
+        "프리패브",
+        "바나나 섬유",
+        "경량 철골",
+        "선전"
       ]
     },
     {
-      "id": "2026-08-25-house-of-memories",
+      "id": "2026-08-26-cabin-sande",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ARCHDAILY",
-      "sourceUrl": "https://www.archdaily.com/1183766/the-house-of-memories-studio-lagom",
-      "date": "2026-08-24",
-      "title": "House of Memories, 오래된 가구와 우물을 보존한 배리어프리 주거",
-      "summary": "Studio Lagom은 기존 22개 방의 주택 자리에 노년층과 신체적 제약이 있는 가족 구성원을 고려한 배리어프리 주택과 업무 공간을 설계했다. 기존 우물을 계획의 중심에 두고 C자형 주거 공간을 연못이 있는 안뜰 주위에 배치했으며, 과거 주택에서 이어온 목제 가구와 새로운 빈티지풍 가구를 함께 사용했다.",
+      "sourceUrl": "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects",
+      "date": "2026-08-25",
+      "title": "Cabin Sande, 뿌리까지 쓴 통나무 구조에 가구와 설비를 통합",
+      "summary": "Helen & Hard는 노르웨이 전통 선박 제작에서 착안해 뿌리를 포함한 가문비나무 통나무로 기둥·보 접합부를 보강하고 물결형 지붕과 유기적 실내를 만들었다. 디지털 스캔과 로봇 밀링으로 뿌리 브래킷을 가공했으며, 목구조에 파티션·문·창·선반·좌석·계단·조명을 통합했다.",
       "keywords": [
-        "House of Memories",
-        "Studio Lagom",
-        "배리어프리",
-        "우물",
-        "안뜰",
-        "빈티지 가구"
+        "Cabin Sande",
+        "Helen & Hard",
+        "가문비나무",
+        "로봇 제작",
+        "통합 가구",
+        "목구조"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-25T08:05:59+09:00",
+      "briefingDate": "2026-08-25",
+      "generatedAt": "2026-08-25T08:05:59+09:00",
+      "cards": [
+        {
+          "id": "2026-08-25-8seconds-minjukim-fw",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "NEWSIS",
+          "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759311",
+          "date": "2026-08-24",
+          "title": "에잇세컨즈 × 민주킴, 리본·프릴·꽃 자수의 두 번째 F/W 협업",
+          "summary": "에잇세컨즈는 민주킴과 두 번째 협업 컬렉션 ‘Bouquet of Heart’를 출시했다. 리본·프릴·꽃 자수와 샤·레이스 소재, 협업을 위해 개발한 하트 클로버 프린트를 적용했으며 의류부터 비즈 헤어핀과 리본 백까지 제품군을 구성했다.",
+          "keywords": [
+            "에잇세컨즈",
+            "민주킴",
+            "Bouquet of Heart",
+            "리본",
+            "레이스",
+            "협업"
+          ]
+        },
+        {
+          "id": "2026-08-25-gsshop-layered-fw",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "NEWSIS",
+          "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759256",
+          "date": "2026-08-24",
+          "title": "GS샵 26FW, 변동하는 날씨에 맞춰 ‘레이어드’ 상품 확대",
+          "summary": "GS샵은 26FW 상품 기획의 핵심 키워드로 ‘레이어드’를 제시하고 코어 어센틱과 라삐아프 등 단독 브랜드의 가을 신상품을 공개했다. 셔츠·얇은 긴팔 티셔츠·카디건을 늘리고 베스트와 뷔스티에를 강화해, 초가을 단독 착용과 이후 아우터 레이어링을 모두 고려했다.",
+          "keywords": [
+            "GS샵",
+            "26FW",
+            "레이어드",
+            "간절기",
+            "카디건",
+            "뷔스티에"
+          ]
+        },
+        {
+          "id": "2026-08-25-duran-lantink-couture",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/24/%EB%93%80%EB%9E%80-%EB%9E%9C%ED%8C%85%ED%81%AC%EC%99%80-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EB%A7%8C%EB%82%A8/",
+          "date": "2026-08-24",
+          "title": "듀란 랜팅크, 사부아 페르와 첨단 기술을 결합한 첫 꾸뛰르",
+          "summary": "듀란 랜팅크는 장 폴 고티에에서 생애 첫 꾸뛰르 컬렉션을 선보였으며, 현재 10월 4일의 2027 S/S와 그 전에 공개할 가을 컬렉션을 함께 준비하고 있다. 첫 꾸뛰르는 사부아 페르와 최첨단 기술의 결합에서 출발했고, 영화 ‘올랜도’의 시간 여행을 전통 기법과 미래를 잇는 아이디어로 활용했다.",
+          "keywords": [
+            "듀란 랜팅크",
+            "장 폴 고티에",
+            "꾸뛰르",
+            "사부아 페르",
+            "첨단 기술",
+            "올랜도"
+          ]
+        },
+        {
+          "id": "2026-08-25-aw26-black-runways",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
+          "date": "2026-08-24",
+          "title": "A/W 2026 런웨이, 블랙으로 신체의 그래픽 라인을 강조",
+          "summary": "Wallpaper*는 A/W 2026 컬렉션에서 블랙이 신체를 그래픽 라인으로 드러내는 방식에 주목했다. Fendi에서는 Maria Grazia Chiuri의 새로운 방향을 알리는 블랙 투버튼 블레이저·실크 셔츠·플리츠 스커트가 등장했고, Comme des Garçons는 21개의 제트 블랙 룩과 6개의 핑크 룩을 선보였다.",
+          "keywords": [
+            "A/W 2026",
+            "블랙",
+            "Fendi",
+            "Maria Grazia Chiuri",
+            "Comme des Garçons",
+            "실루엣"
+          ]
+        },
+        {
+          "id": "2026-08-25-luxury-resale-search",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/in-luxurys-new-resale-era-everyones-a-fashion-expert",
+          "date": "2026-08-24",
+          "title": "럭셔리 리세일 검색, 브랜드명에서 연도·소재·룩 단위로 세분화",
+          "summary": "The RealReal의 2026 리세일 보고서에 따르면 중고 시장 검색은 브랜드명 중심에서 연도·소재·특정 룩을 함께 찾는 방식으로 세분화됐다. 보고서는 15년 이상 된 빈티지 수요가 2020년부터 2026년까지 432% 늘었고, 2000년대 제품 검색 증가율이 1990년대 제품을 앞섰다고 밝혔다.",
+          "keywords": [
+            "럭셔리 리세일",
+            "The RealReal",
+            "빈티지",
+            "검색 행동",
+            "2000년대 패션",
+            "중고 시장"
+          ]
+        },
+        {
+          "id": "2026-08-25-junya-tnf",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1541277545431341475",
+          "date": "2026-08-24",
+          "title": "무신사 신호: eYe Junya Watanabe Man × The North Face 아우터",
+          "summary": "eYe Junya Watanabe Man과 The North Face는 DryVent 소재를 공통 적용한 협업 아우터를 공개했다. 테크 베스트 마운틴 재킷은 다중 포켓과 조절 디테일을 더했고, 봄버 재킷은 MA-1 실루엣에 클래식한 수납 배치와 신축 밴딩을 결합했다.",
+          "keywords": [
+            "eYe Junya Watanabe Man",
+            "The North Face",
+            "DryVent",
+            "마운틴 재킷",
+            "MA-1",
+            "협업"
+          ]
+        },
+        {
+          "id": "2026-08-25-29cm-folnua",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29-brand-manual/2026/08/folnua",
+          "date": "2026-08-24",
+          "title": "29CM 신호: 폴뉴아 26FW, 모헤어·알파카·부클·스웨이드 편성",
+          "summary": "폴뉴아는 26FW 시즌을 가을과 겨울 사이를 담은 ‘The In-Between’으로 전개한다. 모헤어·알파카·부클·스웨이드에 차분하고 깊은 컬러를 더했으며, 매트한 스웨이드 봄버와 리브 니트 팬츠·에이프런 세트 등을 대표 상품으로 제시했다.",
+          "keywords": [
+            "29CM",
+            "폴뉴아",
+            "26FW",
+            "모헤어",
+            "알파카",
+            "스웨이드"
+          ]
+        },
+        {
+          "id": "2026-08-25-frontrow-botero-bags",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "NEWSIS",
+          "sourceUrl": "https://www.newsis.com/view/NISX20260824_0003759230",
+          "date": "2026-08-24",
+          "title": "W컨셉 신호: 프론트로우 × 보테로, 첫 가방 컬렉션 4종",
+          "summary": "W컨셉의 프론트로우는 보테로와 협업해 브랜드의 첫 정식 가방 컬렉션을 출시했다. 천연 소가죽 코팅의 아크 백, 뮤즈백, 뮤즈백 토트, 스웨이드 바게트 피크닉 백 등 4종으로 구성했으며 잡화 카테고리 확대 계획을 밝혔다.",
+          "keywords": [
+            "W컨셉",
+            "프론트로우",
+            "보테로",
+            "가방",
+            "스웨이드",
+            "카테고리 확장"
+          ]
+        },
+        {
+          "id": "2026-08-25-raw-warm-residence",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
+          "date": "2026-08-24",
+          "title": "Raw & Warm Residence, 노출 콘크리트와 소나무 합판의 대비",
+          "summary": "Habitat Architects는 기존 노출 콘크리트 천장과 불규칙한 질감을 보존하고, 큰 소나무 합판 면으로 온기와 자연스러운 결을 더했다. 변화하는 미술 컬렉션을 위해 고정 칸막이를 줄이고 반투명 접이문을 사용했으며, 형광 녹색 사이드 테이블과 분홍색 바 스툴을 저채도 공간의 포인트로 배치했다.",
+          "keywords": [
+            "Raw & Warm Residence",
+            "노출 콘크리트",
+            "소나무 합판",
+            "반투명 접이문",
+            "컬러 가구",
+            "갤러리형 주거"
+          ]
+        },
+        {
+          "id": "2026-08-25-house-of-memories",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ARCHDAILY",
+          "sourceUrl": "https://www.archdaily.com/1183766/the-house-of-memories-studio-lagom",
+          "date": "2026-08-24",
+          "title": "House of Memories, 오래된 가구와 우물을 보존한 배리어프리 주거",
+          "summary": "Studio Lagom은 기존 22개 방의 주택 자리에 노년층과 신체적 제약이 있는 가족 구성원을 고려한 배리어프리 주택과 업무 공간을 설계했다. 기존 우물을 계획의 중심에 두고 C자형 주거 공간을 연못이 있는 안뜰 주위에 배치했으며, 과거 주택에서 이어온 목제 가구와 새로운 빈티지풍 가구를 함께 사용했다.",
+          "keywords": [
+            "House of Memories",
+            "Studio Lagom",
+            "배리어프리",
+            "우물",
+            "안뜰",
+            "빈티지 가구"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-24T08:00:39+09:00",
       "briefingDate": "2026-08-24",
