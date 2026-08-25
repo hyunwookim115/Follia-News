@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T08:58:26+09:00",
+  "generatedAt": "2026-08-26T08:43:30+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리·버뮤다·미디스커트가 코펜하겐 거리와 셀러브리티 착장에서 반복된 데 이어, 8월 21일 패션 에디터 구매 목록에도 카프리가 다시 등장해 상승 흐름이 유지되고 있습니다.",
-      "detail": "코펜하겐 현장 사진의 카프리·버뮤다·미디스커트 반복 노출과 8월 15일 KATSEYE Daniela Avanzini 착장에 이어, 8월 21일 Who What Wear 편집팀의 가을 구매 목록에서 카프리가 별도 항목으로 제시됐습니다. 이는 에디터 선택과 상품 편성 신호이며 실제 판매량이나 플랫폼 검색 순위는 아닙니다.",
+      "summary": "카프리·버뮤다·미디스커트가 코펜하겐 거리와 셀러브리티 착장에서 반복된 데 이어, 8월 25일 가을 기본 아이템 편성에서도 카프리와 무릎 길이 스커트가 함께 재확인됐습니다.",
+      "detail": "코펜하겐 현장 사진의 카프리·버뮤다·미디스커트 반복 노출과 8월 15일 KATSEYE Daniela Avanzini 착장, 8월 21일 패션 에디터 구매 목록에 이어 8월 25일 Who What Wear가 카프리 3종과 무릎 길이 스커트 3종을 가을 기본 아이템으로 편성했습니다. 이는 반복 편집·상품 편성 신호이며 실제 판매량이나 플랫폼 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -36,6 +36,10 @@
         {
           "label": "WHO WHAT WEAR · EDITOR CAPRI PICKS",
           "url": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-fall-fashion-2026"
+        },
+        {
+          "label": "WHO WHAT WEAR · CAPRIS + KNEE-LENGTH SKIRTS",
+          "url": "https://www.whowhatwear.com/fashion/shopping/basics-fall-2026"
         }
       ]
     },
@@ -134,8 +138,8 @@
       "direction": "UP",
       "market": "GLOBAL / KOREA",
       "signal": "DEMAND",
-      "summary": "힐 플립플랍이 기존 Lyst 인기 상품 순위와 셀러브리티 착장에 이어, 8월 24일 다크 데님과의 전환기 스타일링 및 다수 브랜드 편성으로 다시 확인됐습니다.",
-      "detail": "기존 Gucci 비토리아 Lyst Q2 4위와 Massimo Dutti 미드힐 토 샌들 6위, 8월 15일 Daniela Avanzini 착장에 이어, 8월 24일 Who What Wear가 Dakota Fanning의 키튼힐 플립플랍 착장을 보도하고 Reformation·Toteme·Staud·Zara·H&M 상품을 함께 편성했습니다. 새 근거는 반복 노출과 리테일 편성이지 공개 판매량은 아니므로 수요 수치로 환산하지 않았습니다.",
+      "summary": "힐 플립플랍이 기존 Lyst 인기 상품 순위와 셀러브리티 착장에 이어, 8월 24~25일 동일 착장의 독립 매체 후속 보도와 다수 브랜드 편성으로 재확인됐습니다.",
+      "detail": "기존 Gucci 비토리아 Lyst Q2 4위와 Massimo Dutti 미드힐 토 샌들 6위, 8월 15일 Daniela Avanzini 착장에 이어, 8월 24일 Who What Wear가 Dakota Fanning의 키튼힐 플립플랍 착장과 5개 브랜드 상품을 편성했고 8월 25일 Footwear News가 같은 착장을 별도 보도했습니다. 새 근거는 매체 반복 노출과 리테일 편성이지 공개 판매량은 아니므로 수요 수치로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · LYST #4 GUCCI VITTORIA",
@@ -164,6 +168,10 @@
         {
           "label": "WHO WHAT WEAR · KITTEN-HEEL FLIP-FLOP FOLLOW-UP",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/dark-wash-stove-pipe-jeans-kitten-heel-flip-flops-satin-bag-trend-dakota-fanning-2026"
+        },
+        {
+          "label": "FOOTWEAR NEWS · THONG SANDAL FOLLOW-UP",
+          "url": "https://wwd.com/footwear-news/shoe-trends/dakota-fanning-polo-ralph-lauren-commercial-thong-sandal-1239148841/"
         }
       ]
     },
@@ -215,11 +223,11 @@
       "id": "live-camo-mix-match",
       "keyword": "CAMO MIX-MATCH",
       "category": "PATTERN",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카무플라주가 단순 밀리터리 복각을 넘어 컬러·스팽글·빈티지 스웨트와 섞이는 패턴으로 코펜하겐 거리와 공개 소셜에서 반복되고 있습니다.",
-      "detail": "8월 19일 InStyle은 코펜하겐 현장에서 카무 팬츠와 올리브 트라우저가 반복됐다고 관찰했고, 8월 21일 보그 코리아는 같은 흐름을 공개 Instagram 착장과 재킷·팬츠·미디스커트 등 여러 상품군으로 다시 제시했습니다. 기사·소셜·상품 편성의 반복은 확인했지만 공개 검색량이나 판매 순위는 없어 SOCIAL 신호로만 분류했습니다.",
+      "summary": "카무플라주가 컬러·스팽글·빈티지 스웨트와 섞이는 패턴으로 코펜하겐 거리와 국내 매체에 이어 8월 25일 공개 Instagram에서 다시 노출돼 상승 흐름이 이어졌습니다.",
+      "detail": "8월 19일 InStyle은 코펜하겐 현장에서 카무 팬츠와 올리브 트라우저가 반복됐다고 관찰했고, 8월 21일 보그 코리아는 공개 Instagram 착장과 재킷·팬츠·미디스커트 등 여러 상품군으로 같은 흐름을 제시했습니다. 8월 25일에는 패션 계정의 핑크·그린 카무플라주 공개 게시물이 추가돼 후속 소셜 신호가 확인됐습니다. 공개 검색량이나 판매 순위는 없어 SOCIAL 신호로만 분류했습니다.",
       "sources": [
         {
           "label": "INSTYLE · CPHFW CAMO REPEAT",
@@ -228,6 +236,10 @@
         {
           "label": "VOGUE KOREA · CAMO MIX-MATCH",
           "url": "https://www.vogue.co.kr/2026/08/21/%ED%95%9C%EB%8F%99%EC%95%88-%EC%9E%8A%EA%B3%A0-%EC%9E%88%EB%8D%98-%EC%B9%B4%EB%AC%B4-%ED%8C%A8%ED%84%B4%EC%9D%B4-%EB%8B%A4%EC%8B%9C-%EC%98%88%EB%BB%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4/"
+        },
+        {
+          "label": "INSTAGRAM · PINK + GREEN CAMOUFLAGE",
+          "url": "https://www.instagram.com/p/DcdfI7zsT4J/"
         }
       ]
     }
