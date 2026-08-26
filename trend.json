@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T08:43:30+09:00",
+  "generatedAt": "2026-08-27T08:26:59+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -44,42 +44,14 @@
       ]
     },
     {
-      "id": "live-eyelet-lace-top",
-      "keyword": "EYELET & LACE TOP",
-      "category": "MATERIAL",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "레이스·아일렛 톱은 패션위크 거리와 셀러브리티 착장, Lyst 상품 신호를 남겼지만 현재 7일 범위의 신규 반복 근거가 약해 상승 판단을 보류합니다.",
-      "detail": "코펜하겐 패션위크의 레이스·아일렛 톱 반복 착장과 Jennifer Lopez 후속 노출, Dôen의 Lyst Q2 Hottest Products 8위는 기존 흐름을 뒷받침합니다. 다만 8월 14~20일 새 공개 Instagram 반복 노출이나 플랫폼 검색·판매 순위를 추가로 확인하지 못해 기존 항목은 보존하되 방향을 HOLD로 조정했습니다.",
-      "sources": [
-        {
-          "label": "MARIE CLAIRE · CPHFW EYELET TOPS",
-          "url": "https://www.marieclaire.com/fashion/copenhagen-fashion-week-street-style-trend-spring-summer-2027-white-lace-top/"
-        },
-        {
-          "label": "WHO WHAT WEAR · CPHFW STREET STYLE",
-          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
-        },
-        {
-          "label": "INSTYLE · EYELET CAMISOLE FOLLOW-UP",
-          "url": "https://www.instyle.com/jennifer-lopez-boho-free-people-top-12058324"
-        },
-        {
-          "label": "MARIE CLAIRE · DÔEN / LYST #8",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/doen-summer-2026-celebrity-looks/"
-        }
-      ]
-    },
-    {
       "id": "live-relaxed-straight-denim",
       "keyword": "RELAXED STRAIGHT DENIM",
       "category": "SILHOUETTE",
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "배기·스트레이트·시가렛·부츠컷이 짧은 간격으로 동시에 노출돼 데님 관심 자체는 높지만, 단일 핏으로 수렴하지 않아 방향 판단을 보류합니다.",
-      "detail": "8월 21일 보그 코리아의 시가렛·슬림 스트레이트 신호 뒤 8월 24일에는 공개 Instagram 착장을 묶은 배기 진 후속 기사, 부츠컷 기사, Dakota Fanning의 다크 워시 스토브파이프 착장이 동시에 등장했습니다. 서로 다른 핏의 반복 노출은 데님 카테고리 관심을 보여주지만 ‘릴랙스드 스트레이트’ 하나의 판매·검색 상승을 뜻하지 않아 HOLD를 유지했습니다.",
+      "summary": "배기·스트레이트·스토브파이프에 이어 로우라이즈 크롭 플레어까지 짧은 간격으로 노출돼 데님 관심은 높지만, 단일 핏으로 수렴하지 않아 방향 판단을 보류합니다.",
+      "detail": "8월 21일 시가렛·슬림 스트레이트, 8월 24일 배기·스토브파이프에 이어 8월 23~26일 Zoë Kravitz의 로우라이즈 크롭 플레어와 롤업 쇼츠가 별도 매체에서 노출됐습니다. 서로 다른 핏의 반복 노출은 데님 카테고리 관심을 보여주지만 ‘릴랙스드 스트레이트’ 하나의 검색·판매 상승을 뜻하지 않아 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -108,26 +80,14 @@
         {
           "label": "WHO WHAT WEAR · DARK STOVEPIPE DENIM",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/dark-wash-stove-pipe-jeans-kitten-heel-flip-flops-satin-bag-trend-dakota-fanning-2026"
-        }
-      ]
-    },
-    {
-      "id": "live-stripe-takeover",
-      "keyword": "STRIPE TAKEOVER",
-      "category": "PATTERN",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "스트라이프의 카테고리 확산 기록은 유지되지만, 현재 이동식 7일 범위에서 새 공개 소셜 반복이나 플랫폼 수요 순위가 확인되지 않아 상승 판단을 보류합니다.",
-      "detail": "기존 코펜하겐 거리와 청바지·톱·드레스·쇼츠·스커트의 확산 근거는 보존했습니다. 그러나 8월 19~25일 새 공개 Instagram 반복 노출, 검색 지표, 판매 순위를 추가로 확인하지 못해 방향을 HOLD로 조정했습니다.",
-      "sources": [
-        {
-          "label": "WHO WHAT WEAR · CPHFW STRIPES",
-          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
         },
         {
-          "label": "WHO WHAT WEAR · STRIPES ACROSS CATEGORIES",
-          "url": "https://www.whowhatwear.com/fashion/trends/striped-fashion-trend-2026"
+          "label": "WHO WHAT WEAR · CROPPED-FLARE COUNTER-SIGNAL",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-crop-flare-jeans-block-heel-pumps-trends-zoe-kravitz"
+        },
+        {
+          "label": "VOGUE KOREA · ZOË KRAVITZ DENIM VARIATION",
+          "url": "https://www.vogue.co.kr/2026/08/26/%EC%97%AC%EB%A6%84%EA%B3%BC-%EA%B0%80%EC%9D%84-%EC%82%AC%EC%9D%B4-%EC%A1%B0-%ED%81%AC%EB%9D%BC%EB%B9%84%EC%B8%A0%EA%B0%80-%EB%8D%B0%EB%8B%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95/"
         }
       ]
     },
@@ -176,22 +136,66 @@
       ]
     },
     {
-      "id": "live-nightie-dress",
-      "keyword": "NIGHTIE & BABYDOLL DRESS",
-      "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL / KOREA",
+      "id": "live-sporty-chic-trackwear",
+      "keyword": "SPORTY-CHIC TRACKWEAR",
+      "category": "STYLE",
+      "direction": "NEW",
+      "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "나이트가운형·베이비돌 드레스의 셀러브리티·스트리트 확산 기록은 유지되지만, 최근 7일 범위의 후속 신호가 끊겨 상승 판단을 보류합니다.",
-      "detail": "8월 17일 Vogue가 Kaia Gerber, Bella Hadid, Olivia Rodrigo와 코펜하겐 참석자들의 착장을 묶어 확인했고 무신사 상품 노출도 존재합니다. 다만 8월 19~25일 새로운 공개 소셜 반복, 국내외 검색·판매 순위는 확인되지 않아 기존 항목을 HOLD로 조정했습니다.",
+      "summary": "트랙 팬츠·트랙 재킷·나일론 윈드브레이커가 셀러브리티의 일상복과 국내 플랫폼 상품 편성에서 같은 시점에 반복돼 신규 신호로 포착됐습니다.",
+      "detail": "8월 26일 InStyle은 Hailey Bieber·Rihanna·Jennifer Lawrence·Gwyneth Paltrow 등의 트랙웨어 착장을 묶었고, 8월 25일 Who What Wear는 Elsa Hosk의 벌룬 트랙 팬츠 착장을 추가로 다뤘습니다. 무신사와 29CM에도 트랙 팬츠 상품이 다수 노출되며 무신사 한 상품의 누적 후기 151개가 공개되지만, 이는 최근 7일 판매량이나 검색 순위가 아니므로 수요 증가 수치로 해석하지 않았습니다.",
       "sources": [
         {
-          "label": "VOGUE · VIRAL NIGHTIE DRESS / 6 IT GIRLS",
-          "url": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend"
+          "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
+          "url": "https://www.instyle.com/fall-celebrity-sportswear-clothing-trends-12068143"
         },
         {
-          "label": "MUSINSA · BABYDOLL DRESS LISTING",
-          "url": "https://www.musinsa.com/products/6182449"
+          "label": "WHO WHAT WEAR · ELSA HOSK TRACK PANTS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/colorful-ballet-flats-trend-elsa-hosk"
+        },
+        {
+          "label": "MUSINSA · ADIDAS TRACK PANTS / 151 REVIEWS",
+          "url": "https://www.musinsa.com/products/3036556"
+        },
+        {
+          "label": "29CM · WIDE TRACK PANTS LISTING",
+          "url": "https://www.29cm.co.kr/products/3813029"
+        }
+      ]
+    },
+    {
+      "id": "live-slouchy-roomy-bags",
+      "keyword": "SLOUCHY ROOMY BAGS",
+      "category": "ITEM",
+      "direction": "NEW",
+      "market": "GLOBAL → KOREA",
+      "signal": "SOCIAL",
+      "summary": "부드럽고 큰 슬라우치 백이 여러 셀러브리티의 실제 착장과 국내외 리테일 편성에서 반복돼 신규 실시간 신호로 잡혔습니다.",
+      "detail": "8월 22일 People은 Julia Roberts·Angelina Jolie·Katie Holmes의 넉넉한 토트 착장을 묶었고, 8월 23일 Zoë Kravitz의 슬라우치 숄더백, 8월 26일 Harper’s Bazaar의 15개 슬라우치 백 편성이 이어졌습니다. 국내에서는 무신사·29CM·KREAM에 관련 상품과 누적 후기·거래 기록이 공개돼 있으나 최근 7일 판매량 또는 검색 순위는 공개되지 않아 소셜 반복과 상품 편성 신호로만 분류했습니다.",
+      "sources": [
+        {
+          "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
+          "url": "https://people.com/julia-roberts-angelina-jolie-katie-holmes-tote-bag-amazon-august-2026-12025875"
+        },
+        {
+          "label": "WHO WHAT WEAR · ZOË KRAVITZ SLOUCHY BAG",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-crop-flare-jeans-block-heel-pumps-trends-zoe-kravitz"
+        },
+        {
+          "label": "HARPER'S BAZAAR · 15 SLOUCHY BAG PICKS",
+          "url": "https://www.harpersbazaar.com/fashion/trends/g73521371/best-slouchy-bags-2026/"
+        },
+        {
+          "label": "MUSINSA · SLOUCHY SHOULDER BAG / 135 REVIEWS",
+          "url": "https://www.musinsa.com/products/4677982"
+        },
+        {
+          "label": "29CM · ARKET SLOUCHY LEATHER TOTE",
+          "url": "https://www.29cm.co.kr/products/3777897"
+        },
+        {
+          "label": "KREAM · THE ROW SLOUCHY BANANA BAG",
+          "url": "https://kream.co.kr/products/194768"
         }
       ]
     },
