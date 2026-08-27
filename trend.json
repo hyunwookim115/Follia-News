@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T08:26:59+09:00",
+  "generatedAt": "2026-08-28T08:38:03+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리·버뮤다·미디스커트가 코펜하겐 거리와 셀러브리티 착장에서 반복된 데 이어, 8월 25일 가을 기본 아이템 편성에서도 카프리와 무릎 길이 스커트가 함께 재확인됐습니다.",
-      "detail": "코펜하겐 현장 사진의 카프리·버뮤다·미디스커트 반복 노출과 8월 15일 KATSEYE Daniela Avanzini 착장, 8월 21일 패션 에디터 구매 목록에 이어 8월 25일 Who What Wear가 카프리 3종과 무릎 길이 스커트 3종을 가을 기본 아이템으로 편성했습니다. 이는 반복 편집·상품 편성 신호이며 실제 판매량이나 플랫폼 검색 순위는 아닙니다.",
+      "summary": "카프리·버뮤다·미디스커트의 거리·셀러브리티 노출에 이어, 8월 27일 Millie Bobby Brown이 카프리를 가디건·발레 펌프스와 착용하며 계절 전환기까지 신호가 이어졌습니다.",
+      "detail": "코펜하겐 거리와 Daniela Avanzini 착장, 8월 25일 카프리·무릎 길이 스커트 각 3종 편성에 이어 8월 27일 Millie Bobby Brown의 폴카 도트 카프리 착장이 추가됐습니다. 해당 기사에는 카프리 5종도 함께 편성됐습니다. 이는 반복 착장·편집 신호이며 공개 판매량이나 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -40,6 +40,10 @@
         {
           "label": "WHO WHAT WEAR · CAPRIS + KNEE-LENGTH SKIRTS",
           "url": "https://www.whowhatwear.com/fashion/shopping/basics-fall-2026"
+        },
+        {
+          "label": "WHO WHAT WEAR · MILLIE BOBBY BROWN CAPRI REPEAT",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/capri-pants-ballet-pumps-millie-bobby-brown"
         }
       ]
     },
@@ -50,8 +54,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "배기·스트레이트·스토브파이프에 이어 로우라이즈 크롭 플레어까지 짧은 간격으로 노출돼 데님 관심은 높지만, 단일 핏으로 수렴하지 않아 방향 판단을 보류합니다.",
-      "detail": "8월 21일 시가렛·슬림 스트레이트, 8월 24일 배기·스토브파이프에 이어 8월 23~26일 Zoë Kravitz의 로우라이즈 크롭 플레어와 롤업 쇼츠가 별도 매체에서 노출됐습니다. 서로 다른 핏의 반복 노출은 데님 카테고리 관심을 보여주지만 ‘릴랙스드 스트레이트’ 하나의 검색·판매 상승을 뜻하지 않아 HOLD를 유지했습니다.",
+      "summary": "배기·스트레이트·스토브파이프·크롭 플레어에 벌룬·배럴 핏까지 더해져 데님 관심은 높지만, 단일 핏으로 수렴하지 않아 방향 판단을 보류합니다.",
+      "detail": "8월 21~26일 시가렛·배기·스토브파이프·크롭 플레어가 교차한 데 이어 8월 27일 Jessica Alba의 벌룬 진 착장과 6개 브랜드 편성, 보그 코리아의 전문가 6인 데님 제안이 공개됐습니다. 국내 무신사에도 벌룬 데님 상품과 누적 후기 122개·831개 등이 보이지만 이는 최근 7일 판매량이 아닙니다. ‘릴랙스드 스트레이트’ 하나의 상승으로 볼 수 없어 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -88,6 +92,18 @@
         {
           "label": "VOGUE KOREA · ZOË KRAVITZ DENIM VARIATION",
           "url": "https://www.vogue.co.kr/2026/08/26/%EC%97%AC%EB%A6%84%EA%B3%BC-%EA%B0%80%EC%9D%84-%EC%82%AC%EC%9D%B4-%EC%A1%B0-%ED%81%AC%EB%9D%BC%EB%B9%84%EC%B8%A0%EA%B0%80-%EB%8D%B0%EB%8B%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95/"
+        },
+        {
+          "label": "WHO WHAT WEAR · JESSICA ALBA BALLOON JEANS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-jeans-trend-jessica-alba-2026"
+        },
+        {
+          "label": "VOGUE KOREA · SIX DENIM EXPERT SIGNALS",
+          "url": "https://www.vogue.co.kr/2026/08/27/%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%B4-%EC%9E%85-%EB%AA%A8%EC%95%84-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%98%AC%EA%B0%80%EC%9D%84-%EB%8D%B0%EB%8B%98-6/"
+        },
+        {
+          "label": "MUSINSA · BALLOON DENIM / 122 REVIEWS",
+          "url": "https://www.musinsa.com/products/5860706"
         }
       ]
     },
@@ -230,8 +246,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카무플라주가 컬러·스팽글·빈티지 스웨트와 섞이는 패턴으로 코펜하겐 거리와 국내 매체에 이어 8월 25일 공개 Instagram에서 다시 노출돼 상승 흐름이 이어졌습니다.",
-      "detail": "8월 19일 InStyle은 코펜하겐 현장에서 카무 팬츠와 올리브 트라우저가 반복됐다고 관찰했고, 8월 21일 보그 코리아는 공개 Instagram 착장과 재킷·팬츠·미디스커트 등 여러 상품군으로 같은 흐름을 제시했습니다. 8월 25일에는 패션 계정의 핑크·그린 카무플라주 공개 게시물이 추가돼 후속 소셜 신호가 확인됐습니다. 공개 검색량이나 판매 순위는 없어 SOCIAL 신호로만 분류했습니다.",
+      "summary": "카무플라주가 코펜하겐 거리·국내 공개 Instagram에 이어 8월 27일 Alexa Chung·Gigi Hadid 착장과 4개 상품 편성으로 다시 확인돼 상승 흐름이 이어졌습니다.",
+      "detail": "8월 19일 코펜하겐 거리, 8월 21일 보그 코리아와 공개 Instagram, 8월 25일 컬러 카무 게시물에 이어 8월 27일 Who What Wear가 Alexa Chung·Gigi Hadid의 카무 팬츠 착장과 Citizens of Humanity·Peachy Den·Nili Lotan·Zara 4개 상품을 함께 제시했습니다. 무신사의 관련 상품 누적 후기는 최근 7일 판매량이 아니므로 새 수요 수치로 사용하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · CPHFW CAMO REPEAT",
@@ -244,6 +260,10 @@
         {
           "label": "INSTAGRAM · PINK + GREEN CAMOUFLAGE",
           "url": "https://www.instagram.com/p/DcdfI7zsT4J/"
+        },
+        {
+          "label": "WHO WHAT WEAR · CAMO TROUSERS / 4 RETAIL PICKS",
+          "url": "https://www.whowhatwear.com/fashion/fall/trends-making-a-comeback-autumn-2026"
         }
       ]
     }
