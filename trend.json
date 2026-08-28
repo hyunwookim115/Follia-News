@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T08:38:03+09:00",
+  "generatedAt": "2026-08-29T08:01:24+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -54,8 +54,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "배기·스트레이트·스토브파이프·크롭 플레어에 벌룬·배럴 핏까지 더해져 데님 관심은 높지만, 단일 핏으로 수렴하지 않아 방향 판단을 보류합니다.",
-      "detail": "8월 21~26일 시가렛·배기·스토브파이프·크롭 플레어가 교차한 데 이어 8월 27일 Jessica Alba의 벌룬 진 착장과 6개 브랜드 편성, 보그 코리아의 전문가 6인 데님 제안이 공개됐습니다. 국내 무신사에도 벌룬 데님 상품과 누적 후기 122개·831개 등이 보이지만 이는 최근 7일 판매량이 아닙니다. ‘릴랙스드 스트레이트’ 하나의 상승으로 볼 수 없어 HOLD를 유지했습니다.",
+      "summary": "배기·스트레이트·스토브파이프·벌룬에 발목 길이 크롭트 진까지 동시에 노출돼 데님 관심은 높지만, 단일 핏으로 수렴하지 않아 방향 판단을 보류합니다.",
+      "detail": "8월 21~27일 시가렛·배기·스토브파이프·크롭 플레어·벌룬 핏이 교차한 데 이어 8월 28일 보그 코리아가 발목 위 크롭트 진을 별도로 제시했습니다. 무신사의 벌룬 데님 누적 후기 수치는 최근 7일 판매량이 아니며, 서로 다른 실루엣의 동시 노출을 ‘릴랙스드 스트레이트’ 하나의 상승으로 볼 수 없어 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -104,6 +104,10 @@
         {
           "label": "MUSINSA · BALLOON DENIM / 122 REVIEWS",
           "url": "https://www.musinsa.com/products/5860706"
+        },
+        {
+          "label": "VOGUE KOREA · ANKLE-CROP DENIM COUNTER-SIGNAL",
+          "url": "https://www.vogue.co.kr/2026/08/28/%EC%9D%B4%EC%A0%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%B0%9C%EB%AA%A9%EC%97%90%EC%84%9C-%EB%81%9D%EB%82%B4%EC%84%B8%EC%9A%94/"
         }
       ]
     },
@@ -219,11 +223,11 @@
       "id": "live-jazz-shoes",
       "keyword": "JAZZ SHOES",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL / KOREA",
       "signal": "SOCIAL",
-      "summary": "슬림한 레이스업 재즈 슈즈가 발레 플랫·로퍼의 다음 변형으로 떠오른 뒤, 8월 21일 별도 매체와 다수 리테일 편성에서 다시 확인됐습니다.",
-      "detail": "8월 19일 InStyle의 나오미 왓츠 착장과 니콜 키드먼·샤를리즈 테론·릴리 콜린스의 선행 착장 정리에 이어, 8월 21일 Who What Wear가 Gracie Abrams와 Lily Collins의 착장까지 묶어 후속 보도하고 9개 브랜드 상품을 동시에 편성했습니다. FruitsFamily의 국내 상품 노출은 보조 신호일 뿐 판매 완료나 시장 전체 수요를 뜻하지 않으므로 수치화하지 않았습니다.",
+      "summary": "재즈 슈즈는 나오미 왓츠 등 셀러브리티 착장과 9개 브랜드 편성 기록을 남겼지만, 현재 7일 범위에서 새 독립 노출이나 수요 지표가 확인되지 않아 상승 판단을 보류합니다.",
+      "detail": "8월 21일 Who What Wear의 나오미 왓츠·Gracie Abrams·Lily Collins 착장과 9개 브랜드 편성은 기존 흐름을 뒷받침합니다. 그러나 8월 22~28일 별도 공개 Instagram 반복, 플랫폼 검색 순위, 판매량을 추가로 확인하지 못해 기존 항목을 보존하되 방향을 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
@@ -264,6 +268,38 @@
         {
           "label": "WHO WHAT WEAR · CAMO TROUSERS / 4 RETAIL PICKS",
           "url": "https://www.whowhatwear.com/fashion/fall/trends-making-a-comeback-autumn-2026"
+        }
+      ]
+    },
+    {
+      "id": "live-talisman-charm-stacks",
+      "keyword": "TALISMAN CHARM STACKS",
+      "category": "ACCESSORY",
+      "direction": "NEW",
+      "market": "GLOBAL → KOREA",
+      "signal": "SOCIAL",
+      "summary": "상징·별자리 참을 겹쳐 착용하는 주얼리가 TikTok 확산 보도, 셀러브리티 착장, 공개 Instagram 반복 게시와 국내 상품 노출에서 동시에 포착됐습니다.",
+      "detail": "8월 26일 Vita는 Alex Consani를 앞세운 30종 이상의 별자리·메달리온 참 드롭을 다뤘고, 8월 28일 InStyle은 같은 착장을 TikTok에서 확산 중인 위미지컬 액세서리 흐름으로 보도했습니다. 공개 Instagram에도 별도 계정의 컬렉션 게시물이 반복됐으며 무신사에는 8월 19일 등록된 탈리스만 참 목걸이와 누적 후기 11개가 확인됩니다. 후기 수는 최근 7일 판매량이 아니므로 수요 증가 수치로 해석하지 않았습니다.",
+      "sources": [
+        {
+          "label": "INSTYLE · ALEX CONSANI / TIKTOK WHIMSY",
+          "url": "https://www.instyle.com/look-of-the-day-2026-08-28-12071075"
+        },
+        {
+          "label": "VITA · 30+ ZODIAC TALISMAN CHARMS",
+          "url": "https://vitamagazine.com/2026/08/26/its-a-sign-pandoras-new-talisman-collection-turns-your-zodiac-into-jewelry/"
+        },
+        {
+          "label": "INSTAGRAM · TALISMAN MEDALLION REEL",
+          "url": "https://www.instagram.com/reel/DN5kr42XKkD/"
+        },
+        {
+          "label": "INSTAGRAM · TALISMAN COLLECTION POST",
+          "url": "https://www.instagram.com/p/DN8Dj6JjHlp/"
+        },
+        {
+          "label": "MUSINSA · TALISMAN CHARM NECKLACE / 11 REVIEWS",
+          "url": "https://www.musinsa.com/products/6635844"
         }
       ]
     }
