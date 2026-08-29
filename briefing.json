@@ -1,191 +1,368 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-29T08:01:14.630+09:00",
-  "briefingDate": "2026-08-29",
+  "generatedAt": "2026-08-30T08:00:42.155+09:00",
+  "briefingDate": "2026-08-30",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-29-musee-scaleup",
+      "id": "2026-08-30-helinox-wear-26fw",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT news",
-      "sourceUrl": "https://tnnews.co.kr/archives/291782",
-      "date": "2026-08-28",
-      "title": "뮤제, 투자 유치 후 직영점·생산 체계·글로벌 유통 확대",
-      "summary": "국내 여성복 브랜드 뮤제는 외부 자금을 확보해 서울 핵심 상권의 추가 직영점과 주요 백화점 입점을 추진하고, 적기 생산 및 리오더 체계를 구축할 계획이다. 여성복 외에 ‘뮤제 에센티엘’과 무신사 전용 ‘뮤제 아카이브’를 운영하며, 2027 SS부터 지오다노 홍콩 본사와 협업해 글로벌 주요 매장에 진출할 예정이다.",
+      "source": "뉴시스",
+      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003767573",
+      "date": "2026-08-29 09:00",
+      "title": "헬리녹스 웨어 26FW, 경량 설계와 고기능성 소재 확대",
+      "summary": "헬리녹스 웨어는 경량 설계를 전면에 내세운 26FW 컬렉션으로 약 80개 아이템을 선보였다. 패커블 아우터에 퍼텍스 언리미티드·폴라텍 알파·트라이스펙 소재를 적용했으며, 9월 10일 서울 첫 단독 매장을 열어 이클립스 팩 다운재킷 전 색상을 먼저 공개할 예정이다.",
       "keywords": [
-        "뮤제",
-        "투자 유치",
-        "직영점",
-        "리오더",
-        "뮤제 아카이브",
-        "글로벌 유통"
+        "헬리녹스 웨어",
+        "26FW",
+        "경량 아우터",
+        "기능성 소재",
+        "플래그십 스토어"
       ]
     },
     {
-      "id": "2026-08-29-zara-gangnam-flagship",
+      "id": "2026-08-30-olivia-lauren-fall",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT news",
-      "sourceUrl": "https://tnnews.co.kr/archives/291704",
-      "date": "2026-08-28",
-      "title": "자라 강남 플래그십, 컬렉션별 조닝과 서울 한정 상품 도입",
-      "summary": "자라는 강남에 3개 층, 2,130㎡ 규모의 플래그십 스토어를 열고 층과 공간별로 여성복·데님·슈즈와 백·남성복 및 협업 컬렉션을 나눠 구성했다. 국내 스튜디오 아워레이보의 ‘이무기’ 조형물과 한국 스트리트웨어를 현대적으로 해석한 컬렉션을 배치하고, 매장 주소와 서울 한정 문구를 넣은 티셔츠도 선공개했다.",
+      "source": "뉴시스",
+      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003767573",
+      "date": "2026-08-29 09:00",
+      "title": "올리비아로렌, 미니멀 컬러와 팬츠 실루엣으로 가을 라인업 구성",
+      "summary": "올리비아로렌은 간절기부터 초겨울까지 활용하는 아우터와 팬츠 중심의 2026 가을 컬렉션을 공개했다. 딥 브라운·브릭·아이보리 팔레트와 스웨이드·트위드 재킷을 제안하고, 배럴·스트레이트·커브드·와이드 실루엣으로 팬츠 선택지를 구성했다.",
       "keywords": [
-        "자라",
-        "강남 플래그십",
-        "공간 조닝",
-        "서울 한정",
-        "아워레이보",
-        "옴니채널"
+        "올리비아로렌",
+        "2026 가을",
+        "스웨이드",
+        "트위드",
+        "팬츠 실루엣"
       ]
     },
     {
-      "id": "2026-08-29-repetto-yohji-yamamoto",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-scoop-with-repettos-charlotte-gaucher-holmann-on-collaborating-with-yohji-yamamoto",
-      "date": "2026-08-28",
-      "title": "Repetto × Yohji Yamamoto, 포인트 슈즈에서 출발한 발레 플랫 협업",
-      "summary": "Repetto와 Yohji Yamamoto는 2002년 첫 협업 이후 다시 공동 작업해 9월 14일 새 컬렉션을 출시한다. Yohji Yamamoto는 무용과 포인트 슈즈에서 영감을 받아 아이디어와 디자인을 전개했으며, Repetto는 결과물이 자사 기준에서 급진적이면서도 두 브랜드에 일관된 작업이라고 설명했다.",
-      "keywords": [
-        "Repetto",
-        "Yohji Yamamoto",
-        "협업",
-        "발레 플랫",
-        "포인트 슈즈",
-        "9월 출시"
-      ]
-    },
-    {
-      "id": "2026-08-29-luxury-romantasy",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/from-acotar-to-fourth-wing-should-luxury-invest-in-romantasy",
-      "date": "2026-08-28",
-      "title": "로맨타지 팬덤, 공식 라이선스 패션 캡슐로 확장",
-      "summary": "패션 브랜드의 로맨타지 연계는 아직 제한적이지만, Hot Topic은 ‘Fourth Wing’에서 영감받은 그래픽 티셔츠와 저널을 출시했고 Black Milk는 ‘ACOTAR’ 공식 라이선스 맥시 드레스와 벨벳 후드 케이프를 선보였다. 기사에 따르면 팬들은 소설의 코르셋 드레스·이브닝 가운·전투용 가죽 의상 묘사를 소셜미디어 스타일링으로 옮기고 있다.",
-      "keywords": [
-        "로맨타지",
-        "ACOTAR",
-        "Fourth Wing",
-        "라이선스",
-        "패션 캡슐",
-        "팬덤"
-      ]
-    },
-    {
-      "id": "2026-08-29-newspaper-print-revival",
+      "id": "2026-08-30-jessica-mccormack-craft",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/28/%EC%BA%90%EB%A6%AC-%EB%B8%8C%EB%9E%98%EB%93%9C%EC%87%BC%EB%B6%80%ED%84%B0-%EB%A1%9C%EC%82%B4%EB%A6%AC%EC%95%84%EA%B9%8C%EC%A7%80-%EC%8B%9C%EB%8C%80%EB%A5%BC-%EB%84%98%EB%82%98%EB%93%9C%EB%8A%94/",
-      "date": "2026-08-28",
-      "title": "신문 프린트, 샤넬·디올·데시구알에서 다시 전개",
-      "summary": "마티유 블라지의 샤넬 크루즈 컬렉션에는 신문 프린트 드레스가 등장했고, 조나단 앤더슨은 디올 2027 크루즈 쇼 티저로 신문 프린트 보우 백을 공개했다. 데시구알은 라운드넥과 A라인 실루엣의 신문 프린트 드레스를 선보였으며, 이 모티프는 엘사 스키아파렐리의 1935년 콜라주 프린트까지 거슬러 올라간다.",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/29/%ED%99%94%EB%A0%A4%ED%95%98%EC%A7%80%EB%A7%8C-%EA%B3%BC%EC%8B%9C%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%A0%9C%EC%8B%9C%EC%B9%B4-%EB%A7%A5%EC%BD%94%EB%A7%A5%EC%9D%98-%EC%A3%BC%EC%96%BC%EB%A6%AC/",
+      "date": "2026-08-29",
+      "title": "제시카 맥코맥, 앤티크 공예와 CAD를 결합한 일상형 파인 주얼리",
+      "summary": "제시카 맥코맥은 오래된 공예 기법을 현대적 디자인으로 전환하고, 특별한 행사뿐 아니라 일상에서도 편안하게 착용할 수 있는 파인 주얼리를 지향한다고 밝혔다. 런던 워크숍에서는 장인 기술을 전승하는 동시에 CAD를 활용해 같은 양의 골드로 더 가볍고 편안한 제품을 만든다.",
       "keywords": [
-        "신문 프린트",
-        "샤넬",
-        "디올",
-        "데시구알",
-        "엘사 스키아파렐리",
-        "크루즈 컬렉션"
+        "제시카 맥코맥",
+        "파인 주얼리",
+        "앤티크 공예",
+        "CAD",
+        "착용성"
       ]
     },
     {
-      "id": "2026-08-29-levar-brand-manual",
+      "id": "2026-08-30-nol-tatreez-custom",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/olivia-rodrigo-first-daisy-chain-fields-festival-look",
+      "date": "2026-08-29",
+      "title": "Nöl Collective, 타트리즈 자수를 적용한 커스텀 드레스 제작",
+      "summary": "팔레스타인 브랜드 Nöl Collective는 올리비아 로드리고를 위해 부드러운 분홍색 미니드레스를 맞춤 제작했다. 피티드 보디스와 플리츠 트림, 캡 슬리브에 팔레스타인 타트리즈 자수를 더하고 자유와 움직임을 상징하는 새와 데이지 체인 연결 무늬를 손자수로 표현했다.",
+      "keywords": [
+        "Nöl Collective",
+        "커스텀 드레스",
+        "타트리즈",
+        "손자수",
+        "팔레스타인"
+      ]
+    },
+    {
+      "id": "2026-08-30-nike-caitlin-friendship",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/caitlin-clark-taylor-swift-friendship-bracelet-nikes",
+      "date": "2026-08-29",
+      "title": "Nike Caitlin 1, 우정 팔찌 모티프를 컬러와 부자재로 전개",
+      "summary": "케이틀린 클라크는 테일러 스위프트의 우정 팔찌 문화에서 영감받은 Nike Caitlin 1 ‘Friendship Bracelet’ 컬러웨이를 공개했다. 분홍색 그러데이션 갑피에 금색 스우시와 코발트블루 로고를 배치하고, 굵은 퍼지 레이스에는 이니셜과 등번호를 적은 비즈와 참을 끼웠다.",
+      "keywords": [
+        "Nike Caitlin 1",
+        "컬러웨이",
+        "우정 팔찌",
+        "비즈",
+        "스니커즈 디자인"
+      ]
+    },
+    {
+      "id": "2026-08-30-29cm-ovbeige-kang",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29-brand-manual/2026/08/levar",
-      "date": "2026-08-28",
-      "title": "29CM, 르바의 편안한 클래식과 세분화된 사이즈 전략 조명",
-      "summary": "르바의 새 컬렉션은 일상의 움직임을 받치는 실루엣과 텍스처를 다듬고, 기존 상품과 연결되는 색상과 실루엣을 구성했다. 다양한 사이즈의 All-Day 시리즈에 이어 핏과 사이즈를 세분화한 Always 시리즈를 선보이며, 데님 워크 재킷·니트·슬림핏 티셔츠·와이드 배럴 데님을 주요 상품으로 소개했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/ovbeige?cache=true",
+      "date": "2026-08-29",
+      "title": "29CM, 오브베이지 × 강문경 세레모니 에디션 단독 편성",
+      "summary": "오브베이지와 강문경은 흐르는 실루엣과 은은한 소재감, 절제된 디테일에 초점을 맞춘 세레모니 에디션을 구성했다. 드레이프 언밸런스 블라우스와 와이드 팬츠, 홀터넥 블라우스와 스커트, 드레이프 원피스 등 세 가지 착장을 29 EDITION에서 단독 소개한다.",
       "keywords": [
         "29CM",
-        "르바",
-        "All-Day",
-        "Always",
-        "사이즈 세분화",
-        "클래식"
+        "오브베이지",
+        "강문경",
+        "세레모니 룩",
+        "드레이프"
       ]
     },
     {
-      "id": "2026-08-29-puma-tacklette",
+      "id": "2026-08-30-29cm-ttudement-fall",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/puma",
-      "date": "2026-08-28",
-      "title": "29CM, 푸마 아카이브에 메리제인 구조를 결합한 태클렛 단독 편성",
-      "summary": "푸마 태클렛은 아카이브 모델 ‘태클’의 스포티한 아웃솔에 메리제인 스트랩을 결합하고, 로우 프로파일 실루엣과 빈티지 가죽을 적용했다. 29CM는 브라운과 블랙 두 색상의 26FW 제품을 29 EDITION으로 단독 소개한다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/29/ttudement?cache=true",
+      "date": "2026-08-29",
+      "title": "29CM, 튜드먼트 가을 컬렉션의 소재·레이어링 조합 제안",
+      "summary": "29CM는 인플루언서와 함께 구성한 튜드먼트 가을 컬렉션을 소개했다. 스웨이드 레더 재킷과 긴소매 티셔츠, 20수 코튼 라글란 티셔츠, 울·캐시미어 헨리넥 니트 등 소재와 레이어링 조합을 중심으로 편성했다.",
       "keywords": [
         "29CM",
-        "푸마",
-        "태클렛",
-        "메리제인",
-        "로우 프로파일",
-        "단독 발매"
+        "튜드먼트",
+        "가을 컬렉션",
+        "스웨이드",
+        "레이어링"
       ]
     },
     {
-      "id": "2026-08-29-musinsa-shoe-ranking",
+      "id": "2026-08-30-29cm-onnon-modern-classic",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1539153095133773822",
-      "date": "2026-08-28",
-      "title": "무신사 신발 랭킹에 레더 슈즈와 클래식 스니커즈 진입",
-      "summary": "8월 20~26일 판매액 기준 무신사 신발 랭킹에서 플립플롭이 1위를 유지한 가운데 피노키 ‘데일리 덱’과 야세 ‘유틸리티 USN 컴포트 더비’가 각각 2위와 4위를 기록했다. 아식스 젤-1130 두 색상은 3위와 6위, 나이키 에어 포스 1 07 두 색상도 상위권에 자리했고 아디다스 ‘스탠 스미스 LO 발레’는 12위에 올랐다.",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/29/onnon",
+      "date": "2026-08-29",
+      "title": "29CM, 온앤온의 모던 클래식 컨템퍼러리 컬렉션 편성",
+      "summary": "29CM는 절제된 디자인과 모던 클래식을 결합한 온앤온의 컨템퍼러리 컬렉션을 소개했다. 라이브에서 다룬 베스트 상품과 인플루언서 착용 상품을 별도 혜택과 함께 구성했다.",
       "keywords": [
-        "MUSINSA",
-        "신발 랭킹",
-        "레더 슈즈",
-        "클래식 스니커즈",
-        "젤-1130",
-        "스탠 스미스 LO 발레"
+        "29CM",
+        "온앤온",
+        "모던 클래식",
+        "컨템퍼러리",
+        "플랫폼 편성"
       ]
     },
     {
-      "id": "2026-08-29-casa-pb16",
+      "id": "2026-08-30-sergipe-apartment",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1183846/casa-pb16",
-      "date": "2026-08-28",
-      "title": "Casa PB16, 자연 배수를 유지하는 캡슐형 증축",
-      "summary": "ESPECIE arquitectura는 기존 주택과 정원의 단차를 연결하면서 실내 온수 수영장과 정원 전망 사무실을 더하는 증축·리노베이션을 진행했다. 투명·반투명·식재·솔리드 볼륨을 지면 위로 띄워 자연 배수와 식생을 유지하고, 침실은 미닫이 유리문으로 수영장에 연결했다.",
+      "sourceUrl": "https://www.archdaily.com/1184143/sergipe-apartment-terra-arquitetura",
+      "date": "2026-08-29",
+      "title": "Sergipe Apartment, 원형 마루와 천연 소재로 공간 연속성 구축",
+      "summary": "Terra Arquitetura는 230㎡ 아파트의 칸막이를 제거해 거실·식당·동선을 하나의 연속된 공간으로 통합하고 기존 목재 바닥을 복원했다. 프레이지오 목재 수납장과 트래버틴 상판, 천연 짚 디테일을 적용하고 맞춤형 금속 선반으로 시야를 막지 않으면서 거실을 조직했다.",
       "keywords": [
-        "Casa PB16",
-        "ESPECIE arquitectura",
-        "증축",
-        "자연 배수",
-        "온수 수영장",
-        "미닫이 유리문"
+        "Sergipe Apartment",
+        "리노베이션",
+        "프레이지오 목재",
+        "트래버틴",
+        "맞춤 선반"
       ]
     },
     {
-      "id": "2026-08-29-doble-erre",
+      "id": "2026-08-30-orrios-exchange",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1183662/doble-erre-morphism",
-      "date": "2026-08-28",
-      "title": "Doble Erre, 냉장 창고를 가변형 문화 제작 공간으로 전환",
-      "summary": "Morphism은 마드리드의 옛 제과 냉장 창고를 전시·워크숍·주방·중정이 결합된 215㎡ 문화 제작 공간으로 바꿨다. 작업실과 쇼룸 등의 경계를 열어 활동별 구성을 바꿀 수 있게 하고, 반사면·양극산화강·금속 메시와 기존 창고 표면을 유지하면서 휴게 공간에는 목재 모듈과 따뜻한 조명을 적용했다.",
+      "sourceUrl": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
+      "date": "2026-08-29",
+      "title": "Orrios Exchange, 가구와 설비를 통합한 문화공간으로 재생",
+      "summary": "Oscar Escuder Arquitectura는 사용되지 않던 역사 건물의 지상 로지아를 강당과 메자닌 도서관을 갖춘 문화공간으로 재생했다. 자작나무 합판 테이블에 철제 하부 구조를 적용하고, 도서관 데스크에는 공조 덕트와 토출구를 통합하는 등 실내 가구를 프로젝트에 맞춰 설계했다.",
       "keywords": [
-        "Doble Erre",
-        "Morphism",
-        "창고 리노베이션",
-        "가변형 공간",
-        "양극산화강",
-        "목재 모듈"
+        "Orrios Exchange",
+        "건축 재생",
+        "맞춤 가구",
+        "자작나무 합판",
+        "설비 통합"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-29T08:01:14.630+09:00",
+      "briefingDate": "2026-08-29",
+      "generatedAt": "2026-08-29T08:01:14.630+09:00",
+      "cards": [
+        {
+          "id": "2026-08-29-musee-scaleup",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT news",
+          "sourceUrl": "https://tnnews.co.kr/archives/291782",
+          "date": "2026-08-28",
+          "title": "뮤제, 투자 유치 후 직영점·생산 체계·글로벌 유통 확대",
+          "summary": "국내 여성복 브랜드 뮤제는 외부 자금을 확보해 서울 핵심 상권의 추가 직영점과 주요 백화점 입점을 추진하고, 적기 생산 및 리오더 체계를 구축할 계획이다. 여성복 외에 ‘뮤제 에센티엘’과 무신사 전용 ‘뮤제 아카이브’를 운영하며, 2027 SS부터 지오다노 홍콩 본사와 협업해 글로벌 주요 매장에 진출할 예정이다.",
+          "keywords": [
+            "뮤제",
+            "투자 유치",
+            "직영점",
+            "리오더",
+            "뮤제 아카이브",
+            "글로벌 유통"
+          ]
+        },
+        {
+          "id": "2026-08-29-zara-gangnam-flagship",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT news",
+          "sourceUrl": "https://tnnews.co.kr/archives/291704",
+          "date": "2026-08-28",
+          "title": "자라 강남 플래그십, 컬렉션별 조닝과 서울 한정 상품 도입",
+          "summary": "자라는 강남에 3개 층, 2,130㎡ 규모의 플래그십 스토어를 열고 층과 공간별로 여성복·데님·슈즈와 백·남성복 및 협업 컬렉션을 나눠 구성했다. 국내 스튜디오 아워레이보의 ‘이무기’ 조형물과 한국 스트리트웨어를 현대적으로 해석한 컬렉션을 배치하고, 매장 주소와 서울 한정 문구를 넣은 티셔츠도 선공개했다.",
+          "keywords": [
+            "자라",
+            "강남 플래그십",
+            "공간 조닝",
+            "서울 한정",
+            "아워레이보",
+            "옴니채널"
+          ]
+        },
+        {
+          "id": "2026-08-29-repetto-yohji-yamamoto",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-scoop-with-repettos-charlotte-gaucher-holmann-on-collaborating-with-yohji-yamamoto",
+          "date": "2026-08-28",
+          "title": "Repetto × Yohji Yamamoto, 포인트 슈즈에서 출발한 발레 플랫 협업",
+          "summary": "Repetto와 Yohji Yamamoto는 2002년 첫 협업 이후 다시 공동 작업해 9월 14일 새 컬렉션을 출시한다. Yohji Yamamoto는 무용과 포인트 슈즈에서 영감을 받아 아이디어와 디자인을 전개했으며, Repetto는 결과물이 자사 기준에서 급진적이면서도 두 브랜드에 일관된 작업이라고 설명했다.",
+          "keywords": [
+            "Repetto",
+            "Yohji Yamamoto",
+            "협업",
+            "발레 플랫",
+            "포인트 슈즈",
+            "9월 출시"
+          ]
+        },
+        {
+          "id": "2026-08-29-luxury-romantasy",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/from-acotar-to-fourth-wing-should-luxury-invest-in-romantasy",
+          "date": "2026-08-28",
+          "title": "로맨타지 팬덤, 공식 라이선스 패션 캡슐로 확장",
+          "summary": "패션 브랜드의 로맨타지 연계는 아직 제한적이지만, Hot Topic은 ‘Fourth Wing’에서 영감받은 그래픽 티셔츠와 저널을 출시했고 Black Milk는 ‘ACOTAR’ 공식 라이선스 맥시 드레스와 벨벳 후드 케이프를 선보였다. 기사에 따르면 팬들은 소설의 코르셋 드레스·이브닝 가운·전투용 가죽 의상 묘사를 소셜미디어 스타일링으로 옮기고 있다.",
+          "keywords": [
+            "로맨타지",
+            "ACOTAR",
+            "Fourth Wing",
+            "라이선스",
+            "패션 캡슐",
+            "팬덤"
+          ]
+        },
+        {
+          "id": "2026-08-29-newspaper-print-revival",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/28/%EC%BA%90%EB%A6%AC-%EB%B8%8C%EB%9E%98%EB%93%9C%EC%87%BC%EB%B6%80%ED%84%B0-%EB%A1%9C%EC%82%B4%EB%A6%AC%EC%95%84%EA%B9%8C%EC%A7%80-%EC%8B%9C%EB%8C%80%EB%A5%BC-%EB%84%98%EB%82%98%EB%93%9C%EB%8A%94/",
+          "date": "2026-08-28",
+          "title": "신문 프린트, 샤넬·디올·데시구알에서 다시 전개",
+          "summary": "마티유 블라지의 샤넬 크루즈 컬렉션에는 신문 프린트 드레스가 등장했고, 조나단 앤더슨은 디올 2027 크루즈 쇼 티저로 신문 프린트 보우 백을 공개했다. 데시구알은 라운드넥과 A라인 실루엣의 신문 프린트 드레스를 선보였으며, 이 모티프는 엘사 스키아파렐리의 1935년 콜라주 프린트까지 거슬러 올라간다.",
+          "keywords": [
+            "신문 프린트",
+            "샤넬",
+            "디올",
+            "데시구알",
+            "엘사 스키아파렐리",
+            "크루즈 컬렉션"
+          ]
+        },
+        {
+          "id": "2026-08-29-levar-brand-manual",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29-brand-manual/2026/08/levar",
+          "date": "2026-08-28",
+          "title": "29CM, 르바의 편안한 클래식과 세분화된 사이즈 전략 조명",
+          "summary": "르바의 새 컬렉션은 일상의 움직임을 받치는 실루엣과 텍스처를 다듬고, 기존 상품과 연결되는 색상과 실루엣을 구성했다. 다양한 사이즈의 All-Day 시리즈에 이어 핏과 사이즈를 세분화한 Always 시리즈를 선보이며, 데님 워크 재킷·니트·슬림핏 티셔츠·와이드 배럴 데님을 주요 상품으로 소개했다.",
+          "keywords": [
+            "29CM",
+            "르바",
+            "All-Day",
+            "Always",
+            "사이즈 세분화",
+            "클래식"
+          ]
+        },
+        {
+          "id": "2026-08-29-puma-tacklette",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/puma",
+          "date": "2026-08-28",
+          "title": "29CM, 푸마 아카이브에 메리제인 구조를 결합한 태클렛 단독 편성",
+          "summary": "푸마 태클렛은 아카이브 모델 ‘태클’의 스포티한 아웃솔에 메리제인 스트랩을 결합하고, 로우 프로파일 실루엣과 빈티지 가죽을 적용했다. 29CM는 브라운과 블랙 두 색상의 26FW 제품을 29 EDITION으로 단독 소개한다.",
+          "keywords": [
+            "29CM",
+            "푸마",
+            "태클렛",
+            "메리제인",
+            "로우 프로파일",
+            "단독 발매"
+          ]
+        },
+        {
+          "id": "2026-08-29-musinsa-shoe-ranking",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1539153095133773822",
+          "date": "2026-08-28",
+          "title": "무신사 신발 랭킹에 레더 슈즈와 클래식 스니커즈 진입",
+          "summary": "8월 20~26일 판매액 기준 무신사 신발 랭킹에서 플립플롭이 1위를 유지한 가운데 피노키 ‘데일리 덱’과 야세 ‘유틸리티 USN 컴포트 더비’가 각각 2위와 4위를 기록했다. 아식스 젤-1130 두 색상은 3위와 6위, 나이키 에어 포스 1 07 두 색상도 상위권에 자리했고 아디다스 ‘스탠 스미스 LO 발레’는 12위에 올랐다.",
+          "keywords": [
+            "MUSINSA",
+            "신발 랭킹",
+            "레더 슈즈",
+            "클래식 스니커즈",
+            "젤-1130",
+            "스탠 스미스 LO 발레"
+          ]
+        },
+        {
+          "id": "2026-08-29-casa-pb16",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1183846/casa-pb16",
+          "date": "2026-08-28",
+          "title": "Casa PB16, 자연 배수를 유지하는 캡슐형 증축",
+          "summary": "ESPECIE arquitectura는 기존 주택과 정원의 단차를 연결하면서 실내 온수 수영장과 정원 전망 사무실을 더하는 증축·리노베이션을 진행했다. 투명·반투명·식재·솔리드 볼륨을 지면 위로 띄워 자연 배수와 식생을 유지하고, 침실은 미닫이 유리문으로 수영장에 연결했다.",
+          "keywords": [
+            "Casa PB16",
+            "ESPECIE arquitectura",
+            "증축",
+            "자연 배수",
+            "온수 수영장",
+            "미닫이 유리문"
+          ]
+        },
+        {
+          "id": "2026-08-29-doble-erre",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1183662/doble-erre-morphism",
+          "date": "2026-08-28",
+          "title": "Doble Erre, 냉장 창고를 가변형 문화 제작 공간으로 전환",
+          "summary": "Morphism은 마드리드의 옛 제과 냉장 창고를 전시·워크숍·주방·중정이 결합된 215㎡ 문화 제작 공간으로 바꿨다. 작업실과 쇼룸 등의 경계를 열어 활동별 구성을 바꿀 수 있게 하고, 반사면·양극산화강·금속 메시와 기존 창고 표면을 유지하면서 휴게 공간에는 목재 모듈과 따뜻한 조명을 적용했다.",
+          "keywords": [
+            "Doble Erre",
+            "Morphism",
+            "창고 리노베이션",
+            "가변형 공간",
+            "양극산화강",
+            "목재 모듈"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-28T08:06:27.029+09:00",
       "briefingDate": "2026-08-28",
