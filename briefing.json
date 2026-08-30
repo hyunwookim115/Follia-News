@@ -1,181 +1,290 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-30T08:00:42.155+09:00",
-  "briefingDate": "2026-08-30",
+  "generatedAt": "2026-08-31T08:06:10+09:00",
+  "briefingDate": "2026-08-31",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-30-helinox-wear-26fw",
+      "id": "2026-08-31-oscar-de-la-renta-wedding",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "뉴시스",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003767573",
-      "date": "2026-08-29 09:00",
-      "title": "헬리녹스 웨어 26FW, 경량 설계와 고기능성 소재 확대",
-      "summary": "헬리녹스 웨어는 경량 설계를 전면에 내세운 26FW 컬렉션으로 약 80개 아이템을 선보였다. 패커블 아우터에 퍼텍스 언리미티드·폴라텍 알파·트라이스펙 소재를 적용했으며, 9월 10일 서울 첫 단독 매장을 열어 이클립스 팩 다운재킷 전 색상을 먼저 공개할 예정이다.",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/the-final-fitting-claudia-sulewski",
+      "date": "2026-08-30",
+      "title": "Oscar de la Renta, 아카이브와 소재 변주로 네 벌의 커스텀 웨딩 룩 제작",
+      "summary": "Oscar de la Renta는 클라우디아 술레브스키의 웨딩 주말을 위해 리허설 디너·세리머니·리셉션·애프터파티용 네 벌을 맞춤 제작했다. 세리머니 룩은 아이보리 실크 파유 소재의 드롭웨이스트 보디스와 구조적인 플리츠 스커트, 트레인까지 이어지는 비대칭 스카프 네크피스로 구성했고, 리셉션 드레스에는 업사이클 깃털로 만든 조형적 페플럼과 크리스털 비즈를 적용했다.",
       "keywords": [
-        "헬리녹스 웨어",
+        "Oscar de la Renta",
+        "커스텀 웨딩",
+        "실크 파유",
+        "플리츠",
+        "업사이클 깃털"
+      ]
+    },
+    {
+      "id": "2026-08-31-29cm-overdue-withoutsummer",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/30/1st?cache=true",
+      "date": "2026-08-30",
+      "title": "29CM, 오버듀플레어·위드아웃썸머 가을 상품 편성",
+      "summary": "29CM는 오버듀플레어와 위드아웃썸머를 라이징 브랜드로 묶어 8월 30일부터 9월 5일까지 소개한다. 오버듀플레어에서는 라운드 네크라인과 스탠더드 기장의 네이비 울 카디건을, 위드아웃썸머에서는 빈티지 레더와 넉넉한 핏을 적용한 하프 기장 재킷을 추천 상품으로 제시했다.",
+      "keywords": [
+        "29CM",
+        "오버듀플레어",
+        "위드아웃썸머",
+        "울 카디건",
+        "레더 재킷"
+      ]
+    },
+    {
+      "id": "2026-08-31-29cm-etobe-sein",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/30/3rd",
+      "date": "2026-08-30",
+      "title": "29CM, 에토브·세인의 가을 아우터와 쉬어 셔츠 조명",
+      "summary": "29CM는 미니멀한 구조에 로맨틱한 감성을 더한 에토브와 파스텔톤의 페미닌 데일리웨어를 제안하는 세인을 함께 소개했다. 에토브의 컨버터블 레더 블루종은 볼륨 소매와 여유 있는 핏을, 세인의 쉬어 셔츠는 은은하게 비치는 결감과 사계절 활용성을 특징으로 한다.",
+      "keywords": [
+        "29CM",
+        "에토브",
+        "세인",
+        "레더 블루종",
+        "쉬어 셔츠"
+      ]
+    },
+    {
+      "id": "2026-08-31-shinsegae-autumn-silhouette",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "뉴시스",
+      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260830_0003768485",
+      "date": "2026-08-31 06:00 KST",
+      "title": "신세계백화점, 130여 패션·잡화 브랜드의 26FW 프로모션 편성",
+      "summary": "신세계백화점은 9월 13일까지 전 점포에서 ‘어텀 실루엣’을 열고 130여 패션·잡화 브랜드를 편성했다. 질스튜어트 뉴욕·A.P.C·바버·알레그리의 26FW 할인과 송지오옴므·맨온더분의 구매 혜택, 헌치·룩캐스트·틸아이다이의 가을 신상품 프로모션을 진행한다.",
+      "keywords": [
+        "신세계백화점",
+        "어텀 실루엣",
         "26FW",
-        "경량 아우터",
-        "기능성 소재",
-        "플래그십 스토어"
+        "패션 프로모션",
+        "가을 신상품"
       ]
     },
     {
-      "id": "2026-08-30-olivia-lauren-fall",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "뉴시스",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003767573",
-      "date": "2026-08-29 09:00",
-      "title": "올리비아로렌, 미니멀 컬러와 팬츠 실루엣으로 가을 라인업 구성",
-      "summary": "올리비아로렌은 간절기부터 초겨울까지 활용하는 아우터와 팬츠 중심의 2026 가을 컬렉션을 공개했다. 딥 브라운·브릭·아이보리 팔레트와 스웨이드·트위드 재킷을 제안하고, 배럴·스트레이트·커브드·와이드 실루엣으로 팬츠 선택지를 구성했다.",
-      "keywords": [
-        "올리비아로렌",
-        "2026 가을",
-        "스웨이드",
-        "트위드",
-        "팬츠 실루엣"
-      ]
-    },
-    {
-      "id": "2026-08-30-jessica-mccormack-craft",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/08/29/%ED%99%94%EB%A0%A4%ED%95%98%EC%A7%80%EB%A7%8C-%EA%B3%BC%EC%8B%9C%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%A0%9C%EC%8B%9C%EC%B9%B4-%EB%A7%A5%EC%BD%94%EB%A7%A5%EC%9D%98-%EC%A3%BC%EC%96%BC%EB%A6%AC/",
-      "date": "2026-08-29",
-      "title": "제시카 맥코맥, 앤티크 공예와 CAD를 결합한 일상형 파인 주얼리",
-      "summary": "제시카 맥코맥은 오래된 공예 기법을 현대적 디자인으로 전환하고, 특별한 행사뿐 아니라 일상에서도 편안하게 착용할 수 있는 파인 주얼리를 지향한다고 밝혔다. 런던 워크숍에서는 장인 기술을 전승하는 동시에 CAD를 활용해 같은 양의 골드로 더 가볍고 편안한 제품을 만든다.",
-      "keywords": [
-        "제시카 맥코맥",
-        "파인 주얼리",
-        "앤티크 공예",
-        "CAD",
-        "착용성"
-      ]
-    },
-    {
-      "id": "2026-08-30-nol-tatreez-custom",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/olivia-rodrigo-first-daisy-chain-fields-festival-look",
-      "date": "2026-08-29",
-      "title": "Nöl Collective, 타트리즈 자수를 적용한 커스텀 드레스 제작",
-      "summary": "팔레스타인 브랜드 Nöl Collective는 올리비아 로드리고를 위해 부드러운 분홍색 미니드레스를 맞춤 제작했다. 피티드 보디스와 플리츠 트림, 캡 슬리브에 팔레스타인 타트리즈 자수를 더하고 자유와 움직임을 상징하는 새와 데이지 체인 연결 무늬를 손자수로 표현했다.",
-      "keywords": [
-        "Nöl Collective",
-        "커스텀 드레스",
-        "타트리즈",
-        "손자수",
-        "팔레스타인"
-      ]
-    },
-    {
-      "id": "2026-08-30-nike-caitlin-friendship",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/caitlin-clark-taylor-swift-friendship-bracelet-nikes",
-      "date": "2026-08-29",
-      "title": "Nike Caitlin 1, 우정 팔찌 모티프를 컬러와 부자재로 전개",
-      "summary": "케이틀린 클라크는 테일러 스위프트의 우정 팔찌 문화에서 영감받은 Nike Caitlin 1 ‘Friendship Bracelet’ 컬러웨이를 공개했다. 분홍색 그러데이션 갑피에 금색 스우시와 코발트블루 로고를 배치하고, 굵은 퍼지 레이스에는 이니셜과 등번호를 적은 비즈와 참을 끼웠다.",
-      "keywords": [
-        "Nike Caitlin 1",
-        "컬러웨이",
-        "우정 팔찌",
-        "비즈",
-        "스니커즈 디자인"
-      ]
-    },
-    {
-      "id": "2026-08-30-29cm-ovbeige-kang",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/ovbeige?cache=true",
-      "date": "2026-08-29",
-      "title": "29CM, 오브베이지 × 강문경 세레모니 에디션 단독 편성",
-      "summary": "오브베이지와 강문경은 흐르는 실루엣과 은은한 소재감, 절제된 디테일에 초점을 맞춘 세레모니 에디션을 구성했다. 드레이프 언밸런스 블라우스와 와이드 팬츠, 홀터넥 블라우스와 스커트, 드레이프 원피스 등 세 가지 착장을 29 EDITION에서 단독 소개한다.",
-      "keywords": [
-        "29CM",
-        "오브베이지",
-        "강문경",
-        "세레모니 룩",
-        "드레이프"
-      ]
-    },
-    {
-      "id": "2026-08-30-29cm-ttudement-fall",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/29/ttudement?cache=true",
-      "date": "2026-08-29",
-      "title": "29CM, 튜드먼트 가을 컬렉션의 소재·레이어링 조합 제안",
-      "summary": "29CM는 인플루언서와 함께 구성한 튜드먼트 가을 컬렉션을 소개했다. 스웨이드 레더 재킷과 긴소매 티셔츠, 20수 코튼 라글란 티셔츠, 울·캐시미어 헨리넥 니트 등 소재와 레이어링 조합을 중심으로 편성했다.",
-      "keywords": [
-        "29CM",
-        "튜드먼트",
-        "가을 컬렉션",
-        "스웨이드",
-        "레이어링"
-      ]
-    },
-    {
-      "id": "2026-08-30-29cm-onnon-modern-classic",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/29/onnon",
-      "date": "2026-08-29",
-      "title": "29CM, 온앤온의 모던 클래식 컨템퍼러리 컬렉션 편성",
-      "summary": "29CM는 절제된 디자인과 모던 클래식을 결합한 온앤온의 컨템퍼러리 컬렉션을 소개했다. 라이브에서 다룬 베스트 상품과 인플루언서 착용 상품을 별도 혜택과 함께 구성했다.",
-      "keywords": [
-        "29CM",
-        "온앤온",
-        "모던 클래식",
-        "컨템퍼러리",
-        "플랫폼 편성"
-      ]
-    },
-    {
-      "id": "2026-08-30-sergipe-apartment",
+      "id": "2026-08-31-house-in-shichiku",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184143/sergipe-apartment-terra-arquitetura",
-      "date": "2026-08-29",
-      "title": "Sergipe Apartment, 원형 마루와 천연 소재로 공간 연속성 구축",
-      "summary": "Terra Arquitetura는 230㎡ 아파트의 칸막이를 제거해 거실·식당·동선을 하나의 연속된 공간으로 통합하고 기존 목재 바닥을 복원했다. 프레이지오 목재 수납장과 트래버틴 상판, 천연 짚 디테일을 적용하고 맞춤형 금속 선반으로 시야를 막지 않으면서 거실을 조직했다.",
+      "sourceUrl": "https://www.archdaily.com/1184079/house-in-shichiku",
+      "date": "2026-08-30",
+      "title": "House in Shichiku, 회전 배치와 반사 천장으로 협소 대지의 빛 확장",
+      "summary": "Tato Architects는 교토의 협소한 깃발형 대지에서 직사각형 평면을 경계와 비스듬히 배치해 네 모서리에 서로 다른 깊이와 빛을 가진 정원을 만들었다. 2,020mm 높이의 낮은 천장을 은색 반사면으로 처리하고, 중앙 보이드 위에는 식탁·책상·작업대로 쓸 수 있는 2.4m 정사각형 테이블을 놓았다.",
       "keywords": [
-        "Sergipe Apartment",
-        "리노베이션",
-        "프레이지오 목재",
-        "트래버틴",
-        "맞춤 선반"
+        "House in Shichiku",
+        "Tato Architects",
+        "협소 대지",
+        "반사 천장",
+        "다목적 테이블"
       ]
     },
     {
-      "id": "2026-08-30-orrios-exchange",
+      "id": "2026-08-31-borolo",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
-      "date": "2026-08-29",
-      "title": "Orrios Exchange, 가구와 설비를 통합한 문화공간으로 재생",
-      "summary": "Oscar Escuder Arquitectura는 사용되지 않던 역사 건물의 지상 로지아를 강당과 메자닌 도서관을 갖춘 문화공간으로 재생했다. 자작나무 합판 테이블에 철제 하부 구조를 적용하고, 도서관 데스크에는 공조 덕트와 토출구를 통합하는 등 실내 가구를 프로젝트에 맞춰 설계했다.",
+      "sourceUrl": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
+      "date": "2026-08-30",
+      "title": "Boroló, 공동생활 공간에 버번 레드와 촉감 소재 적용",
+      "summary": "Boroló는 1인 가구·학생·젊은 전문직을 위한 콤팩트 주거에 업무·조리·휴식·모임용 공용 공간을 결합했다. 실내는 버번 레드를 중심으로 벨벳, 천연 가죽, 플로르 모라도 목재 톤을 구성해 동선과 테라스를 일상적인 만남의 공간으로 만들었다.",
       "keywords": [
-        "Orrios Exchange",
-        "건축 재생",
-        "맞춤 가구",
-        "자작나무 합판",
-        "설비 통합"
+        "Boroló",
+        "공동생활",
+        "버번 레드",
+        "벨벳",
+        "플로르 모라도"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-30T08:00:42.155+09:00",
+      "briefingDate": "2026-08-30",
+      "generatedAt": "2026-08-30T08:00:42.155+09:00",
+      "cards": [
+        {
+          "id": "2026-08-30-helinox-wear-26fw",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "뉴시스",
+          "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003767573",
+          "date": "2026-08-29 09:00",
+          "title": "헬리녹스 웨어 26FW, 경량 설계와 고기능성 소재 확대",
+          "summary": "헬리녹스 웨어는 경량 설계를 전면에 내세운 26FW 컬렉션으로 약 80개 아이템을 선보였다. 패커블 아우터에 퍼텍스 언리미티드·폴라텍 알파·트라이스펙 소재를 적용했으며, 9월 10일 서울 첫 단독 매장을 열어 이클립스 팩 다운재킷 전 색상을 먼저 공개할 예정이다.",
+          "keywords": [
+            "헬리녹스 웨어",
+            "26FW",
+            "경량 아우터",
+            "기능성 소재",
+            "플래그십 스토어"
+          ]
+        },
+        {
+          "id": "2026-08-30-olivia-lauren-fall",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "뉴시스",
+          "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003767573",
+          "date": "2026-08-29 09:00",
+          "title": "올리비아로렌, 미니멀 컬러와 팬츠 실루엣으로 가을 라인업 구성",
+          "summary": "올리비아로렌은 간절기부터 초겨울까지 활용하는 아우터와 팬츠 중심의 2026 가을 컬렉션을 공개했다. 딥 브라운·브릭·아이보리 팔레트와 스웨이드·트위드 재킷을 제안하고, 배럴·스트레이트·커브드·와이드 실루엣으로 팬츠 선택지를 구성했다.",
+          "keywords": [
+            "올리비아로렌",
+            "2026 가을",
+            "스웨이드",
+            "트위드",
+            "팬츠 실루엣"
+          ]
+        },
+        {
+          "id": "2026-08-30-jessica-mccormack-craft",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/08/29/%ED%99%94%EB%A0%A4%ED%95%98%EC%A7%80%EB%A7%8C-%EA%B3%BC%EC%8B%9C%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%A0%9C%EC%8B%9C%EC%B9%B4-%EB%A7%A5%EC%BD%94%EB%A7%A5%EC%9D%98-%EC%A3%BC%EC%96%BC%EB%A6%AC/",
+          "date": "2026-08-29",
+          "title": "제시카 맥코맥, 앤티크 공예와 CAD를 결합한 일상형 파인 주얼리",
+          "summary": "제시카 맥코맥은 오래된 공예 기법을 현대적 디자인으로 전환하고, 특별한 행사뿐 아니라 일상에서도 편안하게 착용할 수 있는 파인 주얼리를 지향한다고 밝혔다. 런던 워크숍에서는 장인 기술을 전승하는 동시에 CAD를 활용해 같은 양의 골드로 더 가볍고 편안한 제품을 만든다.",
+          "keywords": [
+            "제시카 맥코맥",
+            "파인 주얼리",
+            "앤티크 공예",
+            "CAD",
+            "착용성"
+          ]
+        },
+        {
+          "id": "2026-08-30-nol-tatreez-custom",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/olivia-rodrigo-first-daisy-chain-fields-festival-look",
+          "date": "2026-08-29",
+          "title": "Nöl Collective, 타트리즈 자수를 적용한 커스텀 드레스 제작",
+          "summary": "팔레스타인 브랜드 Nöl Collective는 올리비아 로드리고를 위해 부드러운 분홍색 미니드레스를 맞춤 제작했다. 피티드 보디스와 플리츠 트림, 캡 슬리브에 팔레스타인 타트리즈 자수를 더하고 자유와 움직임을 상징하는 새와 데이지 체인 연결 무늬를 손자수로 표현했다.",
+          "keywords": [
+            "Nöl Collective",
+            "커스텀 드레스",
+            "타트리즈",
+            "손자수",
+            "팔레스타인"
+          ]
+        },
+        {
+          "id": "2026-08-30-nike-caitlin-friendship",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/caitlin-clark-taylor-swift-friendship-bracelet-nikes",
+          "date": "2026-08-29",
+          "title": "Nike Caitlin 1, 우정 팔찌 모티프를 컬러와 부자재로 전개",
+          "summary": "케이틀린 클라크는 테일러 스위프트의 우정 팔찌 문화에서 영감받은 Nike Caitlin 1 ‘Friendship Bracelet’ 컬러웨이를 공개했다. 분홍색 그러데이션 갑피에 금색 스우시와 코발트블루 로고를 배치하고, 굵은 퍼지 레이스에는 이니셜과 등번호를 적은 비즈와 참을 끼웠다.",
+          "keywords": [
+            "Nike Caitlin 1",
+            "컬러웨이",
+            "우정 팔찌",
+            "비즈",
+            "스니커즈 디자인"
+          ]
+        },
+        {
+          "id": "2026-08-30-29cm-ovbeige-kang",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/ovbeige?cache=true",
+          "date": "2026-08-29",
+          "title": "29CM, 오브베이지 × 강문경 세레모니 에디션 단독 편성",
+          "summary": "오브베이지와 강문경은 흐르는 실루엣과 은은한 소재감, 절제된 디테일에 초점을 맞춘 세레모니 에디션을 구성했다. 드레이프 언밸런스 블라우스와 와이드 팬츠, 홀터넥 블라우스와 스커트, 드레이프 원피스 등 세 가지 착장을 29 EDITION에서 단독 소개한다.",
+          "keywords": [
+            "29CM",
+            "오브베이지",
+            "강문경",
+            "세레모니 룩",
+            "드레이프"
+          ]
+        },
+        {
+          "id": "2026-08-30-29cm-ttudement-fall",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/29/ttudement?cache=true",
+          "date": "2026-08-29",
+          "title": "29CM, 튜드먼트 가을 컬렉션의 소재·레이어링 조합 제안",
+          "summary": "29CM는 인플루언서와 함께 구성한 튜드먼트 가을 컬렉션을 소개했다. 스웨이드 레더 재킷과 긴소매 티셔츠, 20수 코튼 라글란 티셔츠, 울·캐시미어 헨리넥 니트 등 소재와 레이어링 조합을 중심으로 편성했다.",
+          "keywords": [
+            "29CM",
+            "튜드먼트",
+            "가을 컬렉션",
+            "스웨이드",
+            "레이어링"
+          ]
+        },
+        {
+          "id": "2026-08-30-29cm-onnon-modern-classic",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/08/29/onnon",
+          "date": "2026-08-29",
+          "title": "29CM, 온앤온의 모던 클래식 컨템퍼러리 컬렉션 편성",
+          "summary": "29CM는 절제된 디자인과 모던 클래식을 결합한 온앤온의 컨템퍼러리 컬렉션을 소개했다. 라이브에서 다룬 베스트 상품과 인플루언서 착용 상품을 별도 혜택과 함께 구성했다.",
+          "keywords": [
+            "29CM",
+            "온앤온",
+            "모던 클래식",
+            "컨템퍼러리",
+            "플랫폼 편성"
+          ]
+        },
+        {
+          "id": "2026-08-30-sergipe-apartment",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184143/sergipe-apartment-terra-arquitetura",
+          "date": "2026-08-29",
+          "title": "Sergipe Apartment, 원형 마루와 천연 소재로 공간 연속성 구축",
+          "summary": "Terra Arquitetura는 230㎡ 아파트의 칸막이를 제거해 거실·식당·동선을 하나의 연속된 공간으로 통합하고 기존 목재 바닥을 복원했다. 프레이지오 목재 수납장과 트래버틴 상판, 천연 짚 디테일을 적용하고 맞춤형 금속 선반으로 시야를 막지 않으면서 거실을 조직했다.",
+          "keywords": [
+            "Sergipe Apartment",
+            "리노베이션",
+            "프레이지오 목재",
+            "트래버틴",
+            "맞춤 선반"
+          ]
+        },
+        {
+          "id": "2026-08-30-orrios-exchange",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1183852/rehabilitation-of-the-orrios-exchange-building",
+          "date": "2026-08-29",
+          "title": "Orrios Exchange, 가구와 설비를 통합한 문화공간으로 재생",
+          "summary": "Oscar Escuder Arquitectura는 사용되지 않던 역사 건물의 지상 로지아를 강당과 메자닌 도서관을 갖춘 문화공간으로 재생했다. 자작나무 합판 테이블에 철제 하부 구조를 적용하고, 도서관 데스크에는 공조 덕트와 토출구를 통합하는 등 실내 가구를 프로젝트에 맞춰 설계했다.",
+          "keywords": [
+            "Orrios Exchange",
+            "건축 재생",
+            "맞춤 가구",
+            "자작나무 합판",
+            "설비 통합"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-29T08:01:14.630+09:00",
       "briefingDate": "2026-08-29",
