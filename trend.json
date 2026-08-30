@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T08:22:25+09:00",
+  "generatedAt": "2026-08-31T08:31:50+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -62,8 +62,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "스트레이트·와이드·크롭 플레어가 한 컬렉션 안에서도 병렬 편성되고 배럴 핏에는 반대 신호가 나타나, 데님 관심은 높지만 단일 핏으로 수렴하지 않습니다.",
-      "detail": "8월 21~28일 여러 핏이 교차한 데 이어 8월 29일 With Nothing Underneath의 신규 데님 편성은 스트레이트·와이드·크롭 플레어를 동시에 제시했습니다. 같은 날 별도 기사에서는 배럴 진을 보류 대상으로 꼽았습니다. 단일 실루엣의 검색·판매 상승 근거가 없어 ‘릴랙스드 스트레이트’는 HOLD를 유지했습니다.",
+      "summary": "스트레이트·와이드·크롭 플레어에 이어 LA 공개 소셜에서 킥 플레어까지 반복 노출돼, 데님 관심은 높지만 단일 핏으로 수렴하지 않습니다.",
+      "detail": "8월 24~30일 배기·벌룬·스트레이트·와이드·크롭 플레어가 교차한 데 이어, 8월 30일 Who What Wear가 LA 패션 관계자들의 공개 착장에서 킥 플레어를 포착하고 4개 브랜드 상품을 함께 편성했습니다. 특정 실루엣의 공개 검색량·판매 순위 상승은 확인되지 않아 ‘릴랙스드 스트레이트’는 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -124,6 +124,10 @@
         {
           "label": "WHO WHAT WEAR · BARREL-JEAN COUNTER-SIGNAL",
           "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
+        },
+        {
+          "label": "WHO WHAT WEAR · LA KICK-FLARE SOCIAL / 4 PICKS",
+          "url": "https://www.whowhatwear.com/fashion/trends/fall-2026-fashion-trends-los-angeles"
         }
       ]
     },
@@ -247,11 +251,11 @@
       "id": "live-jazz-shoes",
       "keyword": "JAZZ SHOES",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL / KOREA",
-      "signal": "SOCIAL",
-      "summary": "재즈 슈즈는 나오미 왓츠 등 셀러브리티 착장과 9개 브랜드 편성 기록을 남겼지만, 현재 7일 범위에서 새 독립 노출이나 수요 지표가 확인되지 않아 상승 판단을 보류합니다.",
-      "detail": "8월 21일 Who What Wear의 나오미 왓츠·Gracie Abrams·Lily Collins 착장과 9개 브랜드 편성은 기존 흐름을 뒷받침합니다. 그러나 8월 22~28일 별도 공개 Instagram 반복, 플랫폼 검색 순위, 판매량을 추가로 확인하지 못해 기존 항목을 보존하되 방향을 HOLD로 조정했습니다.",
+      "signal": "DEMAND",
+      "summary": "H&M 40달러 재즈 슈즈가 공식 사이트에서 대부분 사이즈 품절로 관측되고, 셀러브리티 반복 착장과 9개 브랜드 편성이 이어져 수요 신호가 다시 강해졌습니다.",
+      "detail": "8월 30일 Who What Wear는 H&M 레이스업 발레 플랫이 H&M 공식 사이트에서 대부분 사이즈 품절이라고 보도했습니다. Celine 제품의 반복 품절, Gracie Abrams·Charlize Theron·Naomi Watts·Lily Collins의 착장, H&M 외 8개 브랜드 상품 편성도 함께 확인됐습니다. 이는 공개 재고·반복 노출 신호이며 판매량이나 판매 순위를 뜻하지 않습니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
@@ -264,6 +268,10 @@
         {
           "label": "WHO WHAT WEAR · JAZZ SHOES FOLLOW-UP",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/fall-jazz-flats-outfit-naomi-watts"
+        },
+        {
+          "label": "WHO WHAT WEAR · H&M JAZZ SHOES / MOST SIZES SOLD OUT",
+          "url": "https://www.whowhatwear.com/fashion/shoes/hm-jazz-shoe-trend-2026"
         }
       ]
     },
