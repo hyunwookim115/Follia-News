@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T08:31:50+09:00",
+  "generatedAt": "2026-09-01T08:39:48+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -135,11 +135,11 @@
       "id": "live-heeled-thong-sandals",
       "keyword": "HEEL-DRESSED THONG SANDALS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL / KOREA",
       "signal": "DEMAND",
-      "summary": "힐 플립플랍이 기존 Lyst 인기 상품 순위와 셀러브리티 착장에 이어, 8월 24~25일 동일 착장의 독립 매체 후속 보도와 다수 브랜드 편성으로 재확인됐습니다.",
-      "detail": "기존 Gucci 비토리아 Lyst Q2 4위와 Massimo Dutti 미드힐 토 샌들 6위, 8월 15일 Daniela Avanzini 착장에 이어, 8월 24일 Who What Wear가 Dakota Fanning의 키튼힐 플립플랍 착장과 5개 브랜드 상품을 편성했고 8월 25일 Footwear News가 같은 착장을 별도 보도했습니다. 새 근거는 매체 반복 노출과 리테일 편성이지 공개 판매량은 아니므로 수요 수치로 환산하지 않았습니다.",
+      "summary": "기존 Lyst 인기 상품 순위와 8월 24~25일 셀러브리티 노출은 남아 있지만, 최근 7일 범위에서 추가 검색·판매·반복 착장 근거가 이어지지 않아 상승 판단을 보류합니다.",
+      "detail": "Gucci 비토리아 Lyst Q2 4위, Massimo Dutti 미드힐 토 샌들 6위와 8월 24~25일 Dakota Fanning 후속 보도는 기존 수요를 뒷받침합니다. 그러나 8월 26~31일 공개 Google Trends 수치, 플랫폼 판매 순위·판매량, 독립 Instagram 반복 노출을 새로 확인하지 못했고, 8월 30일 Zoë Kravitz 착장은 힐 플립플랍 대신 러버 슬라이드로 이동했습니다. 기존 항목은 보존하되 방향을 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · LYST #4 GUCCI VITTORIA",
@@ -172,6 +172,10 @@
         {
           "label": "FOOTWEAR NEWS · THONG SANDAL FOLLOW-UP",
           "url": "https://wwd.com/footwear-news/shoe-trends/dakota-fanning-polo-ralph-lauren-commercial-thong-sandal-1239148841/"
+        },
+        {
+          "label": "MARIE CLAIRE · ZOË KRAVITZ RUBBER-SLIDE COUNTER-SIGNAL",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/zoe-kravitz-rubber-slides-adidas-shorts-vintage-baseball-cap-the-row-bag/"
         }
       ]
     },
@@ -307,11 +311,11 @@
       "id": "live-talisman-charm-stacks",
       "keyword": "TALISMAN CHARM STACKS",
       "category": "ACCESSORY",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "상징·별자리 참을 겹쳐 착용하는 주얼리가 TikTok 확산 보도, 셀러브리티 착장, 공개 Instagram 반복 게시와 국내 상품 노출에서 동시에 포착됐습니다.",
-      "detail": "8월 26일 Vita는 Alex Consani를 앞세운 30종 이상의 별자리·메달리온 참 드롭을 다뤘고, 8월 28일 InStyle은 같은 착장을 TikTok에서 확산 중인 위미지컬 액세서리 흐름으로 보도했습니다. 공개 Instagram에도 별도 계정의 컬렉션 게시물이 반복됐으며 무신사에는 8월 19일 등록된 탈리스만 참 목걸이와 누적 후기 11개가 확인됩니다. 후기 수는 최근 7일 판매량이 아니므로 수요 증가 수치로 해석하지 않았습니다.",
+      "summary": "상징·별자리 참 주얼리가 Alex Consani에 이어 Olivia Rodrigo의 무대 착장과 독립 매체·공개 Instagram에서 재노출돼 상승 흐름으로 전환했습니다.",
+      "detail": "8월 26~28일 Pandora 탈리스만 컬렉션, Alex Consani 착장과 공개 Instagram 게시에 이어 Olivia Rodrigo가 8월 29일 Daisy Chain Fields 무대에서 Pyrrha x Sarah McLachlan ‘Lilith’ 탈리스만 목걸이를 착용했습니다. 8월 30일 Marie Claire와 8월 31일 InStyle이 이를 별도로 보도했고 공개 착장 계정에도 제품명이 노출됐습니다. 반복 소셜·매체 신호이며 판매량이나 검색 순위 상승을 뜻하지 않습니다.",
       "sources": [
         {
           "label": "INSTYLE · ALEX CONSANI / TIKTOK WHIMSY",
@@ -332,6 +336,18 @@
         {
           "label": "MUSINSA · TALISMAN CHARM NECKLACE / 11 REVIEWS",
           "url": "https://www.musinsa.com/products/6635844"
+        },
+        {
+          "label": "MARIE CLAIRE · OLIVIA RODRIGO TALISMAN",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/olivia-rodrigo-daisy-chain-fields-white-lace-mini-dress-lace-up-boots/"
+        },
+        {
+          "label": "INSTYLE · OLIVIA RODRIGO TALISMAN FOLLOW-UP",
+          "url": "https://www.instyle.com/look-of-the-day-2026-08-31-12074416"
+        },
+        {
+          "label": "INSTAGRAM · OLIVIA RODRIGO TALISMAN ID",
+          "url": "https://www.instagram.com/p/DctPGlwiMGi/"
         }
       ]
     }
