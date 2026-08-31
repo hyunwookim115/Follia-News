@@ -1,113 +1,289 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-31T08:06:10+09:00",
-  "briefingDate": "2026-08-31",
+  "generatedAt": "2026-09-01T08:04:54+09:00",
+  "briefingDate": "2026-09-01",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-08-31-oscar-de-la-renta-wedding",
+      "id": "2026-09-01-cahiers-2027ss",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "TENANT news",
+      "sourceUrl": "https://tnnews.co.kr/archives/292386",
+      "date": "2026-08-31",
+      "title": "까이에 2027 SS, 1980년대 생트로페를 경량 소재로 재구성",
+      "summary": "까이에는 9월 4일 서울패션위크에서 ‘생트로페의 황금 시간’을 주제로 2027 S/S 컬렉션을 공개한다. 단단한 어깨 패드와 강한 심지 대신 크링클 시폰·리넨·실크·코튼 포플린을 사용해 1980년대의 화려한 조형감과 부피를 가볍게 구현하고, 샌드부터 코랄·딥 레드·인디고로 이어지는 팔레트를 구성했다.",
+      "keywords": [
+        "까이에",
+        "2027 SS",
+        "서울패션위크",
+        "크링클 시폰",
+        "생트로페"
+      ]
+    },
+    {
+      "id": "2026-09-01-lie-2027ss",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "TENANT news",
+      "sourceUrl": "https://tnnews.co.kr/archives/292260",
+      "date": "2026-08-31",
+      "title": "라이 2027 SS, 투과 소재와 재생 섬유로 ‘두 번째 피부’ 설계",
+      "summary": "라이는 ‘SECOND SKIN: FILTERING LIGHT’를 주제로 정교한 절개와 입체적 레이어링을 적용한 2027 S/S 컬렉션을 9월 2일 공개한다. 메쉬와 시어 직물로 투과도에 따른 그라데이션과 그림자 패턴을 만들고, 리사이클 나일론·폴리에스터를 사용했으며 인수스와 고기능성 소재를 재구성하고 정윤희 작가와 폐자원을 업사이클링했다.",
+      "keywords": [
+        "라이",
+        "2027 SS",
+        "시어 소재",
+        "리사이클 나일론",
+        "레이어링"
+      ]
+    },
+    {
+      "id": "2026-09-01-ib-kamara-off-white",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-final-fitting-claudia-sulewski",
-      "date": "2026-08-30",
-      "title": "Oscar de la Renta, 아카이브와 소재 변주로 네 벌의 커스텀 웨딩 룩 제작",
-      "summary": "Oscar de la Renta는 클라우디아 술레브스키의 웨딩 주말을 위해 리허설 디너·세리머니·리셉션·애프터파티용 네 벌을 맞춤 제작했다. 세리머니 룩은 아이보리 실크 파유 소재의 드롭웨이스트 보디스와 구조적인 플리츠 스커트, 트레인까지 이어지는 비대칭 스카프 네크피스로 구성했고, 리셉션 드레스에는 업사이클 깃털로 만든 조형적 페플럼과 크리스털 비즈를 적용했다.",
+      "sourceUrl": "https://www.vogue.com/article/ib-kamara-departs-off-white",
+      "date": "2026-08-31",
+      "title": "이브 카마라, 오프화이트 크리에이티브 디렉터에서 퇴임",
+      "summary": "이브 카마라는 버질 아블로의 뒤를 이어 오프화이트의 크리에이티브를 이끈 지 4년 만에 브랜드를 떠났다. 그는 2019년 스타일리스트로 오프화이트와 협업을 시작해 2024년 크리에이티브 디렉터가 됐으며, 같은 해 9월 뉴욕에서 첫 크리에이티브 디렉터 쇼를 열었다.",
       "keywords": [
-        "Oscar de la Renta",
-        "커스텀 웨딩",
-        "실크 파유",
-        "플리츠",
-        "업사이클 깃털"
+        "이브 카마라",
+        "오프화이트",
+        "크리에이티브 디렉터",
+        "브랜드 리더십"
       ]
     },
     {
-      "id": "2026-08-31-29cm-overdue-withoutsummer",
+      "id": "2026-09-01-ambush-barbie",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/yoon-ahn-ambush-barbie-collaboration-interview",
+      "date": "2026-08-31",
+      "title": "AMBUSH × Barbie, 애니메이션과 SF에서 출발한 휴머노이드 디자인",
+      "summary": "AMBUSH의 윤 안은 브랜드의 세계관을 의상으로 직접 복제하지 않고 휴머노이드 캐릭터 ‘Prototype 001’로 구현한 바비를 디자인했다. 금발 히메 컷과 분홍색 헤드셋, 은색 보디 아머, 사이보그 고양이를 조합했으며 애니메이션 캐릭터 유니폼과 SF 영화, 아티스트 마리코 모리의 작업에서 영감을 얻었다.",
+      "keywords": [
+        "AMBUSH",
+        "Barbie",
+        "윤 안",
+        "휴머노이드",
+        "캐릭터 디자인"
+      ]
+    },
+    {
+      "id": "2026-09-01-fall-2026-fantasy-trends",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE KOREA",
+      "sourceUrl": "https://www.vogue.co.kr/2026/08/31/%ED%8C%90%ED%83%80%EC%A7%80%EC%99%80-%ED%98%84%EC%8B%A4%EC%9D%84-%EC%98%A4%EA%B0%80%EB%8A%94-2026-%EA%B0%80%EC%9D%84-%EA%B2%A8%EC%9A%B8-%EC%A3%BC%EC%9A%94-%ED%8A%B8%EB%A0%8C%EB%93%9C/",
+      "date": "2026-08-31",
+      "title": "2026 F/W, 판타지 소재와 일상형 레이디라이크가 병행",
+      "summary": "2026 F/W 런웨이에서는 로에베의 시트러스 색조 3D 프린트 라텍스 드레스와 곰 인형 같은 질감, 구명조끼에서 영감받은 아우터처럼 판타지적 소재와 형태가 등장했다. 동시에 디올은 바 재킷을 루스한 청바지와 조합했고, 샤넬은 부클레를 박시한 컷으로 풀어 전통적인 레이디라이크 실루엣을 일상적인 방향으로 바꿨다.",
+      "keywords": [
+        "2026 FW",
+        "3D 프린트 라텍스",
+        "레이디라이크",
+        "바 재킷",
+        "부클레"
+      ]
+    },
+    {
+      "id": "2026-09-01-ugg-willy-chavarria",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1543812199908463321",
+      "date": "2026-08-31",
+      "title": "무신사 신호: UGG × Willy Chavarria 첫 바이커 캡슐",
+      "summary": "UGG와 Willy Chavarria의 첫 협업은 바이커 부츠·릴랙스드 부츠·호텔 차바리아 슬리퍼 등 다섯 가지 풋웨어와 티셔츠·양말로 구성된다. 풀그레인 가죽과 크롬 하드웨어에 시어링 안감을 대비시키고 슬리퍼에는 시그니처 크레스트 자수를 적용했으며, 9월 10일 공식 채널과 일부 글로벌 리테일러에서 출시한다.",
+      "keywords": [
+        "UGG",
+        "Willy Chavarria",
+        "바이커 부츠",
+        "풀그레인 가죽",
+        "시어링"
+      ]
+    },
+    {
+      "id": "2026-09-01-supersub-mihol",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1541691375028828902",
+      "date": "2026-08-31",
+      "title": "무신사 신호: 슈퍼서브 × 미홀, 레이어링을 제품 구조로 전개",
+      "summary": "슈퍼서브와 패션 크리에이터 미홀은 ‘WEAR IT YOUR WAY’를 메시지로 FW26 협업 컬렉션을 구성했다. 스트라이프·그래픽·크롭 실루엣을 연결하고, 배색 레이어드 긴소매 티셔츠 세트와 와플 조직·헨리넥·후드를 결합한 크롭 티셔츠 등 여러 방식으로 겹쳐 입을 수 있는 제품을 제안했다.",
+      "keywords": [
+        "슈퍼서브",
+        "미홀",
+        "FW26",
+        "레이어링",
+        "크롭 실루엣"
+      ]
+    },
+    {
+      "id": "2026-09-01-bose-rhombus-lab",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/30/1st?cache=true",
-      "date": "2026-08-30",
-      "title": "29CM, 오버듀플레어·위드아웃썸머 가을 상품 편성",
-      "summary": "29CM는 오버듀플레어와 위드아웃썸머를 라이징 브랜드로 묶어 8월 30일부터 9월 5일까지 소개한다. 오버듀플레어에서는 라운드 네크라인과 스탠더드 기장의 네이비 울 카디건을, 위드아웃썸머에서는 빈티지 레더와 넉넉한 핏을 적용한 하프 기장 재킷을 추천 상품으로 제시했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/08/bose-rhombuslab?cache=true",
+      "date": "2026-08-31",
+      "title": "29CM 신호: Bose × Rhombus Lab, 헤드폰 휴대 구조를 협업 상품으로 설계",
+      "summary": "Bose와 Rhombus Lab은 QC 헤드폰 2세대를 일상에서 휴대하는 방식을 중심으로 29CM 단독 협업 라인업을 구성했다. 헤드폰을 안전하게 수납하는 미니 버킷백과 손쉽게 거치하는 폴딩 후크를 제작했으며, 해당 에디션은 8월 31일부터 9월 13일까지 소개된다.",
       "keywords": [
+        "Bose",
+        "Rhombus Lab",
         "29CM",
-        "오버듀플레어",
-        "위드아웃썸머",
-        "울 카디건",
-        "레더 재킷"
+        "미니 버킷백",
+        "폴딩 후크"
       ]
     },
     {
-      "id": "2026-08-31-29cm-etobe-sein",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/30/3rd",
-      "date": "2026-08-30",
-      "title": "29CM, 에토브·세인의 가을 아우터와 쉬어 셔츠 조명",
-      "summary": "29CM는 미니멀한 구조에 로맨틱한 감성을 더한 에토브와 파스텔톤의 페미닌 데일리웨어를 제안하는 세인을 함께 소개했다. 에토브의 컨버터블 레더 블루종은 볼륨 소매와 여유 있는 핏을, 세인의 쉬어 셔츠는 은은하게 비치는 결감과 사계절 활용성을 특징으로 한다.",
-      "keywords": [
-        "29CM",
-        "에토브",
-        "세인",
-        "레더 블루종",
-        "쉬어 셔츠"
-      ]
-    },
-    {
-      "id": "2026-08-31-shinsegae-autumn-silhouette",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "뉴시스",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260830_0003768485",
-      "date": "2026-08-31 06:00 KST",
-      "title": "신세계백화점, 130여 패션·잡화 브랜드의 26FW 프로모션 편성",
-      "summary": "신세계백화점은 9월 13일까지 전 점포에서 ‘어텀 실루엣’을 열고 130여 패션·잡화 브랜드를 편성했다. 질스튜어트 뉴욕·A.P.C·바버·알레그리의 26FW 할인과 송지오옴므·맨온더분의 구매 혜택, 헌치·룩캐스트·틸아이다이의 가을 신상품 프로모션을 진행한다.",
-      "keywords": [
-        "신세계백화점",
-        "어텀 실루엣",
-        "26FW",
-        "패션 프로모션",
-        "가을 신상품"
-      ]
-    },
-    {
-      "id": "2026-08-31-house-in-shichiku",
+      "id": "2026-09-01-akina-house",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184079/house-in-shichiku",
-      "date": "2026-08-30",
-      "title": "House in Shichiku, 회전 배치와 반사 천장으로 협소 대지의 빛 확장",
-      "summary": "Tato Architects는 교토의 협소한 깃발형 대지에서 직사각형 평면을 경계와 비스듬히 배치해 네 모서리에 서로 다른 깊이와 빛을 가진 정원을 만들었다. 2,020mm 높이의 낮은 천장을 은색 반사면으로 처리하고, 중앙 보이드 위에는 식탁·책상·작업대로 쓸 수 있는 2.4m 정사각형 테이블을 놓았다.",
+      "sourceUrl": "https://www.archdaily.com/1184279/akina-house-di-frenna-arquitectos",
+      "date": "2026-08-31",
+      "title": "Akina House, 콘크리트·석재·가구를 단일 재료 체계로 통합",
+      "summary": "Di Frenna Arquitectos는 콘크리트와 석재, 격자, 카운터·선반·진열면을 하나의 색조와 건축 체계로 묶어 Akina House를 설계했다. 대형 유리 패널과 철골 구조로 테라스에서 실내외 경계를 열고, 문·가구·직물에 절제된 목재를 사용해 콘크리트 중심의 실내를 부드럽게 조정했다.",
       "keywords": [
-        "House in Shichiku",
-        "Tato Architects",
-        "협소 대지",
-        "반사 천장",
-        "다목적 테이블"
+        "Akina House",
+        "콘크리트",
+        "석재",
+        "격자",
+        "통합 가구"
       ]
     },
     {
-      "id": "2026-08-31-borolo",
+      "id": "2026-09-01-house-of-monitors",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
-      "date": "2026-08-30",
-      "title": "Boroló, 공동생활 공간에 버번 레드와 촉감 소재 적용",
-      "summary": "Boroló는 1인 가구·학생·젊은 전문직을 위한 콤팩트 주거에 업무·조리·휴식·모임용 공용 공간을 결합했다. 실내는 버번 레드를 중심으로 벨벳, 천연 가죽, 플로르 모라도 목재 톤을 구성해 동선과 테라스를 일상적인 만남의 공간으로 만들었다.",
+      "sourceUrl": "https://www.archdaily.com/1183895/house-of-monitors-williamson-williamson",
+      "date": "2026-08-31",
+      "title": "House of Monitors, 작업실 채광과 구조 재료를 하나의 실내 장치로 구성",
+      "summary": "Williamson Williamson은 콘크리트 코어를 구조·흙막이·열질량으로 활용하고, 동선과 주요 실내에는 목재 밀워크를 적용해 원재료의 대비를 드러냈다. 중앙 회화 작업실에는 가상 채광 시뮬레이션을 거쳐 북향 클리어스토리와 곡면 천장을 설치했고, 흰색 라이트 모니터로 자연광을 평면 깊숙이 유입시켰다.",
       "keywords": [
-        "Boroló",
-        "공동생활",
-        "버번 레드",
-        "벨벳",
-        "플로르 모라도"
+        "House of Monitors",
+        "작업실",
+        "클리어스토리",
+        "콘크리트 코어",
+        "목재 밀워크"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-08-31T08:06:10+09:00",
+      "briefingDate": "2026-08-31",
+      "generatedAt": "2026-08-31T08:06:10+09:00",
+      "cards": [
+        {
+          "id": "2026-08-31-oscar-de-la-renta-wedding",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-final-fitting-claudia-sulewski",
+          "date": "2026-08-30",
+          "title": "Oscar de la Renta, 아카이브와 소재 변주로 네 벌의 커스텀 웨딩 룩 제작",
+          "summary": "Oscar de la Renta는 클라우디아 술레브스키의 웨딩 주말을 위해 리허설 디너·세리머니·리셉션·애프터파티용 네 벌을 맞춤 제작했다. 세리머니 룩은 아이보리 실크 파유 소재의 드롭웨이스트 보디스와 구조적인 플리츠 스커트, 트레인까지 이어지는 비대칭 스카프 네크피스로 구성했고, 리셉션 드레스에는 업사이클 깃털로 만든 조형적 페플럼과 크리스털 비즈를 적용했다.",
+          "keywords": [
+            "Oscar de la Renta",
+            "커스텀 웨딩",
+            "실크 파유",
+            "플리츠",
+            "업사이클 깃털"
+          ]
+        },
+        {
+          "id": "2026-08-31-29cm-overdue-withoutsummer",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/30/1st?cache=true",
+          "date": "2026-08-30",
+          "title": "29CM, 오버듀플레어·위드아웃썸머 가을 상품 편성",
+          "summary": "29CM는 오버듀플레어와 위드아웃썸머를 라이징 브랜드로 묶어 8월 30일부터 9월 5일까지 소개한다. 오버듀플레어에서는 라운드 네크라인과 스탠더드 기장의 네이비 울 카디건을, 위드아웃썸머에서는 빈티지 레더와 넉넉한 핏을 적용한 하프 기장 재킷을 추천 상품으로 제시했다.",
+          "keywords": [
+            "29CM",
+            "오버듀플레어",
+            "위드아웃썸머",
+            "울 카디건",
+            "레더 재킷"
+          ]
+        },
+        {
+          "id": "2026-08-31-29cm-etobe-sein",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/highlight/2026/08/30/3rd",
+          "date": "2026-08-30",
+          "title": "29CM, 에토브·세인의 가을 아우터와 쉬어 셔츠 조명",
+          "summary": "29CM는 미니멀한 구조에 로맨틱한 감성을 더한 에토브와 파스텔톤의 페미닌 데일리웨어를 제안하는 세인을 함께 소개했다. 에토브의 컨버터블 레더 블루종은 볼륨 소매와 여유 있는 핏을, 세인의 쉬어 셔츠는 은은하게 비치는 결감과 사계절 활용성을 특징으로 한다.",
+          "keywords": [
+            "29CM",
+            "에토브",
+            "세인",
+            "레더 블루종",
+            "쉬어 셔츠"
+          ]
+        },
+        {
+          "id": "2026-08-31-shinsegae-autumn-silhouette",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "뉴시스",
+          "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260830_0003768485",
+          "date": "2026-08-31 06:00 KST",
+          "title": "신세계백화점, 130여 패션·잡화 브랜드의 26FW 프로모션 편성",
+          "summary": "신세계백화점은 9월 13일까지 전 점포에서 ‘어텀 실루엣’을 열고 130여 패션·잡화 브랜드를 편성했다. 질스튜어트 뉴욕·A.P.C·바버·알레그리의 26FW 할인과 송지오옴므·맨온더분의 구매 혜택, 헌치·룩캐스트·틸아이다이의 가을 신상품 프로모션을 진행한다.",
+          "keywords": [
+            "신세계백화점",
+            "어텀 실루엣",
+            "26FW",
+            "패션 프로모션",
+            "가을 신상품"
+          ]
+        },
+        {
+          "id": "2026-08-31-house-in-shichiku",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184079/house-in-shichiku",
+          "date": "2026-08-30",
+          "title": "House in Shichiku, 회전 배치와 반사 천장으로 협소 대지의 빛 확장",
+          "summary": "Tato Architects는 교토의 협소한 깃발형 대지에서 직사각형 평면을 경계와 비스듬히 배치해 네 모서리에 서로 다른 깊이와 빛을 가진 정원을 만들었다. 2,020mm 높이의 낮은 천장을 은색 반사면으로 처리하고, 중앙 보이드 위에는 식탁·책상·작업대로 쓸 수 있는 2.4m 정사각형 테이블을 놓았다.",
+          "keywords": [
+            "House in Shichiku",
+            "Tato Architects",
+            "협소 대지",
+            "반사 천장",
+            "다목적 테이블"
+          ]
+        },
+        {
+          "id": "2026-08-31-borolo",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184067/borolo-ar-ar-martinez-arquitectura-y-paisaje-plus-maria-paula-gonzalez-bozzi",
+          "date": "2026-08-30",
+          "title": "Boroló, 공동생활 공간에 버번 레드와 촉감 소재 적용",
+          "summary": "Boroló는 1인 가구·학생·젊은 전문직을 위한 콤팩트 주거에 업무·조리·휴식·모임용 공용 공간을 결합했다. 실내는 버번 레드를 중심으로 벨벳, 천연 가죽, 플로르 모라도 목재 톤을 구성해 동선과 테라스를 일상적인 만남의 공간으로 만들었다.",
+          "keywords": [
+            "Boroló",
+            "공동생활",
+            "버번 레드",
+            "벨벳",
+            "플로르 모라도"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-30T08:00:42.155+09:00",
       "briefingDate": "2026-08-30",
