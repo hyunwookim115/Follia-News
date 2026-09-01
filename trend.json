@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T08:39:48+09:00",
+  "generatedAt": "2026-09-02T08:44:52+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -186,8 +186,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "트랙 팬츠·재킷의 셀러브리티 반복 착장 뒤 8월 29일 스포티 재킷이 별도 후속 신호와 3개 브랜드 편성으로 재확인돼 상승으로 전환했습니다.",
-      "detail": "8월 25~26일 Elsa Hosk·Hailey Bieber·Rihanna·Jennifer Lawrence·Gwyneth Paltrow 등의 트랙웨어 착장에 이어 8월 29일 Who What Wear가 여러 셀러브리티에게서 스포티 재킷을 반복 관찰했다고 밝히고 Ronny Kobo·Eaves·Agolde 3개 상품을 편성했습니다. 공개 판매량이나 검색 순위는 아니므로 반복 소셜·리테일 편성 신호로만 해석했습니다.",
+      "summary": "트랙 팬츠·스포티 재킷의 반복 착장에 이어, 9월 1일 sportif 스타일이 SZA·Olivia Rodrigo 및 다수 브랜드 사례로 다시 묶여 상승 흐름이 이어졌습니다.",
+      "detail": "8월 25~29일 Elsa Hosk·Hailey Bieber·Rihanna·Jennifer Lawrence 등의 트랙웨어 착장과 상품 편성 뒤, 9월 1일 Byrdie가 SZA·Olivia Rodrigo의 스포츠 믹스와 Miu Miu·Gucci·Ralph Lauren의 오버사이즈 폴로·로고 트랙 팬츠 사례를 함께 제시했습니다. 이는 반복 매체·착장·브랜드 편성 신호이며 공개 검색량이나 판매량은 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -208,6 +208,10 @@
         {
           "label": "WHO WHAT WEAR · SPORTY JACKETS / 3 RETAIL PICKS",
           "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
+        },
+        {
+          "label": "BYRDIE · SPORTIF / CELEBRITY + BRAND REPEAT",
+          "url": "https://www.byrdie.com/sportif-aesthetic-fashion-trend-12064016"
         }
       ]
     },
@@ -218,8 +222,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "셀러브리티의 넉넉한 가방 착장과 15개 상품 편성 뒤, 8월 29일 오버사이즈 슬라우치 클러치 4종이 후속 편성돼 상승 흐름으로 전환했습니다.",
-      "detail": "8월 22~26일 Julia Roberts·Angelina Jolie·Katie Holmes·Zoë Kravitz 착장과 Harper’s Bazaar의 15개 슬라우치 백 편성에 이어 8월 29일 Who What Wear가 마이크로 백의 대안으로 오버사이즈 슬라우치 클러치를 제시하고 Simon Miller·B-Low The Belt·Reformation·Staud 4종을 편성했습니다. 실제 판매량이나 검색 순위는 공개되지 않아 반복 편집·상품 편성 신호로만 기록했습니다.",
+      "summary": "셀러브리티의 넉넉한 가방 착장과 다수 상품 편성에 이어, 9월 1일 Dakota Johnson의 대형 슬라우치 토트와 후속 상품 노출이 추가됐습니다.",
+      "detail": "8월 26~29일 Zoë Kravitz 착장, Harper’s Bazaar의 15개 슬라우치 백과 오버사이즈 클러치 4종 편성에 이어, 9월 1일 People이 Dakota Johnson의 대형 스웨이드 토트 착장을 보도하고 유사 슬라우치 토트 상품들을 함께 제시했습니다. 가격·상품 편성은 확인되지만 공개 판매량이나 순위는 없어 반복 착장·플랫폼 노출 신호로만 기록했습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -248,6 +252,10 @@
         {
           "label": "WHO WHAT WEAR · SLOUCHY OVERSIZED CLUTCH / 4 PICKS",
           "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
+        },
+        {
+          "label": "PEOPLE · DAKOTA JOHNSON LARGE SLOUCHY TOTE",
+          "url": "https://people.com/dakota-johnson-suede-tote-bag-amazon-august-2026-12034952"
         }
       ]
     },
