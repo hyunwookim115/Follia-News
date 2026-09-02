@@ -1,181 +1,358 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-02T08:06:13+09:00",
-  "briefingDate": "2026-09-02",
+  "generatedAt": "2026-09-03T08:06:15.694+09:00",
+  "briefingDate": "2026-09-03",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-02-re-rhee-27ss",
+      "id": "2026-09-03-tenmonths-relaunch",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT NEWS",
-      "sourceUrl": "https://tnnews.co.kr/archives/292474",
-      "date": "2026-09-01",
-      "title": "리이 2027 S/S, ‘남겨진 것들의 가치’를 구조와 흔적으로 표현",
-      "summary": "리이는 2027 S/S 서울패션위크 오프닝쇼에서 ‘남겨진 것들의 가치’를 주제로 시간이 남긴 흔적의 아름다움을 풀어냈다. 구조적인 재킷과 셔츠에 티셔츠와 니트를 겹치고, 빛바랜 색·찢어진 가장자리·접착 흔적을 연상시키는 스티커 모티브를 컬렉션에 적용했다.",
+      "source": "매일경제",
+      "sourceUrl": "https://m.mk.co.kr/amp/12141955",
+      "date": "2026-09-02T08:48:40+09:00",
+      "title": "신세계인터내셔날, 텐먼스 3년 만에 재출시",
+      "summary": "신세계인터내셔날이 자체 디지털 플랫폼 신세계V에 여성복 브랜드 텐먼스를 약 3년 만에 다시 선보였다. 시즌리스 콘셉트를 유지하면서 소재·실루엣·디테일을 개선했으며, 무시접 봉제와 텐셀을 적용한 티셔츠, 사계절 니트, 동일 소재의 재킷·하의 시리즈를 구성하고 성수·강남·센텀시티 팝업을 순차 운영한다.",
       "keywords": [
-        "리이",
-        "2027 S/S",
-        "서울패션위크",
-        "구조적 테일러링",
-        "스티커 모티브"
+        "텐먼스",
+        "신세계인터내셔날",
+        "시즌리스",
+        "텐셀",
+        "오프라인 팝업"
       ]
     },
     {
-      "id": "2026-09-02-lie-sangbong-rebloom",
+      "id": "2026-09-03-musinsa-standard-japan",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT NEWS",
-      "sourceUrl": "https://tnnews.co.kr/archives/292534",
-      "date": "2026-09-01",
-      "title": "이상봉 2027 S/S ‘REBLOOM’, 40년 아카이브를 해체·재조립",
-      "summary": "이상봉은 데뷔 40주년 컬렉션 ‘REBLOOM’에서 자신의 디자인 아카이브를 현재의 시선으로 해체하고 재조립했다. 블랙 하네스와 벨트로 시작한 흐름은 블루 그래픽 테일러링, 반투명 소재와 노출 스티치, 프리다 칼로 이미지와 꽃 모티브로 전개됐다.",
+      "source": "TENANT news",
+      "sourceUrl": "https://tnnews.co.kr/archives/292575",
+      "date": "2026-09-02",
+      "title": "무신사 스탠다드, 일본 물류·팝업 연계 확대",
+      "summary": "무신사 스탠다드는 도쿄에서 세 차례 팝업을 전개하고 일본 현지 물류센터를 기반으로 2~3일 내 배송하는 스피드 배송을 도입했다. 8월 하라주쿠 팝업에서는 26FW ‘서울 스탠다드’ 캠페인의 블레이저와 슬랙스를 선보였고, 기사에 따르면 2026년 상반기 일본 거래액은 전년 동기 대비 595% 증가했다.",
       "keywords": [
-        "이상봉",
-        "REBLOOM",
-        "2027 S/S",
-        "아카이브",
-        "프리다 칼로"
+        "무신사 스탠다드",
+        "일본 유통",
+        "스피드 배송",
+        "하라주쿠 팝업",
+        "서울 스탠다드"
       ]
     },
     {
-      "id": "2026-09-02-holynumber7-way-maker",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "TENANT NEWS",
-      "sourceUrl": "https://tnnews.co.kr/archives/292512",
-      "date": "2026-09-01",
-      "title": "홀리넘버세븐 2027 S/S, 폐데님과 해체적 실루엣의 ‘WAY MAKER’",
-      "summary": "홀리넘버세븐은 2027 S/S 서울패션위크에서 새로운 길을 만드는 신념을 시각화한 ‘WAY MAKER’를 공개했다. 블랙·데님·레더·카무플라주를 구조적 테일러링과 비대칭 실루엣에 적용했으며, 폐데님을 새활용한 드레스와 스커트도 선보였다.",
-      "keywords": [
-        "홀리넘버세븐",
-        "WAY MAKER",
-        "폐데님",
-        "업사이클링",
-        "해체적 실루엣"
-      ]
-    },
-    {
-      "id": "2026-09-02-kris-van-assche-return",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE KOREA",
-      "sourceUrl": "https://www.vogue.co.kr/2026/09/01/%ED%81%AC%EB%A6%AC%EC%8A%A4-%EB%B0%98-%EC%95%84%EC%89%90-%EC%9E%90%EC%8B%A0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%ED%8C%A8%EC%85%98%EA%B3%84-%EB%B3%B5%EA%B7%80/",
-      "date": "2026-09-01",
-      "title": "크리스 반 아쉐, 재고 원단 기반의 젠더 통합 브랜드로 복귀",
-      "summary": "크리스 반 아쉐는 자신의 이름을 딴 브랜드를 다시 전개하며 남성복과 여성복을 함께 선보일 예정이다. 새 컬렉션은 재고 원단을 활용한 한정 수량 생산 방식을 택하고, 아카이브에서 영감을 얻어 남성적 요소와 여성적 요소를 혼합한다.",
-      "keywords": [
-        "크리스 반 아쉐",
-        "브랜드 복귀",
-        "재고 원단",
-        "한정 생산",
-        "젠더 통합"
-      ]
-    },
-    {
-      "id": "2026-09-02-allsaints-aaron-esh-reset",
+      "id": "2026-09-03-flora-animalia-bette-midler",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/can-aaron-esh-make-allsaints-cool-again",
-      "date": "2026-09-01",
-      "title": "아론 에쉬의 올세인츠, 디자인·조직·채널 전반 리셋",
-      "summary": "올세인츠 최고 크리에이티브 책임자 아론 에쉬는 McQueen·Marni·Burberry 출신 인력을 더해 아틀리에를 보강하고 디자인, 소셜미디어, 웹사이트를 함께 재구성했다. 9월 1일 공개한 DTC 제품군은 대부분 새 디자인으로 구성됐으며, 재피팅과 품질·가치 개선을 거쳤다.",
+      "sourceUrl": "https://www.vogue.com/article/bette-midler-flora-animalia-collaboration",
+      "date": "2026-09-02",
+      "title": "Flora Animalia × Bette Midler, 가드닝 캡슐 공개",
+      "summary": "LA 기반 Flora Animalia와 Bette Midler가 가드닝 의류와 테이블 리넨을 포함한 10피스 캡슐을 만들었다. 컬렉션에는 꽃 자수 앞치마, 여유로운 셔츠와 팬츠, 가먼트 다잉 꽃 모티프의 카프탄, 프린트 코튼 플레이스 세팅이 포함되며 의류는 LA 현장에서 봉제된다.",
       "keywords": [
-        "올세인츠",
-        "아론 에쉬",
-        "브랜드 리셋",
-        "아틀리에",
-        "DTC"
+        "Flora Animalia",
+        "Bette Midler",
+        "가드닝웨어",
+        "가먼트 다잉",
+        "로컬 생산"
       ]
     },
     {
-      "id": "2026-09-02-divein-moominseo",
+      "id": "2026-09-03-des-kohan-specialty-retail",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/how-des-kohan-became-las-under-the-radar-fashion-power-player",
+      "date": "2026-09-02",
+      "title": "Des Kohan, 독립 디자이너를 키우는 편집숍 운영법",
+      "summary": "LA 편집숍 Des Kohan은 21년간 세일 없이 운영했고, 매출의 85%가 오프라인에서 발생하며 상품의 약 80%를 희소 브랜드나 매장 전용 수정 제품으로 구성한다. 바이어 Desiree Kohan은 소재·색·실루엣을 디자이너와 함께 조정하고 재고를 작게 유지하며, VIP 고객에게 선공개·수선·스타일링·컨시어지 서비스를 제공한다.",
+      "keywords": [
+        "Des Kohan",
+        "독립 편집숍",
+        "바잉",
+        "공동 제품개발",
+        "VIP 리테일"
+      ]
+    },
+    {
+      "id": "2026-09-03-new-grunge-minimalism",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/the-new-grunge-minimalism",
+      "date": "2026-09-02",
+      "title": "2026년 그룬지, 시어 레이어와 디스트레스드 데님으로 변화",
+      "summary": "Vogue는 2026년 그룬지의 핵심을 오버사이즈 플란넬 대신 시어한 레이어, 디스트레스드 데님, 힘을 뺀 미니멀리즘으로 정리했다. 실크 톱과 거친 데님, 레이스 드레스와 낡은 진·군화, 가죽 셔츠와 슬립처럼 정제된 소재와 마모된 요소를 병치한 룩을 제시했다.",
+      "keywords": [
+        "그룬지",
+        "시어 레이어",
+        "디스트레스드 데님",
+        "소재 대비",
+        "미니멀리즘"
+      ]
+    },
+    {
+      "id": "2026-09-03-stone-island-beams",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1542772584600213628?contentCategoryCode=001001",
-      "date": "2026-09-01",
-      "title": "다이브인 × 무민서, 워싱 크롭과 레이어링으로 협업 확장",
-      "summary": "다이브인과 무민서는 크롭 실루엣과 레이어드에 초점을 맞춘 새 협업을 선보였다. 크롭 후드 제품에는 봉제 후 워싱과 아플리케 자수를 적용했고, 면·스판 혼방 레이어링 티셔츠와 14수 코튼에 바이오 워싱을 적용한 카고 팬츠를 구성했다.",
+      "sourceUrl": "https://www.musinsa.com/content/1544540513506427412?contentCategoryCode=015",
+      "date": "2026-09-02",
+      "title": "Stone Island × BEAMS, 크레이지 패턴 첫 협업",
+      "summary": "Stone Island와 BEAMS가 BEAMS 설립 50주년을 기념한 첫 협업 컬렉션을 공개했다. 재킷·팬츠·티셔츠에 여러 소재와 컬러를 조합하는 크레이지 패턴과 Stone Island의 가먼트 다잉을 결합해, 소재별 염료 흡수 차이로 미묘한 색조 변화를 구현했다.",
       "keywords": [
-        "다이브인",
-        "무민서",
-        "크롭 실루엣",
-        "레이어링",
-        "바이오 워싱"
+        "Stone Island",
+        "BEAMS",
+        "크레이지 패턴",
+        "가먼트 다잉",
+        "협업"
       ]
     },
     {
-      "id": "2026-09-02-luckychouette-yhyein",
+      "id": "2026-09-03-lookast-jehyungyung",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/luckychouette",
-      "date": "2026-09-01",
-      "title": "럭키슈에뜨 × 해삐 26FW, 레이어링 효과와 소재 포인트 강화",
-      "summary": "29CM는 럭키슈에뜨와 해삐의 26FW 협업 컬렉션을 단독 공개했다. 편안한 실루엣에 유니크한 소재와 디테일을 더했으며, 셔링 페이크 레더 점퍼와 배색 넥 레이어드 니트, 언밸런스 버튼 니트 등을 구성했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/lookast",
+      "date": "2026-09-02",
+      "title": "29CM, 룩캐스트 × 제현경 가을 캡슐 단독 전개",
+      "summary": "룩캐스트와 제현경의 26PF 캡슐 컬렉션이 29CM 29 EDITION에서 단독 공개됐다. 레더 텍스처 하이넥 점퍼, 코튼 혼방 하프 트렌치코트, 웜터치 헨리넥 톱으로 구성했으며, 소재와 피팅감의 조합에 따라 다른 인상을 내도록 기획했다.",
       "keywords": [
-        "럭키슈에뜨",
-        "해삐",
-        "29 EDITION",
-        "26FW",
-        "레이어링"
+        "29CM",
+        "룩캐스트",
+        "제현경",
+        "26PF",
+        "캡슐 컬렉션"
       ]
     },
     {
-      "id": "2026-09-02-childish-bootlab-katz",
+      "id": "2026-09-03-musinsa-standard-oheshio",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/childisharchive-bootlabkatz",
-      "date": "2026-09-01",
-      "title": "차일디쉬 아카이브 × 부트랩 카츠, 빈티지 그래픽을 일상복에 결합",
-      "summary": "차일디쉬 아카이브와 부트랩 카츠는 빈티지 그래픽 아카이브를 실용적인 일상복으로 재해석한 협업 컬렉션을 공개했다. 드롭 숄더 스웨트셔츠, 순면 티셔츠, 루즈한 스웨트팬츠를 네이비와 그레이 중심으로 구성해 29CM에서 단독 발매했다.",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1540265040411081668",
+      "date": "2026-09-02",
+      "title": "무신사 스탠다드 우먼 × 오헤시오, 22종 협업 컬렉션",
+      "summary": "무신사 스탠다드 우먼과 오헤시오가 꽃·버섯 그래픽을 간결한 실루엣에 적용한 협업 컬렉션을 무신사 단독으로 선보였다. 리버서블 다운 재킷, 플리스 풀오버, 스웨트 집업, 코트·스커트·팬츠와 비니·머플러까지 총 22종으로 구성했으며 자수와 프린트로 모티프를 확장했다.",
       "keywords": [
-        "차일디쉬 아카이브",
-        "부트랩 카츠",
-        "빈티지 그래픽",
-        "스웨트 셋업",
-        "29 EDITION"
+        "무신사",
+        "무신사 스탠다드 우먼",
+        "오헤시오",
+        "그래픽",
+        "리버서블"
       ]
     },
     {
-      "id": "2026-09-02-store-with-a-gap",
+      "id": "2026-09-03-artek-hender-scheme",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "WALLPAPER*",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
+      "date": "2026-09-02",
+      "title": "Artek × Hender Scheme, 가죽으로 재해석한 8개 제품",
+      "summary": "Artek과 Hender Scheme의 첫 협업은 핀란드산 자작나무와 식물성 무두질 가죽을 결합한 8개 제품으로 구성됐다. Stool 60과 테이블 상판을 가죽으로 감싸고 L-레그용 가구 ‘신발’을 만들었으며, A330 Golden Bell 펜던트에는 3D 프린트 몰드를 이용해 천연 가죽을 입혔다.",
+      "keywords": [
+        "Artek",
+        "Hender Scheme",
+        "Stool 60",
+        "식물성 무두질 가죽",
+        "가구 협업"
+      ]
+    },
+    {
+      "id": "2026-09-03-makers-barn",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184188/store-with-a-gap-studio-cadena",
-      "date": "2026-09-01",
-      "title": "Store With A Gap, 기존 건물을 비워 거리와 매장을 연결",
-      "summary": "Studio Cadena는 메데인의 기존 건물 전면 일부를 덜어내 보도를 내부로 연장하고, 리테일·무용 스튜디오·카페를 세 층에 겹쳐 배치했다. 타공 금속 스크린이 거리와 내부 사이의 빛·움직임·시야를 조절하며, 노출된 기존 구조와 이동식 가구·맞춤 목공이 유연한 실내를 만든다.",
+      "sourceUrl": "https://www.archdaily.com/1184288/the-makers-barn-hutch-design",
+      "date": "2026-09-02",
+      "title": "HUTCH design, 버려진 돈사를 70㎡ 주거로 전환",
+      "summary": "HUTCH design은 런던 외곽의 버려진 돈사를 수직 낙엽송 판재와 두꺼운 분홍빛 벽, 점토 천장으로 마감한 70㎡ 주거로 바꿨다. 내부에는 엔드그레인 목재 모자이크 바닥, 맞춤형 철제 팬 걸이를 갖춘 소형 주방, 미드센추리 모듈 소파와 현지 느릅나무 목공을 배치하고 반벽과 시선축으로 공간 간 흐름을 만들었다.",
       "keywords": [
-        "Studio Cadena",
+        "HUTCH design",
         "적응형 재사용",
-        "리테일 공간",
-        "타공 금속",
-        "공공 공간"
-      ]
-    },
-    {
-      "id": "2026-09-02-wanhua-yunlang-canteen",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184093/wanhua-green-heart-food-market-yunlang-canteen-xu-studio",
-      "date": "2026-09-01",
-      "title": "Wanhua 식당·마켓, 개방형 동선과 자연 소재로 커뮤니티 공간 구성",
-      "summary": "XU Studio는 충칭 주거 커뮤니티의 식당과 마켓에 접이식 문, 개방형 처마, 야외 좌석을 적용해 실내외 흐름을 연결했다. 투명 조리실부터 배식·셀프 반납까지 동선을 순서화하고, 패턴 벽돌 화분·원목 부스·라탄 조명·식재로 자연스러운 재료 구성을 만들었다.",
-      "keywords": [
-        "XU Studio",
-        "식당 인테리어",
-        "마켓",
-        "동선 설계",
-        "라탄"
+        "낙엽송",
+        "엔드그레인 바닥",
+        "맞춤형 주방"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-02T08:06:13+09:00",
+      "briefingDate": "2026-09-02",
+      "generatedAt": "2026-09-02T08:06:13+09:00",
+      "cards": [
+        {
+          "id": "2026-09-02-re-rhee-27ss",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT NEWS",
+          "sourceUrl": "https://tnnews.co.kr/archives/292474",
+          "date": "2026-09-01",
+          "title": "리이 2027 S/S, ‘남겨진 것들의 가치’를 구조와 흔적으로 표현",
+          "summary": "리이는 2027 S/S 서울패션위크 오프닝쇼에서 ‘남겨진 것들의 가치’를 주제로 시간이 남긴 흔적의 아름다움을 풀어냈다. 구조적인 재킷과 셔츠에 티셔츠와 니트를 겹치고, 빛바랜 색·찢어진 가장자리·접착 흔적을 연상시키는 스티커 모티브를 컬렉션에 적용했다.",
+          "keywords": [
+            "리이",
+            "2027 S/S",
+            "서울패션위크",
+            "구조적 테일러링",
+            "스티커 모티브"
+          ]
+        },
+        {
+          "id": "2026-09-02-lie-sangbong-rebloom",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT NEWS",
+          "sourceUrl": "https://tnnews.co.kr/archives/292534",
+          "date": "2026-09-01",
+          "title": "이상봉 2027 S/S ‘REBLOOM’, 40년 아카이브를 해체·재조립",
+          "summary": "이상봉은 데뷔 40주년 컬렉션 ‘REBLOOM’에서 자신의 디자인 아카이브를 현재의 시선으로 해체하고 재조립했다. 블랙 하네스와 벨트로 시작한 흐름은 블루 그래픽 테일러링, 반투명 소재와 노출 스티치, 프리다 칼로 이미지와 꽃 모티브로 전개됐다.",
+          "keywords": [
+            "이상봉",
+            "REBLOOM",
+            "2027 S/S",
+            "아카이브",
+            "프리다 칼로"
+          ]
+        },
+        {
+          "id": "2026-09-02-holynumber7-way-maker",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT NEWS",
+          "sourceUrl": "https://tnnews.co.kr/archives/292512",
+          "date": "2026-09-01",
+          "title": "홀리넘버세븐 2027 S/S, 폐데님과 해체적 실루엣의 ‘WAY MAKER’",
+          "summary": "홀리넘버세븐은 2027 S/S 서울패션위크에서 새로운 길을 만드는 신념을 시각화한 ‘WAY MAKER’를 공개했다. 블랙·데님·레더·카무플라주를 구조적 테일러링과 비대칭 실루엣에 적용했으며, 폐데님을 새활용한 드레스와 스커트도 선보였다.",
+          "keywords": [
+            "홀리넘버세븐",
+            "WAY MAKER",
+            "폐데님",
+            "업사이클링",
+            "해체적 실루엣"
+          ]
+        },
+        {
+          "id": "2026-09-02-kris-van-assche-return",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE KOREA",
+          "sourceUrl": "https://www.vogue.co.kr/2026/09/01/%ED%81%AC%EB%A6%AC%EC%8A%A4-%EB%B0%98-%EC%95%84%EC%89%90-%EC%9E%90%EC%8B%A0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%ED%8C%A8%EC%85%98%EA%B3%84-%EB%B3%B5%EA%B7%80/",
+          "date": "2026-09-01",
+          "title": "크리스 반 아쉐, 재고 원단 기반의 젠더 통합 브랜드로 복귀",
+          "summary": "크리스 반 아쉐는 자신의 이름을 딴 브랜드를 다시 전개하며 남성복과 여성복을 함께 선보일 예정이다. 새 컬렉션은 재고 원단을 활용한 한정 수량 생산 방식을 택하고, 아카이브에서 영감을 얻어 남성적 요소와 여성적 요소를 혼합한다.",
+          "keywords": [
+            "크리스 반 아쉐",
+            "브랜드 복귀",
+            "재고 원단",
+            "한정 생산",
+            "젠더 통합"
+          ]
+        },
+        {
+          "id": "2026-09-02-allsaints-aaron-esh-reset",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/can-aaron-esh-make-allsaints-cool-again",
+          "date": "2026-09-01",
+          "title": "아론 에쉬의 올세인츠, 디자인·조직·채널 전반 리셋",
+          "summary": "올세인츠 최고 크리에이티브 책임자 아론 에쉬는 McQueen·Marni·Burberry 출신 인력을 더해 아틀리에를 보강하고 디자인, 소셜미디어, 웹사이트를 함께 재구성했다. 9월 1일 공개한 DTC 제품군은 대부분 새 디자인으로 구성됐으며, 재피팅과 품질·가치 개선을 거쳤다.",
+          "keywords": [
+            "올세인츠",
+            "아론 에쉬",
+            "브랜드 리셋",
+            "아틀리에",
+            "DTC"
+          ]
+        },
+        {
+          "id": "2026-09-02-divein-moominseo",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1542772584600213628?contentCategoryCode=001001",
+          "date": "2026-09-01",
+          "title": "다이브인 × 무민서, 워싱 크롭과 레이어링으로 협업 확장",
+          "summary": "다이브인과 무민서는 크롭 실루엣과 레이어드에 초점을 맞춘 새 협업을 선보였다. 크롭 후드 제품에는 봉제 후 워싱과 아플리케 자수를 적용했고, 면·스판 혼방 레이어링 티셔츠와 14수 코튼에 바이오 워싱을 적용한 카고 팬츠를 구성했다.",
+          "keywords": [
+            "다이브인",
+            "무민서",
+            "크롭 실루엣",
+            "레이어링",
+            "바이오 워싱"
+          ]
+        },
+        {
+          "id": "2026-09-02-luckychouette-yhyein",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/luckychouette",
+          "date": "2026-09-01",
+          "title": "럭키슈에뜨 × 해삐 26FW, 레이어링 효과와 소재 포인트 강화",
+          "summary": "29CM는 럭키슈에뜨와 해삐의 26FW 협업 컬렉션을 단독 공개했다. 편안한 실루엣에 유니크한 소재와 디테일을 더했으며, 셔링 페이크 레더 점퍼와 배색 넥 레이어드 니트, 언밸런스 버튼 니트 등을 구성했다.",
+          "keywords": [
+            "럭키슈에뜨",
+            "해삐",
+            "29 EDITION",
+            "26FW",
+            "레이어링"
+          ]
+        },
+        {
+          "id": "2026-09-02-childish-bootlab-katz",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/childisharchive-bootlabkatz",
+          "date": "2026-09-01",
+          "title": "차일디쉬 아카이브 × 부트랩 카츠, 빈티지 그래픽을 일상복에 결합",
+          "summary": "차일디쉬 아카이브와 부트랩 카츠는 빈티지 그래픽 아카이브를 실용적인 일상복으로 재해석한 협업 컬렉션을 공개했다. 드롭 숄더 스웨트셔츠, 순면 티셔츠, 루즈한 스웨트팬츠를 네이비와 그레이 중심으로 구성해 29CM에서 단독 발매했다.",
+          "keywords": [
+            "차일디쉬 아카이브",
+            "부트랩 카츠",
+            "빈티지 그래픽",
+            "스웨트 셋업",
+            "29 EDITION"
+          ]
+        },
+        {
+          "id": "2026-09-02-store-with-a-gap",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184188/store-with-a-gap-studio-cadena",
+          "date": "2026-09-01",
+          "title": "Store With A Gap, 기존 건물을 비워 거리와 매장을 연결",
+          "summary": "Studio Cadena는 메데인의 기존 건물 전면 일부를 덜어내 보도를 내부로 연장하고, 리테일·무용 스튜디오·카페를 세 층에 겹쳐 배치했다. 타공 금속 스크린이 거리와 내부 사이의 빛·움직임·시야를 조절하며, 노출된 기존 구조와 이동식 가구·맞춤 목공이 유연한 실내를 만든다.",
+          "keywords": [
+            "Studio Cadena",
+            "적응형 재사용",
+            "리테일 공간",
+            "타공 금속",
+            "공공 공간"
+          ]
+        },
+        {
+          "id": "2026-09-02-wanhua-yunlang-canteen",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184093/wanhua-green-heart-food-market-yunlang-canteen-xu-studio",
+          "date": "2026-09-01",
+          "title": "Wanhua 식당·마켓, 개방형 동선과 자연 소재로 커뮤니티 공간 구성",
+          "summary": "XU Studio는 충칭 주거 커뮤니티의 식당과 마켓에 접이식 문, 개방형 처마, 야외 좌석을 적용해 실내외 흐름을 연결했다. 투명 조리실부터 배식·셀프 반납까지 동선을 순서화하고, 패턴 벽돌 화분·원목 부스·라탄 조명·식재로 자연스러운 재료 구성을 만들었다.",
+          "keywords": [
+            "XU Studio",
+            "식당 인테리어",
+            "마켓",
+            "동선 설계",
+            "라탄"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-01T08:04:54+09:00",
       "briefingDate": "2026-09-01",
