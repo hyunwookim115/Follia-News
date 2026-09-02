@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T08:44:52+09:00",
+  "generatedAt": "2026-09-03T08:43:39+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리·버뮤다·미디스커트의 거리·셀러브리티 노출에 이어, 8월 29일 Kaia Gerber의 무릎 길이 스커트 착장과 미디스커트 후속 편성이 겹쳐 상승 흐름이 이어졌습니다.",
-      "detail": "코펜하겐 거리, Daniela Avanzini·Millie Bobby Brown의 카프리 착장과 8월 25~27일 상품 편성에 이어 8월 29일 Kaia Gerber가 무릎 길이 스커트를 착용했고 관련 스커트 7종이 편성됐습니다. 같은 날 별도 기사도 맥시 대신 미디스커트를 제시하고 3종을 편성했습니다. 이는 반복 착장·편집 신호이며 공개 판매량이나 검색 순위는 아닙니다.",
+      "summary": "카프리·미디스커트의 반복 노출에 이어, 9월 2일 Sydney Sweeney가 무릎 길이 버뮤다 쇼츠를 착용해 중간 길이 하의의 상승 흐름이 재확인됐습니다.",
+      "detail": "8월 27~29일 Millie Bobby Brown의 카프리, Kaia Gerber의 무릎 길이 스커트와 관련 상품 편성에 이어 9월 2일 Sydney Sweeney가 베니스에서 무릎 길이 카키 버뮤다 쇼츠를 착용했습니다. 카프리·버뮤다·미디스커트로 형태는 나뉘지만 무릎 전후 길이의 반복 착장 신호가 이어졌습니다. 이는 공개 착장·편집 노출이며 판매량이나 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -52,6 +52,10 @@
         {
           "label": "WHO WHAT WEAR · MIDI SKIRT FOLLOW-UP / 3 PICKS",
           "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
+        },
+        {
+          "label": "PAGE SIX · SYDNEY SWEENEY BERMUDA SHORTS",
+          "url": "https://pagesix.com/2026/09/02/style/sydney-sweeney-brings-the-heat-to-venice-film-festival-2026-in-sheer-lace-top/"
         }
       ]
     },
@@ -62,8 +66,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "스트레이트·와이드·크롭 플레어에 이어 LA 공개 소셜에서 킥 플레어까지 반복 노출돼, 데님 관심은 높지만 단일 핏으로 수렴하지 않습니다.",
-      "detail": "8월 24~30일 배기·벌룬·스트레이트·와이드·크롭 플레어가 교차한 데 이어, 8월 30일 Who What Wear가 LA 패션 관계자들의 공개 착장에서 킥 플레어를 포착하고 4개 브랜드 상품을 함께 편성했습니다. 특정 실루엣의 공개 검색량·판매 순위 상승은 확인되지 않아 ‘릴랙스드 스트레이트’는 HOLD를 유지했습니다.",
+      "summary": "스트레이트·벌룬·크롭 플레어·킥 플레어에 이어 Jennifer Lopez의 와이드 진까지 노출돼, 데님 관심은 높지만 단일 핏으로 수렴하지 않습니다.",
+      "detail": "8월 27~30일 스트레이트·와이드·벌룬·크롭 플레어·킥 플레어가 교차한 데 이어, 9월 2일 Jennifer Lopez가 하이웨이스트 와이드 진을 착용했고 InStyle과 Harper’s Bazaar가 같은 착장을 각각 보도했습니다. 특정 실루엣의 공개 검색량·판매 순위 상승은 확인되지 않아 ‘릴랙스드 스트레이트’는 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -128,6 +132,14 @@
         {
           "label": "WHO WHAT WEAR · LA KICK-FLARE SOCIAL / 4 PICKS",
           "url": "https://www.whowhatwear.com/fashion/trends/fall-2026-fashion-trends-los-angeles"
+        },
+        {
+          "label": "INSTYLE · JENNIFER LOPEZ WIDE-LEG DENIM",
+          "url": "https://www.instyle.com/look-of-the-day-2026-09-02-12077095"
+        },
+        {
+          "label": "HARPER'S BAZAAR · JENNIFER LOPEZ WIDE-LEG FOLLOW-UP",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a73593126/jennifer-lopez-preppy-oversize-outfit-new-york-city-street-style-photos/"
         }
       ]
     },
