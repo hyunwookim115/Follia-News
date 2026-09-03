@@ -1,181 +1,358 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-03T08:06:15.694+09:00",
-  "briefingDate": "2026-09-03",
+  "generatedAt": "2026-09-04T08:03:17.168+09:00",
+  "briefingDate": "2026-09-04",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-03-tenmonths-relaunch",
+      "id": "2026-09-04-system-paris-harrods",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "매일경제",
-      "sourceUrl": "https://m.mk.co.kr/amp/12141955",
-      "date": "2026-09-02T08:48:40+09:00",
-      "title": "신세계인터내셔날, 텐먼스 3년 만에 재출시",
-      "summary": "신세계인터내셔날이 자체 디지털 플랫폼 신세계V에 여성복 브랜드 텐먼스를 약 3년 만에 다시 선보였다. 시즌리스 콘셉트를 유지하면서 소재·실루엣·디테일을 개선했으며, 무시접 봉제와 텐셀을 적용한 티셔츠, 사계절 니트, 동일 소재의 재킷·하의 시리즈를 구성하고 성수·강남·센텀시티 팝업을 순차 운영한다.",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12143535",
+      "date": "2026-09-03 16:49",
+      "title": "시스템 파리, 해러즈 남성관 팝업으로 영국 유통 확대",
+      "summary": "한섬의 시스템 파리가 영국 해러즈 백화점 2층 남성 컨템포러리 컬렉션 공간에서 9월 7일부터 11월까지 팝업을 운영한다. 의류·가방·신발 64개 스타일을 선보이며, 9월에는 룩레프트와 차 협업을 진행하고 11월에는 한복 색과 노리개에서 착안한 홀리데이 기프트 프로모션을 연다.",
       "keywords": [
-        "텐먼스",
-        "신세계인터내셔날",
-        "시즌리스",
-        "텐셀",
-        "오프라인 팝업"
+        "시스템 파리",
+        "해러즈",
+        "영국 유통",
+        "팝업",
+        "26FW"
       ]
     },
     {
-      "id": "2026-09-03-musinsa-standard-japan",
+      "id": "2026-09-04-studio-tomboy-japan-popup",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT news",
-      "sourceUrl": "https://tnnews.co.kr/archives/292575",
-      "date": "2026-09-02",
-      "title": "무신사 스탠다드, 일본 물류·팝업 연계 확대",
-      "summary": "무신사 스탠다드는 도쿄에서 세 차례 팝업을 전개하고 일본 현지 물류센터를 기반으로 2~3일 내 배송하는 스피드 배송을 도입했다. 8월 하라주쿠 팝업에서는 26FW ‘서울 스탠다드’ 캠페인의 블레이저와 슬랙스를 선보였고, 기사에 따르면 2026년 상반기 일본 거래액은 전년 동기 대비 595% 증가했다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12143493",
+      "date": "2026-09-03 16:24",
+      "title": "스튜디오 톰보이, 시부야에서 첫 일본 팝업",
+      "summary": "신세계인터내셔날의 스튜디오 톰보이가 시부야 스크램블 스퀘어 2층에서 9월 16일까지 첫 일본 팝업을 연다. 브랜드 시그니처 블루와 과거 컬렉션 포스터로 공간을 구성하고, 일부 26FW 신제품을 일본에서 먼저 공개한다.",
       "keywords": [
-        "무신사 스탠다드",
-        "일본 유통",
-        "스피드 배송",
-        "하라주쿠 팝업",
-        "서울 스탠다드"
+        "스튜디오 톰보이",
+        "일본",
+        "시부야",
+        "팝업",
+        "26FW"
       ]
     },
     {
-      "id": "2026-09-03-flora-animalia-bette-midler",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/bette-midler-flora-animalia-collaboration",
-      "date": "2026-09-02",
-      "title": "Flora Animalia × Bette Midler, 가드닝 캡슐 공개",
-      "summary": "LA 기반 Flora Animalia와 Bette Midler가 가드닝 의류와 테이블 리넨을 포함한 10피스 캡슐을 만들었다. 컬렉션에는 꽃 자수 앞치마, 여유로운 셔츠와 팬츠, 가먼트 다잉 꽃 모티프의 카프탄, 프린트 코튼 플레이스 세팅이 포함되며 의류는 LA 현장에서 봉제된다.",
-      "keywords": [
-        "Flora Animalia",
-        "Bette Midler",
-        "가드닝웨어",
-        "가먼트 다잉",
-        "로컬 생산"
-      ]
-    },
-    {
-      "id": "2026-09-03-des-kohan-specialty-retail",
+      "id": "2026-09-04-elie-saab-hm",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/how-des-kohan-became-las-under-the-radar-fashion-power-player",
-      "date": "2026-09-02",
-      "title": "Des Kohan, 독립 디자이너를 키우는 편집숍 운영법",
-      "summary": "LA 편집숍 Des Kohan은 21년간 세일 없이 운영했고, 매출의 85%가 오프라인에서 발생하며 상품의 약 80%를 희소 브랜드나 매장 전용 수정 제품으로 구성한다. 바이어 Desiree Kohan은 소재·색·실루엣을 디자이너와 함께 조정하고 재고를 작게 유지하며, VIP 고객에게 선공개·수선·스타일링·컨시어지 서비스를 제공한다.",
+      "sourceUrl": "https://www.vogue.com/article/elie-saab-makes-it-real-with-an-handm-collaboration-that-brings-his-red-carpet-style-within-reach",
+      "date": "September 3, 2026",
+      "title": "Elie Saab × H&M, 55피스 협업 컬렉션 공개",
+      "summary": "Elie Saab과 H&M의 협업 컬렉션이 10월 22일 출시된다. 이브닝웨어와 데이웨어, 코트, 장식 니트웨어, 액세서리, 테일러드 이브닝 재킷 등 55피스로 구성되며, 그라데이션 시퀸·레이스 자수·페이크 퍼와 블랙·골드·에메랄드 팔레트를 적용했다.",
       "keywords": [
-        "Des Kohan",
-        "독립 편집숍",
-        "바잉",
-        "공동 제품개발",
-        "VIP 리테일"
+        "Elie Saab",
+        "H&M",
+        "협업",
+        "이브닝웨어",
+        "장식 기법"
       ]
     },
     {
-      "id": "2026-09-03-new-grunge-minimalism",
+      "id": "2026-09-04-simone-rocha-adidas",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/the-new-grunge-minimalism",
-      "date": "2026-09-02",
-      "title": "2026년 그룬지, 시어 레이어와 디스트레스드 데님으로 변화",
-      "summary": "Vogue는 2026년 그룬지의 핵심을 오버사이즈 플란넬 대신 시어한 레이어, 디스트레스드 데님, 힘을 뺀 미니멀리즘으로 정리했다. 실크 톱과 거친 데님, 레이스 드레스와 낡은 진·군화, 가죽 셔츠와 슬립처럼 정제된 소재와 마모된 요소를 병치한 룩을 제시했다.",
+      "sourceUrl": "https://www.vogue.com/article/simone-rocha-adidas-fall-winter-2026-interview",
+      "date": "September 3, 2026",
+      "title": "Simone Rocha × adidas Originals, 장기 파트너십 첫 컬렉션",
+      "summary": "Simone Rocha와 adidas Originals의 장기 파트너십 첫 전체 컬렉션이 9월 10일 세계 출시된다. 레이스와 러플을 더한 트랙 팬츠, 진주·디아망테 장식 축구 양말, 브로더리 앙글레즈 가방과 함께 Firebird·Superstar·Beckenbauer 실루엣 및 세 종류의 협업 슈즈를 재해석했다.",
       "keywords": [
-        "그룬지",
-        "시어 레이어",
-        "디스트레스드 데님",
-        "소재 대비",
-        "미니멀리즘"
+        "Simone Rocha",
+        "adidas Originals",
+        "장기 파트너십",
+        "스포츠웨어",
+        "레이스"
       ]
     },
     {
-      "id": "2026-09-03-stone-island-beams",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1544540513506427412?contentCategoryCode=015",
-      "date": "2026-09-02",
-      "title": "Stone Island × BEAMS, 크레이지 패턴 첫 협업",
-      "summary": "Stone Island와 BEAMS가 BEAMS 설립 50주년을 기념한 첫 협업 컬렉션을 공개했다. 재킷·팬츠·티셔츠에 여러 소재와 컬러를 조합하는 크레이지 패턴과 Stone Island의 가먼트 다잉을 결합해, 소재별 염료 흡수 차이로 미묘한 색조 변화를 구현했다.",
+      "id": "2026-09-04-vintage-business-operations",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/how-to-run-a-successful-vintage-fashion-business-today",
+      "date": "September 3, 2026",
+      "title": "빈티지 패션 사업의 큐레이션·검수·소싱 운영법",
+      "summary": "Vogue는 Cavalli e Nastri, Break Archive, Berriez, Vintage Qoo의 운영 사례를 통해 특정 시대·브랜드와 뚜렷한 매장 정체성이 차별화 요소라고 전했다. Break Archive는 모든 상품을 직접 소싱하며 인증과 상태 기록을 강조하고, Berriez는 고객 취향·스타일·컷·소재 정보를 정리한 가이드와 이미지 사전 승인으로 소싱 네트워크를 운영한다.",
       "keywords": [
-        "Stone Island",
-        "BEAMS",
-        "크레이지 패턴",
-        "가먼트 다잉",
-        "협업"
+        "빈티지",
+        "리세일",
+        "큐레이션",
+        "인증",
+        "소싱"
       ]
     },
     {
-      "id": "2026-09-03-lookast-jehyungyung",
+      "id": "2026-09-04-29cm-autumn-best",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/lookast",
-      "date": "2026-09-02",
-      "title": "29CM, 룩캐스트 × 제현경 가을 캡슐 단독 전개",
-      "summary": "룩캐스트와 제현경의 26PF 캡슐 컬렉션이 29CM 29 EDITION에서 단독 공개됐다. 레더 텍스처 하이넥 점퍼, 코튼 혼방 하프 트렌치코트, 웜터치 헨리넥 톱으로 구성했으며, 소재와 피팅감의 조합에 따라 다른 인상을 내도록 기획했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/03/1st",
+      "date": "2026. 9. 3.",
+      "title": "29CM, 아우브아워·로에일·모트 가을 베스트 편성",
+      "summary": "29CM가 아우브아워, 로에일, 모트의 시즌 베스트 상품을 9월 15일까지 한 기획전에 편성한다. 아우브아워는 소재와 패턴, 로에일은 색채와 디테일, 모트는 간결한 실루엣과 색감을 각 브랜드의 가을 상품 특징으로 제시했다.",
       "keywords": [
         "29CM",
-        "룩캐스트",
-        "제현경",
-        "26PF",
-        "캡슐 컬렉션"
+        "아우브아워",
+        "로에일",
+        "모트",
+        "가을 컬렉션"
       ]
     },
     {
-      "id": "2026-09-03-musinsa-standard-oheshio",
+      "id": "2026-09-04-29cm-makesmebetter-goose",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1540265040411081668",
-      "date": "2026-09-02",
-      "title": "무신사 스탠다드 우먼 × 오헤시오, 22종 협업 컬렉션",
-      "summary": "무신사 스탠다드 우먼과 오헤시오가 꽃·버섯 그래픽을 간결한 실루엣에 적용한 협업 컬렉션을 무신사 단독으로 선보였다. 리버서블 다운 재킷, 플리스 풀오버, 스웨트 집업, 코트·스커트·팬츠와 비니·머플러까지 총 22종으로 구성했으며 자수와 프린트로 모티프를 확장했다.",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/03/makesmebetter?cache=true",
+      "date": "2026. 9. 3.",
+      "title": "29CM, 므므브 구스·플리스 아동 겨울 컬렉션 공개",
+      "summary": "29CM가 므므브의 아동용 구스 컬렉션을 9월 10일까지 소개한다. 구스 충전재와 코쿤 실루엣, 탈부착 후드를 적용한 점퍼를 중심으로 면·폴리 혼방 후드 셋업과 안쪽 기모를 더한 플리스 제품을 함께 편성했다.",
       "keywords": [
-        "무신사",
-        "무신사 스탠다드 우먼",
-        "오헤시오",
-        "그래픽",
-        "리버서블"
+        "29CM",
+        "므므브",
+        "아동복",
+        "구스",
+        "플리스"
       ]
     },
     {
-      "id": "2026-09-03-artek-hender-scheme",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
-      "date": "2026-09-02",
-      "title": "Artek × Hender Scheme, 가죽으로 재해석한 8개 제품",
-      "summary": "Artek과 Hender Scheme의 첫 협업은 핀란드산 자작나무와 식물성 무두질 가죽을 결합한 8개 제품으로 구성됐다. Stool 60과 테이블 상판을 가죽으로 감싸고 L-레그용 가구 ‘신발’을 만들었으며, A330 Golden Bell 펜던트에는 3D 프린트 몰드를 이용해 천연 가죽을 입혔다.",
+      "id": "2026-09-04-29cm-suecomma-bonnie-26fw",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/03/suecommabonnie?cache=true",
+      "date": "2026. 9. 3.",
+      "title": "29CM, 슈콤마보니 26FW 슈즈 신작 편성",
+      "summary": "29CM가 슈콤마보니의 26FW 슈즈 컬렉션을 9월 16일까지 소개한다. 리본 디테일의 미니멀 플랫, 티 스트랩과 큐빅을 적용한 메리제인, 앞코 셔링과 천연가죽 아웃솔을 사용한 로퍼를 주요 신작으로 제시했다.",
       "keywords": [
-        "Artek",
-        "Hender Scheme",
-        "Stool 60",
-        "식물성 무두질 가죽",
-        "가구 협업"
+        "29CM",
+        "슈콤마보니",
+        "26FW",
+        "플랫",
+        "로퍼"
       ]
     },
     {
-      "id": "2026-09-03-makers-barn",
+      "id": "2026-09-04-los-navegantes-house",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184288/the-makers-barn-hutch-design",
-      "date": "2026-09-02",
-      "title": "HUTCH design, 버려진 돈사를 70㎡ 주거로 전환",
-      "summary": "HUTCH design은 런던 외곽의 버려진 돈사를 수직 낙엽송 판재와 두꺼운 분홍빛 벽, 점토 천장으로 마감한 70㎡ 주거로 바꿨다. 내부에는 엔드그레인 목재 모자이크 바닥, 맞춤형 철제 팬 걸이를 갖춘 소형 주방, 미드센추리 모듈 소파와 현지 느릅나무 목공을 배치하고 반벽과 시선축으로 공간 간 흐름을 만들었다.",
+      "sourceUrl": "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz",
+      "date": "September 3, 2026",
+      "title": "Los Navegantes House, 1963년 주택 구조와 목조 증축의 공존",
+      "summary": "Los Navegantes House는 1963년 주택의 두 평행 동과 내부 중정 구조를 유지하면서 새 연결부와 개구부를 더한 증축·리노베이션이다. 목조 증축과 셀룰로오스 단열로 외피를 구성하고, 철거한 기존 지붕 트러스를 식탁·선반 등 가구로 재사용했다.",
       "keywords": [
-        "HUTCH design",
-        "적응형 재사용",
-        "낙엽송",
-        "엔드그레인 바닥",
-        "맞춤형 주방"
+        "주택 리노베이션",
+        "목조 증축",
+        "셀룰로오스 단열",
+        "가구 재사용",
+        "중정"
+      ]
+    },
+    {
+      "id": "2026-09-04-bf2-house",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ArchDaily",
+      "sourceUrl": "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura",
+      "date": "September 3, 2026",
+      "title": "BF2 House, 1950년대 주택 마감 복원과 표적 개입",
+      "summary": "BF2 House는 기존 페로바 목재 블록 바닥과 계단을 복원하고, 주방에는 맞춤 분홍 테라초, 식당에는 노출 벽돌을 적용했다. 구조 보강 없이 1950년대 평면을 바꾸기 위해 대규모 철거를 피하고 새 개구부와 필요한 부분의 증축에 집중했으며, 실내에는 고객 소장품과 브라질 디자인 가구를 함께 배치했다.",
+      "keywords": [
+        "BF2 House",
+        "리노베이션",
+        "테라초",
+        "목재 복원",
+        "브라질 가구"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-03T08:06:15.694+09:00",
+      "briefingDate": "2026-09-03",
+      "generatedAt": "2026-09-03T08:06:15.694+09:00",
+      "cards": [
+        {
+          "id": "2026-09-03-tenmonths-relaunch",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "매일경제",
+          "sourceUrl": "https://m.mk.co.kr/amp/12141955",
+          "date": "2026-09-02T08:48:40+09:00",
+          "title": "신세계인터내셔날, 텐먼스 3년 만에 재출시",
+          "summary": "신세계인터내셔날이 자체 디지털 플랫폼 신세계V에 여성복 브랜드 텐먼스를 약 3년 만에 다시 선보였다. 시즌리스 콘셉트를 유지하면서 소재·실루엣·디테일을 개선했으며, 무시접 봉제와 텐셀을 적용한 티셔츠, 사계절 니트, 동일 소재의 재킷·하의 시리즈를 구성하고 성수·강남·센텀시티 팝업을 순차 운영한다.",
+          "keywords": [
+            "텐먼스",
+            "신세계인터내셔날",
+            "시즌리스",
+            "텐셀",
+            "오프라인 팝업"
+          ]
+        },
+        {
+          "id": "2026-09-03-musinsa-standard-japan",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT news",
+          "sourceUrl": "https://tnnews.co.kr/archives/292575",
+          "date": "2026-09-02",
+          "title": "무신사 스탠다드, 일본 물류·팝업 연계 확대",
+          "summary": "무신사 스탠다드는 도쿄에서 세 차례 팝업을 전개하고 일본 현지 물류센터를 기반으로 2~3일 내 배송하는 스피드 배송을 도입했다. 8월 하라주쿠 팝업에서는 26FW ‘서울 스탠다드’ 캠페인의 블레이저와 슬랙스를 선보였고, 기사에 따르면 2026년 상반기 일본 거래액은 전년 동기 대비 595% 증가했다.",
+          "keywords": [
+            "무신사 스탠다드",
+            "일본 유통",
+            "스피드 배송",
+            "하라주쿠 팝업",
+            "서울 스탠다드"
+          ]
+        },
+        {
+          "id": "2026-09-03-flora-animalia-bette-midler",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/bette-midler-flora-animalia-collaboration",
+          "date": "2026-09-02",
+          "title": "Flora Animalia × Bette Midler, 가드닝 캡슐 공개",
+          "summary": "LA 기반 Flora Animalia와 Bette Midler가 가드닝 의류와 테이블 리넨을 포함한 10피스 캡슐을 만들었다. 컬렉션에는 꽃 자수 앞치마, 여유로운 셔츠와 팬츠, 가먼트 다잉 꽃 모티프의 카프탄, 프린트 코튼 플레이스 세팅이 포함되며 의류는 LA 현장에서 봉제된다.",
+          "keywords": [
+            "Flora Animalia",
+            "Bette Midler",
+            "가드닝웨어",
+            "가먼트 다잉",
+            "로컬 생산"
+          ]
+        },
+        {
+          "id": "2026-09-03-des-kohan-specialty-retail",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/how-des-kohan-became-las-under-the-radar-fashion-power-player",
+          "date": "2026-09-02",
+          "title": "Des Kohan, 독립 디자이너를 키우는 편집숍 운영법",
+          "summary": "LA 편집숍 Des Kohan은 21년간 세일 없이 운영했고, 매출의 85%가 오프라인에서 발생하며 상품의 약 80%를 희소 브랜드나 매장 전용 수정 제품으로 구성한다. 바이어 Desiree Kohan은 소재·색·실루엣을 디자이너와 함께 조정하고 재고를 작게 유지하며, VIP 고객에게 선공개·수선·스타일링·컨시어지 서비스를 제공한다.",
+          "keywords": [
+            "Des Kohan",
+            "독립 편집숍",
+            "바잉",
+            "공동 제품개발",
+            "VIP 리테일"
+          ]
+        },
+        {
+          "id": "2026-09-03-new-grunge-minimalism",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/the-new-grunge-minimalism",
+          "date": "2026-09-02",
+          "title": "2026년 그룬지, 시어 레이어와 디스트레스드 데님으로 변화",
+          "summary": "Vogue는 2026년 그룬지의 핵심을 오버사이즈 플란넬 대신 시어한 레이어, 디스트레스드 데님, 힘을 뺀 미니멀리즘으로 정리했다. 실크 톱과 거친 데님, 레이스 드레스와 낡은 진·군화, 가죽 셔츠와 슬립처럼 정제된 소재와 마모된 요소를 병치한 룩을 제시했다.",
+          "keywords": [
+            "그룬지",
+            "시어 레이어",
+            "디스트레스드 데님",
+            "소재 대비",
+            "미니멀리즘"
+          ]
+        },
+        {
+          "id": "2026-09-03-stone-island-beams",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1544540513506427412?contentCategoryCode=015",
+          "date": "2026-09-02",
+          "title": "Stone Island × BEAMS, 크레이지 패턴 첫 협업",
+          "summary": "Stone Island와 BEAMS가 BEAMS 설립 50주년을 기념한 첫 협업 컬렉션을 공개했다. 재킷·팬츠·티셔츠에 여러 소재와 컬러를 조합하는 크레이지 패턴과 Stone Island의 가먼트 다잉을 결합해, 소재별 염료 흡수 차이로 미묘한 색조 변화를 구현했다.",
+          "keywords": [
+            "Stone Island",
+            "BEAMS",
+            "크레이지 패턴",
+            "가먼트 다잉",
+            "협업"
+          ]
+        },
+        {
+          "id": "2026-09-03-lookast-jehyungyung",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/lookast",
+          "date": "2026-09-02",
+          "title": "29CM, 룩캐스트 × 제현경 가을 캡슐 단독 전개",
+          "summary": "룩캐스트와 제현경의 26PF 캡슐 컬렉션이 29CM 29 EDITION에서 단독 공개됐다. 레더 텍스처 하이넥 점퍼, 코튼 혼방 하프 트렌치코트, 웜터치 헨리넥 톱으로 구성했으며, 소재와 피팅감의 조합에 따라 다른 인상을 내도록 기획했다.",
+          "keywords": [
+            "29CM",
+            "룩캐스트",
+            "제현경",
+            "26PF",
+            "캡슐 컬렉션"
+          ]
+        },
+        {
+          "id": "2026-09-03-musinsa-standard-oheshio",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1540265040411081668",
+          "date": "2026-09-02",
+          "title": "무신사 스탠다드 우먼 × 오헤시오, 22종 협업 컬렉션",
+          "summary": "무신사 스탠다드 우먼과 오헤시오가 꽃·버섯 그래픽을 간결한 실루엣에 적용한 협업 컬렉션을 무신사 단독으로 선보였다. 리버서블 다운 재킷, 플리스 풀오버, 스웨트 집업, 코트·스커트·팬츠와 비니·머플러까지 총 22종으로 구성했으며 자수와 프린트로 모티프를 확장했다.",
+          "keywords": [
+            "무신사",
+            "무신사 스탠다드 우먼",
+            "오헤시오",
+            "그래픽",
+            "리버서블"
+          ]
+        },
+        {
+          "id": "2026-09-03-artek-hender-scheme",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
+          "date": "2026-09-02",
+          "title": "Artek × Hender Scheme, 가죽으로 재해석한 8개 제품",
+          "summary": "Artek과 Hender Scheme의 첫 협업은 핀란드산 자작나무와 식물성 무두질 가죽을 결합한 8개 제품으로 구성됐다. Stool 60과 테이블 상판을 가죽으로 감싸고 L-레그용 가구 ‘신발’을 만들었으며, A330 Golden Bell 펜던트에는 3D 프린트 몰드를 이용해 천연 가죽을 입혔다.",
+          "keywords": [
+            "Artek",
+            "Hender Scheme",
+            "Stool 60",
+            "식물성 무두질 가죽",
+            "가구 협업"
+          ]
+        },
+        {
+          "id": "2026-09-03-makers-barn",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184288/the-makers-barn-hutch-design",
+          "date": "2026-09-02",
+          "title": "HUTCH design, 버려진 돈사를 70㎡ 주거로 전환",
+          "summary": "HUTCH design은 런던 외곽의 버려진 돈사를 수직 낙엽송 판재와 두꺼운 분홍빛 벽, 점토 천장으로 마감한 70㎡ 주거로 바꿨다. 내부에는 엔드그레인 목재 모자이크 바닥, 맞춤형 철제 팬 걸이를 갖춘 소형 주방, 미드센추리 모듈 소파와 현지 느릅나무 목공을 배치하고 반벽과 시선축으로 공간 간 흐름을 만들었다.",
+          "keywords": [
+            "HUTCH design",
+            "적응형 재사용",
+            "낙엽송",
+            "엔드그레인 바닥",
+            "맞춤형 주방"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-02T08:06:13+09:00",
       "briefingDate": "2026-09-02",
