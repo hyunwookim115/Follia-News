@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T08:37:44+09:00",
+  "generatedAt": "2026-09-05T08:54:51+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리·미디스커트의 반복 노출에 이어, 9월 2일 Sydney Sweeney가 무릎 길이 버뮤다 쇼츠를 착용해 중간 길이 하의의 상승 흐름이 재확인됐습니다.",
-      "detail": "8월 27~29일 Millie Bobby Brown의 카프리, Kaia Gerber의 무릎 길이 스커트와 관련 상품 편성에 이어 9월 2일 Sydney Sweeney가 베니스에서 무릎 길이 카키 버뮤다 쇼츠를 착용했습니다. 카프리·버뮤다·미디스커트로 형태는 나뉘지만 무릎 전후 길이의 반복 착장 신호가 이어졌습니다. 이는 공개 착장·편집 노출이며 판매량이나 검색 순위는 아닙니다.",
+      "summary": "카프리·버뮤다·미디스커트의 반복 노출에 이어, 9월 3일 Zoë Kravitz가 무릎 길이 슬립 스커트를 착용해 중간 길이 하의의 상승 흐름이 재확인됐습니다.",
+      "detail": "8월 27~29일 Millie Bobby Brown의 카프리와 Kaia Gerber의 무릎 길이 스커트, 9월 2일 Sydney Sweeney의 버뮤다 쇼츠에 이어 9월 3일 Zoë Kravitz가 뉴욕에서 무릎 길이 블랙 슬립 스커트를 착용했습니다. Vogue와 Marie Claire가 9월 4일 이를 각각 보도해 카프리·버뮤다·미디스커트로 이어지는 무릎 전후 길이의 반복 착장 신호가 강화됐습니다. 공개 착장·편집 노출이며 판매량이나 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -56,6 +56,14 @@
         {
           "label": "PAGE SIX · SYDNEY SWEENEY BERMUDA SHORTS",
           "url": "https://pagesix.com/2026/09/02/style/sydney-sweeney-brings-the-heat-to-venice-film-festival-2026-in-sheer-lace-top/"
+        },
+        {
+          "label": "VOGUE · ZOË KRAVITZ KNEE-LENGTH SLIP SKIRT",
+          "url": "https://www.vogue.com/article/whatever-the-season-zoe-kravitz-backs-these-it-girl-staples"
+        },
+        {
+          "label": "MARIE CLAIRE · ZOË KRAVITZ KNEE-LENGTH SKIRT FOLLOW-UP",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flats-trend-fall-zoe-kravitz-2026/"
         }
       ]
     },
@@ -66,8 +74,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "와이드·벌룬·플레어에 이어 뉴욕 거리에서 대형 커프를 더한 와이드·배럴 진까지 관측돼, 데님 관심은 높지만 단일 핏으로 수렴하지 않습니다.",
-      "detail": "8월 30일 LA의 킥 플레어, 9월 2일 Jennifer Lopez의 와이드 진에 이어 9월 3일 InStyle은 뉴욕 거리에서 3~4인치 커프를 더한 와이드·배럴 진을 초기 강세 후보로 관찰하고 4개 상품을 편성했습니다. 핏과 디테일이 계속 분산되고 특정 실루엣의 공개 검색량·판매 순위 상승은 확인되지 않아 ‘릴랙스드 스트레이트’는 HOLD를 유지했습니다.",
+      "summary": "와이드·벌룬·플레어·커프드 진에 이어 Jessica Alba의 배기 진과 릴랙스드 스트레이트 상품 노출이 추가돼, 데님 관심은 높지만 단일 핏으로 수렴하지 않습니다.",
+      "detail": "8월 30일 LA의 킥 플레어, 9월 2일 Jennifer Lopez의 와이드 진, 9월 3일 뉴욕의 커프드 와이드·배럴 진에 이어 9월 4일 People은 Jessica Alba의 배기 진 착장과 릴랙스드 스트레이트·와이드 진 상품을 함께 제시했습니다. 기사에 표시된 다수의 별점 후기는 누적 후기이지 최근 7일 판매량이 아닙니다. 핏 신호가 계속 분산되고 특정 실루엣의 공개 검색량·판매 순위 상승은 확인되지 않아 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -144,6 +152,10 @@
         {
           "label": "INSTYLE · NYC CUFFED WIDE + BARREL JEANS",
           "url": "https://www.instyle.com/nyc-cool-girl-fall-trends-september-12081147"
+        },
+        {
+          "label": "PEOPLE · JESSICA ALBA BAGGY + RELAXED-STRAIGHT DENIM",
+          "url": "https://people.com/jessica-alba-transitional-outfit-quince-clothing-september-2026-12094583"
         }
       ]
     },
@@ -246,8 +258,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "셀러브리티의 넉넉한 가방 착장과 다수 상품 편성에 이어, 9월 1일 Dakota Johnson의 대형 슬라우치 토트와 후속 상품 노출이 추가됐습니다.",
-      "detail": "8월 26~29일 Zoë Kravitz 착장, Harper’s Bazaar의 15개 슬라우치 백과 오버사이즈 클러치 4종 편성에 이어, 9월 1일 People이 Dakota Johnson의 대형 스웨이드 토트 착장을 보도하고 유사 슬라우치 토트 상품들을 함께 제시했습니다. 가격·상품 편성은 확인되지만 공개 판매량이나 순위는 없어 반복 착장·플랫폼 노출 신호로만 기록했습니다.",
+      "summary": "셀러브리티의 넉넉한 가방 착장과 상품 편성에 이어, 9월 3일 Zoë Kravitz의 대형 슬라우치 숄더백이 두 매체에서 재노출돼 상승 흐름이 이어졌습니다.",
+      "detail": "8월 26~29일 Zoë Kravitz 착장, Harper’s Bazaar의 15개 슬라우치 백과 오버사이즈 클러치 4종 편성, 9월 1일 Dakota Johnson의 대형 토트에 이어 9월 3일 Kravitz가 뉴욕에서 대형 블랙 레더 숄더백을 다시 착용했습니다. Vogue와 Marie Claire가 9월 4일 각각 이를 보도했습니다. 이는 반복 착장·편집 노출 신호이며 공개 판매량이나 순위는 아닙니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -280,6 +292,14 @@
         {
           "label": "PEOPLE · DAKOTA JOHNSON LARGE SLOUCHY TOTE",
           "url": "https://people.com/dakota-johnson-suede-tote-bag-amazon-august-2026-12034952"
+        },
+        {
+          "label": "VOGUE · ZOË KRAVITZ LARGE SLOUCHY SHOULDER BAG",
+          "url": "https://www.vogue.com/article/whatever-the-season-zoe-kravitz-backs-these-it-girl-staples"
+        },
+        {
+          "label": "MARIE CLAIRE · ZOË KRAVITZ THE ROW SHOULDER BAG",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flats-trend-fall-zoe-kravitz-2026/"
         }
       ]
     },
@@ -290,8 +310,8 @@
       "direction": "UP",
       "market": "GLOBAL / KOREA",
       "signal": "DEMAND",
-      "summary": "H&M 40달러 재즈 슈즈가 공식 사이트에서 대부분 사이즈 품절로 관측되고, 셀러브리티 반복 착장과 9개 브랜드 편성이 이어져 수요 신호가 다시 강해졌습니다.",
-      "detail": "8월 30일 Who What Wear는 H&M 레이스업 발레 플랫이 H&M 공식 사이트에서 대부분 사이즈 품절이라고 보도했습니다. Celine 제품의 반복 품절, Gracie Abrams·Charlize Theron·Naomi Watts·Lily Collins의 착장, H&M 외 8개 브랜드 상품 편성도 함께 확인됐습니다. 이는 공개 재고·반복 노출 신호이며 판매량이나 판매 순위를 뜻하지 않습니다.",
+      "summary": "H&M 제품의 대부분 사이즈 품절 관측에 이어 Maggie Gyllenhaal의 베니스 착장과 6개 후속 상품 편성이 추가돼 수요·소셜 신호가 함께 이어졌습니다.",
+      "detail": "8월 30일 Who What Wear가 H&M 레이스업 발레 플랫의 공식 사이트 대부분 사이즈 품절을 보도한 데 이어, Maggie Gyllenhaal이 9월 1일 베니스 영화제에서 Celine 재즈 슈즈를 착용했습니다. Marie Claire는 이를 별도로 보도하고 6개 브랜드의 유사 상품을 편성했습니다. 공개 재고·반복 착장·상품 편성 신호이며 판매량이나 판매 순위를 뜻하지 않습니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
@@ -308,6 +328,10 @@
         {
           "label": "WHO WHAT WEAR · H&M JAZZ SHOES / MOST SIZES SOLD OUT",
           "url": "https://www.whowhatwear.com/fashion/shoes/hm-jazz-shoe-trend-2026"
+        },
+        {
+          "label": "MARIE CLAIRE · MAGGIE GYLLENHAAL JAZZ SHOES / 6 PICKS",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/jazz-shoe-trend-maggie-gyllenhaal-2026/"
         }
       ]
     },
