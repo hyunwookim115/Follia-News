@@ -1,181 +1,309 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-05T08:06:12.841+09:00",
-  "briefingDate": "2026-09-05",
+  "generatedAt": "2026-09-06T08:07:04.443+09:00",
+  "briefingDate": "2026-09-06",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-05-kelly-shin-27ss",
+      "id": "2026-09-06-seoul-fashion-week-lotte-runway",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/business/12144808",
-      "date": "2026-09-04 17:58",
-      "title": "켈리신 2027 S/S, 절제된 미니멀리즘과 광택 소재",
-      "summary": "딘트의 디자이너 브랜드 켈리신이 서울패션위크에서 ‘INTO A NEW PRESENCE’를 주제로 2027 S/S 컬렉션을 공개했다. 런웨이는 네 단계로 구성됐으며, 블랙·그레이·네이비에 글로시·스파클링 소재와 번지는 듯한 컬러 프린트를 더해 여성적 실루엣을 전개했다.",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202609055944g",
+      "date": "2026-09-05 19:54",
+      "title": "롯데 잠실 런웨이, K-패션 쇼와 온라인 판매를 연결",
+      "summary": "롯데백화점은 서울시와 함께 잠실 야외광장에서 2027 S/S 서울패션위크 런웨이를 열고, 던스트와 제너럴아이디어·EBM·마하그리드의 컬렉션을 선보였다. 런웨이 제품을 롯데백화점 공식 온라인몰과 연결해 관람객이 상품을 바로 확인할 수 있도록 구성했다.",
       "keywords": [
-        "켈리신",
-        "2027 S/S",
         "서울패션위크",
-        "광택 소재",
-        "컬러 프린트"
+        "던스트",
+        "제너럴아이디어",
+        "EBM",
+        "마하그리드",
+        "온라인몰"
       ]
     },
     {
-      "id": "2026-09-05-ledome-coterie-new-york",
+      "id": "2026-09-06-robert-wun-hong-kong-ballet",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "TENANT news",
-      "sourceUrl": "https://tnnews.co.kr/archives/292812",
-      "date": "2026년 9월 4일",
-      "title": "르돔, 국내 여성복 6개 브랜드와 뉴욕 코트리 참가",
-      "summary": "한국패션협회는 9월 9~11일 열리는 뉴욕 코트리 2027 S/S에 르돔 공동관을 구성해 국내 여성복 6개 브랜드의 참가를 지원한다. 디아서, 로에, 아스파라거스, 티케비, 프레노, 하가히가 참여해 북미 바이어 대상 수주와 신규 유통 채널 발굴을 추진한다.",
+      "source": "Taiwan News",
+      "sourceUrl": "https://www.taiwannews.com.tw/news/6434560",
+      "date": "2026-09-05 15:15",
+      "title": "Robert Wun, 홍콩 발레 ‘Glam Rock’ 맞춤 의상 제작",
+      "summary": "Hong Kong Fashion Fest Gala에서 Hong Kong Ballet이 Robert Wun의 맞춤 의상을 입고 3막 공연 ‘Glam Rock’을 선보였다. 의상은 Wun의 영화적·조형적 실루엣과 서사 중심 미학을 반영했으며, 공연은 클래식·현대 무용과 록 음악을 결합했다.",
       "keywords": [
-        "르돔",
-        "코트리 뉴욕",
-        "K-패션",
-        "북미 유통",
-        "여성복"
+        "Robert Wun",
+        "Hong Kong Ballet",
+        "맞춤 의상",
+        "Glam Rock",
+        "Hong Kong Fashion Fest"
       ]
     },
     {
-      "id": "2026-09-05-julie-kegels-lvmh-prize",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire",
-      "date": "September 4, 2026",
-      "title": "Julie Kegels, 2026 LVMH Prize 수상",
-      "summary": "벨기에 디자이너 Julie Kegels가 2026 LVMH Prize를 수상해 40만 유로 지원금과 1년간의 맞춤형 멘토링을 받는다. Kegels는 지원금을 브랜드 인프라와 소규모 팀 확장에 쓰고, 멘토링을 재무 관리와 복잡한 제품을 맡을 제조사 발굴에 활용하겠다고 밝혔다.",
-      "keywords": [
-        "Julie Kegels",
-        "LVMH Prize",
-        "멘토링",
-        "브랜드 인프라",
-        "제조사"
-      ]
-    },
-    {
-      "id": "2026-09-05-nyfw-spring-2027-preview",
+      "id": "2026-09-06-cartier-cinema-club",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/new-york-fashion-week-spring-2027-preview",
-      "date": "September 4, 2026",
-      "title": "NYFW 2027 S/S, Tommy Hilfiger 복귀·Henry Zankov DVF 데뷔",
-      "summary": "2027 S/S 뉴욕 패션위크 일정에는 Tommy Hilfiger가 복귀한다. Henry Zankov는 9월 10일 Diane von Furstenberg 크리에이티브 디렉터로서 첫 컬렉션을 선보이며, 기사에서는 그가 브랜드에서 Jonathan Saunders 아래 컬러와 니트 경험을 쌓았다고 전했다.",
+      "sourceUrl": "https://www.vogue.com/slideshow/cartier-cinema-club-venice-film-festival-2026-party",
+      "date": "2026-09-05",
+      "title": "Cartier, 베니스영화제에서 Cinema Club 출범",
+      "summary": "Cartier가 베니스영화제 메인 스폰서 5주년 행사에서 새로운 ‘Cartier Cinema Club’을 출범시켰다. 브랜드는 영화제 지원을 재확인하고, 영화 〈La La Land〉 10주년 라이브 음악 행사와 감독·촬영감독 마스터클래스 등을 프로그램에 포함했다.",
       "keywords": [
-        "NYFW",
-        "Tommy Hilfiger",
-        "Henry Zankov",
-        "Diane von Furstenberg",
-        "2027 S/S"
+        "Cartier",
+        "Cinema Club",
+        "베니스영화제",
+        "문화 후원",
+        "브랜드 이벤트"
       ]
     },
     {
-      "id": "2026-09-05-fall-2026-accessories",
+      "id": "2026-09-06-luxury-watch-archive-materials",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/fall-2026-accessory-trends",
-      "date": "September 4, 2026",
-      "title": "2026 F/W 액세서리, 스카프·브로치·스톨의 지속과 변형",
-      "summary": "Vogue는 2026 F/W 컬렉션에서 실크 스카프, 펠트 햇, 랩어라운드 선글라스, 브로치가 봄 시즌에 이어 지속됐다고 정리했다. 스톨은 어깨에 느슨하게 걸치거나 커머번드처럼 두르는 방식으로 나타났고, 플로럴 브로치는 Chanel·Loro Piana·Khaite·Dior·Kallmeyer에서 확인됐다.",
+      "source": "시장경제신문",
+      "sourceUrl": "https://www.meconomynews.com/news/articleView.html?idxno=201259",
+      "date": "2026-09-05 15:10",
+      "title": "럭셔리 워치, 아카이브를 소재·비율·기능으로 재구성",
+      "summary": "미도·론진·티파니앤코·오메가는 브랜드 아카이브를 유지하면서 케이스 크기, 티타늄·플래티넘 등 소재와 문페이즈·모노푸셔 같은 기능을 새롭게 구성했다. 오메가는 스피드마스터 38mm의 서브 다이얼을 원형으로 바꾸고 다이얼 텍스트를 줄였으며, 미도는 1970년대 TV형 케이스를 티타늄과 28mm 비율로 확장했다.",
       "keywords": [
-        "2026 F/W",
-        "액세서리",
-        "실크 스카프",
-        "플로럴 브로치",
-        "스톨"
+        "럭셔리 워치",
+        "아카이브",
+        "티타늄",
+        "스피드마스터",
+        "멀티포트 TV",
+        "비율"
       ]
     },
     {
-      "id": "2026-09-05-tagtraume-dasonge",
+      "id": "2026-09-06-wettia-fall-shoes",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/tagtraume",
-      "date": "2026. 9. 4. - 9. 17.",
-      "title": "타크트로이메 × 다송이송송, 샘플 수정 거친 26FW 슈즈",
-      "summary": "29CM가 타크트로이메와 다송이송송의 26FW 협업 슈즈를 단독 편성했다. 컬렉션은 여러 차례 샘플 수정으로 디자인과 착화감의 균형을 다듬었으며, 스퀘어 플랫·셔링 스웨이드 펌프스·리본 플랫 등 네 가지 라인으로 구성됐다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/05/wettia?cache=true",
+      "date": "2026-09-05",
+      "title": "29CM, 위띠아 천연 양가죽 가을 슈즈 편성",
+      "summary": "29CM가 위띠아의 가을 슈즈 컬렉션을 9월 17일까지 편성했다. 천연 양가죽 샤브레 플랫과 로만 웨지 펌프스, 26FW 모먼 웨지 부츠로 구성되며 플랫은 발등을 감싸는 라인을 적용했다.",
       "keywords": [
-        "타크트로이메",
-        "다송이송송",
-        "26FW",
-        "협업 슈즈",
-        "29CM"
-      ]
-    },
-    {
-      "id": "2026-09-05-29cm-rising-brands-fw",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/04/2nd?cache=true",
-      "date": "2026. 9. 4. - 9. 15.",
-      "title": "29CM, 엘무드 우먼·아르카익·모노크롬 FW 선발매",
-      "summary": "29CM가 엘무드 우먼, 아르카익, 모노크롬의 가을 신상품을 9월 15일까지 선발매한다. 엘무드 우먼은 절제된 라인과 편안한 핏, 아르카익은 중성적 감성, 모노크롬은 편안하고 자연스러운 옷을 각 컬렉션의 방향으로 제시했다.",
-      "keywords": [
+        "위띠아",
         "29CM",
-        "선발매",
-        "엘무드 우먼",
-        "아르카익",
-        "모노크롬"
+        "천연 양가죽",
+        "웨지 슈즈",
+        "26FW"
       ]
     },
     {
-      "id": "2026-09-05-barrel-nybg-fw26",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1544889746938583231?contentCategoryCode=016004",
-      "date": "2026.09.04",
-      "title": "배럴 × NYBG, 시간대별 정원을 FW26 스윔웨어로 전개",
-      "summary": "배럴과 뉴욕보타니컬가든이 Morning Dew, Sunny Garden, Midnight Forest 세 테마로 FW26 협업 스윔 컬렉션을 공개했다. 하루 동안 달라지는 정원의 컬러와 보태니컬 모티프를 V백·타이백·U백 등 여러 수영복 실루엣과 스윔 캡에 적용했다.",
-      "keywords": [
-        "배럴",
-        "뉴욕보타니컬가든",
-        "FW26",
-        "스윔웨어",
-        "보태니컬 모티프"
-      ]
-    },
-    {
-      "id": "2026-09-05-solange-calio-house",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "Wallpaper*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/residential/solange-calios-house-design-sao-paulo-brazil",
-      "date": "4 September 2026",
-      "title": "Solange Calio 주택, 회수 목재와 브라질 디자인 가구의 조합",
-      "summary": "Solange Calio Arquitetos의 단층 주택은 전면 개방형 문으로 다이닝·TV룸·야외 고메 공간을 연결하고, 회수 목재 마감과 크롬 그레이 시멘트 바닥, Itaúnas 화강암 상판을 조합했다. 실내에는 Carlos Motta, Guilherme Wentz, Jorge Zalszupin, Lucas Neves의 브라질 디자인 가구와 스튜디오 맞춤 요소를 배치했다.",
-      "keywords": [
-        "Solange Calio",
-        "회수 목재",
-        "브라질 디자인",
-        "맞춤 가구",
-        "상파울루"
-      ]
-    },
-    {
-      "id": "2026-09-05-kaymana-wave-reception",
+      "id": "2026-09-06-haus-of-carnival",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184237/kaymana-wave-reception-pablo-luna-studio",
-      "date": "September 04, 2026",
-      "title": "Kaymana Wave Reception, 적층 대나무와 철골로 파형 지붕 구현",
-      "summary": "Pablo Luna Studio는 발리 Kaymana의 리셉션을 부서지는 파도에서 가져온 연속 곡선의 열린 문턱으로 설계했다. 직조 대나무 스크린이 빛을 걸러내며, 휜 적층 대나무와 철골 보강을 결합해 길게 이어지는 지붕 경간을 구현했다.",
+      "sourceUrl": "https://www.archdaily.com/1184304/housing-carnival-studio-profile",
+      "date": "2026-09-05",
+      "title": "HAUS OF CARNIVAL, 브랜드별 ‘집’으로 구성한 스트리트웨어 매장",
+      "summary": "Studio Profile은 방콕 CARNIVAL 매장을 각 제품군과 브랜드 정체성이 개별 ‘HAUS’를 이루는 문화 마을로 설계했다. 돌·콘크리트는 기반과 도시성을, 유리·금속은 개방성과 이동성을, 목재는 친밀한 스케일을 표현하며, 유리 POPUP HAUS는 협업·한정 컬렉션·브랜드 이벤트에 대응한다.",
       "keywords": [
-        "Kaymana",
-        "적층 대나무",
-        "철골 보강",
-        "리셉션",
-        "발리"
+        "CARNIVAL",
+        "리테일 인테리어",
+        "브랜드 아이덴티티",
+        "팝업 공간",
+        "재료"
+      ]
+    },
+    {
+      "id": "2026-09-06-joao-moura-apartment",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ArchDaily",
+      "sourceUrl": "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
+      "date": "2026-09-05",
+      "title": "João Moura Apartment, 주방을 거실까지 확장한 가변형 평면",
+      "summary": "Margem Arquitetos는 분절됐던 120㎡ 아파트에서 주방을 거실까지 확장해 조리·서빙·교류를 잇는 중간 영역으로 만들고, 중앙의 높은 카운터로 공간 전환을 조직했다. 생합판 수납은 주방·팬트리·미디어 콘솔·다이닝 선반에 반복되고, 맞춤 타일 패턴과 블루 톤, 노출 콘크리트가 공용부를 연결한다.",
+      "keywords": [
+        "João Moura Apartment",
+        "가변형 평면",
+        "주방 확장",
+        "생합판",
+        "맞춤 타일"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-05T08:06:12.841+09:00",
+      "briefingDate": "2026-09-05",
+      "generatedAt": "2026-09-05T08:06:12.841+09:00",
+      "cards": [
+        {
+          "id": "2026-09-05-kelly-shin-27ss",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "매일경제",
+          "sourceUrl": "https://www.mk.co.kr/news/business/12144808",
+          "date": "2026-09-04 17:58",
+          "title": "켈리신 2027 S/S, 절제된 미니멀리즘과 광택 소재",
+          "summary": "딘트의 디자이너 브랜드 켈리신이 서울패션위크에서 ‘INTO A NEW PRESENCE’를 주제로 2027 S/S 컬렉션을 공개했다. 런웨이는 네 단계로 구성됐으며, 블랙·그레이·네이비에 글로시·스파클링 소재와 번지는 듯한 컬러 프린트를 더해 여성적 실루엣을 전개했다.",
+          "keywords": [
+            "켈리신",
+            "2027 S/S",
+            "서울패션위크",
+            "광택 소재",
+            "컬러 프린트"
+          ]
+        },
+        {
+          "id": "2026-09-05-ledome-coterie-new-york",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "TENANT news",
+          "sourceUrl": "https://tnnews.co.kr/archives/292812",
+          "date": "2026년 9월 4일",
+          "title": "르돔, 국내 여성복 6개 브랜드와 뉴욕 코트리 참가",
+          "summary": "한국패션협회는 9월 9~11일 열리는 뉴욕 코트리 2027 S/S에 르돔 공동관을 구성해 국내 여성복 6개 브랜드의 참가를 지원한다. 디아서, 로에, 아스파라거스, 티케비, 프레노, 하가히가 참여해 북미 바이어 대상 수주와 신규 유통 채널 발굴을 추진한다.",
+          "keywords": [
+            "르돔",
+            "코트리 뉴욕",
+            "K-패션",
+            "북미 유통",
+            "여성복"
+          ]
+        },
+        {
+          "id": "2026-09-05-julie-kegels-lvmh-prize",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire",
+          "date": "September 4, 2026",
+          "title": "Julie Kegels, 2026 LVMH Prize 수상",
+          "summary": "벨기에 디자이너 Julie Kegels가 2026 LVMH Prize를 수상해 40만 유로 지원금과 1년간의 맞춤형 멘토링을 받는다. Kegels는 지원금을 브랜드 인프라와 소규모 팀 확장에 쓰고, 멘토링을 재무 관리와 복잡한 제품을 맡을 제조사 발굴에 활용하겠다고 밝혔다.",
+          "keywords": [
+            "Julie Kegels",
+            "LVMH Prize",
+            "멘토링",
+            "브랜드 인프라",
+            "제조사"
+          ]
+        },
+        {
+          "id": "2026-09-05-nyfw-spring-2027-preview",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/new-york-fashion-week-spring-2027-preview",
+          "date": "September 4, 2026",
+          "title": "NYFW 2027 S/S, Tommy Hilfiger 복귀·Henry Zankov DVF 데뷔",
+          "summary": "2027 S/S 뉴욕 패션위크 일정에는 Tommy Hilfiger가 복귀한다. Henry Zankov는 9월 10일 Diane von Furstenberg 크리에이티브 디렉터로서 첫 컬렉션을 선보이며, 기사에서는 그가 브랜드에서 Jonathan Saunders 아래 컬러와 니트 경험을 쌓았다고 전했다.",
+          "keywords": [
+            "NYFW",
+            "Tommy Hilfiger",
+            "Henry Zankov",
+            "Diane von Furstenberg",
+            "2027 S/S"
+          ]
+        },
+        {
+          "id": "2026-09-05-fall-2026-accessories",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/fall-2026-accessory-trends",
+          "date": "September 4, 2026",
+          "title": "2026 F/W 액세서리, 스카프·브로치·스톨의 지속과 변형",
+          "summary": "Vogue는 2026 F/W 컬렉션에서 실크 스카프, 펠트 햇, 랩어라운드 선글라스, 브로치가 봄 시즌에 이어 지속됐다고 정리했다. 스톨은 어깨에 느슨하게 걸치거나 커머번드처럼 두르는 방식으로 나타났고, 플로럴 브로치는 Chanel·Loro Piana·Khaite·Dior·Kallmeyer에서 확인됐다.",
+          "keywords": [
+            "2026 F/W",
+            "액세서리",
+            "실크 스카프",
+            "플로럴 브로치",
+            "스톨"
+          ]
+        },
+        {
+          "id": "2026-09-05-tagtraume-dasonge",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/tagtraume",
+          "date": "2026. 9. 4. - 9. 17.",
+          "title": "타크트로이메 × 다송이송송, 샘플 수정 거친 26FW 슈즈",
+          "summary": "29CM가 타크트로이메와 다송이송송의 26FW 협업 슈즈를 단독 편성했다. 컬렉션은 여러 차례 샘플 수정으로 디자인과 착화감의 균형을 다듬었으며, 스퀘어 플랫·셔링 스웨이드 펌프스·리본 플랫 등 네 가지 라인으로 구성됐다.",
+          "keywords": [
+            "타크트로이메",
+            "다송이송송",
+            "26FW",
+            "협업 슈즈",
+            "29CM"
+          ]
+        },
+        {
+          "id": "2026-09-05-29cm-rising-brands-fw",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/04/2nd?cache=true",
+          "date": "2026. 9. 4. - 9. 15.",
+          "title": "29CM, 엘무드 우먼·아르카익·모노크롬 FW 선발매",
+          "summary": "29CM가 엘무드 우먼, 아르카익, 모노크롬의 가을 신상품을 9월 15일까지 선발매한다. 엘무드 우먼은 절제된 라인과 편안한 핏, 아르카익은 중성적 감성, 모노크롬은 편안하고 자연스러운 옷을 각 컬렉션의 방향으로 제시했다.",
+          "keywords": [
+            "29CM",
+            "선발매",
+            "엘무드 우먼",
+            "아르카익",
+            "모노크롬"
+          ]
+        },
+        {
+          "id": "2026-09-05-barrel-nybg-fw26",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1544889746938583231?contentCategoryCode=016004",
+          "date": "2026.09.04",
+          "title": "배럴 × NYBG, 시간대별 정원을 FW26 스윔웨어로 전개",
+          "summary": "배럴과 뉴욕보타니컬가든이 Morning Dew, Sunny Garden, Midnight Forest 세 테마로 FW26 협업 스윔 컬렉션을 공개했다. 하루 동안 달라지는 정원의 컬러와 보태니컬 모티프를 V백·타이백·U백 등 여러 수영복 실루엣과 스윔 캡에 적용했다.",
+          "keywords": [
+            "배럴",
+            "뉴욕보타니컬가든",
+            "FW26",
+            "스윔웨어",
+            "보태니컬 모티프"
+          ]
+        },
+        {
+          "id": "2026-09-05-solange-calio-house",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "Wallpaper*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/solange-calios-house-design-sao-paulo-brazil",
+          "date": "4 September 2026",
+          "title": "Solange Calio 주택, 회수 목재와 브라질 디자인 가구의 조합",
+          "summary": "Solange Calio Arquitetos의 단층 주택은 전면 개방형 문으로 다이닝·TV룸·야외 고메 공간을 연결하고, 회수 목재 마감과 크롬 그레이 시멘트 바닥, Itaúnas 화강암 상판을 조합했다. 실내에는 Carlos Motta, Guilherme Wentz, Jorge Zalszupin, Lucas Neves의 브라질 디자인 가구와 스튜디오 맞춤 요소를 배치했다.",
+          "keywords": [
+            "Solange Calio",
+            "회수 목재",
+            "브라질 디자인",
+            "맞춤 가구",
+            "상파울루"
+          ]
+        },
+        {
+          "id": "2026-09-05-kaymana-wave-reception",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184237/kaymana-wave-reception-pablo-luna-studio",
+          "date": "September 04, 2026",
+          "title": "Kaymana Wave Reception, 적층 대나무와 철골로 파형 지붕 구현",
+          "summary": "Pablo Luna Studio는 발리 Kaymana의 리셉션을 부서지는 파도에서 가져온 연속 곡선의 열린 문턱으로 설계했다. 직조 대나무 스크린이 빛을 걸러내며, 휜 적층 대나무와 철골 보강을 결합해 길게 이어지는 지붕 경간을 구현했다.",
+          "keywords": [
+            "Kaymana",
+            "적층 대나무",
+            "철골 보강",
+            "리셉션",
+            "발리"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-04T08:03:17.168+09:00",
       "briefingDate": "2026-09-04",
