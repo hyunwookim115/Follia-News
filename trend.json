@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T08:54:51+09:00",
+  "generatedAt": "2026-09-06T08:05:53+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -214,8 +214,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "트랙 팬츠·스포티 재킷의 반복 착장에 이어 Martha Stewart의 매칭 트랙수트와 뉴욕 거리의 윈드브레이커 노출이 추가돼 상승 흐름이 이어졌습니다.",
-      "detail": "9월 1일 sportif 스타일의 다중 셀러브리티·브랜드 사례에 이어 9월 3일 People은 Martha Stewart와 Oprah의 매칭 트랙수트 착장을 묶고 6개 상품을 편성했습니다. 같은 날 InStyle은 뉴욕 거리에서 스포티 윈드브레이커가 반복된다고 관찰하고 4개 브랜드 상품을 제시했습니다. 이는 반복 착장·거리 관측·상품 편성 신호이며 공개 판매량이나 검색 순위는 아닙니다.",
+      "summary": "트랙수트·윈드브레이커 반복 노출에 이어, Jennifer Garner·Julianne Moore 등 5명의 조거·이지 팬츠 착장과 다수 상품 편성이 추가돼 상승 흐름이 이어졌습니다.",
+      "detail": "9월 1~3일 sportif 스타일, Martha Stewart·Oprah의 트랙수트와 뉴욕 거리의 윈드브레이커 노출에 이어, 9월 4일 People은 Jennifer Garner의 슬림 조거와 Julianne Moore의 니트 팬츠, Olivia Wilde·Shay Mitchell·Kate Moss의 와이드·이지 팬츠 착장을 함께 제시했습니다. 관련 상품 10종도 편성됐습니다. 이는 반복 착장·편집 상품 노출 신호이며 공개 판매량이나 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -248,6 +248,10 @@
         {
           "label": "INSTYLE · NYC SPORTY WINDBREAKERS / 4 PICKS",
           "url": "https://www.instyle.com/nyc-cool-girl-fall-trends-september-12081147"
+        },
+        {
+          "label": "PEOPLE · 5 CELEBRITIES / JOGGERS + EASY PANTS / 10 PICKS",
+          "url": "https://people.com/jennifer-garner-julianne-moore-black-travel-pants-amazon-september-2026-12107150"
         }
       ]
     },
