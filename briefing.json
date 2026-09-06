@@ -1,132 +1,276 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-06T08:07:04.443+09:00",
-  "briefingDate": "2026-09-06",
+  "generatedAt": "2026-09-07T08:06:28.118+09:00",
+  "briefingDate": "2026-09-07",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-06-seoul-fashion-week-lotte-runway",
+      "id": "2026-09-07-maspocket-brand-content",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "한국경제",
-      "sourceUrl": "https://www.hankyung.com/article/202609055944g",
-      "date": "2026-09-05 19:54",
-      "title": "롯데 잠실 런웨이, K-패션 쇼와 온라인 판매를 연결",
-      "summary": "롯데백화점은 서울시와 함께 잠실 야외광장에서 2027 S/S 서울패션위크 런웨이를 열고, 던스트와 제너럴아이디어·EBM·마하그리드의 컬렉션을 선보였다. 런웨이 제품을 롯데백화점 공식 온라인몰과 연결해 관람객이 상품을 바로 확인할 수 있도록 구성했다.",
+      "source": "테넌트뉴스",
+      "sourceUrl": "https://tnnews.co.kr/archives/292285",
+      "date": "2026-09-07",
+      "title": "마스포켓, 팝업·협업과 캐릭터 콘텐츠로 카테고리 확장",
+      "summary": "신상목 대표는 4년째 운영 중인 모자 브랜드 마스포켓의 익숙함을 경계해 팝업과 협업으로 카테고리를 넓히고 있다고 밝혔다. 신상품·시즌오프·패션 고민을 각각 ‘신상목’·‘헌상목’·‘스승목’ 캐릭터로 풀며, 브랜드 운영 경험을 콘텐츠의 설득력으로 연결한다.",
       "keywords": [
-        "서울패션위크",
-        "던스트",
-        "제너럴아이디어",
-        "EBM",
-        "마하그리드",
-        "온라인몰"
+        "마스포켓",
+        "신상목",
+        "브랜드 운영",
+        "팝업",
+        "협업",
+        "콘텐츠"
       ]
     },
     {
-      "id": "2026-09-06-robert-wun-hong-kong-ballet",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "Taiwan News",
-      "sourceUrl": "https://www.taiwannews.com.tw/news/6434560",
-      "date": "2026-09-05 15:15",
-      "title": "Robert Wun, 홍콩 발레 ‘Glam Rock’ 맞춤 의상 제작",
-      "summary": "Hong Kong Fashion Fest Gala에서 Hong Kong Ballet이 Robert Wun의 맞춤 의상을 입고 3막 공연 ‘Glam Rock’을 선보였다. 의상은 Wun의 영화적·조형적 실루엣과 서사 중심 미학을 반영했으며, 공연은 클래식·현대 무용과 록 음악을 결합했다.",
-      "keywords": [
-        "Robert Wun",
-        "Hong Kong Ballet",
-        "맞춤 의상",
-        "Glam Rock",
-        "Hong Kong Fashion Fest"
-      ]
-    },
-    {
-      "id": "2026-09-06-cartier-cinema-club",
+      "id": "2026-09-07-miu-miu-womens-tales",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/slideshow/cartier-cinema-club-venice-film-festival-2026-party",
-      "date": "2026-09-05",
-      "title": "Cartier, 베니스영화제에서 Cinema Club 출범",
-      "summary": "Cartier가 베니스영화제 메인 스폰서 5주년 행사에서 새로운 ‘Cartier Cinema Club’을 출범시켰다. 브랜드는 영화제 지원을 재확인하고, 영화 〈La La Land〉 10주년 라이브 음악 행사와 감독·촬영감독 마스터클래스 등을 프로그램에 포함했다.",
+      "sourceUrl": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
+      "date": "2026-09-06",
+      "title": "Miu Miu, 베니스에서 Women’s Tales 영화 프로젝트 조명",
+      "summary": "Miu Miu는 베니스영화제 기간 Ca’ Corner della Regina에서 단편영화 프로젝트 ‘Women’s Tales’를 기념하는 연례 행사를 열었다. 올해 프로젝트에는 Mona Fastvold와 Claire Denis의 신작이 포함됐고, 행사에는 영화감독과 다큐멘터리 제작자들이 참석했다.",
       "keywords": [
-        "Cartier",
-        "Cinema Club",
+        "Miu Miu",
+        "Women’s Tales",
         "베니스영화제",
-        "문화 후원",
-        "브랜드 이벤트"
+        "단편영화",
+        "문화 프로젝트"
       ]
     },
     {
-      "id": "2026-09-06-luxury-watch-archive-materials",
+      "id": "2026-09-07-met-galliano-exhibition-cancelled",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "시장경제신문",
-      "sourceUrl": "https://www.meconomynews.com/news/articleView.html?idxno=201259",
-      "date": "2026-09-05 15:10",
-      "title": "럭셔리 워치, 아카이브를 소재·비율·기능으로 재구성",
-      "summary": "미도·론진·티파니앤코·오메가는 브랜드 아카이브를 유지하면서 케이스 크기, 티타늄·플래티넘 등 소재와 문페이즈·모노푸셔 같은 기능을 새롭게 구성했다. 오메가는 스피드마스터 38mm의 서브 다이얼을 원형으로 바꾸고 다이얼 텍스트를 줄였으며, 미도는 1970년대 TV형 케이스를 티타늄과 28mm 비율로 확장했다.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/06/john-galliano-anna-wintour-met-gala",
+      "date": "2026-09-06 15:30 CEST",
+      "title": "메트, John Galliano 2027 의상 전시 계획 철회",
+      "summary": "메트로폴리탄미술관은 John Galliano를 조명할 예정이던 2027년 Costume Institute 전시를 계획대로 진행하지 않기로 했다. 전시 발표 뒤 박물관 후원자와 뉴욕 정치인, 유대계 지도자들의 비판이 이어졌으며, 메트는 Galliano와의 논의 끝에 결정을 내렸다.",
       "keywords": [
-        "럭셔리 워치",
-        "아카이브",
-        "티타늄",
-        "스피드마스터",
-        "멀티포트 TV",
-        "비율"
+        "John Galliano",
+        "Costume Institute",
+        "메트로폴리탄미술관",
+        "전시",
+        "아카이브"
       ]
     },
     {
-      "id": "2026-09-06-wettia-fall-shoes",
+      "id": "2026-09-07-29cm-ye-fall",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/05/wettia?cache=true",
-      "date": "2026-09-05",
-      "title": "29CM, 위띠아 천연 양가죽 가을 슈즈 편성",
-      "summary": "29CM가 위띠아의 가을 슈즈 컬렉션을 9월 17일까지 편성했다. 천연 양가죽 샤브레 플랫과 로만 웨지 펌프스, 26FW 모먼 웨지 부츠로 구성되며 플랫은 발등을 감싸는 라인을 적용했다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/06/ye?cache=true",
+      "date": "2026-09-06",
+      "title": "29CM, 와이 이의 드레이프·스웨이드 가을 편성",
+      "summary": "29CM가 와이 이의 가을 컬렉션을 9월 20일까지 편성했다. 스웨이드 터치와 워싱감을 적용한 셔츠 재킷·슬릿 스커트, 텐셀 혼방 드레이프 터틀넥 등을 통해 흐르는 실루엣과 자연스러운 레이어링을 전개한다.",
       "keywords": [
-        "위띠아",
+        "와이 이",
         "29CM",
-        "천연 양가죽",
-        "웨지 슈즈",
-        "26FW"
+        "드레이프",
+        "스웨이드 터치",
+        "레이어링"
       ]
     },
     {
-      "id": "2026-09-06-haus-of-carnival",
+      "id": "2026-09-07-wednesdayoasis-aloha",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/wednesdayoasis",
+      "date": "2026-09-06",
+      "title": "웬즈데이오아시스 × 알로하, 활용도 중심의 29 EDITION",
+      "summary": "웬즈데이오아시스와 크리에이터 알로하는 레더 재킷·체크 셔츠·스웨트셔츠로 구성한 29CM 단독 협업을 공개했다. 구독자 의견을 핏과 디테일에 반영했고, 하이넥과 오픈 칼라로 바꿔 입는 재킷과 구김 부담을 낮춘 셔츠처럼 반복 착용과 레이어링을 고려했다.",
+      "keywords": [
+        "웬즈데이오아시스",
+        "알로하",
+        "29 EDITION",
+        "레더 재킷",
+        "레이어링"
+      ]
+    },
+    {
+      "id": "2026-09-07-drawfit-nerdking-moleskin",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1541693143301257282",
+      "date": "2026-09-06",
+      "title": "드로우핏 × 너드킹, 고밀도 몰스킨 재킷 두 형태",
+      "summary": "드로우핏과 너드킹은 면 100% 고밀도 몰스킨으로 블루종과 해링턴 재킷을 제작했다. 두 제품은 크롭 비율과 YKK 지퍼를 공유하며, 블루종은 정돈된 어깨선에 집중하고 해링턴은 밑단 밴딩으로 볼륨을 만들었다.",
+      "keywords": [
+        "드로우핏",
+        "너드킹",
+        "몰스킨 코튼",
+        "블루종",
+        "해링턴 재킷"
+      ]
+    },
+    {
+      "id": "2026-09-07-spitfire-roastery",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184304/housing-carnival-studio-profile",
-      "date": "2026-09-05",
-      "title": "HAUS OF CARNIVAL, 브랜드별 ‘집’으로 구성한 스트리트웨어 매장",
-      "summary": "Studio Profile은 방콕 CARNIVAL 매장을 각 제품군과 브랜드 정체성이 개별 ‘HAUS’를 이루는 문화 마을로 설계했다. 돌·콘크리트는 기반과 도시성을, 유리·금속은 개방성과 이동성을, 목재는 친밀한 스케일을 표현하며, 유리 POPUP HAUS는 협업·한정 컬렉션·브랜드 이벤트에 대응한다.",
+      "sourceUrl": "https://www.archdaily.com/1184405/spitfire-roastery-nota-architects",
+      "date": "2026-09-06",
+      "title": "Spitfire Roastery, 생산 공정을 공개한 가변형 로스터리",
+      "summary": "Nota Architects는 커피 로스팅 공장을 생산·소비·여가·공공 활동을 연결하는 네 개의 볼륨으로 나눴다. 세 면의 연속 유리 파사드로 생두 입고부터 로스팅·포장·추출까지 보이게 했고, 이동식 카운터와 진열 시스템·가구로 브랜드 행사와 교육, 주말 마켓 등 변화하는 운영에 대응한다.",
       "keywords": [
-        "CARNIVAL",
+        "Spitfire Roastery",
+        "로스터리",
+        "가변형 가구",
+        "유리 파사드",
+        "생산 경험"
+      ]
+    },
+    {
+      "id": "2026-09-07-chleboteka-okraglak",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ArchDaily",
+      "sourceUrl": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
+      "date": "2026-09-06",
+      "title": "Chleboteka Okrąglak, 25㎡에 모더니즘과 판매 동선을 압축",
+      "summary": "CUDO:는 브로츠와프의 원형 모더니즘 건축 Okrąglak의 곡선을 카운터·수납·천장과 세부 요소에 옮겼다. 25㎡ 안에 판매·커피 준비·수납·직원 기능을 배치하고, 맞춤 카운터와 벽 선반, 건물을 두르는 외부 벤치로 진열과 좌석을 확장했다.",
+      "keywords": [
+        "Chleboteka",
         "리테일 인테리어",
-        "브랜드 아이덴티티",
-        "팝업 공간",
-        "재료"
-      ]
-    },
-    {
-      "id": "2026-09-06-joao-moura-apartment",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
-      "date": "2026-09-05",
-      "title": "João Moura Apartment, 주방을 거실까지 확장한 가변형 평면",
-      "summary": "Margem Arquitetos는 분절됐던 120㎡ 아파트에서 주방을 거실까지 확장해 조리·서빙·교류를 잇는 중간 영역으로 만들고, 중앙의 높은 카운터로 공간 전환을 조직했다. 생합판 수납은 주방·팬트리·미디어 콘솔·다이닝 선반에 반복되고, 맞춤 타일 패턴과 블루 톤, 노출 콘크리트가 공용부를 연결한다.",
-      "keywords": [
-        "João Moura Apartment",
-        "가변형 평면",
-        "주방 확장",
-        "생합판",
-        "맞춤 타일"
+        "모더니즘",
+        "맞춤 가구",
+        "판매 동선"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-06T08:07:04.443+09:00",
+      "briefingDate": "2026-09-06",
+      "generatedAt": "2026-09-06T08:07:04.443+09:00",
+      "cards": [
+        {
+          "id": "2026-09-06-seoul-fashion-week-lotte-runway",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "한국경제",
+          "sourceUrl": "https://www.hankyung.com/article/202609055944g",
+          "date": "2026-09-05 19:54",
+          "title": "롯데 잠실 런웨이, K-패션 쇼와 온라인 판매를 연결",
+          "summary": "롯데백화점은 서울시와 함께 잠실 야외광장에서 2027 S/S 서울패션위크 런웨이를 열고, 던스트와 제너럴아이디어·EBM·마하그리드의 컬렉션을 선보였다. 런웨이 제품을 롯데백화점 공식 온라인몰과 연결해 관람객이 상품을 바로 확인할 수 있도록 구성했다.",
+          "keywords": [
+            "서울패션위크",
+            "던스트",
+            "제너럴아이디어",
+            "EBM",
+            "마하그리드",
+            "온라인몰"
+          ]
+        },
+        {
+          "id": "2026-09-06-robert-wun-hong-kong-ballet",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "Taiwan News",
+          "sourceUrl": "https://www.taiwannews.com.tw/news/6434560",
+          "date": "2026-09-05 15:15",
+          "title": "Robert Wun, 홍콩 발레 ‘Glam Rock’ 맞춤 의상 제작",
+          "summary": "Hong Kong Fashion Fest Gala에서 Hong Kong Ballet이 Robert Wun의 맞춤 의상을 입고 3막 공연 ‘Glam Rock’을 선보였다. 의상은 Wun의 영화적·조형적 실루엣과 서사 중심 미학을 반영했으며, 공연은 클래식·현대 무용과 록 음악을 결합했다.",
+          "keywords": [
+            "Robert Wun",
+            "Hong Kong Ballet",
+            "맞춤 의상",
+            "Glam Rock",
+            "Hong Kong Fashion Fest"
+          ]
+        },
+        {
+          "id": "2026-09-06-cartier-cinema-club",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/slideshow/cartier-cinema-club-venice-film-festival-2026-party",
+          "date": "2026-09-05",
+          "title": "Cartier, 베니스영화제에서 Cinema Club 출범",
+          "summary": "Cartier가 베니스영화제 메인 스폰서 5주년 행사에서 새로운 ‘Cartier Cinema Club’을 출범시켰다. 브랜드는 영화제 지원을 재확인하고, 영화 〈La La Land〉 10주년 라이브 음악 행사와 감독·촬영감독 마스터클래스 등을 프로그램에 포함했다.",
+          "keywords": [
+            "Cartier",
+            "Cinema Club",
+            "베니스영화제",
+            "문화 후원",
+            "브랜드 이벤트"
+          ]
+        },
+        {
+          "id": "2026-09-06-luxury-watch-archive-materials",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "시장경제신문",
+          "sourceUrl": "https://www.meconomynews.com/news/articleView.html?idxno=201259",
+          "date": "2026-09-05 15:10",
+          "title": "럭셔리 워치, 아카이브를 소재·비율·기능으로 재구성",
+          "summary": "미도·론진·티파니앤코·오메가는 브랜드 아카이브를 유지하면서 케이스 크기, 티타늄·플래티넘 등 소재와 문페이즈·모노푸셔 같은 기능을 새롭게 구성했다. 오메가는 스피드마스터 38mm의 서브 다이얼을 원형으로 바꾸고 다이얼 텍스트를 줄였으며, 미도는 1970년대 TV형 케이스를 티타늄과 28mm 비율로 확장했다.",
+          "keywords": [
+            "럭셔리 워치",
+            "아카이브",
+            "티타늄",
+            "스피드마스터",
+            "멀티포트 TV",
+            "비율"
+          ]
+        },
+        {
+          "id": "2026-09-06-wettia-fall-shoes",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/05/wettia?cache=true",
+          "date": "2026-09-05",
+          "title": "29CM, 위띠아 천연 양가죽 가을 슈즈 편성",
+          "summary": "29CM가 위띠아의 가을 슈즈 컬렉션을 9월 17일까지 편성했다. 천연 양가죽 샤브레 플랫과 로만 웨지 펌프스, 26FW 모먼 웨지 부츠로 구성되며 플랫은 발등을 감싸는 라인을 적용했다.",
+          "keywords": [
+            "위띠아",
+            "29CM",
+            "천연 양가죽",
+            "웨지 슈즈",
+            "26FW"
+          ]
+        },
+        {
+          "id": "2026-09-06-haus-of-carnival",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184304/housing-carnival-studio-profile",
+          "date": "2026-09-05",
+          "title": "HAUS OF CARNIVAL, 브랜드별 ‘집’으로 구성한 스트리트웨어 매장",
+          "summary": "Studio Profile은 방콕 CARNIVAL 매장을 각 제품군과 브랜드 정체성이 개별 ‘HAUS’를 이루는 문화 마을로 설계했다. 돌·콘크리트는 기반과 도시성을, 유리·금속은 개방성과 이동성을, 목재는 친밀한 스케일을 표현하며, 유리 POPUP HAUS는 협업·한정 컬렉션·브랜드 이벤트에 대응한다.",
+          "keywords": [
+            "CARNIVAL",
+            "리테일 인테리어",
+            "브랜드 아이덴티티",
+            "팝업 공간",
+            "재료"
+          ]
+        },
+        {
+          "id": "2026-09-06-joao-moura-apartment",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
+          "date": "2026-09-05",
+          "title": "João Moura Apartment, 주방을 거실까지 확장한 가변형 평면",
+          "summary": "Margem Arquitetos는 분절됐던 120㎡ 아파트에서 주방을 거실까지 확장해 조리·서빙·교류를 잇는 중간 영역으로 만들고, 중앙의 높은 카운터로 공간 전환을 조직했다. 생합판 수납은 주방·팬트리·미디어 콘솔·다이닝 선반에 반복되고, 맞춤 타일 패턴과 블루 톤, 노출 콘크리트가 공용부를 연결한다.",
+          "keywords": [
+            "João Moura Apartment",
+            "가변형 평면",
+            "주방 확장",
+            "생합판",
+            "맞춤 타일"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-05T08:06:12.841+09:00",
       "briefingDate": "2026-09-05",
