@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T08:51:33+09:00",
+  "generatedAt": "2026-09-08T08:11:17+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리·버뮤다·미디스커트의 반복 노출에 이어, 9월 3일 Zoë Kravitz가 무릎 길이 슬립 스커트를 착용해 중간 길이 하의의 상승 흐름이 재확인됐습니다.",
-      "detail": "8월 27~29일 Millie Bobby Brown의 카프리와 Kaia Gerber의 무릎 길이 스커트, 9월 2일 Sydney Sweeney의 버뮤다 쇼츠에 이어 9월 3일 Zoë Kravitz가 뉴욕에서 무릎 길이 블랙 슬립 스커트를 착용했습니다. Vogue와 Marie Claire가 9월 4일 이를 각각 보도해 카프리·버뮤다·미디스커트로 이어지는 무릎 전후 길이의 반복 착장 신호가 강화됐습니다. 공개 착장·편집 노출이며 판매량이나 검색 순위는 아닙니다.",
+      "summary": "Zoë Kravitz의 무릎 길이 스커트에 이어 Hilary Duff의 카프리 착장과 후속 상품 편성이 추가돼 중간 길이 하의의 상승 흐름이 이어졌습니다.",
+      "detail": "8월 27일 이후 Millie Bobby Brown의 카프리, Kaia Gerber·Zoë Kravitz의 무릎 길이 스커트와 Sydney Sweeney의 버뮤다 쇼츠가 반복 노출됐습니다. 이어 9월 5일 전후 Hilary Duff가 로스앤젤레스에서 카프리 팬츠를 착용했고, Who What Wear가 카프리 상품과 함께 보도했습니다. 같은 매체는 Zoë Kravitz의 무릎 길이 슬립 스커트 착장을 별도로 후속 보도하며 관련 스커트 3종을 편성했습니다. 공개 착장·편집 상품 노출이며 판매량이나 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -64,6 +64,14 @@
         {
           "label": "MARIE CLAIRE · ZOË KRAVITZ KNEE-LENGTH SKIRT FOLLOW-UP",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flats-trend-fall-zoe-kravitz-2026/"
+        },
+        {
+          "label": "WHO WHAT WEAR · HILARY DUFF CAPRI FOLLOW-UP",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/hilary-duff-capri-pants-outfit"
+        },
+        {
+          "label": "WHO WHAT WEAR · ZOË KRAVITZ KNEE-LENGTH SKIRT / 3 PICKS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-slip-skirt-high-foot-ballet-flats-outfit-zoe-kravitz"
         }
       ]
     },
@@ -352,30 +360,26 @@
       ]
     },
     {
-      "id": "live-camo-mix-match",
-      "keyword": "CAMO MIX-MATCH",
-      "category": "PATTERN",
-      "direction": "HOLD",
+      "id": "live-diamond-drop-earrings",
+      "keyword": "DIAMOND DROP EARRINGS",
+      "category": "ACCESSORY",
+      "direction": "NEW",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "8월 27일까지 카무플라주 착장과 상품 편성이 이어졌지만, 최근 7일 범위에서 새로운 독립 소셜·검색·수요 근거가 확인되지 않아 상승 판단을 보류합니다.",
-      "detail": "Alexa Chung·Gigi Hadid의 카무 팬츠 착장과 4개 브랜드 편성은 기존 흐름을 뒷받침합니다. 그러나 8월 28일~9월 3일 공개 Instagram 반복 게시, Google Trends 수치, 국내외 플랫폼 판매량·랭킹을 추가로 확인하지 못했습니다. 기존 항목은 보존하되 방향을 HOLD로 조정했습니다.",
+      "summary": "Hailey Bieber·Kendall Jenner·Vittoria Ceretti의 공개 Instagram·베니스 착장에서 다이아몬드 드롭 이어링이 반복 노출되고 다수 상품 편성이 뒤따랐습니다.",
+      "detail": "9월 7일 전후 Who What Wear는 Hailey Bieber, Kendall Jenner, Vittoria Ceretti의 공개 Instagram 착장과 Ceretti의 2026 베니스 영화제 착장에서 다이아몬드 드롭 이어링을 확인하고 13개 유사 상품을 편성했습니다. 국내 무신사에서도 랩다이아몬드 드롭 이어링과 골드 드롭 이어링 상품 노출을 확인했습니다. 13개는 편집 상품 수이고 무신사 노출·할인 표시는 판매량이나 판매 순위가 아니며, 공개 검색량도 확인되지 않았습니다.",
       "sources": [
         {
-          "label": "INSTYLE · CPHFW CAMO REPEAT",
-          "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
+          "label": "WHO WHAT WEAR · 3 PUBLIC INSTAGRAM LOOKS + VENICE / 13 PICKS",
+          "url": "https://www.whowhatwear.com/fashion/jewelry/diamond-drop-earrings-trend"
         },
         {
-          "label": "VOGUE KOREA · CAMO MIX-MATCH",
-          "url": "https://www.vogue.co.kr/2026/08/21/%ED%95%9C%EB%8F%99%EC%95%88-%EC%9E%8A%EA%B3%A0-%EC%9E%88%EB%8D%98-%EC%B9%B4%EB%AC%B4-%ED%8C%A8%ED%84%B4%EC%9D%B4-%EB%8B%A4%EC%8B%9C-%EC%98%88%EB%BB%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4/"
+          "label": "MUSINSA · LAB-DIAMOND DROP EARRINGS LISTING",
+          "url": "https://www.musinsa.com/products/6348247"
         },
         {
-          "label": "INSTAGRAM · PINK + GREEN CAMOUFLAGE",
-          "url": "https://www.instagram.com/p/DcdfI7zsT4J/"
-        },
-        {
-          "label": "WHO WHAT WEAR · CAMO TROUSERS / 4 RETAIL PICKS",
-          "url": "https://www.whowhatwear.com/fashion/fall/trends-making-a-comeback-autumn-2026"
+          "label": "MUSINSA · GOLD DROP EARRINGS LISTING",
+          "url": "https://www.musinsa.com/products/5785049"
         }
       ]
     },
