@@ -1,148 +1,325 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-07T08:06:28.118+09:00",
-  "briefingDate": "2026-09-07",
+  "generatedAt": "2026-09-08T08:02:55.982+09:00",
+  "briefingDate": "2026-09-08",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-07-maspocket-brand-content",
+      "id": "2026-09-08-descente-movesport-korea",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/292285",
+      "sourceUrl": "https://tnnews.co.kr/archives/292981",
       "date": "2026-09-07",
-      "title": "마스포켓, 팝업·협업과 캐릭터 콘텐츠로 카테고리 확장",
-      "summary": "신상목 대표는 4년째 운영 중인 모자 브랜드 마스포켓의 익숙함을 경계해 팝업과 협업으로 카테고리를 넓히고 있다고 밝혔다. 신상품·시즌오프·패션 고민을 각각 ‘신상목’·‘헌상목’·‘스승목’ 캐릭터로 풀며, 브랜드 운영 경험을 콘텐츠의 설득력으로 연결한다.",
+      "title": "데상트, 생활·팀 스포츠 브랜드 ‘무브스포츠’ 국내 론칭",
+      "summary": "데상트가 배드민턴·탁구·배구 등 생활·팀 스포츠를 겨냥한 ‘무브스포츠’를 국내에 공식 론칭한다. 신축성·통기성·흡습속건 소재의 의류와 인도어화·리커버리 슈즈를 구성하고, 9월 16일 자사몰·무신사 선공개 뒤 18일부터 단독 매장을 확대하며 팀웨어·홀세일 B2B도 병행한다.",
       "keywords": [
-        "마스포켓",
-        "신상목",
-        "브랜드 운영",
-        "팝업",
-        "협업",
-        "콘텐츠"
+        "데상트",
+        "무브스포츠",
+        "팀 스포츠",
+        "기능성 소재",
+        "옴니채널"
       ]
     },
     {
-      "id": "2026-09-07-miu-miu-womens-tales",
+      "id": "2026-09-08-hansemk-playkids-club",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "테넌트뉴스",
+      "sourceUrl": "https://tnnews.co.kr/archives/292991",
+      "date": "2026-09-07",
+      "title": "한세MK, 6개 글로벌 IP 묶은 ‘플레이키즈 클럽’ 출범",
+      "summary": "한세MK가 5~12세를 겨냥한 키즈 라이프스타일 플랫폼 ‘플레이키즈 클럽’을 출범시켰다. 나이키·조던·컨버스·리바이스에 라코스테 키즈와 국내에 처음 선보이는 아베크롬비 키즈를 더하고, 백화점·아울렛 매장과 자사몰 스타일24를 연결한다.",
+      "keywords": [
+        "한세MK",
+        "플레이키즈 클럽",
+        "키즈 편집숍",
+        "글로벌 IP",
+        "옴니채널"
+      ]
+    },
+    {
+      "id": "2026-09-08-timberland-experiential-retail",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "테넌트뉴스",
+      "sourceUrl": "https://tnnews.co.kr/archives/292904",
+      "date": "2026-09-07",
+      "title": "팀버랜드, 하남 렌탈·파주 번들로 체험형 유통 확대",
+      "summary": "팀버랜드가 신세계 하남점과 파주 프리미엄 아울렛에 서로 다른 체험·판매 방식을 적용했다. 하남점은 신제품 T25를 최대 2시간 외부에서 착용하는 렌탈 프로그램을 도입했고, 파주점은 다품목 번들 프로모션과 럭키드로우를 운영한다.",
+      "keywords": [
+        "팀버랜드",
+        "체험형 매장",
+        "T25",
+        "렌탈 프로그램",
+        "아울렛"
+      ]
+    },
+    {
+      "id": "2026-09-08-icicle-sabato-de-sarno",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
-      "date": "2026-09-06",
-      "title": "Miu Miu, 베니스에서 Women’s Tales 영화 프로젝트 조명",
-      "summary": "Miu Miu는 베니스영화제 기간 Ca’ Corner della Regina에서 단편영화 프로젝트 ‘Women’s Tales’를 기념하는 연례 행사를 열었다. 올해 프로젝트에는 Mona Fastvold와 Claire Denis의 신작이 포함됐고, 행사에는 영화감독과 다큐멘터리 제작자들이 참석했다.",
+      "sourceUrl": "https://www.vogue.com/article/sabato-de-sarno-looks-eastward-for-his-next-move",
+      "date": "September 7, 2026",
+      "title": "Icicle, Sabato De Sarno를 크리에이티브 디렉터로 선임",
+      "summary": "상하이·파리 기반 브랜드 Icicle이 Sabato De Sarno를 크리에이티브 디렉터로 선임했다. 그는 여성·남성 레디투웨어와 액세서리, 아이웨어의 크리에이티브 방향을 총괄하며 첫 컬렉션은 2027 F/W에 공개한다.",
       "keywords": [
-        "Miu Miu",
-        "Women’s Tales",
-        "베니스영화제",
-        "단편영화",
-        "문화 프로젝트"
+        "Icicle",
+        "Sabato De Sarno",
+        "크리에이티브 디렉터",
+        "2027 F/W",
+        "중국 패션"
       ]
     },
     {
-      "id": "2026-09-07-met-galliano-exhibition-cancelled",
+      "id": "2026-09-08-paul-smith-independent-operations",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/06/john-galliano-anna-wintour-met-gala",
-      "date": "2026-09-06 15:30 CEST",
-      "title": "메트, John Galliano 2027 의상 전시 계획 철회",
-      "summary": "메트로폴리탄미술관은 John Galliano를 조명할 예정이던 2027년 Costume Institute 전시를 계획대로 진행하지 않기로 했다. 전시 발표 뒤 박물관 후원자와 뉴욕 정치인, 유대계 지도자들의 비판이 이어졌으며, 메트는 Galliano와의 논의 끝에 결정을 내렸다.",
+      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/07/work-hard-nobody-cares-how-good-you-used-to-be-paul-smith-at-80-on-love-fun-and-his-fabulous-life-in-fashion",
+      "date": "2026-09-07 14:00 AEST",
+      "title": "Paul Smith, 독립 소유와 매장 현장 중심의 운영 지속",
+      "summary": "Paul Smith는 여러 인수 제안을 거절하고 회사의 다수 지분을 유지해 왔으며, 현재도 토요일이면 런던 메이페어 매장에서 고객을 만난다. 회사는 지난해 2,200만 파운드가 넘는 손실을 기록했지만 손익분기점에 가까워지고 있다고 밝혔고, 새 경영진과 함께 상업성과 브랜드 정체성의 균형을 맞추고 있다.",
       "keywords": [
-        "John Galliano",
-        "Costume Institute",
-        "메트로폴리탄미술관",
-        "전시",
-        "아카이브"
+        "Paul Smith",
+        "독립 브랜드",
+        "매장 운영",
+        "다수 지분",
+        "브랜드 정체성"
       ]
     },
     {
-      "id": "2026-09-07-29cm-ye-fall",
+      "id": "2026-09-08-octette-hyoseon-29edition",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
       "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/06/ye?cache=true",
-      "date": "2026-09-06",
-      "title": "29CM, 와이 이의 드레이프·스웨이드 가을 편성",
-      "summary": "29CM가 와이 이의 가을 컬렉션을 9월 20일까지 편성했다. 스웨이드 터치와 워싱감을 적용한 셔츠 재킷·슬릿 스커트, 텐셀 혼방 드레이프 터틀넥 등을 통해 흐르는 실루엣과 자연스러운 레이어링을 전개한다.",
+      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/octette?cache=true",
+      "date": "2026-09-07",
+      "title": "오떼뜨 × 효선, 소재·실루엣 중심의 29 EDITION",
+      "summary": "오떼뜨와 효선이 소재감과 실루엣을 중심으로 한 29CM 단독 협업을 공개했다. 유행보다 오래 입을 수 있는 옷을 목표로 각 피스가 자연스럽게 이어지도록 구성하고, 조합에 따라 분위기가 달라지는 스타일링을 제안한다.",
       "keywords": [
-        "와이 이",
-        "29CM",
-        "드레이프",
-        "스웨이드 터치",
-        "레이어링"
-      ]
-    },
-    {
-      "id": "2026-09-07-wednesdayoasis-aloha",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/wednesdayoasis",
-      "date": "2026-09-06",
-      "title": "웬즈데이오아시스 × 알로하, 활용도 중심의 29 EDITION",
-      "summary": "웬즈데이오아시스와 크리에이터 알로하는 레더 재킷·체크 셔츠·스웨트셔츠로 구성한 29CM 단독 협업을 공개했다. 구독자 의견을 핏과 디테일에 반영했고, 하이넥과 오픈 칼라로 바꿔 입는 재킷과 구김 부담을 낮춘 셔츠처럼 반복 착용과 레이어링을 고려했다.",
-      "keywords": [
-        "웬즈데이오아시스",
-        "알로하",
+        "오떼뜨",
+        "효선",
         "29 EDITION",
-        "레더 재킷",
-        "레이어링"
+        "소재",
+        "실루엣"
       ]
     },
     {
-      "id": "2026-09-07-drawfit-nerdking-moleskin",
+      "id": "2026-09-08-29cm-citta-fall",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1541693143301257282",
-      "date": "2026-09-06",
-      "title": "드로우핏 × 너드킹, 고밀도 몰스킨 재킷 두 형태",
-      "summary": "드로우핏과 너드킹은 면 100% 고밀도 몰스킨으로 블루종과 해링턴 재킷을 제작했다. 두 제품은 크롭 비율과 YKK 지퍼를 공유하며, 블루종은 정돈된 어깨선에 집중하고 해링턴은 밑단 밴딩으로 볼륨을 만들었다.",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/07/citta",
+      "date": "2026-09-07",
+      "title": "29CM, 씨타의 스웨이드·컬러 가을 컬렉션 편성",
+      "summary": "29CM가 씨타의 가을 컬렉션을 9월 15일까지 편성했다. 스웨이드 질감의 루즈핏 하이넥 재킷과 스트라이프 배색 니트, 러플 체크 블라우스, 헤어리한 시스루 조직의 니트 스커트를 소개한다.",
       "keywords": [
-        "드로우핏",
-        "너드킹",
-        "몰스킨 코튼",
-        "블루종",
-        "해링턴 재킷"
+        "씨타",
+        "29CM",
+        "스웨이드",
+        "하이넥 재킷",
+        "컬러"
       ]
     },
     {
-      "id": "2026-09-07-spitfire-roastery",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184405/spitfire-roastery-nota-architects",
-      "date": "2026-09-06",
-      "title": "Spitfire Roastery, 생산 공정을 공개한 가변형 로스터리",
-      "summary": "Nota Architects는 커피 로스팅 공장을 생산·소비·여가·공공 활동을 연결하는 네 개의 볼륨으로 나눴다. 세 면의 연속 유리 파사드로 생두 입고부터 로스팅·포장·추출까지 보이게 했고, 이동식 카운터와 진열 시스템·가구로 브랜드 행사와 교육, 주말 마켓 등 변화하는 운영에 대응한다.",
+      "id": "2026-09-08-29cm-lookast-capsule",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "29CM",
+      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/07/lookast?cache=true",
+      "date": "2026-09-07",
+      "title": "29CM, 룩캐스트 단독 캡슐 ‘위시리스트’ 공개",
+      "summary": "29CM가 룩캐스트 단독 캡슐 컬렉션 ‘위시리스트’를 9월 13일까지 선보인다. 컬러 매칭 스냅을 적용한 하이넥 레더 점퍼와 트윌 조직의 코튼 혼방 A라인 하프 트렌치 등 클래식한 테일러링과 현대적 실루엣을 묶었다.",
       "keywords": [
-        "Spitfire Roastery",
-        "로스터리",
-        "가변형 가구",
-        "유리 파사드",
-        "생산 경험"
+        "룩캐스트",
+        "29CM",
+        "캡슐 컬렉션",
+        "하이넥 레더",
+        "하프 트렌치"
       ]
     },
     {
-      "id": "2026-09-07-chleboteka-okraglak",
+      "id": "2026-09-08-pageone-wuxi-bookstore",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
-      "date": "2026-09-06",
-      "title": "Chleboteka Okrąglak, 25㎡에 모더니즘과 판매 동선을 압축",
-      "summary": "CUDO:는 브로츠와프의 원형 모더니즘 건축 Okrąglak의 곡선을 카운터·수납·천장과 세부 요소에 옮겼다. 25㎡ 안에 판매·커피 준비·수납·직원 기능을 배치하고, 맞춤 카운터와 벽 선반, 건물을 두르는 외부 벤치로 진열과 좌석을 확장했다.",
+      "sourceUrl": "https://www.archdaily.com/1184504/pageone-bookstore-at-wuxi-park-station-lllab",
+      "date": "2026-09-07",
+      "title": "PAGEONE 우시 서점, 운하 풍경을 가변형 독서·행사 공간으로 번역",
+      "summary": "llLab.은 우시의 운하 생활에서 집·골목·강변·수로를 추출해 964㎡ 서점 내부의 경계와 동선으로 옮겼다. 높이가 다른 목재·자연 소재의 작은 ‘책 집’에는 서가와 자습실·커피 바를 넣고, 복층의 단상·계단·좌석은 신간 행사와 영화 상영, 바이닐 콘서트에 맞게 배치를 바꿀 수 있다.",
       "keywords": [
-        "Chleboteka",
+        "PAGEONE",
         "리테일 인테리어",
-        "모더니즘",
-        "맞춤 가구",
-        "판매 동선"
+        "가변형 공간",
+        "목재",
+        "서점"
+      ]
+    },
+    {
+      "id": "2026-09-08-valley-house-superkul",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "Wallpaper*",
+      "sourceUrl": "https://www.wallpaper.com/architecture/residential/for-sale-valley-house-superkul-canada",
+      "date": "2026-09-07",
+      "title": "Valley House, 목재·벽돌 스크린과 전면 유리로 계곡 풍경 연결",
+      "summary": "Superkül이 토론토 교외에 설계한 Valley House는 목재와 벽돌 스크린, 후퇴한 입구로 거리 쪽 프라이버시를 만들었다. 후면은 전고 슬라이딩 유리문으로 숲이 있는 계곡을 향해 열고, 프라이버시가 필요한 공간에는 고창과 천창으로 빛을 들였다.",
+      "keywords": [
+        "Valley House",
+        "Superkül",
+        "목재 스크린",
+        "벽돌",
+        "슬라이딩 유리문"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-07T08:06:28.118+09:00",
+      "briefingDate": "2026-09-07",
+      "generatedAt": "2026-09-07T08:06:28.118+09:00",
+      "cards": [
+        {
+          "id": "2026-09-07-maspocket-brand-content",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/292285",
+          "date": "2026-09-07",
+          "title": "마스포켓, 팝업·협업과 캐릭터 콘텐츠로 카테고리 확장",
+          "summary": "신상목 대표는 4년째 운영 중인 모자 브랜드 마스포켓의 익숙함을 경계해 팝업과 협업으로 카테고리를 넓히고 있다고 밝혔다. 신상품·시즌오프·패션 고민을 각각 ‘신상목’·‘헌상목’·‘스승목’ 캐릭터로 풀며, 브랜드 운영 경험을 콘텐츠의 설득력으로 연결한다.",
+          "keywords": [
+            "마스포켓",
+            "신상목",
+            "브랜드 운영",
+            "팝업",
+            "협업",
+            "콘텐츠"
+          ]
+        },
+        {
+          "id": "2026-09-07-miu-miu-womens-tales",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
+          "date": "2026-09-06",
+          "title": "Miu Miu, 베니스에서 Women’s Tales 영화 프로젝트 조명",
+          "summary": "Miu Miu는 베니스영화제 기간 Ca’ Corner della Regina에서 단편영화 프로젝트 ‘Women’s Tales’를 기념하는 연례 행사를 열었다. 올해 프로젝트에는 Mona Fastvold와 Claire Denis의 신작이 포함됐고, 행사에는 영화감독과 다큐멘터리 제작자들이 참석했다.",
+          "keywords": [
+            "Miu Miu",
+            "Women’s Tales",
+            "베니스영화제",
+            "단편영화",
+            "문화 프로젝트"
+          ]
+        },
+        {
+          "id": "2026-09-07-met-galliano-exhibition-cancelled",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "The Guardian",
+          "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/06/john-galliano-anna-wintour-met-gala",
+          "date": "2026-09-06 15:30 CEST",
+          "title": "메트, John Galliano 2027 의상 전시 계획 철회",
+          "summary": "메트로폴리탄미술관은 John Galliano를 조명할 예정이던 2027년 Costume Institute 전시를 계획대로 진행하지 않기로 했다. 전시 발표 뒤 박물관 후원자와 뉴욕 정치인, 유대계 지도자들의 비판이 이어졌으며, 메트는 Galliano와의 논의 끝에 결정을 내렸다.",
+          "keywords": [
+            "John Galliano",
+            "Costume Institute",
+            "메트로폴리탄미술관",
+            "전시",
+            "아카이브"
+          ]
+        },
+        {
+          "id": "2026-09-07-29cm-ye-fall",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/06/ye?cache=true",
+          "date": "2026-09-06",
+          "title": "29CM, 와이 이의 드레이프·스웨이드 가을 편성",
+          "summary": "29CM가 와이 이의 가을 컬렉션을 9월 20일까지 편성했다. 스웨이드 터치와 워싱감을 적용한 셔츠 재킷·슬릿 스커트, 텐셀 혼방 드레이프 터틀넥 등을 통해 흐르는 실루엣과 자연스러운 레이어링을 전개한다.",
+          "keywords": [
+            "와이 이",
+            "29CM",
+            "드레이프",
+            "스웨이드 터치",
+            "레이어링"
+          ]
+        },
+        {
+          "id": "2026-09-07-wednesdayoasis-aloha",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/wednesdayoasis",
+          "date": "2026-09-06",
+          "title": "웬즈데이오아시스 × 알로하, 활용도 중심의 29 EDITION",
+          "summary": "웬즈데이오아시스와 크리에이터 알로하는 레더 재킷·체크 셔츠·스웨트셔츠로 구성한 29CM 단독 협업을 공개했다. 구독자 의견을 핏과 디테일에 반영했고, 하이넥과 오픈 칼라로 바꿔 입는 재킷과 구김 부담을 낮춘 셔츠처럼 반복 착용과 레이어링을 고려했다.",
+          "keywords": [
+            "웬즈데이오아시스",
+            "알로하",
+            "29 EDITION",
+            "레더 재킷",
+            "레이어링"
+          ]
+        },
+        {
+          "id": "2026-09-07-drawfit-nerdking-moleskin",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1541693143301257282",
+          "date": "2026-09-06",
+          "title": "드로우핏 × 너드킹, 고밀도 몰스킨 재킷 두 형태",
+          "summary": "드로우핏과 너드킹은 면 100% 고밀도 몰스킨으로 블루종과 해링턴 재킷을 제작했다. 두 제품은 크롭 비율과 YKK 지퍼를 공유하며, 블루종은 정돈된 어깨선에 집중하고 해링턴은 밑단 밴딩으로 볼륨을 만들었다.",
+          "keywords": [
+            "드로우핏",
+            "너드킹",
+            "몰스킨 코튼",
+            "블루종",
+            "해링턴 재킷"
+          ]
+        },
+        {
+          "id": "2026-09-07-spitfire-roastery",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184405/spitfire-roastery-nota-architects",
+          "date": "2026-09-06",
+          "title": "Spitfire Roastery, 생산 공정을 공개한 가변형 로스터리",
+          "summary": "Nota Architects는 커피 로스팅 공장을 생산·소비·여가·공공 활동을 연결하는 네 개의 볼륨으로 나눴다. 세 면의 연속 유리 파사드로 생두 입고부터 로스팅·포장·추출까지 보이게 했고, 이동식 카운터와 진열 시스템·가구로 브랜드 행사와 교육, 주말 마켓 등 변화하는 운영에 대응한다.",
+          "keywords": [
+            "Spitfire Roastery",
+            "로스터리",
+            "가변형 가구",
+            "유리 파사드",
+            "생산 경험"
+          ]
+        },
+        {
+          "id": "2026-09-07-chleboteka-okraglak",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
+          "date": "2026-09-06",
+          "title": "Chleboteka Okrąglak, 25㎡에 모더니즘과 판매 동선을 압축",
+          "summary": "CUDO:는 브로츠와프의 원형 모더니즘 건축 Okrąglak의 곡선을 카운터·수납·천장과 세부 요소에 옮겼다. 25㎡ 안에 판매·커피 준비·수납·직원 기능을 배치하고, 맞춤 카운터와 벽 선반, 건물을 두르는 외부 벤치로 진열과 좌석을 확장했다.",
+          "keywords": [
+            "Chleboteka",
+            "리테일 인테리어",
+            "모더니즘",
+            "맞춤 가구",
+            "판매 동선"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-06T08:07:04.443+09:00",
       "briefingDate": "2026-09-06",
