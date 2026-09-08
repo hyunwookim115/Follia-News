@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T08:11:17+09:00",
+  "generatedAt": "2026-09-09T08:54:38+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -282,8 +282,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "셀러브리티의 넉넉한 가방 착장과 상품 편성에 이어, 9월 3일 Zoë Kravitz의 대형 슬라우치 숄더백이 두 매체에서 재노출돼 상승 흐름이 이어졌습니다.",
-      "detail": "8월 26~29일 Zoë Kravitz 착장, Harper’s Bazaar의 15개 슬라우치 백과 오버사이즈 클러치 4종 편성, 9월 1일 Dakota Johnson의 대형 토트에 이어 9월 3일 Kravitz가 뉴욕에서 대형 블랙 레더 숄더백을 다시 착용했습니다. Vogue와 Marie Claire가 9월 4일 각각 이를 보도했습니다. 이는 반복 착장·편집 노출 신호이며 공개 판매량이나 순위는 아닙니다.",
+      "summary": "다수 셀러브리티의 넉넉한 가방 착장에 이어 Dakota Johnson이 서로 다른 대형 토트 3개를 반복 착용해 상승 흐름이 이어졌습니다.",
+      "detail": "8월 말부터 Zoë Kravitz·Dakota Johnson 등의 대형 토트와 슬라우치 숄더백 착장, 다수 상품 편성이 이어졌습니다. 9월 7일 People은 Dakota Johnson이 최근 서로 다른 토트 3개를 반복 착용했다고 보도하고, Jennifer Garner·Katie Holmes도 같은 대형 가방 흐름에 합류했다고 확인했습니다. 유사 상품 3종 편성은 공개 상품 노출이며 판매량이나 순위를 뜻하지 않습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -324,6 +324,10 @@
         {
           "label": "MARIE CLAIRE · ZOË KRAVITZ THE ROW SHOULDER BAG",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flats-trend-fall-zoe-kravitz-2026/"
+        },
+        {
+          "label": "PEOPLE · DAKOTA JOHNSON 3 TOTES + CELEBRITY REPEAT",
+          "url": "https://people.com/dakota-johnson-quince-large-tote-bags-12107496"
         }
       ]
     },
@@ -334,8 +338,8 @@
       "direction": "UP",
       "market": "GLOBAL / KOREA",
       "signal": "DEMAND",
-      "summary": "H&M 제품의 대부분 사이즈 품절 관측에 이어 Maggie Gyllenhaal의 베니스 착장과 6개 후속 상품 편성이 추가돼 수요·소셜 신호가 함께 이어졌습니다.",
-      "detail": "8월 30일 Who What Wear가 H&M 레이스업 발레 플랫의 공식 사이트 대부분 사이즈 품절을 보도한 데 이어, Maggie Gyllenhaal이 9월 1일 베니스 영화제에서 Celine 재즈 슈즈를 착용했습니다. Marie Claire는 이를 별도로 보도하고 6개 브랜드의 유사 상품을 편성했습니다. 공개 재고·반복 착장·상품 편성 신호이며 판매량이나 판매 순위를 뜻하지 않습니다.",
+      "summary": "H&M 재고 소진과 Maggie Gyllenhaal 착장에 이어 Gracie Abrams·Lily Collins 등 여러 세대 셀러브리티의 반복 착장과 16개 상품 편성이 추가됐습니다.",
+      "detail": "8월 30일 H&M 제품의 대부분 사이즈 품절 관측과 9월 1일 Maggie Gyllenhaal의 베니스 착장에 이어, 9월 8일 전후 Who What Wear는 Gracie Abrams·Lily Collins·Naomi Watts·Charlize Theron·Nicole Kidman·Tracee Ellis Ross의 착장을 함께 확인했습니다. Madewell부터 H&M까지 16개 유사 상품도 편성됐습니다. 공개 재고·반복 착장·편집 상품 수 신호이며 실제 판매량이나 판매 순위는 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
@@ -356,6 +360,10 @@
         {
           "label": "MARIE CLAIRE · MAGGIE GYLLENHAAL JAZZ SHOES / 6 PICKS",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/jazz-shoe-trend-maggie-gyllenhaal-2026/"
+        },
+        {
+          "label": "WHO WHAT WEAR · 6 CELEBRITIES + 16 JAZZ-SHOE PICKS",
+          "url": "https://www.whowhatwear.com/fashion/shoes/jazz-shoe-trend"
         }
       ]
     },
@@ -363,11 +371,11 @@
       "id": "live-diamond-drop-earrings",
       "keyword": "DIAMOND DROP EARRINGS",
       "category": "ACCESSORY",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Hailey Bieber·Kendall Jenner·Vittoria Ceretti의 공개 Instagram·베니스 착장에서 다이아몬드 드롭 이어링이 반복 노출되고 다수 상품 편성이 뒤따랐습니다.",
-      "detail": "9월 7일 전후 Who What Wear는 Hailey Bieber, Kendall Jenner, Vittoria Ceretti의 공개 Instagram 착장과 Ceretti의 2026 베니스 영화제 착장에서 다이아몬드 드롭 이어링을 확인하고 13개 유사 상품을 편성했습니다. 국내 무신사에서도 랩다이아몬드 드롭 이어링과 골드 드롭 이어링 상품 노출을 확인했습니다. 13개는 편집 상품 수이고 무신사 노출·할인 표시는 판매량이나 판매 순위가 아니며, 공개 검색량도 확인되지 않았습니다.",
+      "summary": "Hailey Bieber·Kendall Jenner·Vittoria Ceretti의 반복 노출에 이어 Phoebe Bridgers의 베니스 착장까지 독립 매체에서 확인돼 상승 흐름으로 전환했습니다.",
+      "detail": "Hailey Bieber의 공개 Instagram 일상 착장, Kendall Jenner와 Vittoria Ceretti의 이벤트 착장에 이어 Phoebe Bridgers가 베니스 영화제에서 잎 모양 다이아몬드 드롭 이어링을 착용했고 Harper’s Bazaar가 9월 8일 별도로 보도했습니다. 기존 13개 유사 상품 편성과 국내 무신사 상품 노출도 이어져 반복 소셜·플랫폼 신호로 판단했습니다. 상품 편성 수와 무신사 노출·할인 표시는 판매량이나 판매 순위가 아니며 공개 검색량도 확인되지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · 3 PUBLIC INSTAGRAM LOOKS + VENICE / 13 PICKS",
@@ -380,6 +388,10 @@
         {
           "label": "MUSINSA · GOLD DROP EARRINGS LISTING",
           "url": "https://www.musinsa.com/products/5785049"
+        },
+        {
+          "label": "HARPER'S BAZAAR · PHOEBE BRIDGERS DIAMOND DROP EARRINGS",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a73643907/phoebe-bridgers-gray-sheer-dress-mcqueen-2026-venice-film-festival/"
         }
       ]
     },
