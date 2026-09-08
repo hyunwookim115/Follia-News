@@ -1,181 +1,358 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-08T08:02:55.982+09:00",
-  "briefingDate": "2026-09-08",
+  "generatedAt": "2026-09-09T08:06:59.755+09:00",
+  "briefingDate": "2026-09-09",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-08-descente-movesport-korea",
+      "id": "2026-09-09-illigo-seongsu-flagship",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/292981",
-      "date": "2026-09-07",
-      "title": "데상트, 생활·팀 스포츠 브랜드 ‘무브스포츠’ 국내 론칭",
-      "summary": "데상트가 배드민턴·탁구·배구 등 생활·팀 스포츠를 겨냥한 ‘무브스포츠’를 국내에 공식 론칭한다. 신축성·통기성·흡습속건 소재의 의류와 인도어화·리커버리 슈즈를 구성하고, 9월 16일 자사몰·무신사 선공개 뒤 18일부터 단독 매장을 확대하며 팀웨어·홀세일 B2B도 병행한다.",
+      "sourceUrl": "https://tnnews.co.kr/archives/293089",
+      "date": "2026-09-08",
+      "title": "일리고, 성수 첫 플래그십에 ‘소녀들의 옷장’ 구현",
+      "summary": "스퀘어129가 전개하는 일리고가 성수동의 기존 카페 공간을 리뉴얼해 첫 플래그십 스토어를 열었다. ‘소녀들의 옷장’을 콘셉트로 베이직 라인과 가을 신제품을 함께 배치하고, 밝은 색감과 옷장형 집기·스틸 행거로 브랜드 정체성을 공간에 반영했다.",
       "keywords": [
-        "데상트",
-        "무브스포츠",
-        "팀 스포츠",
-        "기능성 소재",
-        "옴니채널"
+        "일리고",
+        "성수 플래그십",
+        "오프라인 유통",
+        "매장 디자인",
+        "가을 컬렉션"
       ]
     },
     {
-      "id": "2026-09-08-hansemk-playkids-club",
+      "id": "2026-09-09-lemouton-mate-h1tex",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/292991",
-      "date": "2026-09-07",
-      "title": "한세MK, 6개 글로벌 IP 묶은 ‘플레이키즈 클럽’ 출범",
-      "summary": "한세MK가 5~12세를 겨냥한 키즈 라이프스타일 플랫폼 ‘플레이키즈 클럽’을 출범시켰다. 나이키·조던·컨버스·리바이스에 라코스테 키즈와 국내에 처음 선보이는 아베크롬비 키즈를 더하고, 백화점·아울렛 매장과 자사몰 스타일24를 연결한다.",
+      "sourceUrl": "https://tnnews.co.kr/archives/293054",
+      "date": "2026-09-08",
+      "title": "르무통 ‘메이트’, H1-TEX 기반 단일 모델 200만 족",
+      "summary": "르무통의 컴포트 슈즈 ‘메이트’가 2021년 출시 후 누적 판매 200만 족을 기록했다. 브랜드는 메리노 울로 자체 개발한 특허 원단 H1-TEX를 전 제품에 적용해 부드러운 감촉과 통기성·내구성을 확보하고, 오프라인 체험 행사와 기능성 소재 라인업을 이어갈 계획이다.",
       "keywords": [
-        "한세MK",
-        "플레이키즈 클럽",
-        "키즈 편집숍",
-        "글로벌 IP",
-        "옴니채널"
+        "르무통",
+        "메이트",
+        "H1-TEX",
+        "메리노 울",
+        "컴포트 슈즈"
       ]
     },
     {
-      "id": "2026-09-08-timberland-experiential-retail",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/292904",
-      "date": "2026-09-07",
-      "title": "팀버랜드, 하남 렌탈·파주 번들로 체험형 유통 확대",
-      "summary": "팀버랜드가 신세계 하남점과 파주 프리미엄 아울렛에 서로 다른 체험·판매 방식을 적용했다. 하남점은 신제품 T25를 최대 2시간 외부에서 착용하는 렌탈 프로그램을 도입했고, 파주점은 다품목 번들 프로모션과 럭키드로우를 운영한다.",
-      "keywords": [
-        "팀버랜드",
-        "체험형 매장",
-        "T25",
-        "렌탈 프로그램",
-        "아울렛"
-      ]
-    },
-    {
-      "id": "2026-09-08-icicle-sabato-de-sarno",
+      "id": "2026-09-09-nike-kallmeyer-tennis-centre",
       "category": "FASHION",
       "categoryLabel": "FASHION",
       "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/sabato-de-sarno-looks-eastward-for-his-next-move",
-      "date": "September 7, 2026",
-      "title": "Icicle, Sabato De Sarno를 크리에이티브 디렉터로 선임",
-      "summary": "상하이·파리 기반 브랜드 Icicle이 Sabato De Sarno를 크리에이티브 디렉터로 선임했다. 그는 여성·남성 레디투웨어와 액세서리, 아이웨어의 크리에이티브 방향을 총괄하며 첫 컬렉션은 2027 F/W에 공개한다.",
+      "sourceUrl": "https://www.vogue.com/article/nike-kallmeyer-tennis-centre-collaboration-sneaker",
+      "date": "September 8, 2026",
+      "title": "Nike × Kallmeyer, 스웨이드로 Tennis Centre 재구성",
+      "summary": "Daniella Kallmeyer가 Nike의 Tennis Centre를 라이프스타일 스니커로 재구성한 협업을 공개했다. 트래버틴 컬러의 스웨이드와 앤티크 하드웨어, 뒤꿈치 블랭킷 스티치와 단색 구성을 적용해 소재와 제작 흔적이 드러나도록 설계했다.",
       "keywords": [
-        "Icicle",
-        "Sabato De Sarno",
-        "크리에이티브 디렉터",
-        "2027 F/W",
-        "중국 패션"
+        "Nike",
+        "Kallmeyer",
+        "Tennis Centre",
+        "스웨이드",
+        "스니커 협업"
       ]
     },
     {
-      "id": "2026-09-08-paul-smith-independent-operations",
+      "id": "2026-09-09-redone-kaia-vol1",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/07/work-hard-nobody-cares-how-good-you-used-to-be-paul-smith-at-80-on-love-fun-and-his-fabulous-life-in-fashion",
-      "date": "2026-09-07 14:00 AEST",
-      "title": "Paul Smith, 독립 소유와 매장 현장 중심의 운영 지속",
-      "summary": "Paul Smith는 여러 인수 제안을 거절하고 회사의 다수 지분을 유지해 왔으며, 현재도 토요일이면 런던 메이페어 매장에서 고객을 만난다. 회사는 지난해 2,200만 파운드가 넘는 손실을 기록했지만 손익분기점에 가까워지고 있다고 밝혔고, 새 경영진과 함께 상업성과 브랜드 정체성의 균형을 맞추고 있다.",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/kaia-gerber-redone-jeans-collection",
+      "date": "September 8, 2026",
+      "title": "Re/Done × Kaia Gerber, 60피스 ‘Kaia Vol. 1’ 공개",
+      "summary": "Re/Done이 투자자·크리에이티브 파트너·자문위원으로 합류한 Kaia Gerber와 60피스 컬렉션 ‘Kaia Vol. 1’을 선보인다. 티셔츠와 데님 중심의 캘리포니아 감성에 도시적 요소를 더해 핀스트라이프 재킷, 레더 트렌치, 슬림 스트레이트 진과 빛바랜 캔버스 워크웨어 재킷 등을 구성했다.",
       "keywords": [
-        "Paul Smith",
-        "독립 브랜드",
-        "매장 운영",
-        "다수 지분",
-        "브랜드 정체성"
+        "Re/Done",
+        "Kaia Gerber",
+        "Kaia Vol. 1",
+        "데님",
+        "워크웨어"
       ]
     },
     {
-      "id": "2026-09-08-octette-hyoseon-29edition",
+      "id": "2026-09-09-ss27-trend-predictions",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE",
+      "sourceUrl": "https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027",
+      "date": "September 8, 2026",
+      "title": "2027 S/S, ‘클린 걸’에서 충돌하는 색·패턴으로 이동",
+      "summary": "Vogue Business는 소비자 행동·스트리트 스타일·소셜 데이터와 남성복·코펜하겐 2027 S/S 쇼를 바탕으로 다음 시즌 흐름을 정리했다. 파스텔과 플로럴, 촉각적 소재에 그래픽 티셔츠·서로 다른 패턴·예상 밖의 신발을 겹치는 ‘프리 스타일 표현’과, 앞치마·정원용 모티프를 활용하는 가드닝 코어가 주요 방향으로 제시됐다.",
+      "keywords": [
+        "2027 S/S",
+        "프리 스타일",
+        "패턴 믹스",
+        "촉각적 소재",
+        "가드닝 코어"
+      ]
+    },
+    {
+      "id": "2026-09-09-schism-inducing-bobae",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/octette?cache=true",
-      "date": "2026-09-07",
-      "title": "오떼뜨 × 효선, 소재·실루엣 중심의 29 EDITION",
-      "summary": "오떼뜨와 효선이 소재감과 실루엣을 중심으로 한 29CM 단독 협업을 공개했다. 유행보다 오래 입을 수 있는 옷을 목표로 각 피스가 자연스럽게 이어지도록 구성하고, 조합에 따라 분위기가 달라지는 스타일링을 제안한다.",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1544250353560584911",
+      "date": "2026-09-08",
+      "title": "스키즘 인듀싱 × 보배, 후드 푸퍼 소재·보온성 업데이트",
+      "summary": "스키즘 인듀싱과 보배가 FW 협업 컬렉션을 무신사에서 선보였다. 기존 후드 푸퍼의 겉감을 개선하고 안감을 더해 한겨울까지 확장했으며, 화이트 컬러를 추가했다. 하이넥·벨트·탈부착 퍼의 바이커 재킷과 코팅·레이스업·드레이프 디테일도 함께 구성했다.",
       "keywords": [
-        "오떼뜨",
-        "효선",
-        "29 EDITION",
-        "소재",
-        "실루엣"
+        "스키즘 인듀싱",
+        "보배",
+        "무신사",
+        "후드 푸퍼",
+        "록시크"
       ]
     },
     {
-      "id": "2026-09-08-29cm-citta-fall",
+      "id": "2026-09-09-hoodhood-hoodgirls",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/07/citta",
-      "date": "2026-09-07",
-      "title": "29CM, 씨타의 스웨이드·컬러 가을 컬렉션 편성",
-      "summary": "29CM가 씨타의 가을 컬렉션을 9월 15일까지 편성했다. 스웨이드 질감의 루즈핏 하이넥 재킷과 스트라이프 배색 니트, 러플 체크 블라우스, 헤어리한 시스루 조직의 니트 스커트를 소개한다.",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1544248989780393192",
+      "date": "2026-09-08",
+      "title": "후드후드 × 후드걸즈, 에일리언 그래픽 스트리트 컬렉션",
+      "summary": "후드후드가 글로벌 크리에이터 팀 후드걸즈와 협업해 에일리언 세계관을 스트리트웨어로 확장했다. 멜란지 그레이와 블랙에 레드·화이트를 대비시키고, 루즈핏 럭비 폴로와 투웨이 지퍼 후드 집업, 와이드 스웨트팬츠 등 여섯 가지 아이템을 구성했다.",
       "keywords": [
-        "씨타",
-        "29CM",
-        "스웨이드",
-        "하이넥 재킷",
-        "컬러"
+        "후드후드",
+        "후드걸즈",
+        "무신사",
+        "그래픽",
+        "스트리트웨어"
       ]
     },
     {
-      "id": "2026-09-08-29cm-lookast-capsule",
+      "id": "2026-09-09-onthelist-cheongdam",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "29CM",
-      "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/07/lookast?cache=true",
-      "date": "2026-09-07",
-      "title": "29CM, 룩캐스트 단독 캡슐 ‘위시리스트’ 공개",
-      "summary": "29CM가 룩캐스트 단독 캡슐 컬렉션 ‘위시리스트’를 9월 13일까지 선보인다. 컬러 매칭 스냅을 적용한 하이넥 레더 점퍼와 트윌 조직의 코튼 혼방 A라인 하프 트렌치 등 클래식한 테일러링과 현대적 실루엣을 묶었다.",
+      "source": "테넌트뉴스",
+      "sourceUrl": "https://tnnews.co.kr/archives/293123",
+      "date": "2026-09-08",
+      "title": "온더리스트, 청담 정규 매장으로 플래시 세일 옴니채널화",
+      "summary": "회원제 럭셔리 플래시 세일 플랫폼 온더리스트가 청담에 국내 첫 상설 매장을 열었다. 행사 목적과 브랜드 요구에 따라 구조를 바꿀 수 있게 설계했으며, 오픈 프로그램인 럭셔리 키즈 세일을 9월 8~10일 오프라인에서 진행한 뒤 11~15일 온라인으로 이어간다.",
       "keywords": [
-        "룩캐스트",
-        "29CM",
-        "캡슐 컬렉션",
-        "하이넥 레더",
-        "하프 트렌치"
+        "온더리스트",
+        "청담",
+        "플래시 세일",
+        "상설 매장",
+        "옴니채널"
       ]
     },
     {
-      "id": "2026-09-08-pageone-wuxi-bookstore",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184504/pageone-bookstore-at-wuxi-park-station-lllab",
-      "date": "2026-09-07",
-      "title": "PAGEONE 우시 서점, 운하 풍경을 가변형 독서·행사 공간으로 번역",
-      "summary": "llLab.은 우시의 운하 생활에서 집·골목·강변·수로를 추출해 964㎡ 서점 내부의 경계와 동선으로 옮겼다. 높이가 다른 목재·자연 소재의 작은 ‘책 집’에는 서가와 자습실·커피 바를 넣고, 복층의 단상·계단·좌석은 신간 행사와 영화 상영, 바이닐 콘서트에 맞게 배치를 바꿀 수 있다.",
-      "keywords": [
-        "PAGEONE",
-        "리테일 인테리어",
-        "가변형 공간",
-        "목재",
-        "서점"
-      ]
-    },
-    {
-      "id": "2026-09-08-valley-house-superkul",
+      "id": "2026-09-09-scp-clerkenwell-showroom",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "Wallpaper*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/residential/for-sale-valley-house-superkul-canada",
-      "date": "2026-09-07",
-      "title": "Valley House, 목재·벽돌 스크린과 전면 유리로 계곡 풍경 연결",
-      "summary": "Superkül이 토론토 교외에 설계한 Valley House는 목재와 벽돌 스크린, 후퇴한 입구로 거리 쪽 프라이버시를 만들었다. 후면은 전고 슬라이딩 유리문으로 숲이 있는 계곡을 향해 열고, 프라이버시가 필요한 공간에는 고창과 천창으로 빛을 들였다.",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening",
+      "date": "September 8, 2026",
+      "title": "SCP, 5층 타운하우스를 주거형 가구 쇼룸으로 전환",
+      "summary": "영국 가구 브랜드 SCP가 40년간 사용한 쇼디치 매장을 떠나 클러큰웰의 5층 타운하우스로 이전했다. Nice Projects는 지하에 조명, 중간 세 층에 선반과 커튼으로 나눈 가구 룸세트, 최상층에 실제 주택처럼 꾸민 ‘Apartment’를 배치해 리테일과 계약 사업을 한 공간에 연결했다.",
       "keywords": [
-        "Valley House",
-        "Superkül",
-        "목재 스크린",
-        "벽돌",
-        "슬라이딩 유리문"
+        "SCP",
+        "클러큰웰",
+        "가구 쇼룸",
+        "주거형 전시",
+        "Nice Projects"
+      ]
+    },
+    {
+      "id": "2026-09-09-tskneti-residences",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ArchDaily",
+      "sourceUrl": "https://www.archdaily.com/1184639/tskneti-residences-mua",
+      "date": "2026-09-08",
+      "title": "Tskneti Residences, 가구로 노출 콘크리트 공간의 경계 형성",
+      "summary": "MUA는 Tskneti Residences의 노출 구조 콘크리트와 커튼월 유리에 따뜻한 내부 팔레트를 대비시켰다. 현대·고전 가구를 공간 경계 요소로 사용하고, 대담한 색과 목재 패널·맞춤 조명으로 엄격한 구조를 완화했다.",
+      "keywords": [
+        "Tskneti Residences",
+        "노출 콘크리트",
+        "가구 배치",
+        "목재 패널",
+        "맞춤 조명"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-08T08:02:55.982+09:00",
+      "briefingDate": "2026-09-08",
+      "generatedAt": "2026-09-08T08:02:55.982+09:00",
+      "cards": [
+        {
+          "id": "2026-09-08-descente-movesport-korea",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/292981",
+          "date": "2026-09-07",
+          "title": "데상트, 생활·팀 스포츠 브랜드 ‘무브스포츠’ 국내 론칭",
+          "summary": "데상트가 배드민턴·탁구·배구 등 생활·팀 스포츠를 겨냥한 ‘무브스포츠’를 국내에 공식 론칭한다. 신축성·통기성·흡습속건 소재의 의류와 인도어화·리커버리 슈즈를 구성하고, 9월 16일 자사몰·무신사 선공개 뒤 18일부터 단독 매장을 확대하며 팀웨어·홀세일 B2B도 병행한다.",
+          "keywords": [
+            "데상트",
+            "무브스포츠",
+            "팀 스포츠",
+            "기능성 소재",
+            "옴니채널"
+          ]
+        },
+        {
+          "id": "2026-09-08-hansemk-playkids-club",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/292991",
+          "date": "2026-09-07",
+          "title": "한세MK, 6개 글로벌 IP 묶은 ‘플레이키즈 클럽’ 출범",
+          "summary": "한세MK가 5~12세를 겨냥한 키즈 라이프스타일 플랫폼 ‘플레이키즈 클럽’을 출범시켰다. 나이키·조던·컨버스·리바이스에 라코스테 키즈와 국내에 처음 선보이는 아베크롬비 키즈를 더하고, 백화점·아울렛 매장과 자사몰 스타일24를 연결한다.",
+          "keywords": [
+            "한세MK",
+            "플레이키즈 클럽",
+            "키즈 편집숍",
+            "글로벌 IP",
+            "옴니채널"
+          ]
+        },
+        {
+          "id": "2026-09-08-timberland-experiential-retail",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/292904",
+          "date": "2026-09-07",
+          "title": "팀버랜드, 하남 렌탈·파주 번들로 체험형 유통 확대",
+          "summary": "팀버랜드가 신세계 하남점과 파주 프리미엄 아울렛에 서로 다른 체험·판매 방식을 적용했다. 하남점은 신제품 T25를 최대 2시간 외부에서 착용하는 렌탈 프로그램을 도입했고, 파주점은 다품목 번들 프로모션과 럭키드로우를 운영한다.",
+          "keywords": [
+            "팀버랜드",
+            "체험형 매장",
+            "T25",
+            "렌탈 프로그램",
+            "아울렛"
+          ]
+        },
+        {
+          "id": "2026-09-08-icicle-sabato-de-sarno",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/sabato-de-sarno-looks-eastward-for-his-next-move",
+          "date": "September 7, 2026",
+          "title": "Icicle, Sabato De Sarno를 크리에이티브 디렉터로 선임",
+          "summary": "상하이·파리 기반 브랜드 Icicle이 Sabato De Sarno를 크리에이티브 디렉터로 선임했다. 그는 여성·남성 레디투웨어와 액세서리, 아이웨어의 크리에이티브 방향을 총괄하며 첫 컬렉션은 2027 F/W에 공개한다.",
+          "keywords": [
+            "Icicle",
+            "Sabato De Sarno",
+            "크리에이티브 디렉터",
+            "2027 F/W",
+            "중국 패션"
+          ]
+        },
+        {
+          "id": "2026-09-08-paul-smith-independent-operations",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "The Guardian",
+          "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/07/work-hard-nobody-cares-how-good-you-used-to-be-paul-smith-at-80-on-love-fun-and-his-fabulous-life-in-fashion",
+          "date": "2026-09-07 14:00 AEST",
+          "title": "Paul Smith, 독립 소유와 매장 현장 중심의 운영 지속",
+          "summary": "Paul Smith는 여러 인수 제안을 거절하고 회사의 다수 지분을 유지해 왔으며, 현재도 토요일이면 런던 메이페어 매장에서 고객을 만난다. 회사는 지난해 2,200만 파운드가 넘는 손실을 기록했지만 손익분기점에 가까워지고 있다고 밝혔고, 새 경영진과 함께 상업성과 브랜드 정체성의 균형을 맞추고 있다.",
+          "keywords": [
+            "Paul Smith",
+            "독립 브랜드",
+            "매장 운영",
+            "다수 지분",
+            "브랜드 정체성"
+          ]
+        },
+        {
+          "id": "2026-09-08-octette-hyoseon-29edition",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/29edition/2026/09/octette?cache=true",
+          "date": "2026-09-07",
+          "title": "오떼뜨 × 효선, 소재·실루엣 중심의 29 EDITION",
+          "summary": "오떼뜨와 효선이 소재감과 실루엣을 중심으로 한 29CM 단독 협업을 공개했다. 유행보다 오래 입을 수 있는 옷을 목표로 각 피스가 자연스럽게 이어지도록 구성하고, 조합에 따라 분위기가 달라지는 스타일링을 제안한다.",
+          "keywords": [
+            "오떼뜨",
+            "효선",
+            "29 EDITION",
+            "소재",
+            "실루엣"
+          ]
+        },
+        {
+          "id": "2026-09-08-29cm-citta-fall",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/07/citta",
+          "date": "2026-09-07",
+          "title": "29CM, 씨타의 스웨이드·컬러 가을 컬렉션 편성",
+          "summary": "29CM가 씨타의 가을 컬렉션을 9월 15일까지 편성했다. 스웨이드 질감의 루즈핏 하이넥 재킷과 스트라이프 배색 니트, 러플 체크 블라우스, 헤어리한 시스루 조직의 니트 스커트를 소개한다.",
+          "keywords": [
+            "씨타",
+            "29CM",
+            "스웨이드",
+            "하이넥 재킷",
+            "컬러"
+          ]
+        },
+        {
+          "id": "2026-09-08-29cm-lookast-capsule",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "29CM",
+          "sourceUrl": "https://www.29cm.co.kr/content/brand-event/2026/09/07/lookast?cache=true",
+          "date": "2026-09-07",
+          "title": "29CM, 룩캐스트 단독 캡슐 ‘위시리스트’ 공개",
+          "summary": "29CM가 룩캐스트 단독 캡슐 컬렉션 ‘위시리스트’를 9월 13일까지 선보인다. 컬러 매칭 스냅을 적용한 하이넥 레더 점퍼와 트윌 조직의 코튼 혼방 A라인 하프 트렌치 등 클래식한 테일러링과 현대적 실루엣을 묶었다.",
+          "keywords": [
+            "룩캐스트",
+            "29CM",
+            "캡슐 컬렉션",
+            "하이넥 레더",
+            "하프 트렌치"
+          ]
+        },
+        {
+          "id": "2026-09-08-pageone-wuxi-bookstore",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184504/pageone-bookstore-at-wuxi-park-station-lllab",
+          "date": "2026-09-07",
+          "title": "PAGEONE 우시 서점, 운하 풍경을 가변형 독서·행사 공간으로 번역",
+          "summary": "llLab.은 우시의 운하 생활에서 집·골목·강변·수로를 추출해 964㎡ 서점 내부의 경계와 동선으로 옮겼다. 높이가 다른 목재·자연 소재의 작은 ‘책 집’에는 서가와 자습실·커피 바를 넣고, 복층의 단상·계단·좌석은 신간 행사와 영화 상영, 바이닐 콘서트에 맞게 배치를 바꿀 수 있다.",
+          "keywords": [
+            "PAGEONE",
+            "리테일 인테리어",
+            "가변형 공간",
+            "목재",
+            "서점"
+          ]
+        },
+        {
+          "id": "2026-09-08-valley-house-superkul",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "Wallpaper*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/residential/for-sale-valley-house-superkul-canada",
+          "date": "2026-09-07",
+          "title": "Valley House, 목재·벽돌 스크린과 전면 유리로 계곡 풍경 연결",
+          "summary": "Superkül이 토론토 교외에 설계한 Valley House는 목재와 벽돌 스크린, 후퇴한 입구로 거리 쪽 프라이버시를 만들었다. 후면은 전고 슬라이딩 유리문으로 숲이 있는 계곡을 향해 열고, 프라이버시가 필요한 공간에는 고창과 천창으로 빛을 들였다.",
+          "keywords": [
+            "Valley House",
+            "Superkül",
+            "목재 스크린",
+            "벽돌",
+            "슬라이딩 유리문"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-07T08:06:28.118+09:00",
       "briefingDate": "2026-09-07",
