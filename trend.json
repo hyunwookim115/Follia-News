@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T08:54:38+09:00",
+  "generatedAt": "2026-09-10T08:35:51+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -180,50 +180,22 @@
       ]
     },
     {
-      "id": "live-heeled-thong-sandals",
-      "keyword": "HEEL-DRESSED THONG SANDALS",
+      "id": "live-bolero-jackets",
+      "keyword": "BOLERO JACKETS",
       "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL / KOREA",
-      "signal": "DEMAND",
-      "summary": "기존 Lyst 인기 상품 순위와 8월 24~25일 셀러브리티 노출은 남아 있지만, 최근 7일 범위에서 추가 검색·판매·반복 착장 근거가 이어지지 않아 상승 판단을 보류합니다.",
-      "detail": "Gucci 비토리아 Lyst Q2 4위, Massimo Dutti 미드힐 토 샌들 6위와 8월 24~25일 Dakota Fanning 후속 보도는 기존 수요를 뒷받침합니다. 그러나 8월 26~31일 공개 Google Trends 수치, 플랫폼 판매 순위·판매량, 독립 Instagram 반복 노출을 새로 확인하지 못했고, 8월 30일 Zoë Kravitz 착장은 힐 플립플랍 대신 러버 슬라이드로 이동했습니다. 기존 항목은 보존하되 방향을 HOLD로 조정했습니다.",
+      "direction": "NEW",
+      "market": "GLOBAL → KOREA",
+      "signal": "SEARCH",
+      "summary": "여성 볼레로 재킷 검색어의 공개 Google Trends 상승과 TikTok 노출, 다수 셀러브리티 착장·상품 편성이 겹쳐 새로운 변동 신호로 포착됐습니다.",
+      "detail": "9월 9일 InStyle은 Google Trends의 미국 최근 1년 비교를 인용해 ‘bolero jacket women’s’가 전년 대비 5,000% 증가한 breakout 검색어이며, 관련 볼레로 검색어는 450%, ‘cropped bolero’와 ‘bolero shrug’는 각각 전년 대비 70% 증가했다고 보도했습니다. TikTok의 ‘bolero jacket how to wear’ 검색 화면에는 1,770만 개 이상의 게시물이 표시됐고, Millie Bobby Brown·Zendaya·Olivia Dean·Lili Reinhart·Demi Moore·Kate Hudson의 착장과 14개 상품 편성이 함께 제시됐습니다. 이 수치는 최근 7일 검색량이 아니라 공개된 최근 1년·전년 비교 수치이며, 상품 편성 수는 판매량이나 순위가 아닙니다.",
       "sources": [
         {
-          "label": "MARIE CLAIRE · LYST #4 GUCCI VITTORIA",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/gucci-vittoria-heeled-flip-flops-trend/"
+          "label": "INSTYLE · GOOGLE TRENDS + TIKTOK + CELEBRITY / 14 PICKS",
+          "url": "https://www.instyle.com/short-cropped-bolero-jackets-trend-fall-2026-12068889"
         },
         {
-          "label": "VOGUE · HAVAIANAS KITTEN HEEL",
-          "url": "https://www.vogue.com/article/havaianas-studio-constance-kitten-heel"
-        },
-        {
-          "label": "KREAM · GUCCI VITTORIA / NO TRADES",
-          "url": "https://kream.co.kr/products/914732"
-        },
-        {
-          "label": "MARIE CLAIRE · MASSIMO DUTTI / LYST #6",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/hailey-bieber-flip-flop-wedges-massimo-dutti-sandals/"
-        },
-        {
-          "label": "MUSINSA · FLIP-FLOP HEEL LISTING",
-          "url": "https://www.musinsa.com/products/6671757"
-        },
-        {
-          "label": "HARPER'S BAZAAR · CAPRI + THONG KITTEN HEELS",
-          "url": "https://www.harpersbazaar.com/celebrity/latest/a73435497/daniela-avanzini-katseye-stretchy-yellow-capri-pants-trend-photos/"
-        },
-        {
-          "label": "WHO WHAT WEAR · KITTEN-HEEL FLIP-FLOP FOLLOW-UP",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/dark-wash-stove-pipe-jeans-kitten-heel-flip-flops-satin-bag-trend-dakota-fanning-2026"
-        },
-        {
-          "label": "FOOTWEAR NEWS · THONG SANDAL FOLLOW-UP",
-          "url": "https://wwd.com/footwear-news/shoe-trends/dakota-fanning-polo-ralph-lauren-commercial-thong-sandal-1239148841/"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ RUBBER-SLIDE COUNTER-SIGNAL",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/zoe-kravitz-rubber-slides-adidas-shorts-vintage-baseball-cap-the-row-bag/"
+          "label": "GOOGLE TRENDS · US / PAST 12 MONTHS / BOLERO JACKET WOMEN'S",
+          "url": "https://trends.google.com/explore?date=today%201-y&geo=US&q=bolero%20jacket%20women%27s"
         }
       ]
     },
@@ -399,11 +371,11 @@
       "id": "live-talisman-charm-stacks",
       "keyword": "TALISMAN CHARM STACKS",
       "category": "ACCESSORY",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "상징·별자리 참 주얼리가 Alex Consani에 이어 Olivia Rodrigo의 무대 착장과 독립 매체·공개 Instagram에서 재노출돼 상승 흐름으로 전환했습니다.",
-      "detail": "8월 26~28일 Pandora 탈리스만 컬렉션, Alex Consani 착장과 공개 Instagram 게시에 이어 Olivia Rodrigo가 8월 29일 Daisy Chain Fields 무대에서 Pyrrha x Sarah McLachlan ‘Lilith’ 탈리스만 목걸이를 착용했습니다. 8월 30일 Marie Claire와 8월 31일 InStyle이 이를 별도로 보도했고 공개 착장 계정에도 제품명이 노출됐습니다. 반복 소셜·매체 신호이며 판매량이나 검색 순위 상승을 뜻하지 않습니다.",
+      "summary": "8월 말 공개 소셜·셀러브리티 노출은 남아 있지만, 최근 7일 범위에서 새로운 독립 검색·판매·반복 착장 근거가 확인되지 않아 상승 판단을 보류합니다.",
+      "detail": "Pandora 탈리스만 컬렉션과 Alex Consani·Olivia Rodrigo 착장, 공개 Instagram 게시가 기존 흐름을 뒷받침합니다. 그러나 9월 2~9일 공개 Google Trends 수치, 플랫폼 판매 순위·판매량, 별도의 반복 착장 신호를 새로 확인하지 못했습니다. 기존 항목은 보존하되 방향을 HOLD로 조정했으며, 기존 후기 수는 최근 판매량으로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · ALEX CONSANI / TIKTOK WHIMSY",
