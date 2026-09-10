@@ -1,181 +1,358 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T08:06:59.755+09:00",
-  "briefingDate": "2026-09-09",
+  "generatedAt": "2026-09-11T02:53:11.107+09:00",
+  "briefingDate": "2026-09-11",
   "period": "지난 24시간",
   "cards": [
     {
-      "id": "2026-09-09-illigo-seongsu-flagship",
+      "id": "2026-09-11-xexymix-chengdu-o4o",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/293089",
-      "date": "2026-09-08",
-      "title": "일리고, 성수 첫 플래그십에 ‘소녀들의 옷장’ 구현",
-      "summary": "스퀘어129가 전개하는 일리고가 성수동의 기존 카페 공간을 리뉴얼해 첫 플래그십 스토어를 열었다. ‘소녀들의 옷장’을 콘셉트로 베이직 라인과 가을 신제품을 함께 배치하고, 밝은 색감과 옷장형 집기·스틸 행거로 브랜드 정체성을 공간에 반영했다.",
+      "source": "패션비즈",
+      "sourceUrl": "https://tnnews.co.kr/archives/293192",
+      "date": "2026-09-09",
+      "title": "젝시믹스, 청두 체험형 팝업과 샤오홍슈를 연결",
+      "summary": "젝시믹스가 중국 청두의 문화 복합공간 동교기억에 약 550㎡ 규모의 체험형 팝업스토어를 열었다. K-뷰티·신체 측정·소셜 포토부스 등을 구성하고, 오프라인 경험을 샤오홍슈 해시태그 이벤트와 연계해 온라인 확산으로 이어가는 O4O 방식을 적용했다.",
       "keywords": [
-        "일리고",
-        "성수 플래그십",
-        "오프라인 유통",
-        "매장 디자인",
-        "가을 컬렉션"
+        "젝시믹스",
+        "청두",
+        "체험형 팝업",
+        "샤오홍슈",
+        "O4O"
       ]
     },
     {
-      "id": "2026-09-09-lemouton-mate-h1tex",
+      "id": "2026-09-11-yezac-26fw-shirts-knit",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/293054",
-      "date": "2026-09-08",
-      "title": "르무통 ‘메이트’, H1-TEX 기반 단일 모델 200만 족",
-      "summary": "르무통의 컴포트 슈즈 ‘메이트’가 2021년 출시 후 누적 판매 200만 족을 기록했다. 브랜드는 메리노 울로 자체 개발한 특허 원단 H1-TEX를 전 제품에 적용해 부드러운 감촉과 통기성·내구성을 확보하고, 오프라인 체험 행사와 기능성 소재 라인업을 이어갈 계획이다.",
+      "source": "패션비즈",
+      "sourceUrl": "https://tnnews.co.kr/archives/293208",
+      "date": "2026-09-09",
+      "title": "예작 26FW, 셔츠에서 니트웨어까지 가을 구성을 확장",
+      "summary": "형지I&C의 예작이 26FW 가을 컬렉션을 드레스 셔츠와 부드러운 원단의 캐주얼 셔츠, 레이어링용 니트웨어·스웨터로 확장했다. 브랜드는 소재감과 봉제 완성도를 우선하고, 셔츠 두 종 또는 셔츠와 타이를 조합한 추석 기프트 패키지를 함께 구성했다.",
       "keywords": [
-        "르무통",
-        "메이트",
-        "H1-TEX",
-        "메리노 울",
-        "컴포트 슈즈"
+        "예작",
+        "26FW",
+        "드레스 셔츠",
+        "니트웨어",
+        "봉제 완성도"
       ]
     },
     {
-      "id": "2026-09-09-nike-kallmeyer-tennis-centre",
+      "id": "2026-09-11-banana-republic-la-ligne",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/nike-kallmeyer-tennis-centre-collaboration-sneaker",
-      "date": "September 8, 2026",
-      "title": "Nike × Kallmeyer, 스웨이드로 Tennis Centre 재구성",
-      "summary": "Daniella Kallmeyer가 Nike의 Tennis Centre를 라이프스타일 스니커로 재구성한 협업을 공개했다. 트래버틴 컬러의 스웨이드와 앤티크 하드웨어, 뒤꿈치 블랭킷 스티치와 단색 구성을 적용해 소재와 제작 흔적이 드러나도록 설계했다.",
+      "source": "Vogue",
+      "sourceUrl": "https://www.vogue.com/article/banana-republic-la-ligne-collection",
+      "date": "2026-09-09",
+      "title": "Banana Republic × La Ligne, 조절 가능한 클래식 36피스",
+      "summary": "Banana Republic와 La Ligne이 36피스 가을 협업 컬렉션을 공개했다. 바지 허리를 로우·미드·하이 라이즈로 조절할 수 있게 하고, 비대칭 버튼다운은 드레스로도 입도록 설계했다. 누벅 반 재킷과 탈착식 코듀로이 칼라 트렌치에는 Banana Republic의 유틸리티 뿌리를 반영했다.",
       "keywords": [
-        "Nike",
-        "Kallmeyer",
-        "Tennis Centre",
-        "스웨이드",
-        "스니커 협업"
+        "Banana Republic",
+        "La Ligne",
+        "가을 협업",
+        "조절형 팬츠",
+        "유틸리티 아우터"
       ]
     },
     {
-      "id": "2026-09-09-redone-kaia-vol1",
+      "id": "2026-09-11-salomon-one-brand-strategy",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/kaia-gerber-redone-jeans-collection",
-      "date": "September 8, 2026",
-      "title": "Re/Done × Kaia Gerber, 60피스 ‘Kaia Vol. 1’ 공개",
-      "summary": "Re/Done이 투자자·크리에이티브 파트너·자문위원으로 합류한 Kaia Gerber와 60피스 컬렉션 ‘Kaia Vol. 1’을 선보인다. 티셔츠와 데님 중심의 캘리포니아 감성에 도시적 요소를 더해 핀스트라이프 재킷, 레더 트렌치, 슬림 스트레이트 진과 빛바랜 캔버스 워크웨어 재킷 등을 구성했다.",
+      "source": "Vogue",
+      "sourceUrl": "https://www.vogue.com/article/salomon-should-not-be-a-fashion-brand-the-new-creative-director-shares-his-manifesto",
+      "date": "2026-09-09",
+      "title": "Salomon, 패션·라이프스타일·퍼포먼스를 하나의 브랜드로 통합",
+      "summary": "Salomon의 첫 공식 크리에이티브 디렉터 Heikki Salonen은 분리돼 있던 패션·라이프스타일·아웃도어 부문을 하나의 브랜드 메시지로 통합하려 한다. 자체 패션 라인보다 기술 제품과 선별 협업에 집중하고, 아웃도어·트레일 러닝화에서 출발한 아우터웨어와 의류 실루엣을 중국에서 먼저 시험할 계획이다.",
       "keywords": [
-        "Re/Done",
-        "Kaia Gerber",
-        "Kaia Vol. 1",
-        "데님",
-        "워크웨어"
+        "Salomon",
+        "Heikki Salonen",
+        "브랜드 통합",
+        "퍼포먼스 디자인",
+        "중국 테스트"
       ]
     },
     {
-      "id": "2026-09-09-ss27-trend-predictions",
+      "id": "2026-09-11-nyfw-ss27-format",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027",
-      "date": "September 8, 2026",
-      "title": "2027 S/S, ‘클린 걸’에서 충돌하는 색·패턴으로 이동",
-      "summary": "Vogue Business는 소비자 행동·스트리트 스타일·소셜 데이터와 남성복·코펜하겐 2027 S/S 쇼를 바탕으로 다음 시즌 흐름을 정리했다. 파스텔과 플로럴, 촉각적 소재에 그래픽 티셔츠·서로 다른 패턴·예상 밖의 신발을 겹치는 ‘프리 스타일 표현’과, 앞치마·정원용 모티프를 활용하는 가드닝 코어가 주요 방향으로 제시됐다.",
+      "source": "Vogue",
+      "sourceUrl": "https://www.vogue.com/article/new-york-fashion-week-cheat-sheet-spring-summer-2027",
+      "date": "2026-09-09",
+      "title": "NYFW 2027 S/S, 126개 일정과 가변형 쇼 지원 체계",
+      "summary": "2027 S/S 뉴욕패션위크 공식 일정은 63개 런웨이와 7개 프레젠테이션, 디지털 쇼 등을 합쳐 126개 프로그램으로 구성됐다. 운영사 N4XT Experiences는 참여 브랜드에 장소와 제작 지원을 제공하고, 디자이너의 비전에 맞춰 행사 위치를 유연하게 허용한다. Redone·SAP와 새 매장 경험을 준비하며 패션위크 연계 디지털 커머스 플랫폼도 개발 중이다.",
       "keywords": [
+        "NYFW",
         "2027 S/S",
-        "프리 스타일",
-        "패턴 믹스",
-        "촉각적 소재",
-        "가드닝 코어"
+        "N4XT Experiences",
+        "쇼 제작 지원",
+        "디지털 커머스"
       ]
     },
     {
-      "id": "2026-09-09-schism-inducing-bobae",
+      "id": "2026-09-11-musinsa-standard-myeongdong",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1544250353560584911",
-      "date": "2026-09-08",
-      "title": "스키즘 인듀싱 × 보배, 후드 푸퍼 소재·보온성 업데이트",
-      "summary": "스키즘 인듀싱과 보배가 FW 협업 컬렉션을 무신사에서 선보였다. 기존 후드 푸퍼의 겉감을 개선하고 안감을 더해 한겨울까지 확장했으며, 화이트 컬러를 추가했다. 하이넥·벨트·탈부착 퍼의 바이커 재킷과 코팅·레이스업·드레이프 디테일도 함께 구성했다.",
+      "source": "패션비즈",
+      "sourceUrl": "https://tnnews.co.kr/archives/293113",
+      "date": "2026-09-09",
+      "title": "무신사 스탠다드 명동중앙점, 4개 층에 커스텀 서비스를 도입",
+      "summary": "무신사 스탠다드가 명동에 약 500평 규모의 두 번째 매장을 열고 여성·남성 패션과 홈·뷰티를 네 개 층에 배치했다. 4층 ‘티셔츠 클럽’에서는 서울·한국 모티프와 국내 브랜드·콘텐츠 그래픽을 골라 티셔츠를 꾸미는 첫 커스텀 서비스를 운영한다.",
       "keywords": [
-        "스키즘 인듀싱",
-        "보배",
-        "무신사",
-        "후드 푸퍼",
-        "록시크"
+        "무신사 스탠다드",
+        "명동중앙점",
+        "티셔츠 클럽",
+        "커스텀 서비스",
+        "오프라인 유통"
       ]
     },
     {
-      "id": "2026-09-09-hoodhood-hoodgirls",
+      "id": "2026-09-11-musinsa-bag-cap-club",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1544248989780393192",
-      "date": "2026-09-08",
-      "title": "후드후드 × 후드걸즈, 에일리언 그래픽 스트리트 컬렉션",
-      "summary": "후드후드가 글로벌 크리에이터 팀 후드걸즈와 협업해 에일리언 세계관을 스트리트웨어로 확장했다. 멜란지 그레이와 블랙에 레드·화이트를 대비시키고, 루즈핏 럭비 폴로와 투웨이 지퍼 후드 집업, 와이드 스웨트팬츠 등 여섯 가지 아이템을 구성했다.",
+      "source": "패션비즈",
+      "sourceUrl": "https://tnnews.co.kr/archives/292318",
+      "date": "2026-09-09",
+      "title": "무신사 백&캡클럽, 신진·글로벌 브랜드와 DIY 햇 존 구성",
+      "summary": "무신사 백&캡클럽 서울숲은 가방·모자에 특화된 112.4㎡ 편집숍으로, 아노트·마스컴퍼니·카렌다부터 뉴에라·잔스포츠까지 함께 편성했다. 매장에는 더 스캇햇 모자와 배지·와펜을 조합해 직접 꾸미는 ‘DIY 햇 존’을 마련했다.",
       "keywords": [
-        "후드후드",
-        "후드걸즈",
-        "무신사",
-        "그래픽",
-        "스트리트웨어"
+        "무신사 백&캡클럽",
+        "가방 편집숍",
+        "모자 편집숍",
+        "DIY 햇 존",
+        "서울숲"
       ]
     },
     {
-      "id": "2026-09-09-onthelist-cheongdam",
+      "id": "2026-09-11-seochon-fashion-retail",
       "category": "SELECT",
       "categoryLabel": "SELECT SHOP",
-      "source": "테넌트뉴스",
-      "sourceUrl": "https://tnnews.co.kr/archives/293123",
-      "date": "2026-09-08",
-      "title": "온더리스트, 청담 정규 매장으로 플래시 세일 옴니채널화",
-      "summary": "회원제 럭셔리 플래시 세일 플랫폼 온더리스트가 청담에 국내 첫 상설 매장을 열었다. 행사 목적과 브랜드 요구에 따라 구조를 바꿀 수 있게 설계했으며, 오픈 프로그램인 럭셔리 키즈 세일을 9월 8~10일 오프라인에서 진행한 뒤 11~15일 온라인으로 이어간다.",
+      "source": "패션비즈",
+      "sourceUrl": "https://tnnews.co.kr/archives/293139",
+      "date": "2026-09-09",
+      "title": "패션 리테일, 성수에서 서촌의 로컬·러닝 맥락으로 확장",
+      "summary": "패션 브랜드들이 성수동을 넘어 한옥 골목과 러닝 코스가 공존하는 서촌에 체험형 거점을 늘리고 있다. 아카이브 앱크는 작업실형 팝업 뒤 플래그십 개장을 예고했고, 나우는 홈 라인과 모듈 체험을 결합한 ‘코토니 하우스’를 운영했다. 로라로라·아디다스·프로-스펙스도 서촌의 지역성을 각 매장과 팝업에 반영했다.",
       "keywords": [
-        "온더리스트",
-        "청담",
-        "플래시 세일",
-        "상설 매장",
-        "옴니채널"
+        "서촌",
+        "패션 리테일",
+        "아카이브 앱크",
+        "나우",
+        "체험형 매장"
       ]
     },
     {
-      "id": "2026-09-09-scp-clerkenwell-showroom",
+      "id": "2026-09-11-magellano-27m-interior",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "Wallpaper*",
-      "sourceUrl": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening",
-      "date": "September 8, 2026",
-      "title": "SCP, 5층 타운하우스를 주거형 가구 쇼룸으로 전환",
-      "summary": "영국 가구 브랜드 SCP가 40년간 사용한 쇼디치 매장을 떠나 클러큰웰의 5층 타운하우스로 이전했다. Nice Projects는 지하에 조명, 중간 세 층에 선반과 커튼으로 나눈 가구 룸세트, 최상층에 실제 주택처럼 꾸민 ‘Apartment’를 배치해 리테일과 계약 사업을 한 공간에 연결했다.",
+      "sourceUrl": "https://www.wallpaper.com/design-interiors/azimut-magellano-27m-superyacht-michele-de-lucchi-amdl-circle",
+      "date": "2026-09-09",
+      "title": "Magellano 27M, 라이트 오크와 나구리 마감으로 흐르는 선실 구현",
+      "summary": "Michele De Lucchi와 AMDL Circle은 Azimut Magellano 27M의 내부를 대형 유리창과 티크 차양으로 이어지는 곡선형 목재 공간으로 설계했다. 라이트 오크를 중심으로 트래버틴·금속·통합 조명을 더하고, 월넛 디테일과 리빙·화염 처리·일본식 나구리 수작업 마감을 적용했다. 주침실 벽에는 나이테를 연상시키는 Hosoo 직물을 사용했다.",
       "keywords": [
-        "SCP",
-        "클러큰웰",
-        "가구 쇼룸",
-        "주거형 전시",
-        "Nice Projects"
+        "Magellano 27M",
+        "Michele De Lucchi",
+        "라이트 오크",
+        "나구리 마감",
+        "Hosoo 직물"
       ]
     },
     {
-      "id": "2026-09-09-tskneti-residences",
+      "id": "2026-09-11-casa-itu-modular-timber",
       "category": "INTERIOR",
       "categoryLabel": "INTERIOR & FURNITURE",
       "source": "ArchDaily",
-      "sourceUrl": "https://www.archdaily.com/1184639/tskneti-residences-mua",
-      "date": "2026-09-08",
-      "title": "Tskneti Residences, 가구로 노출 콘크리트 공간의 경계 형성",
-      "summary": "MUA는 Tskneti Residences의 노출 구조 콘크리트와 커튼월 유리에 따뜻한 내부 팔레트를 대비시켰다. 현대·고전 가구를 공간 경계 요소로 사용하고, 대담한 색과 목재 패널·맞춤 조명으로 엄격한 구조를 완화했다.",
+      "sourceUrl": "https://www.archdaily.com/1184675/casa-itu-nitsche-arquitetos",
+      "date": "2026-09-09",
+      "title": "Casa Itu, 3×6m 집성 유칼립투스 모듈로 공간 유연성 확보",
+      "summary": "Nitsche Arquitetos는 Casa Itu를 접착 적층 유칼립투스 기둥·보의 3×6m 반복 모듈로 구성해 빠른 시공과 공간 유연성을 확보했다. 실내외 바닥에 같은 상투메 백색 규암을 사용해 정원과의 단차를 없애고, 두 동 사이에는 자연 환기와 채광이 가능한 지붕 덮인 중정을 배치했다.",
       "keywords": [
-        "Tskneti Residences",
-        "노출 콘크리트",
-        "가구 배치",
-        "목재 패널",
-        "맞춤 조명"
+        "Casa Itu",
+        "집성 유칼립투스",
+        "모듈 구조",
+        "상투메 석재",
+        "중정"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-09-09T08:06:59.755+09:00",
+      "briefingDate": "2026-09-09",
+      "generatedAt": "2026-09-09T08:06:59.755+09:00",
+      "cards": [
+        {
+          "id": "2026-09-09-illigo-seongsu-flagship",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/293089",
+          "date": "2026-09-08",
+          "title": "일리고, 성수 첫 플래그십에 ‘소녀들의 옷장’ 구현",
+          "summary": "스퀘어129가 전개하는 일리고가 성수동의 기존 카페 공간을 리뉴얼해 첫 플래그십 스토어를 열었다. ‘소녀들의 옷장’을 콘셉트로 베이직 라인과 가을 신제품을 함께 배치하고, 밝은 색감과 옷장형 집기·스틸 행거로 브랜드 정체성을 공간에 반영했다.",
+          "keywords": [
+            "일리고",
+            "성수 플래그십",
+            "오프라인 유통",
+            "매장 디자인",
+            "가을 컬렉션"
+          ]
+        },
+        {
+          "id": "2026-09-09-lemouton-mate-h1tex",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/293054",
+          "date": "2026-09-08",
+          "title": "르무통 ‘메이트’, H1-TEX 기반 단일 모델 200만 족",
+          "summary": "르무통의 컴포트 슈즈 ‘메이트’가 2021년 출시 후 누적 판매 200만 족을 기록했다. 브랜드는 메리노 울로 자체 개발한 특허 원단 H1-TEX를 전 제품에 적용해 부드러운 감촉과 통기성·내구성을 확보하고, 오프라인 체험 행사와 기능성 소재 라인업을 이어갈 계획이다.",
+          "keywords": [
+            "르무통",
+            "메이트",
+            "H1-TEX",
+            "메리노 울",
+            "컴포트 슈즈"
+          ]
+        },
+        {
+          "id": "2026-09-09-nike-kallmeyer-tennis-centre",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/nike-kallmeyer-tennis-centre-collaboration-sneaker",
+          "date": "September 8, 2026",
+          "title": "Nike × Kallmeyer, 스웨이드로 Tennis Centre 재구성",
+          "summary": "Daniella Kallmeyer가 Nike의 Tennis Centre를 라이프스타일 스니커로 재구성한 협업을 공개했다. 트래버틴 컬러의 스웨이드와 앤티크 하드웨어, 뒤꿈치 블랭킷 스티치와 단색 구성을 적용해 소재와 제작 흔적이 드러나도록 설계했다.",
+          "keywords": [
+            "Nike",
+            "Kallmeyer",
+            "Tennis Centre",
+            "스웨이드",
+            "스니커 협업"
+          ]
+        },
+        {
+          "id": "2026-09-09-redone-kaia-vol1",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/kaia-gerber-redone-jeans-collection",
+          "date": "September 8, 2026",
+          "title": "Re/Done × Kaia Gerber, 60피스 ‘Kaia Vol. 1’ 공개",
+          "summary": "Re/Done이 투자자·크리에이티브 파트너·자문위원으로 합류한 Kaia Gerber와 60피스 컬렉션 ‘Kaia Vol. 1’을 선보인다. 티셔츠와 데님 중심의 캘리포니아 감성에 도시적 요소를 더해 핀스트라이프 재킷, 레더 트렌치, 슬림 스트레이트 진과 빛바랜 캔버스 워크웨어 재킷 등을 구성했다.",
+          "keywords": [
+            "Re/Done",
+            "Kaia Gerber",
+            "Kaia Vol. 1",
+            "데님",
+            "워크웨어"
+          ]
+        },
+        {
+          "id": "2026-09-09-ss27-trend-predictions",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027",
+          "date": "September 8, 2026",
+          "title": "2027 S/S, ‘클린 걸’에서 충돌하는 색·패턴으로 이동",
+          "summary": "Vogue Business는 소비자 행동·스트리트 스타일·소셜 데이터와 남성복·코펜하겐 2027 S/S 쇼를 바탕으로 다음 시즌 흐름을 정리했다. 파스텔과 플로럴, 촉각적 소재에 그래픽 티셔츠·서로 다른 패턴·예상 밖의 신발을 겹치는 ‘프리 스타일 표현’과, 앞치마·정원용 모티프를 활용하는 가드닝 코어가 주요 방향으로 제시됐다.",
+          "keywords": [
+            "2027 S/S",
+            "프리 스타일",
+            "패턴 믹스",
+            "촉각적 소재",
+            "가드닝 코어"
+          ]
+        },
+        {
+          "id": "2026-09-09-schism-inducing-bobae",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1544250353560584911",
+          "date": "2026-09-08",
+          "title": "스키즘 인듀싱 × 보배, 후드 푸퍼 소재·보온성 업데이트",
+          "summary": "스키즘 인듀싱과 보배가 FW 협업 컬렉션을 무신사에서 선보였다. 기존 후드 푸퍼의 겉감을 개선하고 안감을 더해 한겨울까지 확장했으며, 화이트 컬러를 추가했다. 하이넥·벨트·탈부착 퍼의 바이커 재킷과 코팅·레이스업·드레이프 디테일도 함께 구성했다.",
+          "keywords": [
+            "스키즘 인듀싱",
+            "보배",
+            "무신사",
+            "후드 푸퍼",
+            "록시크"
+          ]
+        },
+        {
+          "id": "2026-09-09-hoodhood-hoodgirls",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1544248989780393192",
+          "date": "2026-09-08",
+          "title": "후드후드 × 후드걸즈, 에일리언 그래픽 스트리트 컬렉션",
+          "summary": "후드후드가 글로벌 크리에이터 팀 후드걸즈와 협업해 에일리언 세계관을 스트리트웨어로 확장했다. 멜란지 그레이와 블랙에 레드·화이트를 대비시키고, 루즈핏 럭비 폴로와 투웨이 지퍼 후드 집업, 와이드 스웨트팬츠 등 여섯 가지 아이템을 구성했다.",
+          "keywords": [
+            "후드후드",
+            "후드걸즈",
+            "무신사",
+            "그래픽",
+            "스트리트웨어"
+          ]
+        },
+        {
+          "id": "2026-09-09-onthelist-cheongdam",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "테넌트뉴스",
+          "sourceUrl": "https://tnnews.co.kr/archives/293123",
+          "date": "2026-09-08",
+          "title": "온더리스트, 청담 정규 매장으로 플래시 세일 옴니채널화",
+          "summary": "회원제 럭셔리 플래시 세일 플랫폼 온더리스트가 청담에 국내 첫 상설 매장을 열었다. 행사 목적과 브랜드 요구에 따라 구조를 바꿀 수 있게 설계했으며, 오픈 프로그램인 럭셔리 키즈 세일을 9월 8~10일 오프라인에서 진행한 뒤 11~15일 온라인으로 이어간다.",
+          "keywords": [
+            "온더리스트",
+            "청담",
+            "플래시 세일",
+            "상설 매장",
+            "옴니채널"
+          ]
+        },
+        {
+          "id": "2026-09-09-scp-clerkenwell-showroom",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "Wallpaper*",
+          "sourceUrl": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening",
+          "date": "September 8, 2026",
+          "title": "SCP, 5층 타운하우스를 주거형 가구 쇼룸으로 전환",
+          "summary": "영국 가구 브랜드 SCP가 40년간 사용한 쇼디치 매장을 떠나 클러큰웰의 5층 타운하우스로 이전했다. Nice Projects는 지하에 조명, 중간 세 층에 선반과 커튼으로 나눈 가구 룸세트, 최상층에 실제 주택처럼 꾸민 ‘Apartment’를 배치해 리테일과 계약 사업을 한 공간에 연결했다.",
+          "keywords": [
+            "SCP",
+            "클러큰웰",
+            "가구 쇼룸",
+            "주거형 전시",
+            "Nice Projects"
+          ]
+        },
+        {
+          "id": "2026-09-09-tskneti-residences",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "ArchDaily",
+          "sourceUrl": "https://www.archdaily.com/1184639/tskneti-residences-mua",
+          "date": "2026-09-08",
+          "title": "Tskneti Residences, 가구로 노출 콘크리트 공간의 경계 형성",
+          "summary": "MUA는 Tskneti Residences의 노출 구조 콘크리트와 커튼월 유리에 따뜻한 내부 팔레트를 대비시켰다. 현대·고전 가구를 공간 경계 요소로 사용하고, 대담한 색과 목재 패널·맞춤 조명으로 엄격한 구조를 완화했다.",
+          "keywords": [
+            "Tskneti Residences",
+            "노출 콘크리트",
+            "가구 배치",
+            "목재 패널",
+            "맞춤 조명"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-08T08:02:55.982+09:00",
       "briefingDate": "2026-09-08",
