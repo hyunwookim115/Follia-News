@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T08:35:51+09:00",
+  "generatedAt": "2026-09-11T08:24:01+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Zoë Kravitz의 무릎 길이 스커트에 이어 Hilary Duff의 카프리 착장과 후속 상품 편성이 추가돼 중간 길이 하의의 상승 흐름이 이어졌습니다.",
-      "detail": "8월 27일 이후 Millie Bobby Brown의 카프리, Kaia Gerber·Zoë Kravitz의 무릎 길이 스커트와 Sydney Sweeney의 버뮤다 쇼츠가 반복 노출됐습니다. 이어 9월 5일 전후 Hilary Duff가 로스앤젤레스에서 카프리 팬츠를 착용했고, Who What Wear가 카프리 상품과 함께 보도했습니다. 같은 매체는 Zoë Kravitz의 무릎 길이 슬립 스커트 착장을 별도로 후속 보도하며 관련 스커트 3종을 편성했습니다. 공개 착장·편집 상품 노출이며 판매량이나 검색 순위는 아닙니다.",
+      "summary": "카프리·버뮤다·무릎 길이 스커트의 반복 노출에 Amal Clooney의 펜슬 스커트 착장과 후속 상품 편성이 추가돼 상승 흐름이 이어졌습니다.",
+      "detail": "9월 2~5일 Sydney Sweeney의 버뮤다 쇼츠, Zoë Kravitz·Kaia Gerber의 무릎 길이 스커트와 Hilary Duff의 카프리 착장이 이어졌습니다. 9월 10일 InStyle은 Amal Clooney의 무릎 길이 펜슬 스커트 착장을 보도하고 펜슬·랩·무릎 길이 스커트 4종을 편성했습니다. 공개 착장과 편집 상품 노출 신호이며 판매량이나 검색 순위는 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -72,6 +72,10 @@
         {
           "label": "WHO WHAT WEAR · ZOË KRAVITZ KNEE-LENGTH SKIRT / 3 PICKS",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-slip-skirt-high-foot-ballet-flats-outfit-zoe-kravitz"
+        },
+        {
+          "label": "INSTYLE · AMAL CLOONEY KNEE-LENGTH PENCIL SKIRT / 4 PICKS",
+          "url": "https://www.instyle.com/look-of-the-day-2026-09-10-12114677"
         }
       ]
     },
@@ -254,8 +258,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "다수 셀러브리티의 넉넉한 가방 착장에 이어 Dakota Johnson이 서로 다른 대형 토트 3개를 반복 착용해 상승 흐름이 이어졌습니다.",
-      "detail": "8월 말부터 Zoë Kravitz·Dakota Johnson 등의 대형 토트와 슬라우치 숄더백 착장, 다수 상품 편성이 이어졌습니다. 9월 7일 People은 Dakota Johnson이 최근 서로 다른 토트 3개를 반복 착용했다고 보도하고, Jennifer Garner·Katie Holmes도 같은 대형 가방 흐름에 합류했다고 확인했습니다. 유사 상품 3종 편성은 공개 상품 노출이며 판매량이나 순위를 뜻하지 않습니다.",
+      "summary": "Dakota Johnson의 토트 3개 반복 착용에 이어 Mary-Kate·Ashley Olsen의 대형 가방 착장과 슬라우치 호보백의 공개 구매후기 누계가 추가됐습니다.",
+      "detail": "9월 7일 People은 Dakota Johnson의 서로 다른 대형 토트 3개와 Jennifer Garner·Katie Holmes의 같은 흐름을 확인했습니다. 9월 10일 Harper’s Bazaar는 Mary-Kate Olsen의 대형 크로커다일 토트와 Ashley Olsen의 The Row Marlo 백을 함께 보도했습니다. 같은 날 Real Simple은 Coach Brooklyn 유사 슬라우치 호보백에 공개 평점 2,700건 이상과 별점 5점 후기 1,500건이 표시됐다고 확인했습니다. 평점·후기는 누계 수치로 최근 판매량이나 판매 순위와 구분했습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -300,6 +304,14 @@
         {
           "label": "PEOPLE · DAKOTA JOHNSON 3 TOTES + CELEBRITY REPEAT",
           "url": "https://people.com/dakota-johnson-quince-large-tote-bags-12107496"
+        },
+        {
+          "label": "HARPER'S BAZAAR · OLSEN TWINS OVERSIZED BAGS",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a73668170/let-mary-kate-and-ashley-olsen-inspire-you-with-their-totally-different-takes-on-transitional-dressing/"
+        },
+        {
+          "label": "REAL SIMPLE · SLOUCHY HOBO / 2,700+ RATINGS",
+          "url": "https://www.realsimple.com/hoxis-slouchy-hobo-shoulder-bag-amazon-september-2026-12071806"
         }
       ]
     },
