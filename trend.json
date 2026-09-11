@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T08:24:01+09:00",
+  "generatedAt": "2026-09-12T08:22:23+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -86,8 +86,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "배기·커프드 진에 이어 Katie Holmes의 트라우저 진과 Penélope Cruz의 와이드 진이 추가됐지만, 부츠컷·슬라우치·크롭까지 동시에 노출돼 단일 핏으로 수렴하지 않습니다.",
-      "detail": "9월 4일 Jessica Alba의 배기 진에 이어 9월 5일 People은 Penélope Cruz의 와이드 진과 와이드 스트레이트·와이드 진 2종을 편성했습니다. 9월 6일 InStyle은 Katie Holmes의 플리츠 트라우저 진 착장과 유사 상품 7종을 제시했습니다. 같은 기간 Who What Wear는 공개 Instagram 착장과 상품 편성을 바탕으로 부츠컷·소프트 슬라우치·크롭 등 6개 데님 흐름이 동시에 나타난다고 정리했습니다. 반복 착장과 리테일 노출은 이어지지만 특정 핏의 공개 검색량·판매 순위 상승은 확인되지 않아 HOLD를 유지했습니다.",
+      "summary": "Kate Moss·Jennifer Garner·Christie Brinkley의 부츠컷 반복 착장에 Anne Hathaway의 릴랙스드 와이드 진이 동시에 추가돼 데님 핏 신호가 계속 분산됩니다.",
+      "detail": "9월 11일 People은 Kate Moss의 부츠컷 진과 Jennifer Garner·Christie Brinkley의 같은 핏 반복 착장을 보도하고 부츠컷·플레어 상품 9종을 편성했습니다. 같은 날 Anne Hathaway는 뉴욕에서 릴랙스드 와이드 진과 오버사이즈 데님 셔츠를 착용했습니다. 부츠컷 신호가 강화됐지만 와이드·배기·스트레이트 흐름도 동시에 이어져 특정 핏의 공개 검색량·판매 순위 상승으로 판단하지 않고 HOLD를 유지했습니다. 상품 9종은 편집 상품 수이며 판매량이 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -180,6 +180,14 @@
         {
           "label": "WHO WHAT WEAR · 6-WAY DENIM DISPERSION / PUBLIC INSTAGRAM + RETAIL",
           "url": "https://www.whowhatwear.com/fashion/denim/fall-denim-trends-2026"
+        },
+        {
+          "label": "PEOPLE · KATE MOSS + 2 CELEBRITIES BOOTCUT / 9 PICKS",
+          "url": "https://people.com/kate-moss-jennifer-garner-bootcut-jeans-amazon-september-2026-12114285"
+        },
+        {
+          "label": "PEOPLE · ANNE HATHAWAY RELAXED WIDE-LEG DENIM",
+          "url": "https://people.com/anne-hathaway-shows-off-baby-bump-denim-shirt-jeans-at-nyc-event-12115412"
         }
       ]
     },
