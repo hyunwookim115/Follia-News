@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T08:22:23+09:00",
+  "generatedAt": "2026-09-13T08:03:56+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -329,9 +329,9 @@
       "category": "ITEM",
       "direction": "UP",
       "market": "GLOBAL / KOREA",
-      "signal": "DEMAND",
-      "summary": "H&M 재고 소진과 Maggie Gyllenhaal 착장에 이어 Gracie Abrams·Lily Collins 등 여러 세대 셀러브리티의 반복 착장과 16개 상품 편성이 추가됐습니다.",
-      "detail": "8월 30일 H&M 제품의 대부분 사이즈 품절 관측과 9월 1일 Maggie Gyllenhaal의 베니스 착장에 이어, 9월 8일 전후 Who What Wear는 Gracie Abrams·Lily Collins·Naomi Watts·Charlize Theron·Nicole Kidman·Tracee Ellis Ross의 착장을 함께 확인했습니다. Madewell부터 H&M까지 16개 유사 상품도 편성됐습니다. 공개 재고·반복 착장·편집 상품 수 신호이며 실제 판매량이나 판매 순위는 아닙니다.",
+      "signal": "SOCIAL",
+      "summary": "Gracie Abrams·Lily Collins 등 6명의 반복 착장에 Grace Gummer의 런던 스트리트 룩이 추가돼 재즈 슈즈의 공개 소셜 확산이 이어졌습니다.",
+      "detail": "9월 8일 전후 Who What Wear가 Gracie Abrams·Lily Collins·Naomi Watts·Charlize Theron·Nicole Kidman·Tracee Ellis Ross의 재즈 슈즈 착장을 함께 확인한 데 이어, 9월 11일 Grace Gummer가 런던에서 화이트 재즈 플랫을 스트레이트 진과 착용했습니다. 새 기사에는 재즈 슈즈 6종과 스트레이트 진 6종이 편성됐습니다. 8월 30일 H&M 품절 관측은 최근 7일 범위를 벗어나 주 신호를 DEMAND에서 SOCIAL로 조정했습니다. 상품 편성은 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
@@ -356,6 +356,10 @@
         {
           "label": "WHO WHAT WEAR · 6 CELEBRITIES + 16 JAZZ-SHOE PICKS",
           "url": "https://www.whowhatwear.com/fashion/shoes/jazz-shoe-trend"
+        },
+        {
+          "label": "WHO WHAT WEAR · GRACE GUMMER JAZZ SHOES / 6 SHOE PICKS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/jazz-shoes-straight-jeans-outfit-grace-gummer"
         }
       ]
     },
