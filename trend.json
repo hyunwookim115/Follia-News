@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T08:26:48+09:00",
+  "generatedAt": "2026-09-15T08:26:37+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -395,11 +395,11 @@
       "id": "live-ballet-sneakers",
       "keyword": "BALLET SNEAKERS",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "DEMAND",
-      "summary": "Jennifer Lawrence의 반복 착장과 Salomon 발레 스니커즈의 일부 사이즈 재고 소진에 Sally Field·Laura Dern의 후속 착장이 겹쳐 새로운 수요 신호로 포착됐습니다.",
-      "detail": "9월 8일 InStyle은 Jennifer Lawrence가 Salomon RX Marie-Jeanne을 반복 착용했다고 보도하고, 해당 제품이 이미 일부 품절돼 일부 사이즈만 남았다고 확인했습니다. 정확한 판매량은 공개되지 않았습니다. 발레 스니커즈 10종도 함께 편성됐습니다. 9월 13일 People은 Sally Field와 Laura Dern의 발레 스니커즈 착장을 같은 주간 목록에서 추가 확인했습니다. 공개 재고와 서로 다른 셀러브리티의 반복 노출이 겹친 신호이며, 상품 편성 수는 판매량이나 판매 순위가 아닙니다.",
+      "summary": "Jennifer Lawrence·Sally Field에 이어 Laura Dern의 별도 착장 보도와 Nicole Kidman·Bella Hadid·Julia Roberts의 반복 착용, 7개 상품 편성이 추가돼 상승 흐름으로 전환했습니다.",
+      "detail": "9월 8일 InStyle은 Jennifer Lawrence의 Salomon RX Marie-Jeanne 반복 착용과 일부 사이즈 재고 소진을 확인했습니다. 9월 13일 People이 Sally Field·Laura Dern의 착장을 함께 포착한 데 이어, 같은 날 InStyle은 Laura Dern의 Vivaia Lexi 착장을 별도로 보도하고 Nicole Kidman·Bella Hadid·Julia Roberts의 같은 계열 착용을 재확인했습니다. Laura의 정확한 제품과 대안 6종, 총 7종을 편성했습니다. 재고 관측은 공개 수요 신호로 사용했으며 상품 편성 수·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · JENNIFER LAWRENCE REPEAT + SELECT SIZES LEFT / 10 PICKS",
@@ -408,6 +408,10 @@
         {
           "label": "PEOPLE · SALLY FIELD + LAURA DERN BALLET SNEAKERS",
           "url": "https://people.com/best-celebrity-outfits-this-week-09-13-12066950"
+        },
+        {
+          "label": "INSTYLE · LAURA DERN + 3 CELEBRITIES / 7 PICKS",
+          "url": "https://www.instyle.com/laura-dern-ballet-sneakers-amazon-september-2026-12116797"
         }
       ]
     }
