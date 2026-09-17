@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T08:05:30+09:00",
+  "generatedAt": "2026-09-17T08:59:37+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -192,22 +192,18 @@
       ]
     },
     {
-      "id": "live-bolero-jackets",
-      "keyword": "BOLERO JACKETS",
+      "id": "live-heel-dressed-thong-sandals",
+      "keyword": "HEEL-DRESSED THONG SANDALS",
       "category": "ITEM",
-      "direction": "NEW",
-      "market": "GLOBAL → KOREA",
-      "signal": "SEARCH",
-      "summary": "여성 볼레로 재킷 검색어의 공개 Google Trends 상승과 TikTok 노출, 다수 셀러브리티 착장·상품 편성이 겹쳐 새로운 변동 신호로 포착됐습니다.",
-      "detail": "9월 9일 InStyle은 Google Trends의 미국 최근 1년 비교를 인용해 ‘bolero jacket women’s’가 전년 대비 5,000% 증가한 breakout 검색어이며, 관련 볼레로 검색어는 450%, ‘cropped bolero’와 ‘bolero shrug’는 각각 전년 대비 70% 증가했다고 보도했습니다. TikTok의 ‘bolero jacket how to wear’ 검색 화면에는 1,770만 개 이상의 게시물이 표시됐고, Millie Bobby Brown·Zendaya·Olivia Dean·Lili Reinhart·Demi Moore·Kate Hudson의 착장과 14개 상품 편성이 함께 제시됐습니다. 이 수치는 최근 7일 검색량이 아니라 공개된 최근 1년·전년 비교 수치이며, 상품 편성 수는 판매량이나 순위가 아닙니다.",
+      "direction": "UP",
+      "market": "GLOBAL",
+      "signal": "SOCIAL",
+      "summary": "Dakota Johnson의 후속 착장에 Hailey Bieber·Katie Holmes의 반복 착용과 뉴욕 패션위크 현장 노출이 겹쳐 통 키튼힐 샌들이 상승 신호로 재진입했습니다.",
+      "detail": "9월 16일 InStyle은 Dakota Johnson이 뉴욕에서 통 키튼힐을 착용한 모습을 보도하고, Hailey Bieber와 Katie Holmes도 같은 신발을 반복 착용했다고 확인했습니다. 기자가 같은 주 뉴욕 패션위크 현장에서 다수의 착용을 관측했으며 관련 통 키튼힐 4종을 편성했습니다. 기사에는 여러 상품이 품절 중이라는 표현이 있으나 구체적인 제품·사이즈·재고 수치가 공개되지 않아 수요량으로 사용하지 않았습니다. 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
-          "label": "INSTYLE · GOOGLE TRENDS + TIKTOK + CELEBRITY / 14 PICKS",
-          "url": "https://www.instyle.com/short-cropped-bolero-jackets-trend-fall-2026-12068889"
-        },
-        {
-          "label": "GOOGLE TRENDS · US / PAST 12 MONTHS / BOLERO JACKET WOMEN'S",
-          "url": "https://trends.google.com/explore?date=today%201-y&geo=US&q=bolero%20jacket%20women%27s"
+          "label": "INSTYLE · DAKOTA JOHNSON + 2 CELEBRITIES + NYFW / 4 PICKS",
+          "url": "https://www.instyle.com/look-of-the-day-2026-09-16-12124578"
         }
       ]
     },
