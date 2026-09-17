@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T08:59:37+09:00",
+  "generatedAt": "2026-09-18T08:56:13+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "카프리·버뮤다·무릎 길이 스커트의 반복 노출에 Amal Clooney의 펜슬 스커트 착장과 후속 상품 편성이 추가돼 상승 흐름이 이어졌습니다.",
-      "detail": "9월 2~5일 Sydney Sweeney의 버뮤다 쇼츠, Zoë Kravitz·Kaia Gerber의 무릎 길이 스커트와 Hilary Duff의 카프리 착장이 이어졌습니다. 9월 10일 InStyle은 Amal Clooney의 무릎 길이 펜슬 스커트 착장을 보도하고 펜슬·랩·무릎 길이 스커트 4종을 편성했습니다. 공개 착장과 편집 상품 노출 신호이며 판매량이나 검색 순위는 아닙니다.",
+      "summary": "Amal Clooney의 무릎 길이 스커트에 이어 Selena Gomez의 카프리 착장과 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 반복 노출이 추가돼 상승 흐름이 이어졌습니다.",
+      "detail": "9월 10일 InStyle은 Amal Clooney의 무릎 길이 펜슬 스커트 착장과 관련 상품 4종을 확인했습니다. 9월 17일에는 Selena Gomez의 블랙 카프리 착장을 별도로 보도하고 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 같은 흐름을 재확인했으며 카프리 7종을 편성했습니다. 이는 공개 착장과 편집 상품 노출 신호이며 상품 편성·할인은 판매량이나 검색 순위가 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -76,6 +76,10 @@
         {
           "label": "INSTYLE · AMAL CLOONEY KNEE-LENGTH PENCIL SKIRT / 4 PICKS",
           "url": "https://www.instyle.com/look-of-the-day-2026-09-10-12114677"
+        },
+        {
+          "label": "INSTYLE · SELENA GOMEZ + 4 CELEBRITIES / 7 CAPRI PICKS",
+          "url": "https://www.instyle.com/look-of-the-day-2026-09-17-12126399"
         }
       ]
     },
@@ -86,8 +90,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Kate Moss·Jennifer Garner·Christie Brinkley의 부츠컷 반복 착장에 Anne Hathaway의 릴랙스드 와이드 진이 동시에 추가돼 데님 핏 신호가 계속 분산됩니다.",
-      "detail": "9월 11일 People은 Kate Moss의 부츠컷 진과 Jennifer Garner·Christie Brinkley의 같은 핏 반복 착장을 보도하고 부츠컷·플레어 상품 9종을 편성했습니다. 같은 날 Anne Hathaway는 뉴욕에서 릴랙스드 와이드 진과 오버사이즈 데님 셔츠를 착용했습니다. 부츠컷 신호가 강화됐지만 와이드·배기·스트레이트 흐름도 동시에 이어져 특정 핏의 공개 검색량·판매 순위 상승으로 판단하지 않고 HOLD를 유지했습니다. 상품 9종은 편집 상품 수이며 판매량이 아닙니다.",
+      "summary": "Reese Witherspoon·Sharon Stone의 플레어와 Nicole Kidman의 스트레이트 진이 동시에 추가돼 데님 핏 신호가 계속 분산됩니다.",
+      "detail": "9월 11일 Kate Moss·Jennifer Garner·Christie Brinkley의 부츠컷과 Anne Hathaway의 릴랙스드 와이드 진이 함께 관측됐습니다. 9월 16일 InStyle은 Nicole Kidman의 스트레이트 진과 유사 상품 4종을 편성했고, 9월 17일 People은 Reese Witherspoon·Sharon Stone의 플레어 진과 부츠컷·플레어 상품 9종을 제시했습니다. 플레어·부츠컷 신호가 강해졌지만 스트레이트·와이드 흐름도 이어져 특정 핏의 검색량·판매 순위 상승으로 판단하지 않고 HOLD를 유지했습니다. 상품 편성·할인은 판매량이 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -188,6 +192,14 @@
         {
           "label": "PEOPLE · ANNE HATHAWAY RELAXED WIDE-LEG DENIM",
           "url": "https://people.com/anne-hathaway-shows-off-baby-bump-denim-shirt-jeans-at-nyc-event-12115412"
+        },
+        {
+          "label": "INSTYLE · NICOLE KIDMAN STRAIGHT JEANS / 4 PICKS",
+          "url": "https://www.instyle.com/nicole-kidman-jeans-button-down-fall-outfit-12122232"
+        },
+        {
+          "label": "PEOPLE · REESE WITHERSPOON + SHARON STONE FLARE / 9 PICKS",
+          "url": "https://people.com/reese-witherspoon-flare-jeans-amazon-september-2026-12124218"
         }
       ]
     },
@@ -214,8 +226,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "트랙수트·윈드브레이커 반복 노출에 이어, Jennifer Garner·Julianne Moore 등 5명의 조거·이지 팬츠 착장과 다수 상품 편성이 추가돼 상승 흐름이 이어졌습니다.",
-      "detail": "9월 1~3일 sportif 스타일, Martha Stewart·Oprah의 트랙수트와 뉴욕 거리의 윈드브레이커 노출에 이어, 9월 4일 People은 Jennifer Garner의 슬림 조거와 Julianne Moore의 니트 팬츠, Olivia Wilde·Shay Mitchell·Kate Moss의 와이드·이지 팬츠 착장을 함께 제시했습니다. 관련 상품 10종도 편성됐습니다. 이는 반복 착장·편집 상품 노출 신호이며 공개 판매량이나 검색 순위는 아닙니다.",
+      "summary": "트랙수트·조거·윈드브레이커 흐름에 Hilary Duff·Cindy Crawford·Martha Stewart의 경량 재킷 착장과 9개 상품 편성이 추가돼 상승세가 이어졌습니다.",
+      "detail": "9월 초 sportif 스타일과 다수 셀러브리티의 트랙수트·조거 노출에 이어, 9월 16일 People은 Hilary Duff의 크롭 윈드브레이커, Martha Stewart의 오버사이즈 재킷, Cindy Crawford의 드로스트링 웨이스트 재킷을 함께 확인했습니다. 관련 경량 재킷 9종도 편성됐습니다. 이는 반복 착장과 편집 상품 노출 신호이며 상품 수·할인은 공개 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -252,6 +264,10 @@
         {
           "label": "PEOPLE · 5 CELEBRITIES / JOGGERS + EASY PANTS / 10 PICKS",
           "url": "https://people.com/jennifer-garner-julianne-moore-black-travel-pants-amazon-september-2026-12107150"
+        },
+        {
+          "label": "PEOPLE · HILARY DUFF + CINDY CRAWFORD + MARTHA STEWART / 9 WINDBREAKERS",
+          "url": "https://people.com/hilary-duff-cindy-crawford-windbreaker-amazon-september-2026-12066955"
         }
       ]
     },
