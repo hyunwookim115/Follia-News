@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T08:56:13+09:00",
+  "generatedAt": "2026-09-19T08:08:18+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -384,30 +384,18 @@
       ]
     },
     {
-      "id": "live-diamond-drop-earrings",
-      "keyword": "DIAMOND DROP EARRINGS",
+      "id": "live-scarf-styling",
+      "keyword": "SCARF STYLING",
       "category": "ACCESSORY",
-      "direction": "UP",
-      "market": "GLOBAL → KOREA",
+      "direction": "NEW",
+      "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Hailey Bieber·Kendall Jenner·Vittoria Ceretti의 반복 노출에 이어 Phoebe Bridgers의 베니스 착장까지 독립 매체에서 확인돼 상승 흐름으로 전환했습니다.",
-      "detail": "Hailey Bieber의 공개 Instagram 일상 착장, Kendall Jenner와 Vittoria Ceretti의 이벤트 착장에 이어 Phoebe Bridgers가 베니스 영화제에서 잎 모양 다이아몬드 드롭 이어링을 착용했고 Harper’s Bazaar가 9월 8일 별도로 보도했습니다. 기존 13개 유사 상품 편성과 국내 무신사 상품 노출도 이어져 반복 소셜·플랫폼 신호로 판단했습니다. 상품 편성 수와 무신사 노출·할인 표시는 판매량이나 판매 순위가 아니며 공개 검색량도 확인되지 않았습니다.",
+      "summary": "Pamela Anderson·Kate Moss·Victoria Justice·Kendall Jenner가 스카프를 헤어·가방·톱으로 서로 다르게 반복 활용하고 10개 상품 편성이 겹쳐 신규 액세서리 신호로 포착됐습니다.",
+      "detail": "9월 17일 People은 Pamela Anderson의 반다나형 헤어 스카프, Kate Moss·Victoria Justice의 가방 손잡이 장식, Kendall Jenner의 벨벳 스카프 톱을 함께 확인했습니다. 스타일리스트 Nicole Klementowicz는 목·헤어·가방·벨트 루프의 4가지 활용법을 제시했고 Nordstrom 스카프 10종이 편성됐습니다. 이는 반복 착장·편집 상품 노출 신호이며 상품 수·할인은 판매량이나 순위가 아닙니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · 3 PUBLIC INSTAGRAM LOOKS + VENICE / 13 PICKS",
-          "url": "https://www.whowhatwear.com/fashion/jewelry/diamond-drop-earrings-trend"
-        },
-        {
-          "label": "MUSINSA · LAB-DIAMOND DROP EARRINGS LISTING",
-          "url": "https://www.musinsa.com/products/6348247"
-        },
-        {
-          "label": "MUSINSA · GOLD DROP EARRINGS LISTING",
-          "url": "https://www.musinsa.com/products/5785049"
-        },
-        {
-          "label": "HARPER'S BAZAAR · PHOEBE BRIDGERS DIAMOND DROP EARRINGS",
-          "url": "https://www.harpersbazaar.com/celebrity/latest/a73643907/phoebe-bridgers-gray-sheer-dress-mcqueen-2026-venice-film-festival/"
+          "label": "PEOPLE · 4 CELEBRITIES / 4 STYLING METHODS / 10 SCARVES",
+          "url": "https://people.com/pamela-anderson-kate-moss-fall-scarf-trend-nordstrom-12124496"
         }
       ]
     },
