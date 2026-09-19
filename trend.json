@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T08:08:18+09:00",
+  "generatedAt": "2026-09-20T08:50:23+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -90,8 +90,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Reese Witherspoon·Sharon Stone의 플레어와 Nicole Kidman의 스트레이트 진이 동시에 추가돼 데님 핏 신호가 계속 분산됩니다.",
-      "detail": "9월 11일 Kate Moss·Jennifer Garner·Christie Brinkley의 부츠컷과 Anne Hathaway의 릴랙스드 와이드 진이 함께 관측됐습니다. 9월 16일 InStyle은 Nicole Kidman의 스트레이트 진과 유사 상품 4종을 편성했고, 9월 17일 People은 Reese Witherspoon·Sharon Stone의 플레어 진과 부츠컷·플레어 상품 9종을 제시했습니다. 플레어·부츠컷 신호가 강해졌지만 스트레이트·와이드 흐름도 이어져 특정 핏의 검색량·판매 순위 상승으로 판단하지 않고 HOLD를 유지했습니다. 상품 편성·할인은 판매량이 아닙니다.",
+      "summary": "Reese Witherspoon·Sharon Stone에 이어 Gigi Hadid·Joanna Gaines의 플레어·부츠컷 착장이 같은 날 추가됐지만 스트레이트·와이드 신호도 남아 있어 HOLD를 유지했습니다.",
+      "detail": "9월 16일 InStyle은 Nicole Kidman의 스트레이트 진과 유사 상품 4종을 편성했고, 9월 17일 People은 Reese Witherspoon·Sharon Stone의 플레어 진을 확인했습니다. 9월 19일에는 Gigi Hadid의 미세한 부츠컷과 Joanna Gaines의 드라마틱 플레어 착장이 같은 날 추가되고 관련 상품들이 편성됐습니다. 플레어·부츠컷 반복은 강해졌지만 스트레이트·와이드 흐름도 병존하므로 특정 핏의 검색량·판매 순위 상승으로 단정하지 않고 HOLD를 유지했습니다. 상품 편성·할인은 판매량이 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -200,6 +200,10 @@
         {
           "label": "PEOPLE · REESE WITHERSPOON + SHARON STONE FLARE / 9 PICKS",
           "url": "https://people.com/reese-witherspoon-flare-jeans-amazon-september-2026-12124218"
+        },
+        {
+          "label": "PEOPLE · GIGI HADID + JOANNA GAINES FLARE / BOOTCUT",
+          "url": "https://people.com/gigi-hadid-joanna-gaines-flare-jeans-amazon-september-2026-12066913"
         }
       ]
     },
@@ -400,26 +404,26 @@
       ]
     },
     {
-      "id": "live-ballet-sneakers",
-      "keyword": "BALLET SNEAKERS",
+      "id": "live-clogs-suede-mules",
+      "keyword": "CLOGS & SUEDE MULES",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "NEW",
       "market": "GLOBAL",
-      "signal": "DEMAND",
-      "summary": "Jennifer Lawrence·Sally Field에 이어 Laura Dern의 별도 착장 보도와 Nicole Kidman·Bella Hadid·Julia Roberts의 반복 착용, 7개 상품 편성이 추가돼 상승 흐름으로 전환했습니다.",
-      "detail": "9월 8일 InStyle은 Jennifer Lawrence의 Salomon RX Marie-Jeanne 반복 착용과 일부 사이즈 재고 소진을 확인했습니다. 9월 13일 People이 Sally Field·Laura Dern의 착장을 함께 포착한 데 이어, 같은 날 InStyle은 Laura Dern의 Vivaia Lexi 착장을 별도로 보도하고 Nicole Kidman·Bella Hadid·Julia Roberts의 같은 계열 착용을 재확인했습니다. Laura의 정확한 제품과 대안 6종, 총 7종을 편성했습니다. 재고 관측은 공개 수요 신호로 사용했으며 상품 편성 수·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "signal": "SOCIAL",
+      "summary": "Jennifer Lawrence의 스웨이드 클로그 착장이 세 매체에서 동시에 포착되고 Kate Hudson·Hailey Bieber·Miley Cyrus 및 유럽 거리의 반복 노출이 겹쳐 신규 신호로 진입했습니다.",
+      "detail": "9월 19일 People은 Jennifer Lawrence의 클로그 착장과 Kate Hudson·Hailey Bieber의 슬립온 슈즈 흐름을 함께 확인했습니다. 같은 날 InStyle은 Jennifer Lawrence·Miley Cyrus의 스웨이드 클로그를 별도로 보도했고, Who What Wear는 Jennifer Lawrence와 런던·파리·코펜하겐 거리에서 클로그·스웨이드 뮬과 데님 조합이 반복됐다고 전했습니다. 각 매체의 편집 상품·할인 표시는 판매량이나 판매 순위가 아니며 공개 재고 수치는 확인되지 않아 SOCIAL 신호로 기록했습니다.",
       "sources": [
         {
-          "label": "INSTYLE · JENNIFER LAWRENCE REPEAT + SELECT SIZES LEFT / 10 PICKS",
-          "url": "https://www.instyle.com/jennifer-lawrence-ballet-flat-sneakers-fall-12085763"
+          "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON + HAILEY BIEBER",
+          "url": "https://people.com/jennifer-lawrence-slip-on-shoes-amazon-september-2026-12126586"
         },
         {
-          "label": "PEOPLE · SALLY FIELD + LAURA DERN BALLET SNEAKERS",
-          "url": "https://people.com/best-celebrity-outfits-this-week-09-13-12066950"
+          "label": "INSTYLE · JENNIFER LAWRENCE + MILEY CYRUS CLOGS",
+          "url": "https://www.instyle.com/jennifer-lawrence-miley-cyrus-fall-clogs-12128051"
         },
         {
-          "label": "INSTYLE · LAURA DERN + 3 CELEBRITIES / 7 PICKS",
-          "url": "https://www.instyle.com/laura-dern-ballet-sneakers-amazon-september-2026-12116797"
+          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE + EUROPE STREET REPEAT",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-mules-with-jeans-outfit-jennifer-lawrence"
         }
       ]
     }
