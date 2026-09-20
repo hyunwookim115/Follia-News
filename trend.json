@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:50:23+09:00",
+  "generatedAt": "2026-09-21T08:45:21+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -230,8 +230,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "트랙수트·조거·윈드브레이커 흐름에 Hilary Duff·Cindy Crawford·Martha Stewart의 경량 재킷 착장과 9개 상품 편성이 추가돼 상승세가 이어졌습니다.",
-      "detail": "9월 초 sportif 스타일과 다수 셀러브리티의 트랙수트·조거 노출에 이어, 9월 16일 People은 Hilary Duff의 크롭 윈드브레이커, Martha Stewart의 오버사이즈 재킷, Cindy Crawford의 드로스트링 웨이스트 재킷을 함께 확인했습니다. 관련 경량 재킷 9종도 편성됐습니다. 이는 반복 착장과 편집 상품 노출 신호이며 상품 수·할인은 공개 판매량이나 판매 순위가 아닙니다.",
+      "summary": "Hilary Duff·Cindy Crawford·Martha Stewart의 윈드브레이커에 이어 코르티스의 반복 착장과 다수 공개 Instagram 룩, Camille Charrière·Alexa Chung의 믹스매치가 추가돼 상승세가 이어졌습니다.",
+      "detail": "9월 16일 People은 Hilary Duff·Martha Stewart·Cindy Crawford의 경량 재킷 착장과 관련 상품 9종을 확인했습니다. 9월 20일 W Korea는 코르티스가 무대와 사복에서 빈티지 트랙 재킷을 반복 착용한 사례를 비롯해 여러 공개 Instagram 계정의 저스트핏·크롭 트랙 재킷 룩, Camille Charrière와 Alexa Chung의 드레시한 믹스매치를 함께 제시했습니다. 이는 반복 착장과 공개 소셜 노출 신호이며 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -272,6 +272,10 @@
         {
           "label": "PEOPLE · HILARY DUFF + CINDY CRAWFORD + MARTHA STEWART / 9 WINDBREAKERS",
           "url": "https://people.com/hilary-duff-cindy-crawford-windbreaker-amazon-september-2026-12066955"
+        },
+        {
+          "label": "W KOREA · CORTIS + PUBLIC INSTAGRAM + CAMILLE CHARRIÈRE + ALEXA CHUNG",
+          "url": "https://www.wkorea.com/2026/09/20/%ED%8A%B8%EB%9E%99-%EC%9E%AC%ED%82%B7-%ED%95%98%EB%82%98%EB%A1%9C-%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EA%B0%90%EC%84%B1%EB%B6%80%ED%84%B0-%EC%9D%80%EA%B7%BC%ED%95%9C-%EC%84%B9%EC%8B%9C%EB%AF%B8/"
         }
       ]
     },
