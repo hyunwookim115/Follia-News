@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T08:44:51+09:00",
+  "generatedAt": "2026-09-23T08:37:41+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -90,8 +90,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Reese Witherspoon·Sharon Stone에 이어 Gigi Hadid·Joanna Gaines의 플레어·부츠컷 착장이 같은 날 추가됐지만 스트레이트·와이드 신호도 남아 있어 HOLD를 유지했습니다.",
-      "detail": "9월 16일 InStyle은 Nicole Kidman의 스트레이트 진과 유사 상품 4종을 편성했고, 9월 17일 People은 Reese Witherspoon·Sharon Stone의 플레어 진을 확인했습니다. 9월 19일에는 Gigi Hadid의 미세한 부츠컷과 Joanna Gaines의 드라마틱 플레어 착장이 같은 날 추가되고 관련 상품들이 편성됐습니다. 플레어·부츠컷 반복은 강해졌지만 스트레이트·와이드 흐름도 병존하므로 특정 핏의 검색량·판매 순위 상승으로 단정하지 않고 HOLD를 유지했습니다. 상품 편성·할인은 판매량이 아닙니다.",
+      "summary": "Reese Witherspoon·Gigi Hadid 등의 플레어·부츠컷에 Taylor Swift의 하이라이즈 진과 스트레이트·배기·와이드 상품 신호가 추가돼 핏 분산이 이어졌으므로 HOLD를 유지했습니다.",
+      "detail": "9월 16~19일에는 Nicole Kidman의 스트레이트 진과 Reese Witherspoon·Sharon Stone·Gigi Hadid·Joanna Gaines의 플레어·부츠컷 착장이 이어졌습니다. 9월 22일 People은 Taylor Swift가 하이라이즈 진을 다시 착용한 모습을 확인하고 스트레이트·배기·와이드 진을 함께 편성했습니다. 플레어·부츠컷 반복은 강하지만 서로 다른 핏이 동시에 노출되고 있어 특정 핏의 검색량·판매 순위 상승으로 단정하지 않고 HOLD를 유지했습니다. 상품 편성·할인은 판매량이 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -204,6 +204,10 @@
         {
           "label": "PEOPLE · GIGI HADID + JOANNA GAINES FLARE / BOOTCUT",
           "url": "https://people.com/gigi-hadid-joanna-gaines-flare-jeans-amazon-september-2026-12066913"
+        },
+        {
+          "label": "PEOPLE · TAYLOR SWIFT HIGH-RISE / STRAIGHT + BAGGY + WIDE",
+          "url": "https://people.com/taylor-swift-high-waisted-jeans-september-2026-12066895"
         }
       ]
     },
@@ -355,11 +359,11 @@
       "id": "live-jazz-shoes",
       "keyword": "JAZZ SHOES",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL / KOREA",
       "signal": "SOCIAL",
-      "summary": "기존 7명의 반복 착장에 Nicole Kidman의 별도 후속 보도와 Charlize Theron·Lily Collins의 재확인, 8개 리테일 대안이 추가돼 상승 흐름이 이어졌습니다.",
-      "detail": "9월 8일 전후 Who What Wear가 Gracie Abrams·Lily Collins·Naomi Watts·Charlize Theron·Nicole Kidman·Tracee Ellis Ross의 재즈 슈즈 착장을 함께 확인했고, 9월 11일 Grace Gummer의 런던 스트리트 룩이 추가됐습니다. 9월 15일 InStyle은 Nicole Kidman의 화이트 우븐 재즈 슈즈를 별도로 보도하며 Charlize Theron·Lily Collins의 착용을 재확인하고 유사 상품 8종을 편성했습니다. 8월 30일 H&M 품절 관측은 최근 7일 범위를 벗어나 주 신호는 SOCIAL로 유지했습니다. 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
+      "summary": "Nicole Kidman 등 7명의 반복 착장 근거는 남아 있지만 9월 15일 이후 새로운 공개 착장·재고·검색 신호가 확인되지 않아 상승 판단을 보류했습니다.",
+      "detail": "9월 8~15일 Who What Wear와 InStyle은 Gracie Abrams·Lily Collins·Naomi Watts·Charlize Theron·Nicole Kidman·Tracee Ellis Ross·Grace Gummer의 재즈 슈즈 착장을 확인하고 관련 상품을 편성했습니다. 다만 마지막 독립 후속 보도는 9월 15일이며 이후 공개 착장·구체적 재고·검색 증가 신호가 확인되지 않았습니다. 기존 반복 노출은 보존하되 상승 근거가 약해져 HOLD로 조정했습니다. 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
           "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
