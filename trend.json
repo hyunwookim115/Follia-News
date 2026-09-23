@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T08:37:41+09:00",
+  "generatedAt": "2026-09-24T08:39:02+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -212,18 +212,22 @@
       ]
     },
     {
-      "id": "live-heel-dressed-thong-sandals",
-      "keyword": "HEEL-DRESSED THONG SANDALS",
+      "id": "live-ballet-sneakers",
+      "keyword": "BALLET SNEAKERS",
       "category": "ITEM",
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Dakota Johnson의 후속 착장에 Hailey Bieber·Katie Holmes의 반복 착용과 뉴욕 패션위크 현장 노출이 겹쳐 통 키튼힐 샌들이 상승 신호로 재진입했습니다.",
-      "detail": "9월 16일 InStyle은 Dakota Johnson이 뉴욕에서 통 키튼힐을 착용한 모습을 보도하고, Hailey Bieber와 Katie Holmes도 같은 신발을 반복 착용했다고 확인했습니다. 기자가 같은 주 뉴욕 패션위크 현장에서 다수의 착용을 관측했으며 관련 통 키튼힐 4종을 편성했습니다. 기사에는 여러 상품이 품절 중이라는 표현이 있으나 구체적인 제품·사이즈·재고 수치가 공개되지 않아 수요량으로 사용하지 않았습니다. 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
+      "summary": "Nicole Kidman·Laura Dern·Sally Field의 반복 착장에 Bella Hadid와 Katie Holmes·Anne Hathaway의 후속 노출이 겹쳐 발레 스니커즈가 상승 신호로 재진입했습니다.",
+      "detail": "9월 18~19일 People은 Nicole Kidman·Laura Dern·Sally Field가 발레 플랫의 슬림한 형태와 스니커즈 밑창을 결합한 신발을 착용한 사례를 함께 확인했습니다. Marie Claire는 Bella Hadid가 Vivaia 스니커리나를 반복 착용했고 Katie Holmes·Anne Hathaway·Laura Dern도 같은 브랜드 흐름에 합류했다고 보도했습니다. 두 매체의 상품 편성·가격은 판매량이나 판매 순위가 아니며, 구체적인 최신 재고 수치는 확인되지 않아 SOCIAL 신호로 기록했습니다.",
       "sources": [
         {
-          "label": "INSTYLE · DAKOTA JOHNSON + 2 CELEBRITIES + NYFW / 4 PICKS",
-          "url": "https://www.instyle.com/look-of-the-day-2026-09-16-12124578"
+          "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
+          "url": "https://people.com/nicole-kidman-laura-dern-sally-field-ballet-sneakers-amazon-september-2026-12124209"
+        },
+        {
+          "label": "MARIE CLAIRE · BELLA HADID + VIVAIA CELEBRITY REPEAT",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/bella-hadid-vivaia-ballet-sneakers-saint-laurent-suede-bag-nyc/"
         }
       ]
     },
@@ -290,8 +294,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Dakota Johnson·Olsen 자매·Katie Holmes·Anne Hathaway에 이어 Bella Hadid·Alexa Chung의 대형 캐리올 착장과 누적 평점 3,300건 이상이 추가돼 상승세가 이어졌습니다.",
-      "detail": "9월 15일 InStyle은 Katie Holmes와 Anne Hathaway의 넉넉한 캐리올 착장을 함께 보도하고 관련 가방 13종을 편성했습니다. 9월 20일에는 Katie Holmes의 대형 숄더백과 Bella Hadid·Alexa Chung이 같은 Staud Maude Carryall을 든 장면을 추가로 확인했습니다. 같은 기사에서 Hoxis 대형 토트의 공개 누적 평점이 3,300건 이상으로 확인됐으며, 9월 10일 별도 매체의 2,700건 이상 관측보다 늘었습니다. 평점은 누계 수치이고 상품 편성·할인은 최근 판매량이나 판매 순위가 아닙니다.",
+      "summary": "Katie Holmes·Anne Hathaway·Bella Hadid·Alexa Chung의 대형 캐리올 반복 착장과 누적 평점 3,300건 이상에 Katie Holmes의 9월 22일 룸리 토트 후속 노출이 더해져 상승세가 이어졌습니다.",
+      "detail": "9월 15일 InStyle은 Katie Holmes와 Anne Hathaway의 넉넉한 캐리올 착장을 함께 보도했고, 9월 20일에는 Katie Holmes·Bella Hadid·Alexa Chung의 대형 가방 착장과 Hoxis 대형 토트의 공개 누적 평점 3,300건 이상을 확인했습니다. 9월 22일 People도 Katie Holmes의 넉넉한 브라운 토트 착장과 여러 룸리 토트 대안을 추가로 편성했습니다. 평점은 누계 수치이고 상품 편성·할인은 최근 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -352,6 +356,10 @@
         {
           "label": "INSTYLE · KATIE HOLMES + BELLA HADID + ALEXA CHUNG / 3,300+ RATINGS",
           "url": "https://www.instyle.com/katie-holmes-bella-hadid-oversized-bag-trend-12128180"
+        },
+        {
+          "label": "PEOPLE · KATIE HOLMES ROOMY BROWN TOTE FOLLOW-UP",
+          "url": "https://people.com/katie-holmes-tote-bags-amazon-september-2026-12124474"
         }
       ]
     },
