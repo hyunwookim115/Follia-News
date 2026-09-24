@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T08:39:02+09:00",
+  "generatedAt": "2026-09-25T08:26:46+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
       "id": "live-mid-length-bottoms",
       "keyword": "MID-LENGTH BOTTOMS",
       "category": "SILHOUETTE",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Amal Clooney의 무릎 길이 스커트에 이어 Selena Gomez의 카프리 착장과 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 반복 노출이 추가돼 상승 흐름이 이어졌습니다.",
-      "detail": "9월 10일 InStyle은 Amal Clooney의 무릎 길이 펜슬 스커트 착장과 관련 상품 4종을 확인했습니다. 9월 17일에는 Selena Gomez의 블랙 카프리 착장을 별도로 보도하고 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 같은 흐름을 재확인했으며 카프리 7종을 편성했습니다. 이는 공개 착장과 편집 상품 노출 신호이며 상품 편성·할인은 판매량이나 검색 순위가 아닙니다.",
+      "summary": "Selena Gomez 등 5명의 카프리 반복 착장 근거는 남아 있지만 마지막 독립 후속 보도가 9월 17일로 최근 7일 관측창을 벗어나 상승 판단을 보류했습니다.",
+      "detail": "9월 17일 InStyle은 Selena Gomez의 블랙 카프리 착장을 보도하고 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 같은 흐름과 카프리 7종 편성을 함께 확인했습니다. 그러나 이후 새로운 공개 착장·검색 증가·구체적 재고 신호가 확인되지 않아 기존 반복 노출은 보존하되 HOLD로 조정했습니다. 상품 편성·할인은 판매량이나 검색 순위가 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -364,46 +364,26 @@
       ]
     },
     {
-      "id": "live-jazz-shoes",
-      "keyword": "JAZZ SHOES",
+      "id": "live-vintage-moto-boots",
+      "keyword": "VINTAGE MOTO BOOTS",
       "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL / KOREA",
+      "direction": "NEW",
+      "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Nicole Kidman 등 7명의 반복 착장 근거는 남아 있지만 9월 15일 이후 새로운 공개 착장·재고·검색 신호가 확인되지 않아 상승 판단을 보류했습니다.",
-      "detail": "9월 8~15일 Who What Wear와 InStyle은 Gracie Abrams·Lily Collins·Naomi Watts·Charlize Theron·Nicole Kidman·Tracee Ellis Ross·Grace Gummer의 재즈 슈즈 착장을 확인하고 관련 상품을 편성했습니다. 다만 마지막 독립 후속 보도는 9월 15일이며 이후 공개 착장·구체적 재고·검색 증가 신호가 확인되지 않았습니다. 기존 반복 노출은 보존하되 상승 근거가 약해져 HOLD로 조정했습니다. 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
+      "summary": "Zendaya의 1999 Prada 모토 부츠 착장에 FKA Twigs의 투어 반복 착용과 Bella Hadid의 동일 아카이브 부츠 노출이 겹쳐 신규 신호로 진입했습니다.",
+      "detail": "9월 18일 Who What Wear는 Zendaya가 로스앤젤레스에서 1999년 Prada 모토 부츠를 착용한 장면과 FKA Twigs가 같은 부츠를 마이애미·시카고 투어 무대에서 반복 착용한 사례를 함께 확인했습니다. Vogue와 Marie Claire도 Zendaya의 착장을 후속 보도했고, Marie Claire는 Bella Hadid 역시 동일한 아카이브 부츠를 보유한 것으로 확인했습니다. 여러 매체의 같은 착장 재보도는 중복 수요 신호로 계산하지 않았으며 공개 검색량·판매량·재고 수치는 확인되지 않아 SOCIAL로 기록했습니다.",
       "sources": [
         {
-          "label": "INSTYLE · NAOMI WATTS JAZZ SHOES",
-          "url": "https://www.instyle.com/look-of-the-day-2026-08-19-12063640"
+          "label": "WHO WHAT WEAR · ZENDAYA + FKA TWIGS MOTO-BOOT REPEAT",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-favorite-fall-boot-trend"
         },
         {
-          "label": "FRUITSFAMILY · REPETTO JAZZ SHOES",
-          "url": "https://fruitsfamily.com/product/66oq4/%EB%A0%88%ED%8E%98%ED%86%A0-%EC%9E%AC%EC%A6%88-%EC%8A%88%EC%A6%88-41-260-265"
+          "label": "VOGUE · ZENDAYA 1999 PRADA MOTO BOOTS",
+          "url": "https://www.vogue.com/article/zendaya-tom-holland-alt-normcore-2026-09-18"
         },
         {
-          "label": "WHO WHAT WEAR · JAZZ SHOES FOLLOW-UP",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/fall-jazz-flats-outfit-naomi-watts"
-        },
-        {
-          "label": "WHO WHAT WEAR · H&M JAZZ SHOES / MOST SIZES SOLD OUT",
-          "url": "https://www.whowhatwear.com/fashion/shoes/hm-jazz-shoe-trend-2026"
-        },
-        {
-          "label": "MARIE CLAIRE · MAGGIE GYLLENHAAL JAZZ SHOES / 6 PICKS",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/jazz-shoe-trend-maggie-gyllenhaal-2026/"
-        },
-        {
-          "label": "WHO WHAT WEAR · 6 CELEBRITIES + 16 JAZZ-SHOE PICKS",
-          "url": "https://www.whowhatwear.com/fashion/shoes/jazz-shoe-trend"
-        },
-        {
-          "label": "WHO WHAT WEAR · GRACE GUMMER JAZZ SHOES / 6 SHOE PICKS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/jazz-shoes-straight-jeans-outfit-grace-gummer"
-        },
-        {
-          "label": "INSTYLE · NICOLE KIDMAN + 2 CELEBRITIES / 8 PICKS",
-          "url": "https://www.instyle.com/nicole-kidman-jazz-shoes-fall-trend-12112814"
+          "label": "MARIE CLAIRE · ZENDAYA + BELLA HADID + FKA TWIGS ARCHIVE BOOTS",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/zendaya-tank-top-vintage-prada-boots-fall-2026/"
         }
       ]
     },
