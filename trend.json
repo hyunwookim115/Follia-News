@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T09:00:05+09:00",
+  "generatedAt": "2026-09-27T08:42:44+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
       "id": "live-mid-length-bottoms",
       "keyword": "MID-LENGTH BOTTOMS",
       "category": "SILHOUETTE",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Selena Gomez 등 5명의 카프리 반복 착장 근거는 남아 있지만 마지막 독립 후속 보도가 9월 17일로 최근 7일 관측창을 벗어나 상승 판단을 보류했습니다.",
-      "detail": "9월 17일 InStyle은 Selena Gomez의 블랙 카프리 착장을 보도하고 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 같은 흐름과 카프리 7종 편성을 함께 확인했습니다. 그러나 이후 새로운 공개 착장·검색 증가·구체적 재고 신호가 확인되지 않아 기존 반복 노출은 보존하되 HOLD로 조정했습니다. 상품 편성·할인은 판매량이나 검색 순위가 아닙니다.",
+      "summary": "Selena Gomez 등 5명의 카프리 흐름에 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디·무릎 길이 스커트 반복 노출이 다시 확인돼 상승 신호로 전환했습니다.",
+      "detail": "9월 17일 InStyle은 Selena Gomez와 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 카프리 착장을 함께 확인했습니다. 9월 26일 후속 기사에서는 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz가 2026년 동안 미디·무릎 길이 스커트를 반복 착용한 흐름과 여러 상품 편성을 재확인했습니다. 새 검색량·판매 순위는 공개되지 않았으므로 반복 착장·매체 노출에 근거한 SOCIAL 신호로 기록하며 상품 편성·할인은 판매량으로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -80,6 +80,10 @@
         {
           "label": "INSTYLE · SELENA GOMEZ + 4 CELEBRITIES / 7 CAPRI PICKS",
           "url": "https://www.instyle.com/look-of-the-day-2026-09-17-12126399"
+        },
+        {
+          "label": "INSTYLE · KENDALL JENNER + JENNIFER LAWRENCE + ZOË KRAVITZ MIDI REPEAT",
+          "url": "https://www.instyle.com/kendall-jenner-midi-skirt-fall-trend-12137172"
         }
       ]
     },
@@ -90,8 +94,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Reese Witherspoon·Gigi Hadid 등의 플레어·부츠컷에 Taylor Swift의 하이라이즈 진과 스트레이트·배기·와이드 상품 신호가 추가돼 핏 분산이 이어졌으므로 HOLD를 유지했습니다.",
-      "detail": "9월 16~19일에는 Nicole Kidman의 스트레이트 진과 Reese Witherspoon·Sharon Stone·Gigi Hadid·Joanna Gaines의 플레어·부츠컷 착장이 이어졌습니다. 9월 22일 People은 Taylor Swift가 하이라이즈 진을 다시 착용한 모습을 확인하고 스트레이트·배기·와이드 진을 함께 편성했습니다. 플레어·부츠컷 반복은 강하지만 서로 다른 핏이 동시에 노출되고 있어 특정 핏의 검색량·판매 순위 상승으로 단정하지 않고 HOLD를 유지했습니다. 상품 편성·할인은 판매량이 아닙니다.",
+      "summary": "Taylor Swift의 하이라이즈 진에 Jennifer Lopez의 와이드 레그 레이스 패널 진이 추가됐지만 스트레이트·배기·플레어 신호도 병존해 핏 분산으로 HOLD를 유지했습니다.",
+      "detail": "9월 22일 People은 Taylor Swift의 하이라이즈 진과 스트레이트·배기·와이드 상품 노출을 함께 확인했습니다. 9월 24일 밀라노에서는 Jennifer Lopez가 와이드 레그 레이스 패널 진을 착용했고, 9월 26일 Who What Wear가 이를 보도하며 스트레이트·플레어·부츠컷 등 서로 다른 상품을 함께 편성했습니다. 특정 핏으로 수요가 모였다는 공개 검색량·판매 순위는 없어 HOLD를 유지했으며 상품 편성·가격은 판매량이 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -208,6 +212,10 @@
         {
           "label": "PEOPLE · TAYLOR SWIFT HIGH-RISE / STRAIGHT + BAGGY + WIDE",
           "url": "https://people.com/taylor-swift-high-waisted-jeans-september-2026-12066895"
+        },
+        {
+          "label": "WHO WHAT WEAR · JENNIFER LOPEZ WIDE-LEG LACE-PANELLED DENIM",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lopez-wide-leg-lace-panelled-jeans-outfit-2026"
         }
       ]
     },
@@ -293,9 +301,9 @@
       "category": "ITEM",
       "direction": "UP",
       "market": "GLOBAL → KOREA",
-      "signal": "SOCIAL",
-      "summary": "Katie Holmes·Anne Hathaway·Bella Hadid·Alexa Chung의 대형 캐리올 반복 착장과 누적 평점 3,300건 이상에 Katie Holmes의 9월 22일 룸리 토트 후속 노출이 더해져 상승세가 이어졌습니다.",
-      "detail": "9월 15일 InStyle은 Katie Holmes와 Anne Hathaway의 넉넉한 캐리올 착장을 함께 보도했고, 9월 20일에는 Katie Holmes·Bella Hadid·Alexa Chung의 대형 가방 착장과 Hoxis 대형 토트의 공개 누적 평점 3,300건 이상을 확인했습니다. 9월 22일 People도 Katie Holmes의 넉넉한 브라운 토트 착장과 여러 룸리 토트 대안을 추가로 편성했습니다. 평점은 누계 수치이고 상품 편성·할인은 최근 판매량이나 판매 순위가 아닙니다.",
+      "signal": "DEMAND",
+      "summary": "Katie Holmes·Bella Hadid·Alexa Chung에 Julia Roberts·Tracee Ellis Ross의 대형 토트 반복 착용이 추가되고 Alex Mill 특정 색상 품절이 공개 확인돼 수요 신호가 강화됐습니다.",
+      "detail": "9월 20~22일에는 Katie Holmes·Bella Hadid·Alexa Chung의 대형 가방 착장, Hoxis 대형 토트의 공개 누적 평점 3,300건 이상, Katie Holmes의 룸리 브라운 토트 후속 노출이 확인됐습니다. 9월 26일 InStyle은 Julia Roberts가 Alex Mill Weekday Tote를 여러 차례 착용했고 Tracee Ellis Ross도 같은 가방을 선호한다고 보도했으며, 에스프레소 색상은 공개 페이지에서 품절로 표시됐습니다. 품절은 특정 색상의 현재 재고 신호일 뿐 판매량 전체로 환산하지 않았고, 다른 상품의 편성·할인도 판매 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -360,6 +368,10 @@
         {
           "label": "PEOPLE · KATIE HOLMES ROOMY BROWN TOTE FOLLOW-UP",
           "url": "https://people.com/katie-holmes-tote-bags-amazon-september-2026-12124474"
+        },
+        {
+          "label": "INSTYLE · JULIA ROBERTS + TRACEE ELLIS ROSS / ALEX MILL COLOR SOLD OUT",
+          "url": "https://www.instyle.com/alex-mill-tote-bag-julia-roberts-mom-approved-12140826"
         }
       ]
     },
@@ -407,11 +419,11 @@
       "id": "live-clogs-suede-mules",
       "keyword": "CLOGS & SUEDE MULES",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence의 스웨이드 클로그 착장이 세 매체에서 동시에 포착되고 Kate Hudson·Hailey Bieber·Miley Cyrus 및 유럽 거리의 반복 노출이 겹쳐 신규 신호로 진입했습니다.",
-      "detail": "9월 19일 People은 Jennifer Lawrence의 클로그 착장과 Kate Hudson·Hailey Bieber의 슬립온 슈즈 흐름을 함께 확인했습니다. 같은 날 InStyle은 Jennifer Lawrence·Miley Cyrus의 스웨이드 클로그를 별도로 보도했고, Who What Wear는 Jennifer Lawrence와 런던·파리·코펜하겐 거리에서 클로그·스웨이드 뮬과 데님 조합이 반복됐다고 전했습니다. 각 매체의 편집 상품·할인 표시는 판매량이나 판매 순위가 아니며 공개 재고 수치는 확인되지 않아 SOCIAL 신호로 기록했습니다.",
+      "summary": "Jennifer Lawrence·Kate Hudson·Hailey Bieber·Miley Cyrus와 유럽 거리의 반복 노출은 남아 있지만 9월 19일 이후 새로운 공개 착장·재고 신호가 확인되지 않아 HOLD로 조정했습니다.",
+      "detail": "9월 19일 People·InStyle·Who What Wear는 Jennifer Lawrence의 스웨이드 클로그, Kate Hudson·Hailey Bieber·Miley Cyrus의 슬립온 슈즈와 런던·파리·코펜하겐 거리의 클로그·스웨이드 뮬 착장을 함께 확인했습니다. 이후 독립적인 후속 착장·검색 증가·구체적 재고 신호가 확인되지 않아 기존 반복 노출은 보존하되 HOLD로 조정했습니다. 각 매체의 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
       "sources": [
         {
           "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON + HAILEY BIEBER",
