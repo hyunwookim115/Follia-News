@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T08:26:46+09:00",
+  "generatedAt": "2026-09-26T09:00:05+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -364,26 +364,22 @@
       ]
     },
     {
-      "id": "live-vintage-moto-boots",
-      "keyword": "VINTAGE MOTO BOOTS",
+      "id": "live-peep-toe-boots",
+      "keyword": "PEEP-TOE BOOTS",
       "category": "ITEM",
       "direction": "NEW",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Zendaya의 1999 Prada 모토 부츠 착장에 FKA Twigs의 투어 반복 착용과 Bella Hadid의 동일 아카이브 부츠 노출이 겹쳐 신규 신호로 진입했습니다.",
-      "detail": "9월 18일 Who What Wear는 Zendaya가 로스앤젤레스에서 1999년 Prada 모토 부츠를 착용한 장면과 FKA Twigs가 같은 부츠를 마이애미·시카고 투어 무대에서 반복 착용한 사례를 함께 확인했습니다. Vogue와 Marie Claire도 Zendaya의 착장을 후속 보도했고, Marie Claire는 Bella Hadid 역시 동일한 아카이브 부츠를 보유한 것으로 확인했습니다. 여러 매체의 같은 착장 재보도는 중복 수요 신호로 계산하지 않았으며 공개 검색량·판매량·재고 수치는 확인되지 않아 SOCIAL로 기록했습니다.",
+      "summary": "런던 패션위크 거리에서 서로 다른 참석자들이 글로시 크록·스웨이드 니하이 등 피프토 부츠를 반복 착용하고 Cardi B의 선행 노출까지 이어져 신규 신호로 진입했습니다.",
+      "detail": "9월 20일 Marie Claire는 런던 패션위크 현장에서 여러 참석자가 피프토 부츠를 착용한 장면을 공개 사진으로 확인했습니다. 블랙 글로시 크록 웨지와 스웨이드 니하이 등 서로 다른 형태가 미니멀·맥시멀 착장 양쪽에서 반복됐고, 8월 Cardi B의 뮤직비디오 촬영 착장은 선행 맥락으로만 구분했습니다. 공개 검색량·판매량·재고 수치는 확인되지 않아 SOCIAL 신호로 기록했으며, 기사 재배포는 별도 수요로 중복 계산하지 않았습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · ZENDAYA + FKA TWIGS MOTO-BOOT REPEAT",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-favorite-fall-boot-trend"
+          "label": "MARIE CLAIRE · LFW MULTIPLE STREET-STYLE SIGHTINGS",
+          "url": "https://www.marieclaire.com/fashion/fall-fashion/spring-summer-2027-london-fashion-week-peep-toe-boots-trend/"
         },
         {
-          "label": "VOGUE · ZENDAYA 1999 PRADA MOTO BOOTS",
-          "url": "https://www.vogue.com/article/zendaya-tom-holland-alt-normcore-2026-09-18"
-        },
-        {
-          "label": "MARIE CLAIRE · ZENDAYA + BELLA HADID + FKA TWIGS ARCHIVE BOOTS",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/zendaya-tank-top-vintage-prada-boots-fall-2026/"
+          "label": "MARIE CLAIRE · CARDI B PRIOR CELEBRITY SIGNAL",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/peep-toe-boots-trend-cardi-b-music-video/"
         }
       ]
     },
