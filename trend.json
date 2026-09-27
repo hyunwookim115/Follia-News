@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T08:42:44+09:00",
+  "generatedAt": "2026-09-28T08:05:16+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -94,8 +94,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Taylor Swift의 하이라이즈 진에 Jennifer Lopez의 와이드 레그 레이스 패널 진이 추가됐지만 스트레이트·배기·플레어 신호도 병존해 핏 분산으로 HOLD를 유지했습니다.",
-      "detail": "9월 22일 People은 Taylor Swift의 하이라이즈 진과 스트레이트·배기·와이드 상품 노출을 함께 확인했습니다. 9월 24일 밀라노에서는 Jennifer Lopez가 와이드 레그 레이스 패널 진을 착용했고, 9월 26일 Who What Wear가 이를 보도하며 스트레이트·플레어·부츠컷 등 서로 다른 상품을 함께 편성했습니다. 특정 핏으로 수요가 모였다는 공개 검색량·판매 순위는 없어 HOLD를 유지했으며 상품 편성·가격은 판매량이 아닙니다.",
+      "summary": "Taylor Swift·J.Lo의 하이라이즈·와이드 진에 Halle Berry·Riley Keough 등의 퍼들 진 반복 착장이 추가됐지만 스트레이트·스키니 신호도 병존해 HOLD를 유지했습니다.",
+      "detail": "9월 22~26일 Taylor Swift의 하이라이즈 진과 Jennifer Lopez의 와이드 레그 레이스 패널 진이 확인됐습니다. 9월 27일 Who What Wear는 Halle Berry·Riley Keough·Sarah Catherine이 뉴욕에서 저층 퍼들 진과 힐을 반복 착용한 장면을 보도했습니다. 같은 주 People에서는 Kate Middleton의 스키니 진과 Brittany Mahomes의 와이드 진이 동시에 재노출돼 특정 핏으로 수요가 모였다고 보기 어려워 HOLD를 유지했습니다. 상품 편성·가격은 판매량이나 검색 순위가 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -216,6 +216,14 @@
         {
           "label": "WHO WHAT WEAR · JENNIFER LOPEZ WIDE-LEG LACE-PANELLED DENIM",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lopez-wide-leg-lace-panelled-jeans-outfit-2026"
+        },
+        {
+          "label": "WHO WHAT WEAR · HALLE BERRY + RILEY KEOUGH + NYC PUDDLE JEANS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/puddle-jeans-heels-outfit-trend-new-york-2026"
+        },
+        {
+          "label": "PEOPLE · HIGH-RISE + SKINNY + WIDE-LEG DENIM DISPERSION",
+          "url": "https://people.com/best-celebrity-outfits-this-week-09-27-12067011"
         }
       ]
     },
@@ -416,26 +424,18 @@
       ]
     },
     {
-      "id": "live-clogs-suede-mules",
-      "keyword": "CLOGS & SUEDE MULES",
-      "category": "ITEM",
-      "direction": "HOLD",
+      "id": "live-camo-mix-match",
+      "keyword": "CAMO MIX-MATCH",
+      "category": "STYLE",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence·Kate Hudson·Hailey Bieber·Miley Cyrus와 유럽 거리의 반복 노출은 남아 있지만 9월 19일 이후 새로운 공개 착장·재고 신호가 확인되지 않아 HOLD로 조정했습니다.",
-      "detail": "9월 19일 People·InStyle·Who What Wear는 Jennifer Lawrence의 스웨이드 클로그, Kate Hudson·Hailey Bieber·Miley Cyrus의 슬립온 슈즈와 런던·파리·코펜하겐 거리의 클로그·스웨이드 뮬 착장을 함께 확인했습니다. 이후 독립적인 후속 착장·검색 증가·구체적 재고 신호가 확인되지 않아 기존 반복 노출은 보존하되 HOLD로 조정했습니다. 각 매체의 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
+      "summary": "최소 7개 공개 Instagram 계정에서 카모 팬츠가 발레 플랫·힐·부츠·로퍼 등과 반복 믹스매치돼 상승 신호로 재진입했습니다.",
+      "detail": "9월 27일 Who What Wear는 @llaurenca·@emilisindlev·@rebeccaferrazwyatt·@chanelmckinsie·@wearetwinset·@karodall·@sofiamcoelho 등 최소 7개 공개 Instagram 계정의 카모 팬츠 착장을 확인했습니다. 같은 카모 팬츠가 블록힐 발레 슈즈, 포인티드 힐, 플랫, 니하이 부츠, 로퍼, 뮬, 플립플롭 등 서로 다른 조합으로 반복 노출됐습니다. 기사에 편성된 카모 팬츠와 신발의 가격·할인은 판매량이나 판매 순위가 아니며 공개 검색량도 확인되지 않아 SOCIAL 신호로 기록했습니다.",
       "sources": [
         {
-          "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON + HAILEY BIEBER",
-          "url": "https://people.com/jennifer-lawrence-slip-on-shoes-amazon-september-2026-12126586"
-        },
-        {
-          "label": "INSTYLE · JENNIFER LAWRENCE + MILEY CYRUS CLOGS",
-          "url": "https://www.instyle.com/jennifer-lawrence-miley-cyrus-fall-clogs-12128051"
-        },
-        {
-          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE + EUROPE STREET REPEAT",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-mules-with-jeans-outfit-jennifer-lawrence"
+          "label": "WHO WHAT WEAR · 7+ PUBLIC INSTAGRAM ACCOUNTS / CAMO PANTS MIX-MATCH",
+          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/shoes-to-wear-with-camo-pants"
         }
       ]
     }
