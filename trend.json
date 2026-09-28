@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T08:05:16+09:00",
+  "generatedAt": "2026-09-29T08:09:13+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -231,11 +231,11 @@
       "id": "live-ballet-sneakers",
       "keyword": "BALLET SNEAKERS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "Nicole Kidman·Laura Dern·Sally Field의 반복 착장에 Bella Hadid와 Katie Holmes·Anne Hathaway의 후속 노출이 겹쳐 발레 스니커즈가 상승 신호로 재진입했습니다.",
-      "detail": "9월 18~19일 People은 Nicole Kidman·Laura Dern·Sally Field가 발레 플랫의 슬림한 형태와 스니커즈 밑창을 결합한 신발을 착용한 사례를 함께 확인했습니다. Marie Claire는 Bella Hadid가 Vivaia 스니커리나를 반복 착용했고 Katie Holmes·Anne Hathaway·Laura Dern도 같은 브랜드 흐름에 합류했다고 보도했습니다. 두 매체의 상품 편성·가격은 판매량이나 판매 순위가 아니며, 구체적인 최신 재고 수치는 확인되지 않아 SOCIAL 신호로 기록했습니다.",
+      "signal": "PLATFORM",
+      "summary": "셀러브리티 반복 착장 뒤 Puma가 발레 스니커즈의 뮬·새틴 레이스 변형을 확장했지만, 최신 반복 착장이나 정량 판매 신호는 확인되지 않아 HOLD로 조정했습니다.",
+      "detail": "9월 29일 InStyle은 Puma Speedcat Ballet의 뮬·새틴 레이스 변형과 Adidas·Skechers 등 6개 관련 상품 편성을 확인했습니다. 기사에는 기존 일부 사이즈·색상 품절 경험과 Adidas 상품의 수백 건 5점 평점이 공개됐지만, 현재 품절 수량·기간 판매량·검색 순위는 제시되지 않았습니다. 따라서 상품군 확장은 PLATFORM 후속 신호로 기록하되, 기존 셀러브리티 착장 근거가 관측창 밖으로 이동한 점을 반영해 UP에서 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
@@ -244,6 +244,10 @@
         {
           "label": "MARIE CLAIRE · BELLA HADID + VIVAIA CELEBRITY REPEAT",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/bella-hadid-vivaia-ballet-sneakers-saint-laurent-suede-bag-nyc/"
+        },
+        {
+          "label": "INSTYLE · PUMA BALLET MULE + SATIN-LACE VARIANTS / 6 PICKS",
+          "url": "https://www.instyle.com/puma-speedcat-ballet-sneaker-mules-12137235"
         }
       ]
     },
@@ -254,8 +258,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Hilary Duff·Cindy Crawford·Martha Stewart의 윈드브레이커에 이어 코르티스의 반복 착장과 다수 공개 Instagram 룩, Camille Charrière·Alexa Chung의 믹스매치가 추가돼 상승세가 이어졌습니다.",
-      "detail": "9월 16일 People은 Hilary Duff·Martha Stewart·Cindy Crawford의 경량 재킷 착장과 관련 상품 9종을 확인했습니다. 9월 20일 W Korea는 코르티스가 무대와 사복에서 빈티지 트랙 재킷을 반복 착용한 사례를 비롯해 여러 공개 Instagram 계정의 저스트핏·크롭 트랙 재킷 룩, Camille Charrière와 Alexa Chung의 드레시한 믹스매치를 함께 제시했습니다. 이는 반복 착장과 공개 소셜 노출 신호이며 상품 편성·할인은 판매량이나 판매 순위가 아닙니다.",
+      "summary": "코르티스의 공개 Instagram 반복 착장에 Charli XCX·Zendaya·Vittoria Ceretti·Hailey Bieber·Zoë Kravitz 등의 윈드브레이커 믹스매치가 겹쳐 상승세가 이어졌습니다.",
+      "detail": "9월 20일 W Korea는 코르티스의 무대·사복 반복 착장과 여러 공개 Instagram 계정의 트랙 재킷 룩을 확인했습니다. 9월 29일 Marie Claire는 Charli XCX·Zendaya·Vittoria Ceretti·Hailey Bieber·Zoë Kravitz·Jordyn Woods·Tyla의 기술성 아우터 착장을 함께 정리하고 COS·Zara 등 5개 현재 판매 상품을 제시했습니다. 이는 반복 착장과 공개 소셜 노출 신호이며 상품 편성·가격은 판매량이나 판매 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -300,6 +304,10 @@
         {
           "label": "W KOREA · CORTIS + PUBLIC INSTAGRAM + CAMILLE CHARRIÈRE + ALEXA CHUNG",
           "url": "https://www.wkorea.com/2026/09/20/%ED%8A%B8%EB%9E%99-%EC%9E%AC%ED%82%B7-%ED%95%98%EB%82%98%EB%A1%9C-%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EA%B0%90%EC%84%B1%EB%B6%80%ED%84%B0-%EC%9D%80%EA%B7%BC%ED%95%9C-%EC%84%B9%EC%8B%9C%EB%AF%B8/"
+        },
+        {
+          "label": "MARIE CLAIRE · CHARLI XCX + ZENDAYA + VITTORIA CERETTI / WINDBREAKER REPEAT",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/windbreaker-trend-2026-styling/"
         }
       ]
     },
@@ -310,8 +318,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "DEMAND",
-      "summary": "Katie Holmes·Bella Hadid·Alexa Chung에 Julia Roberts·Tracee Ellis Ross의 대형 토트 반복 착용이 추가되고 Alex Mill 특정 색상 품절이 공개 확인돼 수요 신호가 강화됐습니다.",
-      "detail": "9월 20~22일에는 Katie Holmes·Bella Hadid·Alexa Chung의 대형 가방 착장, Hoxis 대형 토트의 공개 누적 평점 3,300건 이상, Katie Holmes의 룸리 브라운 토트 후속 노출이 확인됐습니다. 9월 26일 InStyle은 Julia Roberts가 Alex Mill Weekday Tote를 여러 차례 착용했고 Tracee Ellis Ross도 같은 가방을 선호한다고 보도했으며, 에스프레소 색상은 공개 페이지에서 품절로 표시됐습니다. 품절은 특정 색상의 현재 재고 신호일 뿐 판매량 전체로 환산하지 않았고, 다른 상품의 편성·할인도 판매 순위로 해석하지 않았습니다.",
+      "summary": "Julia Roberts·Tracee Ellis Ross의 대형 토트와 특정 색상 품절에 Kendall Jenner의 파리 패션위크 Maxi Flap 착장·Instagram 노출이 더해져 수요 흐름이 이어졌습니다.",
+      "detail": "9월 26일 InStyle은 Julia Roberts와 Tracee Ellis Ross의 Alex Mill Weekday Tote 반복 착용 및 에스프레소 색상 품절을 확인했습니다. 9월 28일 Kendall Jenner는 파리 패션위크 첫날 Chanel Maxi Flap을 착용하고 Instagram Story에도 공개했으며, 동일 가방군은 Hailey Bieber·Sarah Pidgeon·Margot Robbie·Dua Lipa의 선행 착장이 함께 확인됐습니다. 특정 색상 품절은 현재 재고 신호일 뿐 전체 판매량으로 환산하지 않았고, 상품 편성·가격도 판매 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -380,6 +388,10 @@
         {
           "label": "INSTYLE · JULIA ROBERTS + TRACEE ELLIS ROSS / ALEX MILL COLOR SOLD OUT",
           "url": "https://www.instyle.com/alex-mill-tote-bag-julia-roberts-mom-approved-12140826"
+        },
+        {
+          "label": "MARIE CLAIRE · KENDALL JENNER PFW MAXI FLAP + INSTAGRAM STORY",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/chanel-maxi-flap-bag-kendall-jenner-paris-fashion-week/"
         }
       ]
     },
@@ -387,11 +399,11 @@
       "id": "live-peep-toe-boots",
       "keyword": "PEEP-TOE BOOTS",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "런던 패션위크 거리에서 서로 다른 참석자들이 글로시 크록·스웨이드 니하이 등 피프토 부츠를 반복 착용하고 Cardi B의 선행 노출까지 이어져 신규 신호로 진입했습니다.",
-      "detail": "9월 20일 Marie Claire는 런던 패션위크 현장에서 여러 참석자가 피프토 부츠를 착용한 장면을 공개 사진으로 확인했습니다. 블랙 글로시 크록 웨지와 스웨이드 니하이 등 서로 다른 형태가 미니멀·맥시멀 착장 양쪽에서 반복됐고, 8월 Cardi B의 뮤직비디오 촬영 착장은 선행 맥락으로만 구분했습니다. 공개 검색량·판매량·재고 수치는 확인되지 않아 SOCIAL 신호로 기록했으며, 기사 재배포는 별도 수요로 중복 계산하지 않았습니다.",
+      "summary": "런던 패션위크의 피프토 부츠 반복 착장 이후 관측창 안의 새 검색·수요·착장 신호가 확인되지 않아 NEW에서 HOLD로 조정했습니다.",
+      "detail": "기존 근거는 9월 20일 런던 패션위크 현장의 서로 다른 피프토 부츠 반복 착장과 Cardi B의 선행 노출이었습니다. 9월 23~29일 관측창에서는 이를 보강할 새로운 공개 검색량·재고·반복 착장 신호를 확인하지 못했습니다. 이전 근거를 보존하되 상승으로 확대 해석하지 않고 HOLD로 조정했으며, 기사 재배포는 별도 수요로 계산하지 않았습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · LFW MULTIPLE STREET-STYLE SIGHTINGS",
@@ -410,8 +422,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Pamela Anderson·Kate Moss·Victoria Justice·Kendall Jenner의 다목적 활용에 이어 뉴욕 패션위크 거리에서 실크 프린지 스카프를 허리 벨트·커머번드로 반복 착용해 상승 흐름으로 전환했습니다.",
-      "detail": "9월 17일 People은 Pamela Anderson의 헤어 스카프, Kate Moss·Victoria Justice의 가방 장식, Kendall Jenner의 스카프 톱을 함께 확인했습니다. 9월 21일 Vogue는 뉴욕 패션위크 참석자들이 실크 프린지 스카프를 허리에 묶어 벨트처럼 활용한 착장을 반복 포착했고, 커머번드와 함께 5개 관련 상품을 편성했습니다. 이는 셀러브리티와 패션위크 거리에서 이어진 공개 착장 신호이며 상품 편성·가격은 판매량이나 순위가 아닙니다.",
+      "summary": "뉴욕 패션위크의 허리 스카프에 이어 밀라노 거리에서 두꺼운 컬러 스카프가 여러 착장으로 반복 포착돼 스타일링 확산이 이어졌습니다.",
+      "detail": "9월 21일 Vogue는 뉴욕 패션위크 참석자들의 실크 프린지 스카프 허리 벨트 활용을 반복 포착했습니다. 9월 29일 Who What Wear는 밀라노 패션위크 거리에서 두꺼운 컬러 스카프를 목에 넉넉히 감은 서로 다른 착장을 여러 장 확인하고 3개 상품을 편성했습니다. 이는 공개 거리 착장 반복 신호이며 상품 편성·가격은 판매량이나 순위가 아닙니다.",
       "sources": [
         {
           "label": "PEOPLE · 4 CELEBRITIES / 4 STYLING METHODS / 10 SCARVES",
@@ -420,6 +432,10 @@
         {
           "label": "VOGUE · NYFW SILK FRINGE SCARF AS WAIST BELT / 5 PICKS",
           "url": "https://www.vogue.com/article/top-of-the-carts-fashion-week"
+        },
+        {
+          "label": "WHO WHAT WEAR · MILAN STREET-STYLE CHUNKY SCARF REPEAT / 3 PICKS",
+          "url": "https://www.whowhatwear.com/fashion/street-style/milan-fashion-week-street-style-trends-september-2026"
         }
       ]
     },
