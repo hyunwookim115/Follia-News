@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T08:14:47+09:00",
+  "generatedAt": "2026-10-01T08:06:29+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -408,26 +408,6 @@
       ]
     },
     {
-      "id": "live-peep-toe-boots",
-      "keyword": "PEEP-TOE BOOTS",
-      "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "런던 패션위크의 피프토 부츠 반복 착장 이후 관측창 안의 새 검색·수요·착장 신호가 확인되지 않아 NEW에서 HOLD로 조정했습니다.",
-      "detail": "기존 근거는 9월 20일 런던 패션위크 현장의 서로 다른 피프토 부츠 반복 착장과 Cardi B의 선행 노출이었습니다. 9월 23~29일 관측창에서는 이를 보강할 새로운 공개 검색량·재고·반복 착장 신호를 확인하지 못했습니다. 이전 근거를 보존하되 상승으로 확대 해석하지 않고 HOLD로 조정했으며, 기사 재배포는 별도 수요로 계산하지 않았습니다.",
-      "sources": [
-        {
-          "label": "MARIE CLAIRE · LFW MULTIPLE STREET-STYLE SIGHTINGS",
-          "url": "https://www.marieclaire.com/fashion/fall-fashion/spring-summer-2027-london-fashion-week-peep-toe-boots-trend/"
-        },
-        {
-          "label": "MARIE CLAIRE · CARDI B PRIOR CELEBRITY SIGNAL",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/peep-toe-boots-trend-cardi-b-music-video/"
-        }
-      ]
-    },
-    {
       "id": "live-scarf-styling",
       "keyword": "SCARF STYLING",
       "category": "ACCESSORY",
@@ -468,6 +448,22 @@
         {
           "label": "THE GUARDIAN · DEPOP SEARCH +108% SINCE APRIL / LFW + CELEBRITY REPEAT",
           "url": "https://www.theguardian.com/fashion/2026/sep/27/camo-is-back-noughties-pops-military-style-is-on-the-march-again"
+        }
+      ]
+    },
+    {
+      "id": "live-animal-print-shoes",
+      "keyword": "ANIMAL-PRINT SHOES",
+      "category": "ITEM",
+      "direction": "NEW",
+      "market": "GLOBAL",
+      "signal": "DEMAND",
+      "summary": "Pamela Anderson·Jennifer Lawrence·Mandy Moore가 레오퍼드 스틸레토·뮬·스니커즈를 반복 착용하고 특정 셀러브리티 착용 제품에서 일부 사이즈 품절이 확인돼 신규 수요 신호로 진입했습니다.",
+      "detail": "9월 29일 People은 Pamela Anderson의 레오퍼드 스틸레토, Jennifer Lawrence의 포니헤어 뮬, Mandy Moore의 치타 프린트 스니커즈를 함께 확인했습니다. Jennifer Lawrence가 착용한 Ancient Greek Sandals The Slipper Lynx는 기사 확인 시점에 거의 품절로 표시됐고, 실제 페이지에서 일부 사이즈 품절이 언급됐습니다. 이는 특정 제품·사이즈의 재고 신호일 뿐 전체 판매량이나 시장 점유율로 환산하지 않았으며, 함께 편성된 7개 상품의 가격·할인도 판매 순위로 해석하지 않았습니다.",
+      "sources": [
+        {
+          "label": "PEOPLE · PAMELA ANDERSON + JENNIFER LAWRENCE + MANDY MOORE / NEAR SELL-OUT",
+          "url": "https://people.com/pamela-anderson-jennifer-lawrence-animal-print-shoes-september-2026-12140027"
         }
       ]
     }
