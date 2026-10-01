@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T08:06:29+09:00",
+  "generatedAt": "2026-10-02T08:22:45+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -94,8 +94,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Justine Lupe·Mariska Hargitay·Sienna Miller·Florence Pugh의 와이드 진이 반복됐지만 Carole Radziwill의 루스 부츠컷까지 병존해 특정 핏은 HOLD를 유지했습니다.",
-      "detail": "9월 28~29일 People은 Justine Lupe·Mariska Hargitay·Sienna Miller·Florence Pugh의 릴랙스드 와이드 레그 진 착장과 8개 유사 상품을 확인했습니다. 같은 기간 Carole Radziwill은 Instagram Stories에서 Levi’s Loose Boot 진을 반복 착용하는 아이템으로 공개했습니다. 릴랙스드 계열의 볼륨은 강해졌지만 와이드·트라우저·부츠컷으로 실루엣이 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위로 해석하지 않았습니다.",
+      "summary": "와이드·루스 부츠컷에 Kate Hudson·Jennifer Lopez·Halle Berry의 배럴 진까지 반복됐지만 실루엣이 여러 갈래로 분산돼 HOLD를 유지했습니다.",
+      "detail": "9월 28~29일에는 Justine Lupe·Mariska Hargitay·Sienna Miller·Florence Pugh의 와이드 진과 Carole Radziwill의 루스 부츠컷 반복 착장이 확인됐습니다. 10월 1일 InStyle은 Kate Hudson이 배럴 레그 진을 새로 착용했고 Jennifer Lopez·Halle Berry도 같은 곡선형 핏을 착용한 사례를 함께 확인했습니다. 릴랙스드 볼륨은 이어지지만 와이드·트라우저·부츠컷·배럴로 세부 핏이 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위가 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -232,6 +232,10 @@
         {
           "label": "PAGE SIX · CAROLE RADZIWILL INSTAGRAM / LOOSE BOOT JEANS REPEAT",
           "url": "https://pagesix.com/2026/09/29/style/rhony-star-carole-radziwill-wears-these-levis-jeans-on-repeat/"
+        },
+        {
+          "label": "INSTYLE · KATE HUDSON + JENNIFER LOPEZ + HALLE BERRY BARREL JEANS",
+          "url": "https://www.instyle.com/look-of-the-day-2026-10-01-12152332"
         }
       ]
     },
@@ -455,15 +459,19 @@
       "id": "live-animal-print-shoes",
       "keyword": "ANIMAL-PRINT SHOES",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "DEMAND",
-      "summary": "Pamela Anderson·Jennifer Lawrence·Mandy Moore가 레오퍼드 스틸레토·뮬·스니커즈를 반복 착용하고 특정 셀러브리티 착용 제품에서 일부 사이즈 품절이 확인돼 신규 수요 신호로 진입했습니다.",
-      "detail": "9월 29일 People은 Pamela Anderson의 레오퍼드 스틸레토, Jennifer Lawrence의 포니헤어 뮬, Mandy Moore의 치타 프린트 스니커즈를 함께 확인했습니다. Jennifer Lawrence가 착용한 Ancient Greek Sandals The Slipper Lynx는 기사 확인 시점에 거의 품절로 표시됐고, 실제 페이지에서 일부 사이즈 품절이 언급됐습니다. 이는 특정 제품·사이즈의 재고 신호일 뿐 전체 판매량이나 시장 점유율로 환산하지 않았으며, 함께 편성된 7개 상품의 가격·할인도 판매 순위로 해석하지 않았습니다.",
+      "summary": "Pamela Anderson·Jennifer Lawrence·Mandy Moore의 레오퍼드 슈즈에 Rosie Huntington-Whiteley의 스네이크 프린트 힐이 추가되고 특정 제품의 일부 사이즈 품절도 이어져 상승 신호로 전환했습니다.",
+      "detail": "9월 29일 People은 Pamela Anderson의 레오퍼드 스틸레토, Jennifer Lawrence의 포니헤어 뮬, Mandy Moore의 치타 프린트 스니커즈를 함께 확인했고, Jennifer Lawrence 착용 제품은 일부 사이즈 품절로 표시됐습니다. 10월 1일 Who What Wear는 Rosie Huntington-Whiteley가 파리에서 스네이크 프린트 힐을 착용한 후속 사례를 확인했습니다. 특정 제품·사이즈 재고는 전체 판매량으로 환산하지 않았고, 상품 편성·가격·할인도 판매 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · PAMELA ANDERSON + JENNIFER LAWRENCE + MANDY MOORE / NEAR SELL-OUT",
           "url": "https://people.com/pamela-anderson-jennifer-lawrence-animal-print-shoes-september-2026-12140027"
+        },
+        {
+          "label": "WHO WHAT WEAR · ROSIE HUNTINGTON-WHITELEY SNAKE-PRINT HEELS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-trench-coat-trend-rosie-huntington-whiteley-2026"
         }
       ]
     }
