@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T08:22:45+09:00",
+  "generatedAt": "2026-10-03T08:52:06+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Selena Gomez 등 5명의 카프리 흐름에 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디·무릎 길이 스커트 반복 노출이 다시 확인돼 상승 신호로 전환했습니다.",
-      "detail": "9월 17일 InStyle은 Selena Gomez와 Kendall Jenner·Gwyneth Paltrow·Amanda Seyfried·Jennifer Lopez의 카프리 착장을 함께 확인했습니다. 9월 26일 후속 기사에서는 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz가 2026년 동안 미디·무릎 길이 스커트를 반복 착용한 흐름과 여러 상품 편성을 재확인했습니다. 새 검색량·판매 순위는 공개되지 않았으므로 반복 착장·매체 노출에 근거한 SOCIAL 신호로 기록하며 상품 편성·할인은 판매량으로 해석하지 않았습니다.",
+      "summary": "Selena Gomez 등 5명의 카프리와 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디 흐름에 Greta Lee의 카프리·Jennifer Lopez의 펜슬 스커트 후속 노출이 더해져 UP을 유지했습니다.",
+      "detail": "9월 26일 InStyle은 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디·무릎 길이 스커트 반복 착장을 확인했습니다. 10월 1일 파리 패션위크에서는 Greta Lee가 실크 카프리를 블레이저 아래에 착용했고 Jennifer Lopez가 펜슬 스커트를 선택해 짧은 바지와 무릎 아래 스커트 양쪽에서 후속 노출이 이어졌습니다. 새 검색량·판매 순위는 공개되지 않았으므로 반복 착장·매체 노출에 근거한 SOCIAL 신호로 기록하며 상품 편성·가격은 판매량으로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -84,6 +84,10 @@
         {
           "label": "INSTYLE · KENDALL JENNER + JENNIFER LAWRENCE + ZOË KRAVITZ MIDI REPEAT",
           "url": "https://www.instyle.com/kendall-jenner-midi-skirt-fall-trend-12137172"
+        },
+        {
+          "label": "MARIE CLAIRE · PFW GRETA LEE CAPRI + JENNIFER LOPEZ PENCIL SKIRT",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
         }
       ]
     },
@@ -94,8 +98,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "와이드·루스 부츠컷에 Kate Hudson·Jennifer Lopez·Halle Berry의 배럴 진까지 반복됐지만 실루엣이 여러 갈래로 분산돼 HOLD를 유지했습니다.",
-      "detail": "9월 28~29일에는 Justine Lupe·Mariska Hargitay·Sienna Miller·Florence Pugh의 와이드 진과 Carole Radziwill의 루스 부츠컷 반복 착장이 확인됐습니다. 10월 1일 InStyle은 Kate Hudson이 배럴 레그 진을 새로 착용했고 Jennifer Lopez·Halle Berry도 같은 곡선형 핏을 착용한 사례를 함께 확인했습니다. 릴랙스드 볼륨은 이어지지만 와이드·트라우저·부츠컷·배럴로 세부 핏이 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위가 아닙니다.",
+      "summary": "와이드·루스 부츠컷·배럴에 파리 패션위크의 스플릿헴·그런지·플리츠 배럴 진까지 반복됐지만 세부 실루엣이 분산돼 HOLD를 유지했습니다.",
+      "detail": "9월 28~29일에는 Justine Lupe·Mariska Hargitay·Sienna Miller·Florence Pugh의 와이드 진과 Carole Radziwill의 루스 부츠컷이 확인됐고, 10월 1일 파리 패션위크에서는 Sarah Pidgeon의 스플릿헴 진, Shailene Woodley의 유사한 그런지 데님, Sabrina Elba의 플리츠 배럴 진이 연속 포착됐습니다. 릴랙스드 볼륨은 이어지지만 와이드·부츠컷·배럴·스플릿헴으로 세부 핏이 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위가 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -236,6 +240,10 @@
         {
           "label": "INSTYLE · KATE HUDSON + JENNIFER LOPEZ + HALLE BERRY BARREL JEANS",
           "url": "https://www.instyle.com/look-of-the-day-2026-10-01-12152332"
+        },
+        {
+          "label": "MARIE CLAIRE · PFW SPLIT-HEM + GRUNGE + BARREL DENIM REPEAT",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
         }
       ]
     },
@@ -274,8 +282,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "코르티스의 공개 Instagram 반복 착장에 Charli XCX·Zendaya·Vittoria Ceretti·Hailey Bieber·Zoë Kravitz 등의 윈드브레이커 믹스매치가 겹쳐 상승세가 이어졌습니다.",
-      "detail": "9월 20일 W Korea는 코르티스의 무대·사복 반복 착장과 여러 공개 Instagram 계정의 트랙 재킷 룩을 확인했습니다. 9월 29일 Marie Claire는 Charli XCX·Zendaya·Vittoria Ceretti·Hailey Bieber·Zoë Kravitz·Jordyn Woods·Tyla의 기술성 아우터 착장을 함께 정리하고 COS·Zara 등 5개 현재 판매 상품을 제시했습니다. 이는 반복 착장과 공개 소셜 노출 신호이며 상품 편성·가격은 판매량이나 판매 순위로 해석하지 않았습니다.",
+      "summary": "코르티스의 공개 Instagram 반복 착장과 Charli XCX·Zendaya 등 7명의 윈드브레이커 흐름에 Kelsea Ballerini의 파리 후속 착장이 더해져 상승세가 이어졌습니다.",
+      "detail": "9월 20일 W Korea는 코르티스의 무대·사복 및 여러 공개 Instagram 계정의 트랙 재킷 룩을 확인했고, 9월 29일 Marie Claire는 Charli XCX·Zendaya·Vittoria Ceretti·Hailey Bieber·Zoë Kravitz·Jordyn Woods·Tyla의 기술성 아우터 착장을 정리했습니다. 10월 1일 파리 패션위크에서는 Kelsea Ballerini가 스터럽 레깅스에 윈드브레이커를 믹스매치해 후속 노출이 이어졌습니다. 이는 반복 착장과 공개 소셜 노출 신호이며 상품 편성·가격은 판매량이나 판매 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -324,6 +332,10 @@
         {
           "label": "MARIE CLAIRE · CHARLI XCX + ZENDAYA + VITTORIA CERETTI / WINDBREAKER REPEAT",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/windbreaker-trend-2026-styling/"
+        },
+        {
+          "label": "MARIE CLAIRE · PFW KELSEA BALLERINI WINDBREAKER FOLLOW-UP",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
         }
       ]
     },
