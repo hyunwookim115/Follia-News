@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T08:52:06+09:00",
+  "generatedAt": "2026-10-04T08:26:11+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Selena Gomez 등 5명의 카프리와 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디 흐름에 Greta Lee의 카프리·Jennifer Lopez의 펜슬 스커트 후속 노출이 더해져 UP을 유지했습니다.",
-      "detail": "9월 26일 InStyle은 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디·무릎 길이 스커트 반복 착장을 확인했습니다. 10월 1일 파리 패션위크에서는 Greta Lee가 실크 카프리를 블레이저 아래에 착용했고 Jennifer Lopez가 펜슬 스커트를 선택해 짧은 바지와 무릎 아래 스커트 양쪽에서 후속 노출이 이어졌습니다. 새 검색량·판매 순위는 공개되지 않았으므로 반복 착장·매체 노출에 근거한 SOCIAL 신호로 기록하며 상품 편성·가격은 판매량으로 해석하지 않았습니다.",
+      "summary": "Selena Gomez 등 5명의 카프리와 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디 흐름에 Greta Lee·Daisy Edgar-Jones의 카프리 후속 노출이 더해져 UP을 유지했습니다.",
+      "detail": "9월 26일 InStyle은 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디·무릎 길이 스커트 반복 착장을 확인했고, 10월 1일 Greta Lee의 실크 카프리와 Jennifer Lopez의 펜슬 스커트가 파리에서 포착됐습니다. 10월 3일 Marie Claire는 Daisy Edgar-Jones가 호주 프레스 투어에서 코튼 포플린 브라 톱과 매칭 카프리를 착용한 후속 사례를 공개했습니다. 새 검색량·판매 순위는 공개되지 않았으므로 반복 착장·매체 노출에 근거한 SOCIAL 신호로 기록하며 상품 편성·가격은 판매량으로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -88,6 +88,10 @@
         {
           "label": "MARIE CLAIRE · PFW GRETA LEE CAPRI + JENNIFER LOPEZ PENCIL SKIRT",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
+        },
+        {
+          "label": "MARIE CLAIRE · DAISY EDGAR-JONES CAPRI FOLLOW-UP",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-of-the-week-october-2026/"
         }
       ]
     },
@@ -98,8 +102,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "와이드·루스 부츠컷·배럴에 파리 패션위크의 스플릿헴·그런지·플리츠 배럴 진까지 반복됐지만 세부 실루엣이 분산돼 HOLD를 유지했습니다.",
-      "detail": "9월 28~29일에는 Justine Lupe·Mariska Hargitay·Sienna Miller·Florence Pugh의 와이드 진과 Carole Radziwill의 루스 부츠컷이 확인됐고, 10월 1일 파리 패션위크에서는 Sarah Pidgeon의 스플릿헴 진, Shailene Woodley의 유사한 그런지 데님, Sabrina Elba의 플리츠 배럴 진이 연속 포착됐습니다. 릴랙스드 볼륨은 이어지지만 와이드·부츠컷·배럴·스플릿헴으로 세부 핏이 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위가 아닙니다.",
+      "summary": "와이드·루스 부츠컷·배럴·스플릿헴에 Elsa Hosk의 슬림 스트레이트 진까지 동시에 노출돼 단일 핏으로 수렴하지 않아 HOLD를 유지했습니다.",
+      "detail": "9월 28~29일에는 와이드 진과 루스 부츠컷이, 10월 1일 파리 패션위크에서는 스플릿헴·그런지·플리츠 배럴 진이 연속 포착됐습니다. 10월 2일 Elsa Hosk는 파리 거리에서 블랙 슬림 스트레이트 진을 착용한 사진을 공개 Instagram에 게시했습니다. 릴랙스드 볼륨과 슬림 스트레이트가 병존하고 와이드·부츠컷·배럴·스플릿헴으로 세부 핏도 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위가 아닙니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -244,6 +248,10 @@
         {
           "label": "MARIE CLAIRE · PFW SPLIT-HEM + GRUNGE + BARREL DENIM REPEAT",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
+        },
+        {
+          "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM / BLACK SLIM-STRAIGHT JEANS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/black-jeans-white-sneakers-outfit-elsa-hosk-2026"
         }
       ]
     },
@@ -430,8 +438,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "뉴욕 패션위크의 허리 스카프에 이어 밀라노 거리에서 두꺼운 컬러 스카프가 여러 착장으로 반복 포착돼 스타일링 확산이 이어졌습니다.",
-      "detail": "9월 21일 Vogue는 뉴욕 패션위크 참석자들의 실크 프린지 스카프 허리 벨트 활용을 반복 포착했습니다. 9월 29일 Who What Wear는 밀라노 패션위크 거리에서 두꺼운 컬러 스카프를 목에 넉넉히 감은 서로 다른 착장을 여러 장 확인하고 3개 상품을 편성했습니다. 이는 공개 거리 착장 반복 신호이며 상품 편성·가격은 판매량이나 순위가 아닙니다.",
+      "summary": "뉴욕의 허리 스카프와 밀라노의 두꺼운 목 스카프에 Elsa Hosk의 파리 실크 스카프 공개 Instagram 룩이 더해져 활용 방식의 반복 확산이 이어졌습니다.",
+      "detail": "9월 21일 Vogue는 뉴욕 패션위크 참석자들의 실크 프린지 스카프 허리 벨트 활용을 반복 포착했고, 9월 29일 Who What Wear는 밀라노 거리의 두꺼운 컬러 스카프 착장을 여러 건 확인했습니다. 10월 2일 Elsa Hosk는 파리 거리에서 화이트 실크 스카프를 목에 드레이프한 사진을 공개 Instagram에 게시해 서로 다른 도시·두께·착용법의 후속 노출이 이어졌습니다. 이는 공개 거리·소셜 착장 반복 신호이며 상품 편성·가격은 판매량이나 순위가 아닙니다.",
       "sources": [
         {
           "label": "PEOPLE · 4 CELEBRITIES / 4 STYLING METHODS / 10 SCARVES",
@@ -444,6 +452,10 @@
         {
           "label": "WHO WHAT WEAR · MILAN STREET-STYLE CHUNKY SCARF REPEAT / 3 PICKS",
           "url": "https://www.whowhatwear.com/fashion/street-style/milan-fashion-week-street-style-trends-september-2026"
+        },
+        {
+          "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM / PARIS SILK SCARF",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/black-jeans-white-sneakers-outfit-elsa-hosk-2026"
         }
       ]
     },
