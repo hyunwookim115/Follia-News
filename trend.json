@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T08:47:01+09:00",
+  "generatedAt": "2026-10-06T08:15:52+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -263,11 +263,11 @@
       "id": "live-ballet-sneakers",
       "keyword": "BALLET SNEAKERS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Laura Dern의 새 Vivaia 착장이 Nicole Kidman·Bella Hadid·Julia Roberts의 반복 노출과 이어지며 발레 스니커즈가 다시 상승 신호로 전환했습니다.",
-      "detail": "9월 29일 InStyle은 Laura Dern이 Vivaia Lexi 발레 스니커즈를 플로럴 맥시 드레스와 착용한 새 사례를 확인했고, Nicole Kidman·Bella Hadid·Julia Roberts의 동일 상품군 착장도 함께 재확인했습니다. 기사에는 Laura Dern 착용 제품과 6개 대체 상품이 편성됐지만 가격·할인·개별 후기는 판매량이나 순위가 아닙니다. 새 셀러브리티 착장이 관측창 안에서 추가됐으므로 PLATFORM에서 SOCIAL로 되돌리고 HOLD에서 UP으로 조정했습니다.",
+      "summary": "Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 반복 노출은 유지되지만 마지막 신규 착장이 9월 29일에 머물러 HOLD로 조정했습니다.",
+      "detail": "9월 29일 InStyle은 Laura Dern의 Vivaia Lexi 착장과 Nicole Kidman·Bella Hadid·Julia Roberts의 동일 상품군 착장을 함께 확인했습니다. 이후 10월 5일까지 별도의 공개 착장·품절·검색 증가 신호가 추가되지 않았고 상품 편성·할인은 판매량이나 순위가 아니므로, 항목은 보존하되 방향을 UP에서 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
@@ -355,11 +355,11 @@
       "id": "live-slouchy-roomy-bags",
       "keyword": "SLOUCHY ROOMY BAGS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "DEMAND",
-      "summary": "Julia Roberts·Tracee Ellis Ross의 대형 토트와 특정 색상 품절에 Kendall Jenner의 파리 패션위크 Maxi Flap 착장·Instagram 노출이 더해져 수요 흐름이 이어졌습니다.",
-      "detail": "9월 26일 InStyle은 Julia Roberts와 Tracee Ellis Ross의 Alex Mill Weekday Tote 반복 착용 및 에스프레소 색상 품절을 확인했습니다. 9월 28일 Kendall Jenner는 파리 패션위크 첫날 Chanel Maxi Flap을 착용하고 Instagram Story에도 공개했으며, 동일 가방군은 Hailey Bieber·Sarah Pidgeon·Margot Robbie·Dua Lipa의 선행 착장이 함께 확인됐습니다. 특정 색상 품절은 현재 재고 신호일 뿐 전체 판매량으로 환산하지 않았고, 상품 편성·가격도 판매 순위로 해석하지 않았습니다.",
+      "summary": "Julia Roberts·Tracee Ellis Ross의 대형 토트와 특정 색상 품절, Kendall Jenner의 Maxi Flap 신호는 유지되지만 후속 근거가 끊겨 HOLD로 조정했습니다.",
+      "detail": "9월 26일 Julia Roberts·Tracee Ellis Ross의 Alex Mill Weekday Tote 반복 착용과 특정 색상 품절이 확인됐고, 9월 28일 Kendall Jenner의 Chanel Maxi Flap 착장과 Instagram Story 노출이 이어졌습니다. 그러나 10월 5일까지 새 공개 착장·재고·검색 신호가 추가되지 않아 방향을 UP에서 HOLD로 조정했습니다. 과거 특정 색상 품절은 전체 판매량으로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -471,11 +471,11 @@
       "id": "live-camo-mix-match",
       "keyword": "CAMO MIX-MATCH",
       "category": "STYLE",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SEARCH",
-      "summary": "7개 이상 공개 Instagram 착장에 런던·코펜하겐 거리와 셀러브리티 노출이 이어지고, Depop 검색이 4월 이후 108% 증가해 상승 신호가 강화됐습니다.",
-      "detail": "9월 27일 Who What Wear는 최소 7개 공개 Instagram 계정에서 카모 팬츠를 발레 플랫·힐·부츠·로퍼 등과 반복 믹스매치한 사례를 확인했습니다. 같은 날 Guardian은 런던·코펜하겐 패션위크 거리와 Alexa Chung·Iris Law·Brad Pitt의 카모 착장을 확인하고, Depop 내 검색이 4월 이후 108% 증가했다고 보도했습니다. 108%는 최근 7일 증감률이 아니라 4월 이후 누적 비교임을 명시하며, Zara·Marks & Spencer·Adidas의 상품 편성은 판매량이나 판매 순위로 해석하지 않았습니다.",
+      "summary": "공개 Instagram의 7개 이상 믹스매치와 Depop 검색 증가 수치는 유지되지만 최근 7일 후속 신호가 없어 HOLD로 조정했습니다.",
+      "detail": "9월 27일 Who What Wear는 최소 7개 공개 Instagram 계정의 카모 팬츠 믹스매치를 확인했고 Guardian은 런던·코펜하겐 거리 및 셀러브리티 노출과 Depop 검색이 4월 이후 108% 증가한 수치를 보도했습니다. 이 증가율은 최근 7일 수치가 아니며, 10월 5일까지 새 공개 검색·착장·수요 신호가 확인되지 않아 방향을 UP에서 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · 7+ PUBLIC INSTAGRAM ACCOUNTS / CAMO PANTS MIX-MATCH",
