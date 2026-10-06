@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T08:15:52+09:00",
+  "generatedAt": "2026-10-07T08:36:26+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -263,11 +263,11 @@
       "id": "live-ballet-sneakers",
       "keyword": "BALLET SNEAKERS",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 반복 노출은 유지되지만 마지막 신규 착장이 9월 29일에 머물러 HOLD로 조정했습니다.",
-      "detail": "9월 29일 InStyle은 Laura Dern의 Vivaia Lexi 착장과 Nicole Kidman·Bella Hadid·Julia Roberts의 동일 상품군 착장을 함께 확인했습니다. 이후 10월 5일까지 별도의 공개 착장·품절·검색 증가 신호가 추가되지 않았고 상품 편성·할인은 판매량이나 순위가 아니므로, 항목은 보존하되 방향을 UP에서 HOLD로 조정했습니다.",
+      "summary": "Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 발레 스니커즈 흐름에 Jennifer Lawrence의 최근 발레·슬립온 계열 반복 착장이 더해져 UP으로 전환했습니다.",
+      "detail": "9월 29일 Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 발레 스니커즈 반복 착장이 확인된 데 이어, 10월 5일 InStyle은 Jennifer Lawrence가 최근 뉴욕에서 Vans 슬립온을 착용했고 Salomon 발레 스니커즈·Nike Air Rift도 반복 착용했다고 보도했습니다. 같은 기사에서 Bella Hadid·Dakota Johnson의 슬립온 착장과 Adidas·Puma 등 관련 상품 편성이 함께 확인됐습니다. 특정 제품의 품절·재고 언급은 전체 판매량으로 환산하지 않았고 상품 편성·가격은 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
@@ -284,6 +284,10 @@
         {
           "label": "INSTYLE · LAURA DERN + NICOLE KIDMAN + BELLA HADID + JULIA ROBERTS",
           "url": "https://www.instyle.com/laura-dern-ballet-sneakers-fall-amazon-12147293"
+        },
+        {
+          "label": "INSTYLE · JENNIFER LAWRENCE + BELLA HADID + DAKOTA JOHNSON / LACELESS SNEAKERS",
+          "url": "https://www.instyle.com/jennifer-lawrence-slip-on-vans-sneaker-trend-12062844"
         }
       ]
     },
@@ -468,26 +472,6 @@
       ]
     },
     {
-      "id": "live-camo-mix-match",
-      "keyword": "CAMO MIX-MATCH",
-      "category": "STYLE",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "SEARCH",
-      "summary": "공개 Instagram의 7개 이상 믹스매치와 Depop 검색 증가 수치는 유지되지만 최근 7일 후속 신호가 없어 HOLD로 조정했습니다.",
-      "detail": "9월 27일 Who What Wear는 최소 7개 공개 Instagram 계정의 카모 팬츠 믹스매치를 확인했고 Guardian은 런던·코펜하겐 거리 및 셀러브리티 노출과 Depop 검색이 4월 이후 108% 증가한 수치를 보도했습니다. 이 증가율은 최근 7일 수치가 아니며, 10월 5일까지 새 공개 검색·착장·수요 신호가 확인되지 않아 방향을 UP에서 HOLD로 조정했습니다.",
-      "sources": [
-        {
-          "label": "WHO WHAT WEAR · 7+ PUBLIC INSTAGRAM ACCOUNTS / CAMO PANTS MIX-MATCH",
-          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/shoes-to-wear-with-camo-pants"
-        },
-        {
-          "label": "THE GUARDIAN · DEPOP SEARCH +108% SINCE APRIL / LFW + CELEBRITY REPEAT",
-          "url": "https://www.theguardian.com/fashion/2026/sep/27/camo-is-back-noughties-pops-military-style-is-on-the-march-again"
-        }
-      ]
-    },
-    {
       "id": "live-animal-print-shoes",
       "keyword": "ANIMAL-PRINT SHOES",
       "category": "ITEM",
@@ -504,6 +488,22 @@
         {
           "label": "WHO WHAT WEAR · ROSIE HUNTINGTON-WHITELEY SNAKE-PRINT HEELS",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-trench-coat-trend-rosie-huntington-whiteley-2026"
+        }
+      ]
+    },
+    {
+      "id": "live-polo-shirts",
+      "keyword": "POLO SHIRTS",
+      "category": "ITEM",
+      "direction": "NEW",
+      "market": "GLOBAL",
+      "signal": "SOCIAL",
+      "summary": "Reese Witherspoon의 공개 Instagram 폴로 셔츠 착장에 Jennifer Garner·Joanna Gaines의 반복 노출이 겹쳐 신규 SOCIAL 신호로 포착했습니다.",
+      "detail": "10월 6일 People은 Reese Witherspoon이 공개 Instagram 게시물에서 폴로 셔츠와 라이트 워시 진을 매치한 착장을 확인했고, Jennifer Garner의 네이비 폴로와 Joanna Gaines의 스트라이프 폴로 후속 사례도 함께 언급했습니다. 서로 다른 3명의 최근 착장이 반복돼 NEW로 분류했습니다. 기사에 제시된 5개 폴로 상품과 가격·할인은 상품 편성일 뿐 판매량이나 판매 순위로 해석하지 않았으며, 공개 검색량은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "label": "PEOPLE · REESE WITHERSPOON INSTAGRAM + JENNIFER GARNER + JOANNA GAINES",
+          "url": "https://people.com/reese-witherspoon-polo-shirt-jeans-blueprint-october-2026-12066442"
         }
       ]
     }
