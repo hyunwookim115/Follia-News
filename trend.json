@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T08:36:26+09:00",
+  "generatedAt": "2026-10-08T08:56:37+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -295,11 +295,11 @@
       "id": "live-sporty-chic-trackwear",
       "keyword": "SPORTY-CHIC TRACKWEAR",
       "category": "STYLE",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "코르티스의 공개 Instagram 반복 착장과 Charli XCX·Zendaya 등 7명의 윈드브레이커 흐름에 Kelsea Ballerini의 파리 후속 착장이 더해져 상승세가 이어졌습니다.",
-      "detail": "9월 20일 W Korea는 코르티스의 무대·사복 및 여러 공개 Instagram 계정의 트랙 재킷 룩을 확인했고, 9월 29일 Marie Claire는 Charli XCX·Zendaya·Vittoria Ceretti·Hailey Bieber·Zoë Kravitz·Jordyn Woods·Tyla의 기술성 아우터 착장을 정리했습니다. 10월 1일 파리 패션위크에서는 Kelsea Ballerini가 스터럽 레깅스에 윈드브레이커를 믹스매치해 후속 노출이 이어졌습니다. 이는 반복 착장과 공개 소셜 노출 신호이며 상품 편성·가격은 판매량이나 판매 순위로 해석하지 않았습니다.",
+      "summary": "코르티스의 공개 Instagram과 Charli XCX·Zendaya 등 반복 착장 신호는 유지되지만, 마지막 독립 후속 노출이 10월 1일로 관측창을 벗어나 HOLD로 조정했습니다.",
+      "detail": "9월 20일 코르티스의 무대·사복 및 공개 Instagram 트랙 재킷 룩, 9월 29일 Charli XCX·Zendaya 등 7명의 기술성 아우터 착장, 10월 1일 Kelsea Ballerini의 파리 윈드브레이커 믹스매치가 확인됐습니다. 그러나 10월 2~8일 관측창에서 새로운 공개 착장·검색·재고 신호가 확인되지 않았습니다. 파리 런웨이의 액티브웨어 제안은 고정 시즌 자료이므로 후속 실시간 신호에서 제외하고 HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -475,11 +475,11 @@
       "id": "live-animal-print-shoes",
       "keyword": "ANIMAL-PRINT SHOES",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "DEMAND",
-      "summary": "Pamela Anderson·Jennifer Lawrence·Mandy Moore의 레오퍼드 슈즈에 Rosie Huntington-Whiteley의 스네이크 프린트 힐이 추가되고 특정 제품의 일부 사이즈 품절도 이어져 상승 신호로 전환했습니다.",
-      "detail": "9월 29일 People은 Pamela Anderson의 레오퍼드 스틸레토, Jennifer Lawrence의 포니헤어 뮬, Mandy Moore의 치타 프린트 스니커즈를 함께 확인했고, Jennifer Lawrence 착용 제품은 일부 사이즈 품절로 표시됐습니다. 10월 1일 Who What Wear는 Rosie Huntington-Whiteley가 파리에서 스네이크 프린트 힐을 착용한 후속 사례를 확인했습니다. 특정 제품·사이즈 재고는 전체 판매량으로 환산하지 않았고, 상품 편성·가격·할인도 판매 순위로 해석하지 않았습니다.",
+      "summary": "Pamela Anderson·Jennifer Lawrence·Mandy Moore·Rosie Huntington-Whiteley의 반복 착장과 일부 사이즈 품절 신호는 유지되지만, 최근 7일 후속 근거가 없어 HOLD로 조정했습니다.",
+      "detail": "9월 29일 Pamela Anderson·Jennifer Lawrence·Mandy Moore의 애니멀 프린트 슈즈 반복 착장과 Jennifer Lawrence 착용 제품의 일부 사이즈 품절, 10월 1일 Rosie Huntington-Whiteley의 스네이크 프린트 힐이 확인됐습니다. 다만 10월 2~8일 관측창에서는 새 공개 착장·재고·검색 신호가 추가되지 않아 HOLD로 조정했습니다. 과거 특정 제품·사이즈 재고는 전체 판매량으로 환산하지 않았고 상품 편성·가격·할인도 판매 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · PAMELA ANDERSON + JENNIFER LAWRENCE + MANDY MOORE / NEAR SELL-OUT",
