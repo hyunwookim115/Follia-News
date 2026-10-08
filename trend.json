@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T08:56:37+09:00",
+  "generatedAt": "2026-10-09T08:09:09+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -266,8 +266,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 발레 스니커즈 흐름에 Jennifer Lawrence의 최근 발레·슬립온 계열 반복 착장이 더해져 UP으로 전환했습니다.",
-      "detail": "9월 29일 Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 발레 스니커즈 반복 착장이 확인된 데 이어, 10월 5일 InStyle은 Jennifer Lawrence가 최근 뉴욕에서 Vans 슬립온을 착용했고 Salomon 발레 스니커즈·Nike Air Rift도 반복 착용했다고 보도했습니다. 같은 기사에서 Bella Hadid·Dakota Johnson의 슬립온 착장과 Adidas·Puma 등 관련 상품 편성이 함께 확인됐습니다. 특정 제품의 품절·재고 언급은 전체 판매량으로 환산하지 않았고 상품 편성·가격은 순위로 해석하지 않았습니다.",
+      "summary": "Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts·Jennifer Lawrence의 발레 스니커즈 흐름에 Kate Middleton·Angelina Jolie의 플랫 계열 후속 노출까지 겹쳐 UP을 유지했습니다.",
+      "detail": "9월 29일 Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 발레 스니커즈 반복 착장, 10월 5일 Jennifer Lawrence·Bella Hadid·Dakota Johnson의 슬립온 계열 노출에 이어, 10월 7일 People은 Jennifer Lawrence의 Salomon 메리제인 스니커즈와 Kate Middleton·Angelina Jolie의 발레 플랫 착장을 함께 확인했습니다. 플랫·스니커 플랫·메리제인 스니커즈가 인접 상품군에서 반복 노출돼 SOCIAL·UP을 유지했습니다. 기사 속 5만4천여 평점은 특정 일반 발레 플랫의 누적치이며 최근 판매량이 아니고, 상품 편성·가격·할인도 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
@@ -288,6 +288,10 @@
         {
           "label": "INSTYLE · JENNIFER LAWRENCE + BELLA HADID + DAKOTA JOHNSON / LACELESS SNEAKERS",
           "url": "https://www.instyle.com/jennifer-lawrence-slip-on-vans-sneaker-trend-12062844"
+        },
+        {
+          "label": "PEOPLE · KATE MIDDLETON + ANGELINA JOLIE + JENNIFER LAWRENCE / FLATS + MARY JANE SNEAKERS",
+          "url": "https://people.com/angelina-jolie-kate-middleton-ballet-flats-mary-jane-shoes-amazon-october-2026-12066433"
         }
       ]
     },
