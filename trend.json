@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T08:09:09+09:00",
+  "generatedAt": "2026-10-10T08:50:43+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -102,8 +102,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "와이드·배럴·스플릿헴·슬림 스트레이트에 Christina Aguilera의 조형적 로우라이즈 부츠컷까지 더해져 세부 핏 분산이 이어져 HOLD를 유지했습니다.",
-      "detail": "9월 28일 이후 와이드·루스 부츠컷·배럴·스플릿헴·슬림 스트레이트가 동시에 확인됐습니다. 10월 3일 Christina Aguilera는 공개 Instagram 사진에서 뒷면 셔링이 들어간 조형적 로우라이즈 부츠컷 진을 착용했습니다. 데님 관심은 이어지지만 와이드·배럴·스트레이트·부츠컷으로 세부 실루엣이 수렴하지 않아 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 검색 순위가 아닙니다.",
+      "summary": "와이드·배럴·스플릿헴·슬림 스트레이트에 Uma Thurman·Oprah·Jessica Biel 등 6명의 와이드·배럴·트랙 팬츠 신호까지 더해졌지만 세부 핏 분산으로 HOLD를 유지했습니다.",
+      "detail": "10월 3일 Christina Aguilera의 조형적 로우라이즈 부츠컷까지 와이드·배럴·스플릿헴·슬림 스트레이트가 동시에 확인된 데 이어, 10월 9일 People은 Uma Thurman·Oprah·Jessica Biel·Jennifer Lawrence·Katie Holmes·Florence Pugh의 와이드·배럴·트랙 팬츠 착장을 함께 정리했습니다. 릴랙스드 하의 관심은 이어지지만 데님과 비데님, 와이드·배럴·부츠컷으로 세부 실루엣이 수렴하지 않아 HOLD를 유지했습니다. 기사 속 6개 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -256,6 +256,10 @@
         {
           "label": "INSTYLE · CHRISTINA AGUILERA INSTAGRAM / SCULPTED LOW-RISE BOOTCUT",
           "url": "https://www.instyle.com/christina-aguilera-cinched-low-rise-jeans-scarf-top-12158252"
+        },
+        {
+          "label": "PEOPLE · UMA THURMAN + OPRAH + JESSICA BIEL / WIDE + BARREL + TRACK PANTS",
+          "url": "https://people.com/celebrity-inspired-wide-leg-pants-jeans-amazon-october-2026-12164440"
         }
       ]
     },
@@ -363,11 +367,11 @@
       "id": "live-slouchy-roomy-bags",
       "keyword": "SLOUCHY ROOMY BAGS",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
-      "signal": "DEMAND",
-      "summary": "Julia Roberts·Tracee Ellis Ross의 대형 토트와 특정 색상 품절, Kendall Jenner의 Maxi Flap 신호는 유지되지만 후속 근거가 끊겨 HOLD로 조정했습니다.",
-      "detail": "9월 26일 Julia Roberts·Tracee Ellis Ross의 Alex Mill Weekday Tote 반복 착용과 특정 색상 품절이 확인됐고, 9월 28일 Kendall Jenner의 Chanel Maxi Flap 착장과 Instagram Story 노출이 이어졌습니다. 그러나 10월 5일까지 새 공개 착장·재고·검색 신호가 추가되지 않아 방향을 UP에서 HOLD로 조정했습니다. 과거 특정 색상 품절은 전체 판매량으로 환산하지 않았습니다.",
+      "signal": "SEARCH",
+      "summary": "Julia Roberts·Tracee Ellis Ross·Kendall Jenner의 대형 가방 노출에 Google Trends의 ‘oversize bags’ 전년 동기 대비 5,000% 이상 검색 증가가 더해져 UP으로 전환했습니다.",
+      "detail": "9월 26~28일 Julia Roberts·Tracee Ellis Ross의 대형 토트 반복 착용과 특정 색상 품절, Kendall Jenner의 Chanel Maxi Flap 착장·Instagram Story 노출이 확인됐습니다. 10월 9일 Business Insider는 Google Trends 기준 ‘oversize bags’ 검색 관심도가 전년 동기 대비 5,000% 이상 증가했다고 보도했습니다. 이 수치는 최근 7일 증가율이 아니라 전년 동기 비교치이며, 특정 제품·색상 품절이나 상품 가격은 전체 판매량으로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -440,6 +444,10 @@
         {
           "label": "MARIE CLAIRE · KENDALL JENNER PFW MAXI FLAP + INSTAGRAM STORY",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/chanel-maxi-flap-bag-kendall-jenner-paris-fashion-week/"
+        },
+        {
+          "label": "BUSINESS INSIDER · GOOGLE TRENDS OVERSIZE BAGS +5,000% YOY",
+          "url": "https://www.businessinsider.com/fall-fashion-trends-status-symbols-2026-10"
         }
       ]
     },
