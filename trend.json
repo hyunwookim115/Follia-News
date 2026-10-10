@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T08:50:43+09:00",
+  "generatedAt": "2026-10-11T08:01:01+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Selena Gomez 등 5명의 카프리와 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디 흐름에 Greta Lee·Daisy Edgar-Jones의 카프리 후속 노출이 더해져 UP을 유지했습니다.",
-      "detail": "9월 26일 InStyle은 Kendall Jenner·Jennifer Lawrence·Zoë Kravitz의 미디·무릎 길이 스커트 반복 착장을 확인했고, 10월 1일 Greta Lee의 실크 카프리와 Jennifer Lopez의 펜슬 스커트가 파리에서 포착됐습니다. 10월 3일 Marie Claire는 Daisy Edgar-Jones가 호주 프레스 투어에서 코튼 포플린 브라 톱과 매칭 카프리를 착용한 후속 사례를 공개했습니다. 새 검색량·판매 순위는 공개되지 않았으므로 반복 착장·매체 노출에 근거한 SOCIAL 신호로 기록하며 상품 편성·가격은 판매량으로 해석하지 않았습니다.",
+      "summary": "Daisy Edgar-Jones의 카프리 흐름에 Olivia Rodrigo·Jennifer Lawrence의 미디 스커트 후속 착장이 더해져 MID-LENGTH BOTTOMS의 반복 노출이 이어졌습니다.",
+      "detail": "10월 3일 Daisy Edgar-Jones의 매칭 카프리에 이어, 10월 10일 Marie Claire 주간 라운드업은 Olivia Rodrigo의 플레어 미디 스커트와 Jennifer Lawrence의 드레이프 미디 스커트를 함께 확인했습니다. 서로 다른 인물·스타일의 무릎 아래 길이 하의가 10월 5~11일 관측창에서도 반복돼 SOCIAL·UP을 유지했습니다. 기사 속 대체 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -92,6 +92,10 @@
         {
           "label": "MARIE CLAIRE · DAISY EDGAR-JONES CAPRI FOLLOW-UP",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-of-the-week-october-2026/"
+        },
+        {
+          "label": "MARIE CLAIRE · OLIVIA RODRIGO + JENNIFER LAWRENCE MIDI FOLLOW-UP",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
         }
       ]
     },
@@ -102,8 +106,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "와이드·배럴·스플릿헴·슬림 스트레이트에 Uma Thurman·Oprah·Jessica Biel 등 6명의 와이드·배럴·트랙 팬츠 신호까지 더해졌지만 세부 핏 분산으로 HOLD를 유지했습니다.",
-      "detail": "10월 3일 Christina Aguilera의 조형적 로우라이즈 부츠컷까지 와이드·배럴·스플릿헴·슬림 스트레이트가 동시에 확인된 데 이어, 10월 9일 People은 Uma Thurman·Oprah·Jessica Biel·Jennifer Lawrence·Katie Holmes·Florence Pugh의 와이드·배럴·트랙 팬츠 착장을 함께 정리했습니다. 릴랙스드 하의 관심은 이어지지만 데님과 비데님, 와이드·배럴·부츠컷으로 세부 실루엣이 수렴하지 않아 HOLD를 유지했습니다. 기사 속 6개 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Uma Thurman·Oprah 등 6명의 와이드·배럴 팬츠에 Zendaya·Dua Lipa의 슬림·보이프렌드 진이 더해졌지만 세부 핏 분산으로 HOLD를 유지했습니다.",
+      "detail": "10월 9일 People은 Uma Thurman·Oprah·Jessica Biel·Jennifer Lawrence·Katie Holmes·Florence Pugh의 와이드·배럴·트랙 팬츠 착장을 함께 정리했습니다. 10월 10일 Marie Claire 주간 라운드업에서는 Zendaya의 슬림·커프드 와이드 진과 Dua Lipa의 보이프렌드 진이 동시에 확인됐습니다. 릴랙스드 하의 관심은 이어지지만 와이드·배럴·슬림·보이프렌드로 세부 실루엣이 수렴하지 않아 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -260,6 +264,10 @@
         {
           "label": "PEOPLE · UMA THURMAN + OPRAH + JESSICA BIEL / WIDE + BARREL + TRACK PANTS",
           "url": "https://people.com/celebrity-inspired-wide-leg-pants-jeans-amazon-october-2026-12164440"
+        },
+        {
+          "label": "MARIE CLAIRE · ZENDAYA + DUA LIPA DENIM FIT DISPERSION",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
         }
       ]
     },
@@ -270,8 +278,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts·Jennifer Lawrence의 발레 스니커즈 흐름에 Kate Middleton·Angelina Jolie의 플랫 계열 후속 노출까지 겹쳐 UP을 유지했습니다.",
-      "detail": "9월 29일 Laura Dern·Nicole Kidman·Bella Hadid·Julia Roberts의 발레 스니커즈 반복 착장, 10월 5일 Jennifer Lawrence·Bella Hadid·Dakota Johnson의 슬립온 계열 노출에 이어, 10월 7일 People은 Jennifer Lawrence의 Salomon 메리제인 스니커즈와 Kate Middleton·Angelina Jolie의 발레 플랫 착장을 함께 확인했습니다. 플랫·스니커 플랫·메리제인 스니커즈가 인접 상품군에서 반복 노출돼 SOCIAL·UP을 유지했습니다. 기사 속 5만4천여 평점은 특정 일반 발레 플랫의 누적치이며 최근 판매량이 아니고, 상품 편성·가격·할인도 순위로 해석하지 않았습니다.",
+      "summary": "Kate Middleton·Angelina Jolie·Jennifer Lawrence의 플랫 계열에 Gigi Hadid의 메시 메리제인 발레 플랫 후속 노출이 더해져 UP을 유지했습니다.",
+      "detail": "10월 7일 People은 Jennifer Lawrence의 Salomon 메리제인 스니커즈와 Kate Middleton·Angelina Jolie의 발레 플랫을 함께 확인했고, 10월 10일 Marie Claire 주간 라운드업은 Gigi Hadid가 파리 패션위크 이후 메시 메리제인 발레 플랫을 착용한 사례를 추가했습니다. 플랫·스니커 플랫·메리제인 스니커즈가 인접 상품군에서 반복 노출돼 SOCIAL·UP을 유지했습니다. 기사 속 누적 평점은 최근 판매량이 아니며 상품 편성·가격도 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
@@ -296,6 +304,10 @@
         {
           "label": "PEOPLE · KATE MIDDLETON + ANGELINA JOLIE + JENNIFER LAWRENCE / FLATS + MARY JANE SNEAKERS",
           "url": "https://people.com/angelina-jolie-kate-middleton-ballet-flats-mary-jane-shoes-amazon-october-2026-12066433"
+        },
+        {
+          "label": "MARIE CLAIRE · GIGI HADID MESH MARY JANE BALLET FLATS",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
         }
       ]
     },
@@ -306,8 +318,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "코르티스의 공개 Instagram과 Charli XCX·Zendaya 등 반복 착장 신호는 유지되지만, 마지막 독립 후속 노출이 10월 1일로 관측창을 벗어나 HOLD로 조정했습니다.",
-      "detail": "9월 20일 코르티스의 무대·사복 및 공개 Instagram 트랙 재킷 룩, 9월 29일 Charli XCX·Zendaya 등 7명의 기술성 아우터 착장, 10월 1일 Kelsea Ballerini의 파리 윈드브레이커 믹스매치가 확인됐습니다. 그러나 10월 2~8일 관측창에서 새로운 공개 착장·검색·재고 신호가 확인되지 않았습니다. 파리 런웨이의 액티브웨어 제안은 고정 시즌 자료이므로 후속 실시간 신호에서 제외하고 HOLD로 조정했습니다.",
+      "summary": "코르티스·Charli XCX·Zendaya 등의 반복 착장 신호는 남아 있지만 최근 7일간 새 독립 후속 신호가 없어 HOLD를 유지했습니다.",
+      "detail": "9월 20일 코르티스의 공개 Instagram 트랙 재킷 룩, 9월 29일 Charli XCX·Zendaya 등 7명의 기술성 아우터 착장, 10월 1일 Kelsea Ballerini의 윈드브레이커 믹스매치가 확인됐습니다. 그러나 10월 5~11일 관측창에서 새로운 공개 착장·검색·재고 신호가 확인되지 않았습니다. 런웨이의 액티브웨어 제안은 고정 시즌 자료이므로 실시간 근거에서 제외하고 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -458,8 +470,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "뉴욕의 허리 스카프·밀라노의 두꺼운 목 스카프·Elsa Hosk의 실크 스카프에 Christina Aguilera의 스카프 톱 공개 Instagram 룩까지 더해져 활용 방식이 확장됐습니다.",
-      "detail": "9월 29일 밀라노 거리에서는 두꺼운 컬러 스카프 착장이 반복됐고, 10월 2일 Elsa Hosk는 파리 거리에서 화이트 실크 스카프를 목에 드레이프한 사진을 공개 Instagram에 게시했습니다. 10월 3일 Christina Aguilera는 포르토피노 여행 사진에서 Versace 실크 스카프를 목과 등에 묶어 톱으로 착용했습니다. 서로 다른 도시에서 목·허리·톱으로 활용 방식이 반복 확장돼 SOCIAL·UP을 유지하며, 상품 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Elsa Hosk·Christina Aguilera의 목·톱 활용에 Zoë Kravitz의 퍼플 스카프 후속 착장이 더해져 SCARF STYLING의 반복 노출이 이어졌습니다.",
+      "detail": "10월 2일 Elsa Hosk는 파리 거리에서 실크 스카프를 목에 드레이프했고, 10월 3일 Christina Aguilera는 공개 Instagram에서 실크 스카프를 톱으로 활용했습니다. 10월 10일 Marie Claire 주간 라운드업은 Zoë Kravitz가 뉴욕에서 퍼플 스카프를 올블랙 코트 위에 두른 후속 사례를 확인했습니다. 서로 다른 인물의 목·톱 활용이 반복돼 SOCIAL·UP을 유지했으며 상품 가격은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · 4 CELEBRITIES / 4 STYLING METHODS / 10 SCARVES",
@@ -480,26 +492,26 @@
         {
           "label": "INSTYLE · CHRISTINA AGUILERA INSTAGRAM / SILK SCARF TOP",
           "url": "https://www.instyle.com/christina-aguilera-cinched-low-rise-jeans-scarf-top-12158252"
+        },
+        {
+          "label": "MARIE CLAIRE · ZOË KRAVITZ SCARF FOLLOW-UP",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
         }
       ]
     },
     {
-      "id": "live-animal-print-shoes",
-      "keyword": "ANIMAL-PRINT SHOES",
-      "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "DEMAND",
-      "summary": "Pamela Anderson·Jennifer Lawrence·Mandy Moore·Rosie Huntington-Whiteley의 반복 착장과 일부 사이즈 품절 신호는 유지되지만, 최근 7일 후속 근거가 없어 HOLD로 조정했습니다.",
-      "detail": "9월 29일 Pamela Anderson·Jennifer Lawrence·Mandy Moore의 애니멀 프린트 슈즈 반복 착장과 Jennifer Lawrence 착용 제품의 일부 사이즈 품절, 10월 1일 Rosie Huntington-Whiteley의 스네이크 프린트 힐이 확인됐습니다. 다만 10월 2~8일 관측창에서는 새 공개 착장·재고·검색 신호가 추가되지 않아 HOLD로 조정했습니다. 과거 특정 제품·사이즈 재고는 전체 판매량으로 환산하지 않았고 상품 편성·가격·할인도 판매 순위로 해석하지 않았습니다.",
+      "id": "live-camo-mix-match",
+      "keyword": "CAMO MIX-MATCH",
+      "category": "PATTERN",
+      "direction": "UP",
+      "market": "GLOBAL → KOREA",
+      "signal": "SOCIAL",
+      "summary": "Alexa Chung·Bella Hadid·Hailey Bieber 등 6명의 공개 Instagram·거리 착장에서 카모가 반복 확인돼 재진입했습니다.",
+      "detail": "10월 9일 Who What Wear는 Alexa Chung의 카모 팬츠, Bella Hadid의 카모 캡, Hailey Bieber의 Instagram 노출과 Ruby Lynn·Marilyn Nwawulor·Emili Sindlev의 최근 착장을 함께 확인했습니다. 서로 다른 6명의 공개 소셜·거리 노출이 반복돼 SOCIAL·UP으로 재진입시켰습니다. 기사에 편성된 14개 상품과 가격은 판매량이나 판매 순위로 해석하지 않았고, 공개 검색량도 추정하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · PAMELA ANDERSON + JENNIFER LAWRENCE + MANDY MOORE / NEAR SELL-OUT",
-          "url": "https://people.com/pamela-anderson-jennifer-lawrence-animal-print-shoes-september-2026-12140027"
-        },
-        {
-          "label": "WHO WHAT WEAR · ROSIE HUNTINGTON-WHITELEY SNAKE-PRINT HEELS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-trench-coat-trend-rosie-huntington-whiteley-2026"
+          "label": "WHO WHAT WEAR · ALEXA CHUNG + BELLA HADID + HAILEY BIEBER / PUBLIC INSTAGRAM CAMO REPEAT",
+          "url": "https://www.whowhatwear.com/fashion/trends/camo-print-trend-2026"
         }
       ]
     },
