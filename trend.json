@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T08:01:01+09:00",
+  "generatedAt": "2026-10-12T08:23:53+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -106,8 +106,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Uma Thurman·Oprah 등 6명의 와이드·배럴 팬츠에 Zendaya·Dua Lipa의 슬림·보이프렌드 진이 더해졌지만 세부 핏 분산으로 HOLD를 유지했습니다.",
-      "detail": "10월 9일 People은 Uma Thurman·Oprah·Jessica Biel·Jennifer Lawrence·Katie Holmes·Florence Pugh의 와이드·배럴·트랙 팬츠 착장을 함께 정리했습니다. 10월 10일 Marie Claire 주간 라운드업에서는 Zendaya의 슬림·커프드 와이드 진과 Dua Lipa의 보이프렌드 진이 동시에 확인됐습니다. 릴랙스드 하의 관심은 이어지지만 와이드·배럴·슬림·보이프렌드로 세부 실루엣이 수렴하지 않아 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Uma Thurman·Oprah 등 6명의 와이드·배럴 팬츠에 Jennifer Aniston·Kate Hudson·Jennifer Lawrence의 배기·배럴·카고 진이 이어졌지만 핏 분산으로 HOLD를 유지했습니다.",
+      "detail": "10월 9일 People은 Uma Thurman·Oprah·Jessica Biel·Jennifer Lawrence·Katie Holmes·Florence Pugh의 와이드·배럴·트랙 팬츠를 정리했고, 10월 10일에는 Zendaya의 슬림·커프드 와이드 진과 Dua Lipa의 보이프렌드 진이 함께 확인됐습니다. 10월 11일 People 주간 라운드업도 Jennifer Aniston의 로우라이즈 배기 진, Kate Hudson의 배럴 진, Jennifer Lawrence의 카고 진을 동시에 노출했습니다. 관심은 이어지지만 실루엣이 수렴하지 않아 HOLD를 유지했으며 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -268,6 +268,10 @@
         {
           "label": "MARIE CLAIRE · ZENDAYA + DUA LIPA DENIM FIT DISPERSION",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
+        },
+        {
+          "label": "PEOPLE · JENNIFER ANISTON + KATE HUDSON + JENNIFER LAWRENCE / BAGGY + BARREL + CARGO",
+          "url": "https://people.com/best-celebrity-outfits-this-week-10-11-12144953"
         }
       ]
     },
@@ -278,8 +282,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Kate Middleton·Angelina Jolie·Jennifer Lawrence의 플랫 계열에 Gigi Hadid의 메시 메리제인 발레 플랫 후속 노출이 더해져 UP을 유지했습니다.",
-      "detail": "10월 7일 People은 Jennifer Lawrence의 Salomon 메리제인 스니커즈와 Kate Middleton·Angelina Jolie의 발레 플랫을 함께 확인했고, 10월 10일 Marie Claire 주간 라운드업은 Gigi Hadid가 파리 패션위크 이후 메시 메리제인 발레 플랫을 착용한 사례를 추가했습니다. 플랫·스니커 플랫·메리제인 스니커즈가 인접 상품군에서 반복 노출돼 SOCIAL·UP을 유지했습니다. 기사 속 누적 평점은 최근 판매량이 아니며 상품 편성·가격도 순위로 해석하지 않았습니다.",
+      "summary": "Kate Middleton·Angelina Jolie·Jennifer Lawrence·Gigi Hadid의 플랫 계열에 Katie Holmes의 메리제인 플랫 후속 착장이 더해져 UP을 유지했습니다.",
+      "detail": "10월 7일 People은 Jennifer Lawrence의 Salomon 메리제인 스니커즈와 Kate Middleton·Angelina Jolie의 발레 플랫을 함께 확인했고, 10월 10일 Gigi Hadid의 메시 메리제인 발레 플랫, 10월 11일 Katie Holmes의 메리제인 플랫이 후속 노출됐습니다. 플랫·스니커 플랫·메리제인이 인접 상품군에서 반복돼 SOCIAL·UP을 유지했습니다. 기사 속 가격·할인과 누적 평점은 최근 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
@@ -308,6 +312,10 @@
         {
           "label": "MARIE CLAIRE · GIGI HADID MESH MARY JANE BALLET FLATS",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
+        },
+        {
+          "label": "PEOPLE · KATIE HOLMES MARY JANE FLATS FOLLOW-UP",
+          "url": "https://people.com/best-celebrity-outfits-this-week-10-11-12144953"
         }
       ]
     },
@@ -319,7 +327,7 @@
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
       "summary": "코르티스·Charli XCX·Zendaya 등의 반복 착장 신호는 남아 있지만 최근 7일간 새 독립 후속 신호가 없어 HOLD를 유지했습니다.",
-      "detail": "9월 20일 코르티스의 공개 Instagram 트랙 재킷 룩, 9월 29일 Charli XCX·Zendaya 등 7명의 기술성 아우터 착장, 10월 1일 Kelsea Ballerini의 윈드브레이커 믹스매치가 확인됐습니다. 그러나 10월 5~11일 관측창에서 새로운 공개 착장·검색·재고 신호가 확인되지 않았습니다. 런웨이의 액티브웨어 제안은 고정 시즌 자료이므로 실시간 근거에서 제외하고 HOLD를 유지했습니다.",
+      "detail": "9월 20일 코르티스의 공개 Instagram 트랙 재킷 룩, 9월 29일 Charli XCX·Zendaya 등 7명의 기술성 아우터 착장, 10월 1일 Kelsea Ballerini의 윈드브레이커 믹스매치가 확인됐습니다. 그러나 10월 6~12일 관측창에서 새로운 공개 착장·검색·재고 신호가 확인되지 않았습니다. 런웨이의 액티브웨어 제안은 고정 시즌 자료이므로 실시간 근거에서 제외하고 HOLD를 유지했습니다.",
       "sources": [
         {
           "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
@@ -522,12 +530,16 @@
       "direction": "NEW",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Reese Witherspoon의 공개 Instagram 폴로 셔츠 착장에 Jennifer Garner·Joanna Gaines의 반복 노출이 겹쳐 신규 SOCIAL 신호로 포착했습니다.",
-      "detail": "10월 6일 People은 Reese Witherspoon이 공개 Instagram 게시물에서 폴로 셔츠와 라이트 워시 진을 매치한 착장을 확인했고, Jennifer Garner의 네이비 폴로와 Joanna Gaines의 스트라이프 폴로 후속 사례도 함께 언급했습니다. 서로 다른 3명의 최근 착장이 반복돼 NEW로 분류했습니다. 기사에 제시된 5개 폴로 상품과 가격·할인은 상품 편성일 뿐 판매량이나 판매 순위로 해석하지 않았으며, 공개 검색량은 확인되지 않았습니다.",
+      "summary": "Reese Witherspoon의 공개 Instagram 폴로 룩과 Jennifer Garner·Joanna Gaines의 반복 착장이 주간 편집물에 재노출됐지만, 독립 신규 착장은 없어 NEW를 유지했습니다.",
+      "detail": "10월 6일 People은 Reese Witherspoon의 공개 Instagram 폴로 셔츠 착장과 Jennifer Garner·Joanna Gaines의 폴로 사례를 함께 확인했습니다. 10월 11일 주간 라운드업이 Reese Witherspoon의 같은 착장을 다시 노출했지만 동일 원신호의 재인용이므로 별도 수요로 중복 계산하지 않고 NEW를 유지했습니다. 기사 속 상품 편성·가격·할인은 판매량이나 판매 순위로 해석하지 않았으며 공개 검색량도 추정하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · REESE WITHERSPOON INSTAGRAM + JENNIFER GARNER + JOANNA GAINES",
           "url": "https://people.com/reese-witherspoon-polo-shirt-jeans-blueprint-october-2026-12066442"
+        },
+        {
+          "label": "PEOPLE · WEEKLY POLO RE-EXPOSURE / SAME INSTAGRAM LOOK",
+          "url": "https://people.com/best-celebrity-outfits-this-week-10-11-12144953"
         }
       ]
     }
