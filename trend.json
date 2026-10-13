@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T08:10:31+09:00",
+  "generatedAt": "2026-10-14T08:34:21+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -328,66 +328,26 @@
       ]
     },
     {
-      "id": "live-sporty-chic-trackwear",
-      "keyword": "SPORTY-CHIC TRACKWEAR",
-      "category": "STYLE",
-      "direction": "HOLD",
-      "market": "GLOBAL → KOREA",
-      "signal": "SOCIAL",
-      "summary": "코르티스·Charli XCX·Zendaya 등의 반복 착장 신호는 남아 있지만 최근 7일간 새 독립 후속 신호가 없어 HOLD를 유지했습니다.",
-      "detail": "9월 20일 코르티스의 공개 Instagram 트랙 재킷 룩, 9월 29일 Charli XCX·Zendaya 등 7명의 기술성 아우터 착장, 10월 1일 Kelsea Ballerini의 윈드브레이커 믹스매치가 확인됐습니다. 그러나 10월 7~13일 관측창에서 새로운 공개 착장·검색·재고 신호가 확인되지 않았습니다. 런웨이의 액티브웨어 제안은 고정 시즌 자료이므로 실시간 근거에서 제외하고 HOLD를 유지했습니다.",
+      "id": "live-zigzag-headbands",
+      "keyword": "ZIGZAG HEADBANDS",
+      "category": "ACCESSORY",
+      "direction": "NEW",
+      "market": "GLOBAL",
+      "signal": "DEMAND",
+      "summary": "Gigi Hadid·Hailey Bieber·Carole Radziwill의 반복 착장과 Amazon 최근 한 달 4만 팩 이상 판매·카테고리 1위가 겹쳐 신규 수요 신호로 포착했습니다.",
+      "detail": "10월 10일 InStyle은 Gigi Hadid와 Hailey Bieber의 지그재그 헤드밴드 반복 착장을 확인했고, 10월 13일 Page Six는 Carole Radziwill의 공개 Instagram Stories 착장과 Hailey Bieber의 반복 착용을 추가했습니다. 같은 기사에서 Kitsch 2팩은 Amazon에서 최근 한 달 4만 팩 이상 판매되고 헤드밴드 카테고리 1위로 표시됐습니다. 판매 수치는 최근 7일 수치가 아니라 최근 한 달 누적치임을 명시하며, 다른 상품의 가격·편성은 판매량으로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "INSTYLE · CELEBRITY SPORTY-CHIC REPEAT",
-          "url": "https://www.instyle.com/fall-celebrity-sportswear-clothing-trends-12068143"
+          "label": "INSTYLE · GIGI HADID + HAILEY BIEBER ZIGZAG HEADBANDS",
+          "url": "https://www.instyle.com/hailey-bieber-gigi-hadid-zigzag-headbands-amazon-12166702"
         },
         {
-          "label": "WHO WHAT WEAR · ELSA HOSK TRACK PANTS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/colorful-ballet-flats-trend-elsa-hosk"
+          "label": "PAGE SIX · CAROLE RADZIWILL INSTAGRAM + AMAZON 40K/MONTH + #1",
+          "url": "https://pagesix.com/2026/10/13/style/carole-radziwill-wears-these-5-kitsch-headbands-on-rhony/"
         },
         {
-          "label": "MUSINSA · ADIDAS TRACK PANTS / 151 REVIEWS",
-          "url": "https://www.musinsa.com/products/3036556"
-        },
-        {
-          "label": "29CM · WIDE TRACK PANTS LISTING",
-          "url": "https://www.29cm.co.kr/products/3813029"
-        },
-        {
-          "label": "WHO WHAT WEAR · SPORTY JACKETS / 3 RETAIL PICKS",
-          "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
-        },
-        {
-          "label": "BYRDIE · SPORTIF / CELEBRITY + BRAND REPEAT",
-          "url": "https://www.byrdie.com/sportif-aesthetic-fashion-trend-12064016"
-        },
-        {
-          "label": "PEOPLE · MARTHA STEWART + OPRAH TRACKSUITS",
-          "url": "https://people.com/martha-stewart-matching-tracksuit-amazon-september-2026-12076986"
-        },
-        {
-          "label": "INSTYLE · NYC SPORTY WINDBREAKERS / 4 PICKS",
-          "url": "https://www.instyle.com/nyc-cool-girl-fall-trends-september-12081147"
-        },
-        {
-          "label": "PEOPLE · 5 CELEBRITIES / JOGGERS + EASY PANTS / 10 PICKS",
-          "url": "https://people.com/jennifer-garner-julianne-moore-black-travel-pants-amazon-september-2026-12107150"
-        },
-        {
-          "label": "PEOPLE · HILARY DUFF + CINDY CRAWFORD + MARTHA STEWART / 9 WINDBREAKERS",
-          "url": "https://people.com/hilary-duff-cindy-crawford-windbreaker-amazon-september-2026-12066955"
-        },
-        {
-          "label": "W KOREA · CORTIS + PUBLIC INSTAGRAM + CAMILLE CHARRIÈRE + ALEXA CHUNG",
-          "url": "https://www.wkorea.com/2026/09/20/%ED%8A%B8%EB%9E%99-%EC%9E%AC%ED%82%B7-%ED%95%98%EB%82%98%EB%A1%9C-%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EA%B0%90%EC%84%B1%EB%B6%80%ED%84%B0-%EC%9D%80%EA%B7%BC%ED%95%9C-%EC%84%B9%EC%8B%9C%EB%AF%B8/"
-        },
-        {
-          "label": "MARIE CLAIRE · CHARLI XCX + ZENDAYA + VITTORIA CERETTI / WINDBREAKER REPEAT",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/windbreaker-trend-2026-styling/"
-        },
-        {
-          "label": "MARIE CLAIRE · PFW KELSEA BALLERINI WINDBREAKER FOLLOW-UP",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
+          "label": "BRITISH VOGUE · GIGI HADID + BECKY ARMSTRONG + ELLA BRIGHT",
+          "url": "https://www.vogue.co.uk/article/zig-zag-headband-trend"
         }
       ]
     },
