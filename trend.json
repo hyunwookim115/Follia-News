@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T08:34:21+09:00",
+  "generatedAt": "2026-10-15T08:56:49+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Olivia Rodrigo·Jennifer Lawrence의 미디 스커트에 Katie Holmes의 슬릿 미디 스커트 후속 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 10일 Marie Claire 주간 라운드업은 Olivia Rodrigo의 플레어 미디 스커트와 Jennifer Lawrence의 드레이프 미디 스커트를 함께 확인했고, 10월 11일 People은 Katie Holmes가 파리 패션위크에서 블랙 슬릿 미디 스커트를 착용한 사례를 추가했습니다. 서로 다른 인물의 무릎 아래 길이 하의가 10월 7~13일 관측창에서 반복돼 SOCIAL·UP을 유지했습니다. 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Olivia Rodrigo·Jennifer Lawrence·Katie Holmes의 미디 스커트에 Laura Harrier의 카프리 룩 반복 착장이 더해져 UP을 유지했습니다.",
+      "detail": "10월 10일 Marie Claire는 Olivia Rodrigo와 Jennifer Lawrence의 미디 스커트를 함께 확인했고, 10월 11일 People은 Katie Holmes의 슬릿 미디 스커트를 추가했습니다. 10월 12일 Who What Wear는 Laura Harrier가 같은 카프리·로브 코트 조합을 파리와 로스앤젤레스에서 두 차례 착용했다고 보도했습니다. 서로 다른 인물과 반복 착장에서 무릎 안팎 길이 하의가 이어져 SOCIAL·UP을 유지했습니다. 상품 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
@@ -100,6 +100,10 @@
         {
           "label": "PEOPLE · KATIE HOLMES SLIT MIDI SKIRT FOLLOW-UP",
           "url": "https://people.com/katie-holmes-turtleneck-midi-skirt-blueprint-october-2026-12144948"
+        },
+        {
+          "label": "WHO WHAT WEAR · LAURA HARRIER PARIS + L.A. CAPRI OUTFIT REPEAT",
+          "url": "https://www.whowhatwear.com/fashion/celebrity/celebrity-style/laura-harrier-silk-robe-coat-capri-pants-outfit"
         }
       ]
     },
@@ -446,8 +450,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Elsa Hosk·Christina Aguilera의 목·톱 활용에 Zoë Kravitz의 퍼플 스카프 후속 착장이 더해져 SCARF STYLING의 반복 노출이 이어졌습니다.",
-      "detail": "10월 2일 Elsa Hosk는 파리 거리에서 실크 스카프를 목에 드레이프했고, 10월 3일 Christina Aguilera는 공개 Instagram에서 실크 스카프를 톱으로 활용했습니다. 10월 10일 Marie Claire 주간 라운드업은 Zoë Kravitz가 뉴욕에서 퍼플 스카프를 올블랙 코트 위에 두른 후속 사례를 확인했습니다. 서로 다른 인물의 목·톱 활용이 반복돼 SOCIAL·UP을 유지했으며 상품 가격은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Elsa Hosk·Christina Aguilera의 목·톱 활용에 Zoë Kravitz의 퍼플·시어 스키니 스카프 후속 착장이 이어져 UP을 유지했습니다.",
+      "detail": "10월 2일 Elsa Hosk는 파리 거리에서 실크 스카프를 목에 드레이프했고, 10월 3일 Christina Aguilera는 공개 Instagram에서 실크 스카프를 톱으로 활용했습니다. 10월 10일 Zoë Kravitz의 퍼플 스카프에 이어 10월 12일 뉴욕에서 시어 스키니 스카프를 셔츠·팬츠·스니커즈와 매치한 별도 착장이 확인됐습니다. 목·톱·캐주얼 레이어링으로 활용 방식이 반복돼 SOCIAL·UP을 유지했으며 상품 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · 4 CELEBRITIES / 4 STYLING METHODS / 10 SCARVES",
@@ -472,6 +476,10 @@
         {
           "label": "MARIE CLAIRE · ZOË KRAVITZ SCARF FOLLOW-UP",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
+        },
+        {
+          "label": "WHO WHAT WEAR · ZOË KRAVITZ SHEER SKINNY SCARF FOLLOW-UP",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/sheer-skinny-scarf-trend-zoe-kravitz"
         }
       ]
     },
@@ -482,12 +490,16 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Alexa Chung·Bella Hadid·Hailey Bieber 등 6명의 공개 Instagram·거리 착장에서 카모가 반복 확인돼 재진입했습니다.",
-      "detail": "10월 9일 Who What Wear는 Alexa Chung의 카모 팬츠, Bella Hadid의 카모 캡, Hailey Bieber의 Instagram 노출과 Ruby Lynn·Marilyn Nwawulor·Emili Sindlev의 최근 착장을 함께 확인했습니다. 서로 다른 6명의 공개 소셜·거리 노출이 반복돼 SOCIAL·UP으로 재진입시켰습니다. 기사에 편성된 14개 상품과 가격은 판매량이나 판매 순위로 해석하지 않았고, 공개 검색량도 추정하지 않았습니다.",
+      "summary": "Alexa Chung·Bella Hadid·Hailey Bieber 등 6명의 공개 소셜·거리 착장에 Alexa Chung의 파리 2회 반복 착장이 재확인돼 UP을 유지했습니다.",
+      "detail": "10월 9일 Who What Wear는 Alexa Chung의 카모 팬츠, Bella Hadid의 카모 캡, Hailey Bieber의 공개 Instagram 노출과 Ruby Lynn·Marilyn Nwawulor·Emili Sindlev의 착장을 함께 확인했습니다. 10월 13일 후속 보도는 Alexa Chung이 파리에서 카모 팬츠와 발레 플랫 조합을 서로 다른 두 차례 착용했다고 구체화했습니다. 동일 인물의 2회 반복은 매체 재보도와 분리해 한 흐름으로 합쳤고, 14개 상품 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · ALEXA CHUNG + BELLA HADID + HAILEY BIEBER / PUBLIC INSTAGRAM CAMO REPEAT",
           "url": "https://www.whowhatwear.com/fashion/trends/camo-print-trend-2026"
+        },
+        {
+          "label": "WHO WHAT WEAR · ALEXA CHUNG PARIS CAMO PANTS / TWO OCCASIONS",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/camo-pants-with-ballet-flats-trend-alexa-chung"
         }
       ]
     },
