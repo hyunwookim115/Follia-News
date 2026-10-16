@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T08:38:34+09:00",
+  "generatedAt": "2026-10-17T08:08:23+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -520,22 +520,30 @@
       ]
     },
     {
-      "id": "live-polo-shirts",
-      "keyword": "POLO SHIRTS",
+      "id": "live-clogs-suede-mules",
+      "keyword": "CLOGS & SUEDE MULES",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Reese Witherspoon·Jennifer Garner·Joanna Gaines의 폴로 착장은 남아 있지만 독립적인 후속 신호가 없어 NEW에서 HOLD로 조정했습니다.",
-      "detail": "10월 6일 People은 Reese Witherspoon의 공개 Instagram 폴로 셔츠 착장과 Jennifer Garner·Joanna Gaines의 폴로 사례를 함께 확인했습니다. 10월 11일 주간 라운드업이 Reese Witherspoon의 같은 착장을 재노출했지만 동일 원신호의 재인용이며, 10월 7~13일 관측창에서 별도의 신규 착장·검색·재고 신호가 확인되지 않았습니다. 따라서 NEW에서 HOLD로 조정했고 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Anne Hathaway·Jennifer Lawrence·Lily Collins의 클로그 착장과 Rachel Bilson·Lucy Hale 등의 공개 Instagram 노출이 겹쳐 재진입했습니다.",
+      "detail": "10월 12일 Anne Hathaway의 공개 Instagram 클로그 착장에 이어 10월 16일 Jennifer Lawrence의 뉴욕 착장, Lily Collins의 덴마크 착장, Jameela Jamil·Rachel Bilson·Lucy Hale의 공개 소셜 노출이 함께 확인됐습니다. 서로 다른 인물과 거리·Instagram에서 반복돼 SOCIAL·UP으로 재진입했습니다. 특정 제품의 4.6점·후기 10,800여 건은 누적치이며 최근 7일 판매량이 아니고, 할인율·상품 편성도 수요량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · REESE WITHERSPOON INSTAGRAM + JENNIFER GARNER + JOANNA GAINES",
-          "url": "https://people.com/reese-witherspoon-polo-shirt-jeans-blueprint-october-2026-12066442"
+          "label": "INSTYLE · ANNE HATHAWAY INSTAGRAM + JENNIFER LAWRENCE CLOG REPEAT",
+          "url": "https://www.instyle.com/anne-hathaway-rothys-casual-clogs-sale-12166351"
         },
         {
-          "label": "PEOPLE · WEEKLY POLO RE-EXPOSURE / SAME INSTAGRAM LOOK",
-          "url": "https://people.com/best-celebrity-outfits-this-week-10-11-12144953"
+          "label": "PAGE SIX · 5 CELEBRITY / INSTAGRAM CLOG SIGNALS + 10.8K CUMULATIVE REVIEWS",
+          "url": "https://pagesix.com/2026/10/16/style/anne-hathaway-jennifer-lawrence-rothys-clogs-are-25-off/"
+        },
+        {
+          "label": "PEOPLE · ANNE HATHAWAY + LUCY HALE INSTAGRAM CLOG FOLLOW-UP",
+          "url": "https://people.com/anne-hathaway-rothys-clogs-deal-october-2026-12144995"
+        },
+        {
+          "label": "USA TODAY · ANNE HATHAWAY + LILY COLLINS CLOG REPEAT",
+          "url": "https://shopping.yahoo.com/style/shoes/articles/fall-clogs-anne-hathaway-lily-204353760.html"
         }
       ]
     }
