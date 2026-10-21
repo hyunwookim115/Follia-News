@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T08:10:33+09:00",
+  "generatedAt": "2026-10-22T08:13:56+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -118,8 +118,8 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "배럴 진의 거리 노출에 Daisy Edgar-Jones의 스트레이트 진 반복 착장이 더해졌지만 세부 핏이 분산돼 HOLD를 유지했습니다.",
-      "detail": "10월 11일 배기·배럴·카고·와이드 하의가 함께 노출됐고, 10월 14~15일 Mila Kunis·Kate Hudson 및 뉴욕 거리에서 배럴 진이 반복 관측됐습니다. 10월 17일 Marie Claire 주간 결산은 Daisy Edgar-Jones가 Levi's 501 스트레이트 진을 반복 착용했다고 확인했습니다. 배럴과 스트레이트 신호가 모두 이어졌지만 전체 관심이 여러 핏으로 분산돼 HOLD를 유지했습니다. 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Kristen Bell의 룸미 와이드 인디고 데님 후속 착장이 더해졌지만, 배기·배럴·카고·스트레이트로 세부 핏이 계속 분산돼 HOLD를 유지했습니다.",
+      "detail": "10월 21일 InStyle은 Kristen Bell의 뉴욕 착장에서 다크 인디고의 룸미 와이드 진을 확인했습니다. 이는 편안한 볼륨 데님의 후속 노출이지만, 기존 관측창의 배기·배럴·카고·스트레이트 신호가 하나의 정확한 핏으로 수렴하지 않아 SOCIAL·HOLD를 유지했습니다. 기사 속 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
@@ -300,6 +300,10 @@
         {
           "label": "MARIE CLAIRE · DAISY EDGAR-JONES STRAIGHT-JEAN REPEAT",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-11-2026/"
+        },
+        {
+          "label": "INSTYLE · KRISTEN BELL ROOMY INDIGO WIDE-LEG FOLLOW-UP",
+          "url": "https://www.instyle.com/look-of-the-day-2026-10-21-12186578"
         }
       ]
     },
@@ -356,30 +360,22 @@
       ]
     },
     {
-      "id": "live-corduroy-bottoms",
-      "keyword": "CORDUROY BOTTOMS",
-      "category": "ITEM",
+      "id": "live-klein-cobalt-blue",
+      "keyword": "KLEIN / COBALT BLUE",
+      "category": "COLOR",
       "direction": "NEW",
-      "market": "GLOBAL → KOREA",
+      "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Dakota Johnson·Taylor Swift·Gigi Hadid·Emily Ratajkowski의 코듀로이 하의 착장이 여러 매체에서 반복 확인돼 신규 흐름으로 편입했습니다.",
-      "detail": "10월 15일 Dakota Johnson의 브라운 배기 코듀로이 팬츠를 Marie Claire가 확인했고, 10월 16일 Bustle은 Emily Ratajkowski와 Taylor Swift의 별도 착장을 함께 정리했습니다. 10월 17~18일 People은 Taylor Swift·Gigi Hadid·Dakota Johnson의 코듀로이 하의를 연속 보도해 서로 다른 인물과 매체에서 반복 노출이 확인됐습니다. 고정 시즌 소재 제안이 아니라 최근 공개 착장의 집중도를 근거로 SOCIAL·NEW로 분류했습니다. 기사 속 8~9개 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "파리의 실착 관측과 Emma Stone·Kendall Jenner·Sabrina Carpenter의 서로 다른 노출이 겹쳐 신규 컬러 신호로 편입했습니다.",
+      "detail": "10월 19~21일 공개 자료에서 Who What Wear는 5개의 공개 Instagram·패션 인물 착장과 여러 2027 S/S 런웨이 사례를 함께 제시했고, InStyle은 파리 여성들의 반복 착용 관측과 Emma Stone·Kendall Jenner·Sabrina Carpenter의 서로 다른 착장을 확인했습니다. 런웨이 예측만으로 분류하지 않고 현재 실착 사례가 겹친 점을 근거로 SOCIAL·NEW로 기록했습니다. 공개 검색량·판매량·플랫폼 순위는 확인되지 않아 수치화하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · DAKOTA JOHNSON + TAYLOR SWIFT + GIGI HADID / CELEBRITY REPEAT",
-          "url": "https://people.com/dakota-johnson-taylor-swift-corduroy-pants-amazon-october-2026-12178061"
+          "label": "INSTYLE · PARIS STREET + 3 CELEBRITY KLEIN BLUE SIGNALS",
+          "url": "https://www.instyle.com/paris-stylist-klein-blue-fall-picks-12184774"
         },
         {
-          "label": "PEOPLE · TAYLOR SWIFT + GIGI HADID CORDUROY FOLLOW-UP",
-          "url": "https://people.com/corduroy-pants-fall-outfits-amazon-october-2026-12177327"
-        },
-        {
-          "label": "MARIE CLAIRE · DAKOTA JOHNSON OCTOBER 15 CORDUROY",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/brown-pants-fall-trend-corduroy-dakota-johnson/"
-        },
-        {
-          "label": "BUSTLE · EMILY RATAJKOWSKI + TAYLOR SWIFT SOCIAL REPEAT",
-          "url": "https://www.bustle.com/style/grandpacore-corduroy-pants-trend-fall-2026"
+          "label": "WHO WHAT WEAR · 5 PUBLIC INSTAGRAM LOOKS + RUNWAY CROSS-CHECK",
+          "url": "https://www.whowhatwear.com/fashion/trends/cobalt-blue-color-trend-2027"
         }
       ]
     },
@@ -387,11 +383,11 @@
       "id": "live-slouchy-roomy-bags",
       "keyword": "SLOUCHY ROOMY BAGS",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
-      "signal": "SEARCH",
-      "summary": "대형 가방의 전년 대비 검색 증가는 남아 있지만 최근 7일 신규 수요 근거가 끊기고 클러치 노출이 늘어 UP에서 HOLD로 조정했습니다.",
-      "detail": "10월 9일 Business Insider가 보도한 Google Trends의 ‘oversize bags’ 검색 관심도 전년 동기 대비 5,000% 이상 증가는 최근 7일 증가율이 아니며, 이번 10월 10~16일 관측창에서는 독립적인 후속 검색·재고 신호가 확인되지 않았습니다. 10월 14일 Who What Wear는 공개 Instagram 스타일 사례 5건과 함께 패션 인물들이 대형 토트 대신 클러치를 드는 흐름을 관측했습니다. 이는 대형 가방의 하락 수치가 아니라 반대 흐름의 공개 노출이므로, 기존 항목을 삭제하지 않고 SEARCH·HOLD로 조정했습니다. 상품 24종 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
+      "signal": "SOCIAL",
+      "summary": "Lola Tung이 Bella Hadid가 들었던 동일한 Coachtopia 슬라우치 숄더백을 다시 착용해 HOLD에서 UP으로 재상향했습니다.",
+      "detail": "10월 20일 Lola Tung이 Coachtopia Alter/Ego 슬라우치 숄더백을 착용했고, 9월 Bella Hadid의 동일 모델 착장과 PinkPantheress 캠페인 노출에 이어진 별도 공개 사례로 확인됐습니다. 동일 제품이 품절됐다는 사실은 공개 상태로만 기록하며 최근 판매량·판매 속도·플랫폼 순위로 환산하지 않았습니다. 최근 7일의 독립 후속 착장이 기존 클러치 반대 신호보다 강해 SOCIAL·UP으로 조정했습니다.",
       "sources": [
         {
           "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
@@ -472,6 +468,10 @@
         {
           "label": "WHO WHAT WEAR · 5 PUBLIC INSTAGRAM CLUTCH LOOKS / COUNTER-SIGNAL",
           "url": "https://www.whowhatwear.com/fashion/handbags/best-fall-clutches"
+        },
+        {
+          "label": "MARIE CLAIRE · LOLA TUNG + BELLA HADID SAME SLOUCHY BAG FOLLOW-UP",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/bella-hadid-lola-tung-coachtopia-alter-ego-bag/"
         }
       ]
     },
@@ -554,8 +554,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Anne Hathaway·Jennifer Lawrence·Lily Collins의 클로그 착장과 Rachel Bilson·Lucy Hale 등의 공개 Instagram 노출이 겹쳐 재진입했습니다.",
-      "detail": "10월 12일 Anne Hathaway의 공개 Instagram 클로그 착장에 이어 10월 16일 Jennifer Lawrence의 뉴욕 착장, Lily Collins의 덴마크 착장, Jameela Jamil·Rachel Bilson·Lucy Hale의 공개 소셜 노출이 함께 확인됐습니다. 서로 다른 인물과 거리·Instagram에서 반복돼 SOCIAL·UP으로 재진입했습니다. 특정 제품의 4.6점·후기 10,800여 건은 누적치이며 최근 7일 판매량이 아니고, 할인율·상품 편성도 수요량이나 순위로 해석하지 않았습니다.",
+      "summary": "Anne Hathaway·Jennifer Lawrence·Lily Collins의 클로그 착장에 Jennifer Lawrence의 10월 20일 브라운 스웨이드 클로그 후속 노출이 더해졌습니다.",
+      "detail": "10월 20일 Jennifer Lawrence가 뉴욕에서 브라운 스웨이드 클로그를 착용한 별도 룩이 확인됐습니다. 기존 Anne Hathaway·Jennifer Lawrence·Lily Collins의 거리 착장과 Rachel Bilson·Lucy Hale 등의 공개 Instagram 신호 위에 최신 후속 사례가 더해져 SOCIAL·UP을 유지했습니다. 기사 속 상품 편성·가격·할인·누적 평점은 최근 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · ANNE HATHAWAY INSTAGRAM + JENNIFER LAWRENCE CLOG REPEAT",
@@ -572,6 +572,14 @@
         {
           "label": "USA TODAY · ANNE HATHAWAY + LILY COLLINS CLOG REPEAT",
           "url": "https://shopping.yahoo.com/style/shoes/articles/fall-clogs-anne-hathaway-lily-204353760.html"
+        },
+        {
+          "label": "VOGUE · JENNIFER LAWRENCE BROWN SUEDE CLOG FOLLOW-UP",
+          "url": "https://www.vogue.com/article/jennifer-lawrence-neon-green-bag-stealth-wealth-2026-10-20"
+        },
+        {
+          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE BROWN SUEDE MULES",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/apple-green-bag-trend-jennifer-lawrence-2026"
         }
       ]
     }
