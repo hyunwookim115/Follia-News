@@ -1,113 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T08:13:56+09:00",
+  "generatedAt": "2026-10-23T08:11:31+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
       "id": "live-mid-length-bottoms",
       "keyword": "MID-LENGTH BOTTOMS",
       "category": "SILHOUETTE",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Laura Harrier의 카프리 반복 착장에 Zoë Kravitz의 데님 카프리 후속 노출이 더해져 UP을 유지했습니다.",
-      "detail": "10월 10일 Olivia Rodrigo·Jennifer Lawrence의 미디 스커트, 10월 11일 Katie Holmes의 슬릿 미디, 10월 12일 Laura Harrier의 파리·로스앤젤레스 동일 카프리 조합에 이어 10월 17일 Marie Claire 주간 결산에서 Zoë Kravitz의 데님 카프리가 확인됐습니다. 서로 다른 인물과 반복 착장에서 무릎 안팎 길이 하의가 이어져 SOCIAL·UP을 유지했습니다. 같은 착장에 포함된 발레 플랫·스카프는 별도 수요 건수로 중복 계산하지 않았고, 상품 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Zoë Kravitz의 데님 카프리와 미디 길이 노출은 이어졌지만, 최근 7일의 독립 후속 사례가 줄어 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 17일 Marie Claire 주간 결산에서 Zoë Kravitz의 데님 카프리 착장이 확인됐고, 10월 18일 스타일리스트 추천 기사에서도 미디 스커트가 현재 대안 실루엣으로 제시됐습니다. 다만 둘째 자료는 상품 편성·전문가 의견이며 실제 판매량이나 플랫폼 순위가 아니고, 최근 관측창의 독립 실착 수가 이전보다 약해 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · CPHFW MID-LENGTH",
-          "url": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026"
-        },
-        {
-          "label": "WHO WHAT WEAR · BERMUDA SHORTS",
-          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
-        },
-        {
-          "label": "MUSINSA · CAPRI CONTEXT",
-          "url": "https://www.musinsa.com/content/1498518384847439225"
-        },
-        {
-          "label": "HARPER'S BAZAAR · CAPRI + THONG KITTEN HEELS",
-          "url": "https://www.harpersbazaar.com/celebrity/latest/a73435497/daniela-avanzini-katseye-stretchy-yellow-capri-pants-trend-photos/"
-        },
-        {
-          "label": "INSTYLE · CPHFW MIDISKIRT REPEAT",
-          "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
-        },
-        {
-          "label": "WHO WHAT WEAR · EDITOR CAPRI PICKS",
-          "url": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-fall-fashion-2026"
-        },
-        {
-          "label": "WHO WHAT WEAR · CAPRIS + KNEE-LENGTH SKIRTS",
-          "url": "https://www.whowhatwear.com/fashion/shopping/basics-fall-2026"
-        },
-        {
-          "label": "WHO WHAT WEAR · MILLIE BOBBY BROWN CAPRI REPEAT",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/capri-pants-ballet-pumps-millie-bobby-brown"
-        },
-        {
-          "label": "WHO WHAT WEAR · KAIA GERBER KNEE-LENGTH SKIRT",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/kaia-gerber-knee-length-skirt-transitional-outfit"
-        },
-        {
-          "label": "WHO WHAT WEAR · MIDI SKIRT FOLLOW-UP / 3 PICKS",
-          "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
-        },
-        {
-          "label": "PAGE SIX · SYDNEY SWEENEY BERMUDA SHORTS",
-          "url": "https://pagesix.com/2026/09/02/style/sydney-sweeney-brings-the-heat-to-venice-film-festival-2026-in-sheer-lace-top/"
-        },
-        {
-          "label": "VOGUE · ZOË KRAVITZ KNEE-LENGTH SLIP SKIRT",
-          "url": "https://www.vogue.com/article/whatever-the-season-zoe-kravitz-backs-these-it-girl-staples"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ KNEE-LENGTH SKIRT FOLLOW-UP",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flats-trend-fall-zoe-kravitz-2026/"
-        },
-        {
-          "label": "WHO WHAT WEAR · HILARY DUFF CAPRI FOLLOW-UP",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/hilary-duff-capri-pants-outfit"
-        },
-        {
-          "label": "WHO WHAT WEAR · ZOË KRAVITZ KNEE-LENGTH SKIRT / 3 PICKS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-slip-skirt-high-foot-ballet-flats-outfit-zoe-kravitz"
-        },
-        {
-          "label": "INSTYLE · AMAL CLOONEY KNEE-LENGTH PENCIL SKIRT / 4 PICKS",
-          "url": "https://www.instyle.com/look-of-the-day-2026-09-10-12114677"
-        },
-        {
-          "label": "INSTYLE · SELENA GOMEZ + 4 CELEBRITIES / 7 CAPRI PICKS",
-          "url": "https://www.instyle.com/look-of-the-day-2026-09-17-12126399"
-        },
-        {
-          "label": "INSTYLE · KENDALL JENNER + JENNIFER LAWRENCE + ZOË KRAVITZ MIDI REPEAT",
-          "url": "https://www.instyle.com/kendall-jenner-midi-skirt-fall-trend-12137172"
-        },
-        {
-          "label": "MARIE CLAIRE · PFW GRETA LEE CAPRI + JENNIFER LOPEZ PENCIL SKIRT",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
-        },
-        {
-          "label": "MARIE CLAIRE · DAISY EDGAR-JONES CAPRI FOLLOW-UP",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-of-the-week-october-2026/"
-        },
-        {
-          "label": "MARIE CLAIRE · OLIVIA RODRIGO + JENNIFER LAWRENCE MIDI FOLLOW-UP",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
-        },
-        {
-          "label": "PEOPLE · KATIE HOLMES SLIT MIDI SKIRT FOLLOW-UP",
-          "url": "https://people.com/katie-holmes-turtleneck-midi-skirt-blueprint-october-2026-12144948"
-        },
-        {
-          "label": "WHO WHAT WEAR · LAURA HARRIER PARIS + L.A. CAPRI OUTFIT REPEAT",
-          "url": "https://www.whowhatwear.com/fashion/celebrity/celebrity-style/laura-harrier-silk-robe-coat-capri-pants-outfit"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ DENIM CAPRI FOLLOW-UP",
+          "label": "MARIE CLAIRE · ZOË KRAVITZ DENIM CAPRI · OCT 17",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-11-2026/"
+        },
+        {
+          "label": "PEOPLE · STYLIST SUEDE MIDI-SKIRT SIGNAL · OCT 18",
+          "url": "https://people.com/stylist-recommended-fall-fashion-trends-amazon-october-2026-12178103"
         }
       ]
     },
@@ -118,243 +30,47 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Kristen Bell의 룸미 와이드 인디고 데님 후속 착장이 더해졌지만, 배기·배럴·카고·스트레이트로 세부 핏이 계속 분산돼 HOLD를 유지했습니다.",
-      "detail": "10월 21일 InStyle은 Kristen Bell의 뉴욕 착장에서 다크 인디고의 룸미 와이드 진을 확인했습니다. 이는 편안한 볼륨 데님의 후속 노출이지만, 기존 관측창의 배기·배럴·카고·스트레이트 신호가 하나의 정확한 핏으로 수렴하지 않아 SOCIAL·HOLD를 유지했습니다. 기사 속 상품 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Kristen Bell·Julia Roberts 등 볼륨 데님 노출은 이어졌지만 배기·와이드·퍼들·시가렛·플레어로 핏이 분산돼 HOLD를 유지했습니다.",
+      "detail": "10월 17일 Julia Roberts의 다크 워시 와이드 진, 10월 21~23일 Kristen Bell의 룸미 인디고·퍼들 진이 연속 확인됐습니다. 10월 23일 InStyle도 배기·와이드·시가렛·하이라이즈 플레어 네 방향을 동시에 제시했습니다. 편안한 데님 수요 방향은 강하지만 하나의 정확한 핏으로 수렴하지 않아 SOCIAL·HOLD를 유지했습니다. 기사 속 가격·할인·후기는 판매량이나 순위로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · RELAXED STRAIGHT JEANS",
-          "url": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027"
+          "label": "PEOPLE · JULIA ROBERTS + 3 CELEBRITIES WIDE-LEG · OCT 17",
+          "url": "https://people.com/julia-roberts-martha-stewart-wide-leg-jeans-amazon-october-2026-12174836"
         },
         {
-          "label": "VOGUE KOREA · DENIM STYLING",
-          "url": "https://www.vogue.co.kr/2026/08/08/%EB%82%A8%EC%9D%80-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EC%B1%85%EC%9E%84%EC%A7%88-%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-9/"
-        },
-        {
-          "label": "VOGUE KOREA · RELAXED DENIM FOLLOW-UP",
-          "url": "https://www.vogue.co.kr/2026/08/13/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%97%90%EB%8F%84-%ED%97%90%EB%A0%81%ED%95%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%AA%BB-%EC%9D%B4%EA%B9%81%EB%8B%88%EB%8B%A4/"
-        },
-        {
-          "label": "INSTYLE · LIGHT-WASH RELAXED DENIM",
-          "url": "https://www.instyle.com/copenhagen-fashion-week-street-style-trends-12063869"
-        },
-        {
-          "label": "VOGUE KOREA · CIGARETTE DENIM COUNTER-SIGNAL",
-          "url": "https://www.vogue.co.kr/2026/08/21/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%9D%98-%EC%8A%A4%ED%82%A4%EB%8B%88-%EC%A7%84%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%83%9D%EA%B2%BC%EC%8A%B5%EB%8B%88%EB%8B%A4/"
-        },
-        {
-          "label": "VOGUE KOREA · BAGGY DENIM SOCIAL REPEAT",
-          "url": "https://www.vogue.co.kr/2026/08/24/%EC%98%A8%EA%B0%96-%EB%8D%B0%EB%8B%98-%EB%8B%A4-%EC%9E%85%EC%96%B4%EB%B4%90%EB%8F%84-%EA%B2%B0%EA%B5%AD-%ED%97%90%EB%A0%81%ED%95%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A4/"
-        },
-        {
-          "label": "WHO WHAT WEAR · DARK STOVEPIPE DENIM",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/dark-wash-stove-pipe-jeans-kitten-heel-flip-flops-satin-bag-trend-dakota-fanning-2026"
-        },
-        {
-          "label": "WHO WHAT WEAR · CROPPED-FLARE COUNTER-SIGNAL",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-crop-flare-jeans-block-heel-pumps-trends-zoe-kravitz"
-        },
-        {
-          "label": "VOGUE KOREA · ZOË KRAVITZ DENIM VARIATION",
-          "url": "https://www.vogue.co.kr/2026/08/26/%EC%97%AC%EB%A6%84%EA%B3%BC-%EA%B0%80%EC%9D%84-%EC%82%AC%EC%9D%B4-%EC%A1%B0-%ED%81%AC%EB%9D%BC%EB%B9%84%EC%B8%A0%EA%B0%80-%EB%8D%B0%EB%8B%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95/"
-        },
-        {
-          "label": "WHO WHAT WEAR · JESSICA ALBA BALLOON JEANS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-jeans-trend-jessica-alba-2026"
-        },
-        {
-          "label": "VOGUE KOREA · SIX DENIM EXPERT SIGNALS",
-          "url": "https://www.vogue.co.kr/2026/08/27/%EC%B2%AD%EB%B0%94%EC%A7%80-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%B4-%EC%9E%85-%EB%AA%A8%EC%95%84-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EC%98%AC%EA%B0%80%EC%9D%84-%EB%8D%B0%EB%8B%98-6/"
-        },
-        {
-          "label": "MUSINSA · BALLOON DENIM / 122 REVIEWS",
-          "url": "https://www.musinsa.com/products/5860706"
-        },
-        {
-          "label": "VOGUE KOREA · ANKLE-CROP DENIM COUNTER-SIGNAL",
-          "url": "https://www.vogue.co.kr/2026/08/28/%EC%9D%B4%EC%A0%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%B0%9C%EB%AA%A9%EC%97%90%EC%84%9C-%EB%81%9D%EB%82%B4%EC%84%B8%EC%9A%94/"
-        },
-        {
-          "label": "WHO WHAT WEAR · STRAIGHT + WIDE + CROPPED FLARE",
-          "url": "https://www.whowhatwear.com/fashion/shopping/with-nothing-underneath-jeans-review"
-        },
-        {
-          "label": "WHO WHAT WEAR · BARREL-JEAN COUNTER-SIGNAL",
-          "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
-        },
-        {
-          "label": "WHO WHAT WEAR · LA KICK-FLARE SOCIAL / 4 PICKS",
-          "url": "https://www.whowhatwear.com/fashion/trends/fall-2026-fashion-trends-los-angeles"
-        },
-        {
-          "label": "INSTYLE · JENNIFER LOPEZ WIDE-LEG DENIM",
-          "url": "https://www.instyle.com/look-of-the-day-2026-09-02-12077095"
-        },
-        {
-          "label": "HARPER'S BAZAAR · JENNIFER LOPEZ WIDE-LEG FOLLOW-UP",
-          "url": "https://www.harpersbazaar.com/celebrity/latest/a73593126/jennifer-lopez-preppy-oversize-outfit-new-york-city-street-style-photos/"
-        },
-        {
-          "label": "INSTYLE · NYC CUFFED WIDE + BARREL JEANS",
-          "url": "https://www.instyle.com/nyc-cool-girl-fall-trends-september-12081147"
-        },
-        {
-          "label": "PEOPLE · JESSICA ALBA BAGGY + RELAXED-STRAIGHT DENIM",
-          "url": "https://people.com/jessica-alba-transitional-outfit-quince-clothing-september-2026-12094583"
-        },
-        {
-          "label": "PEOPLE · PENÉLOPE CRUZ WIDE-LEG DENIM / 2 PICKS",
-          "url": "https://people.com/penelope-cruz-olivia-wilde-capsule-wardrobe-september-2026-12034985"
-        },
-        {
-          "label": "INSTYLE · KATIE HOLMES TROUSER JEANS / 7 PICKS",
-          "url": "https://www.instyle.com/katie-holmes-trouser-jeans-fall-trend-12083782"
-        },
-        {
-          "label": "WHO WHAT WEAR · 6-WAY DENIM DISPERSION / PUBLIC INSTAGRAM + RETAIL",
-          "url": "https://www.whowhatwear.com/fashion/denim/fall-denim-trends-2026"
-        },
-        {
-          "label": "PEOPLE · KATE MOSS + 2 CELEBRITIES BOOTCUT / 9 PICKS",
-          "url": "https://people.com/kate-moss-jennifer-garner-bootcut-jeans-amazon-september-2026-12114285"
-        },
-        {
-          "label": "PEOPLE · ANNE HATHAWAY RELAXED WIDE-LEG DENIM",
-          "url": "https://people.com/anne-hathaway-shows-off-baby-bump-denim-shirt-jeans-at-nyc-event-12115412"
-        },
-        {
-          "label": "INSTYLE · NICOLE KIDMAN STRAIGHT JEANS / 4 PICKS",
-          "url": "https://www.instyle.com/nicole-kidman-jeans-button-down-fall-outfit-12122232"
-        },
-        {
-          "label": "PEOPLE · REESE WITHERSPOON + SHARON STONE FLARE / 9 PICKS",
-          "url": "https://people.com/reese-witherspoon-flare-jeans-amazon-september-2026-12124218"
-        },
-        {
-          "label": "PEOPLE · GIGI HADID + JOANNA GAINES FLARE / BOOTCUT",
-          "url": "https://people.com/gigi-hadid-joanna-gaines-flare-jeans-amazon-september-2026-12066913"
-        },
-        {
-          "label": "PEOPLE · TAYLOR SWIFT HIGH-RISE / STRAIGHT + BAGGY + WIDE",
-          "url": "https://people.com/taylor-swift-high-waisted-jeans-september-2026-12066895"
-        },
-        {
-          "label": "WHO WHAT WEAR · JENNIFER LOPEZ WIDE-LEG LACE-PANELLED DENIM",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lopez-wide-leg-lace-panelled-jeans-outfit-2026"
-        },
-        {
-          "label": "WHO WHAT WEAR · HALLE BERRY + RILEY KEOUGH + NYC PUDDLE JEANS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/puddle-jeans-heels-outfit-trend-new-york-2026"
-        },
-        {
-          "label": "PEOPLE · HIGH-RISE + SKINNY + WIDE-LEG DENIM DISPERSION",
-          "url": "https://people.com/best-celebrity-outfits-this-week-09-27-12067011"
-        },
-        {
-          "label": "PEOPLE · JUSTINE LUPE + MARISKA HARGITAY + SIENNA MILLER + FLORENCE PUGH WIDE-LEG",
-          "url": "https://people.com/justine-lupe-mariska-hargitay-wide-leg-jeans-september-2026-12136930"
-        },
-        {
-          "label": "PAGE SIX · CAROLE RADZIWILL INSTAGRAM / LOOSE BOOT JEANS REPEAT",
-          "url": "https://pagesix.com/2026/09/29/style/rhony-star-carole-radziwill-wears-these-levis-jeans-on-repeat/"
-        },
-        {
-          "label": "INSTYLE · KATE HUDSON + JENNIFER LOPEZ + HALLE BERRY BARREL JEANS",
-          "url": "https://www.instyle.com/look-of-the-day-2026-10-01-12152332"
-        },
-        {
-          "label": "MARIE CLAIRE · PFW SPLIT-HEM + GRUNGE + BARREL DENIM REPEAT",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/"
-        },
-        {
-          "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM / BLACK SLIM-STRAIGHT JEANS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/black-jeans-white-sneakers-outfit-elsa-hosk-2026"
-        },
-        {
-          "label": "INSTYLE · CHRISTINA AGUILERA INSTAGRAM / SCULPTED LOW-RISE BOOTCUT",
-          "url": "https://www.instyle.com/christina-aguilera-cinched-low-rise-jeans-scarf-top-12158252"
-        },
-        {
-          "label": "PEOPLE · UMA THURMAN + OPRAH + JESSICA BIEL / WIDE + BARREL + TRACK PANTS",
-          "url": "https://people.com/celebrity-inspired-wide-leg-pants-jeans-amazon-october-2026-12164440"
-        },
-        {
-          "label": "MARIE CLAIRE · ZENDAYA + DUA LIPA DENIM FIT DISPERSION",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
-        },
-        {
-          "label": "PEOPLE · JENNIFER ANISTON + KATE HUDSON + JENNIFER LAWRENCE / BAGGY + BARREL + CARGO",
-          "url": "https://people.com/best-celebrity-outfits-this-week-10-11-12144953"
-        },
-        {
-          "label": "PEOPLE · NICOLE KIDMAN INSTAGRAM + JESSICA ALBA + JESSICA BIEL WIDE TROUSERS",
-          "url": "https://people.com/nicole-kidman-jessica-alba-fall-trousers-nordstrom-12166824"
-        },
-        {
-          "label": "PEOPLE · MILA KUNIS + KATE HUDSON BARREL JEANS",
-          "url": "https://people.com/mila-kunis-barrel-jeans-amazon-deals-october-2026-12171834"
-        },
-        {
-          "label": "INSTYLE · NYC REPEATED BARREL-DENIM STREET EXPOSURE",
-          "url": "https://www.instyle.com/nyc-fall-fashion-trends-amazon-october-2026-12174039"
-        },
-        {
-          "label": "MARIE CLAIRE · DAISY EDGAR-JONES STRAIGHT-JEAN REPEAT",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-11-2026/"
-        },
-        {
-          "label": "INSTYLE · KRISTEN BELL ROOMY INDIGO WIDE-LEG FOLLOW-UP",
+          "label": "INSTYLE · KRISTEN BELL ROOMY INDIGO DENIM · OCT 21",
           "url": "https://www.instyle.com/look-of-the-day-2026-10-21-12186578"
+        },
+        {
+          "label": "WHO WHAT WEAR · KRISTEN BELL PUDDLE JEANS · OCT 23",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/kristen-bell-puddle-jeans-white-t-shirt-black-heels-outfit-2026"
+        },
+        {
+          "label": "INSTYLE · FOUR-WAY DENIM FIT DISPERSION · OCT 23",
+          "url": "https://www.instyle.com/stylist-approved-autumn-2026-denim-trends-amazon-12185894"
         }
       ]
     },
     {
       "id": "live-ballet-sneakers",
-      "keyword": "BALLET SNEAKERS",
+      "keyword": "BALLET FLATS & SNEAKERS",
       "category": "ITEM",
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Nicole Kidman·Bella Hadid·Jennifer Lawrence에 이어 Zoë Kravitz의 블랙 발레 플랫 후속 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 10일 Gigi Hadid의 메시 메리제인 발레 플랫, 10월 11일 Katie Holmes의 메리제인 플랫, 10월 15일 뉴욕 거리의 반복 관측에 이어 10월 17일 Marie Claire 주간 결산은 Zoë Kravitz가 블랙 발레 플랫을 다시 착용한 룩을 확인했습니다. 여러 인물과 거리 노출이 이어져 SOCIAL·UP을 유지했습니다. 같은 룩의 카프리·스카프는 별도 수요 건수로 중복 계산하지 않았고, 상품 편성·가격은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Angelina Jolie·Jennifer Lopez의 여행 착장과 스타일리스트 추천이 겹쳐 발레 플랫·스니커 하이브리드 흐름이 UP을 유지했습니다.",
+      "detail": "10월 23일 People은 Angelina Jolie의 JFK 공항 블랙 발레 플랫과 Jennifer Lopez의 별도 여행 착장을 함께 확인했고, Katie Holmes·Kendall Jenner의 글러브 플랫 사례도 재확인했습니다. 같은 날 InStyle의 데님 가이드에는 발레 스니커가 슬림 슈즈 대안으로 편성됐습니다. 서로 다른 인물과 활용 장면이 이어져 SOCIAL·UP을 유지했습니다. 베스트셀러 표기·가격·후기 수는 최근 7일 판매량으로 해석하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · NICOLE KIDMAN + LAURA DERN + SALLY FIELD",
-          "url": "https://people.com/nicole-kidman-laura-dern-sally-field-ballet-sneakers-amazon-september-2026-12124209"
+          "label": "PEOPLE · ANGELINA JOLIE + JENNIFER LOPEZ BALLET FLATS · OCT 23",
+          "url": "https://people.com/angelina-jolie-ballet-flats-amazon-october-2026-12185954"
         },
         {
-          "label": "MARIE CLAIRE · BELLA HADID + VIVAIA CELEBRITY REPEAT",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/bella-hadid-vivaia-ballet-sneakers-saint-laurent-suede-bag-nyc/"
+          "label": "INSTYLE · BALLET SNEAKER IN CURRENT DENIM STYLING · OCT 23",
+          "url": "https://www.instyle.com/stylist-approved-autumn-2026-denim-trends-amazon-12185894"
         },
         {
-          "label": "INSTYLE · PUMA BALLET MULE + SATIN-LACE VARIANTS / 6 PICKS",
-          "url": "https://www.instyle.com/puma-speedcat-ballet-sneaker-mules-12137235"
-        },
-        {
-          "label": "INSTYLE · LAURA DERN + NICOLE KIDMAN + BELLA HADID + JULIA ROBERTS",
-          "url": "https://www.instyle.com/laura-dern-ballet-sneakers-fall-amazon-12147293"
-        },
-        {
-          "label": "INSTYLE · JENNIFER LAWRENCE + BELLA HADID + DAKOTA JOHNSON / LACELESS SNEAKERS",
-          "url": "https://www.instyle.com/jennifer-lawrence-slip-on-vans-sneaker-trend-12062844"
-        },
-        {
-          "label": "PEOPLE · KATE MIDDLETON + ANGELINA JOLIE + JENNIFER LAWRENCE / FLATS + MARY JANE SNEAKERS",
-          "url": "https://people.com/angelina-jolie-kate-middleton-ballet-flats-mary-jane-shoes-amazon-october-2026-12066433"
-        },
-        {
-          "label": "MARIE CLAIRE · GIGI HADID MESH MARY JANE BALLET FLATS",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
-        },
-        {
-          "label": "PEOPLE · KATIE HOLMES MARY JANE FLATS FOLLOW-UP",
-          "url": "https://people.com/best-celebrity-outfits-this-week-10-11-12144953"
-        },
-        {
-          "label": "INSTYLE · NYC REPEATED BALLET-SNEAKER STREET EXPOSURE",
-          "url": "https://www.instyle.com/nyc-fall-fashion-trends-amazon-october-2026-12174039"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ BLACK BALLET-FLAT FOLLOW-UP",
+          "label": "MARIE CLAIRE · ZOË KRAVITZ BLACK BALLET FLATS · OCT 17",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-11-2026/"
         }
       ]
@@ -366,16 +82,20 @@
       "direction": "NEW",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "파리의 실착 관측과 Emma Stone·Kendall Jenner·Sabrina Carpenter의 서로 다른 노출이 겹쳐 신규 컬러 신호로 편입했습니다.",
-      "detail": "10월 19~21일 공개 자료에서 Who What Wear는 5개의 공개 Instagram·패션 인물 착장과 여러 2027 S/S 런웨이 사례를 함께 제시했고, InStyle은 파리 여성들의 반복 착용 관측과 Emma Stone·Kendall Jenner·Sabrina Carpenter의 서로 다른 착장을 확인했습니다. 런웨이 예측만으로 분류하지 않고 현재 실착 사례가 겹친 점을 근거로 SOCIAL·NEW로 기록했습니다. 공개 검색량·판매량·플랫폼 순위는 확인되지 않아 수치화하지 않았습니다.",
+      "summary": "파리 실착과 Emma Stone·Kendall Jenner·Sabrina Carpenter의 개별 노출이 최근 관측창에 남아 신규 컬러 신호를 유지했습니다.",
+      "detail": "10월 19~21일 공개 자료에서 파리 거리와 Emma Stone·Kendall Jenner·Sabrina Carpenter의 서로 다른 코발트 블루 착장이 확인됐고, 10월 18일 스타일리스트도 밝은 코발트 니트를 현재 대안으로 제시했습니다. 런웨이 예측만으로 분류하지 않고 현재 실착이 겹친 점을 근거로 SOCIAL·NEW를 유지했습니다. 공개 검색량·판매량·플랫폼 순위는 확인되지 않아 수치화하지 않았습니다.",
       "sources": [
         {
-          "label": "INSTYLE · PARIS STREET + 3 CELEBRITY KLEIN BLUE SIGNALS",
+          "label": "INSTYLE · PARIS STREET + 3 CELEBRITY KLEIN BLUE SIGNALS · OCT 21",
           "url": "https://www.instyle.com/paris-stylist-klein-blue-fall-picks-12184774"
         },
         {
-          "label": "WHO WHAT WEAR · 5 PUBLIC INSTAGRAM LOOKS + RUNWAY CROSS-CHECK",
+          "label": "WHO WHAT WEAR · PUBLIC INSTAGRAM COBALT LOOKS · OCT 19",
           "url": "https://www.whowhatwear.com/fashion/trends/cobalt-blue-color-trend-2027"
+        },
+        {
+          "label": "PEOPLE · STYLIST COBALT KNIT SIGNAL · OCT 18",
+          "url": "https://people.com/stylist-recommended-fall-fashion-trends-amazon-october-2026-12178103"
         }
       ]
     },
@@ -386,92 +106,16 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Lola Tung이 Bella Hadid가 들었던 동일한 Coachtopia 슬라우치 숄더백을 다시 착용해 HOLD에서 UP으로 재상향했습니다.",
-      "detail": "10월 20일 Lola Tung이 Coachtopia Alter/Ego 슬라우치 숄더백을 착용했고, 9월 Bella Hadid의 동일 모델 착장과 PinkPantheress 캠페인 노출에 이어진 별도 공개 사례로 확인됐습니다. 동일 제품이 품절됐다는 사실은 공개 상태로만 기록하며 최근 판매량·판매 속도·플랫폼 순위로 환산하지 않았습니다. 최근 7일의 독립 후속 착장이 기존 클러치 반대 신호보다 강해 SOCIAL·UP으로 조정했습니다.",
+      "summary": "Lola Tung의 Coachtopia 슬라우치 백 후속 착장과 스타일리스트의 기능성 숄더백 추천이 겹쳐 UP을 유지했습니다.",
+      "detail": "10월 20일 Lola Tung이 Bella Hadid가 앞서 들었던 동일한 Coachtopia Alter/Ego 슬라우치 숄더백을 착용했고, 10월 18일 스타일리스트 기사도 마이크로 백 대신 수납 가능한 숄더백을 제시했습니다. 전자는 독립 실착, 후자는 전문가·상품 편성 신호로 구분해 SOCIAL·UP을 유지했습니다. 품절 상태·가격·할인은 최근 판매량이나 판매 속도로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · 3 CELEBRITIES / ROOMY TOTES",
-          "url": "https://people.com/julia-roberts-angelina-jolie-katie-holmes-tote-bag-amazon-august-2026-12025875"
-        },
-        {
-          "label": "WHO WHAT WEAR · ZOË KRAVITZ SLOUCHY BAG",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-crop-flare-jeans-block-heel-pumps-trends-zoe-kravitz"
-        },
-        {
-          "label": "HARPER'S BAZAAR · 15 SLOUCHY BAG PICKS",
-          "url": "https://www.harpersbazaar.com/fashion/trends/g73521371/best-slouchy-bags-2026/"
-        },
-        {
-          "label": "MUSINSA · SLOUCHY SHOULDER BAG / 135 REVIEWS",
-          "url": "https://www.musinsa.com/products/4677982"
-        },
-        {
-          "label": "29CM · ARKET SLOUCHY LEATHER TOTE",
-          "url": "https://www.29cm.co.kr/products/3777897"
-        },
-        {
-          "label": "KREAM · THE ROW SLOUCHY BANANA BAG",
-          "url": "https://kream.co.kr/products/194768"
-        },
-        {
-          "label": "WHO WHAT WEAR · SLOUCHY OVERSIZED CLUTCH / 4 PICKS",
-          "url": "https://www.whowhatwear.com/fashion/fall/dated-fall-fashion-trends"
-        },
-        {
-          "label": "PEOPLE · DAKOTA JOHNSON LARGE SLOUCHY TOTE",
-          "url": "https://people.com/dakota-johnson-suede-tote-bag-amazon-august-2026-12034952"
-        },
-        {
-          "label": "VOGUE · ZOË KRAVITZ LARGE SLOUCHY SHOULDER BAG",
-          "url": "https://www.vogue.com/article/whatever-the-season-zoe-kravitz-backs-these-it-girl-staples"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ THE ROW SHOULDER BAG",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flats-trend-fall-zoe-kravitz-2026/"
-        },
-        {
-          "label": "PEOPLE · DAKOTA JOHNSON 3 TOTES + CELEBRITY REPEAT",
-          "url": "https://people.com/dakota-johnson-quince-large-tote-bags-12107496"
-        },
-        {
-          "label": "HARPER'S BAZAAR · OLSEN TWINS OVERSIZED BAGS",
-          "url": "https://www.harpersbazaar.com/celebrity/latest/a73668170/let-mary-kate-and-ashley-olsen-inspire-you-with-their-totally-different-takes-on-transitional-dressing/"
-        },
-        {
-          "label": "REAL SIMPLE · SLOUCHY HOBO / 2,700+ RATINGS",
-          "url": "https://www.realsimple.com/hoxis-slouchy-hobo-shoulder-bag-amazon-september-2026-12071806"
-        },
-        {
-          "label": "INSTYLE · KATIE HOLMES + ANNE HATHAWAY / 13 ROOMY BAGS",
-          "url": "https://www.instyle.com/katie-holmes-anne-hathaway-oversized-tote-bags-12112824"
-        },
-        {
-          "label": "INSTYLE · KATIE HOLMES + BELLA HADID + ALEXA CHUNG / 3,300+ RATINGS",
-          "url": "https://www.instyle.com/katie-holmes-bella-hadid-oversized-bag-trend-12128180"
-        },
-        {
-          "label": "PEOPLE · KATIE HOLMES ROOMY BROWN TOTE FOLLOW-UP",
-          "url": "https://people.com/katie-holmes-tote-bags-amazon-september-2026-12124474"
-        },
-        {
-          "label": "INSTYLE · JULIA ROBERTS + TRACEE ELLIS ROSS / ALEX MILL COLOR SOLD OUT",
-          "url": "https://www.instyle.com/alex-mill-tote-bag-julia-roberts-mom-approved-12140826"
-        },
-        {
-          "label": "MARIE CLAIRE · KENDALL JENNER PFW MAXI FLAP + INSTAGRAM STORY",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/chanel-maxi-flap-bag-kendall-jenner-paris-fashion-week/"
-        },
-        {
-          "label": "BUSINESS INSIDER · GOOGLE TRENDS OVERSIZE BAGS +5,000% YOY",
-          "url": "https://www.businessinsider.com/fall-fashion-trends-status-symbols-2026-10"
-        },
-        {
-          "label": "WHO WHAT WEAR · 5 PUBLIC INSTAGRAM CLUTCH LOOKS / COUNTER-SIGNAL",
-          "url": "https://www.whowhatwear.com/fashion/handbags/best-fall-clutches"
-        },
-        {
-          "label": "MARIE CLAIRE · LOLA TUNG + BELLA HADID SAME SLOUCHY BAG FOLLOW-UP",
+          "label": "MARIE CLAIRE · LOLA TUNG + BELLA HADID SAME SLOUCHY BAG · OCT 20",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/bella-hadid-lola-tung-coachtopia-alter-ego-bag/"
+        },
+        {
+          "label": "PEOPLE · STYLIST ROOMY SHOULDER-BAG SIGNAL · OCT 18",
+          "url": "https://people.com/stylist-recommended-fall-fashion-trends-amazon-october-2026-12178103"
         }
       ]
     },
@@ -482,43 +126,15 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Zoë Kravitz의 목·머리 스카프 반복에 Jennifer Lawrence의 벨벳 스카프 후속 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 12일 Zoë Kravitz의 시어 스키니 스카프와 10월 17일 레드 삼각 헤드스카프에 이어, 10월 20일 Who What Wear는 Jennifer Lawrence가 지난주 뉴욕에서 핑크 벨벳 스카프를 착용한 별도 룩을 확인했습니다. 서로 다른 인물과 소재·연출에서 공개 착장이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 벨벳 스카프 6종 편성·가격은 판매량이나 순위로 해석하지 않았고, 같은 착장의 진·가방·신발도 별도 수요 건수로 중복 계산하지 않았습니다.",
+      "summary": "Zoë Kravitz의 삼각 헤드스카프와 Jennifer Lawrence의 벨벳 스카프가 서로 다른 연출로 이어져 UP을 유지했습니다.",
+      "detail": "10월 17일 Zoë Kravitz의 레드 삼각 헤드스카프와 10월 20일 Jennifer Lawrence의 핑크 벨벳 넥 스카프가 별도 착장으로 확인됐습니다. 서로 다른 인물·소재·착용 위치에서 후속 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 상품 6종 편성·가격은 판매량이나 플랫폼 순위로 해석하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · 4 CELEBRITIES / 4 STYLING METHODS / 10 SCARVES",
-          "url": "https://people.com/pamela-anderson-kate-moss-fall-scarf-trend-nordstrom-12124496"
-        },
-        {
-          "label": "VOGUE · NYFW SILK FRINGE SCARF AS WAIST BELT / 5 PICKS",
-          "url": "https://www.vogue.com/article/top-of-the-carts-fashion-week"
-        },
-        {
-          "label": "WHO WHAT WEAR · MILAN STREET-STYLE CHUNKY SCARF REPEAT / 3 PICKS",
-          "url": "https://www.whowhatwear.com/fashion/street-style/milan-fashion-week-street-style-trends-september-2026"
-        },
-        {
-          "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM / PARIS SILK SCARF",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/black-jeans-white-sneakers-outfit-elsa-hosk-2026"
-        },
-        {
-          "label": "INSTYLE · CHRISTINA AGUILERA INSTAGRAM / SILK SCARF TOP",
-          "url": "https://www.instyle.com/christina-aguilera-cinched-low-rise-jeans-scarf-top-12158252"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ SCARF FOLLOW-UP",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-4-2026/"
-        },
-        {
-          "label": "WHO WHAT WEAR · ZOË KRAVITZ SHEER SKINNY SCARF FOLLOW-UP",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/sheer-skinny-scarf-trend-zoe-kravitz"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ TRIANGLE HEADSCARF FOLLOW-UP",
+          "label": "MARIE CLAIRE · ZOË KRAVITZ TRIANGLE HEADSCARF · OCT 17",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-outfits-week-of-october-11-2026/"
         },
         {
-          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE VELVET SCARF FOLLOW-UP",
+          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE VELVET SCARF · OCT 20",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/velvet-scarf-trend-jennifer-lawrence"
         }
       ]
@@ -527,23 +143,27 @@
       "id": "live-classic-loafers",
       "keyword": "CLASSIC LOAFERS",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Taylor Swift·Jennifer Lopez·Katie Holmes·Kate Middleton·Uma Thurman의 로퍼 착장이 연속 확인돼 신규 흐름으로 편입했습니다.",
-      "detail": "10월 18일 InStyle은 Kate Middleton의 슬림 로퍼 착장과 소프트·비구조적 로퍼 방향을 확인했고, 10월 18~19일 People은 Taylor Swift·Jennifer Lopez·Katie Holmes의 서로 다른 로퍼 스타일링을 함께 보도했습니다. 같은 관측창에 Who What Wear는 Uma Thurman의 네이비 로퍼 착장을 추가했습니다. 서로 다른 인물·색상·스타일링으로 반복 노출돼 SOCIAL·NEW로 분류했습니다. 기사 속 상품 9종 편성·가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Elsa Hosk·파리 인플루언서·Julia Roberts의 별도 로퍼 착장이 더해져 NEW에서 UP으로 상향했습니다.",
+      "detail": "10월 20일 Who What Wear는 Elsa Hosk의 공개 Instagram 로퍼 착장과 프랑스 인플루언서의 별도 크롭 진·로퍼 조합을 함께 확인했습니다. 10월 17일 Julia Roberts도 다크 와이드 진에 러그솔 로퍼를 착용했고, 10월 18~19일 Taylor Swift·Jennifer Lopez·Katie Holmes·Kate Middleton·Uma Thurman 사례가 이어졌습니다. 최근 관측창의 독립 인물·스타일링이 늘어 SOCIAL·UP으로 조정했습니다. 상품 가격·할인은 수요 수치로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · TAYLOR SWIFT + JENNIFER LOPEZ + KATIE HOLMES LOAFER REPEAT",
+          "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM + PARIS LOAFER REPEAT · OCT 20",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-loafers-outfit-elsa-hosk-2026"
+        },
+        {
+          "label": "PEOPLE · JULIA ROBERTS LUG-SOLE LOAFERS · OCT 17",
+          "url": "https://people.com/julia-roberts-martha-stewart-wide-leg-jeans-amazon-october-2026-12174836"
+        },
+        {
+          "label": "PEOPLE · TAYLOR SWIFT + JENNIFER LOPEZ + KATIE HOLMES · OCT 18",
           "url": "https://people.com/taylor-swift-jennifer-lopez-stylist-approved-loafers-october-2026-12144998"
         },
         {
-          "label": "INSTYLE · KATE MIDDLETON SLIM LOAFERS / SOFT-STRUCTURE SIGNAL",
+          "label": "INSTYLE · KATE MIDDLETON SLIM LOAFERS · OCT 18",
           "url": "https://www.instyle.com/kate-middleton-penny-loafers-get-the-look-12154815"
-        },
-        {
-          "label": "WHO WHAT WEAR · UMA THURMAN NAVY LOAFERS",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/navy-loafers-trend-uma-thurman-2026"
         }
       ]
     },
@@ -551,34 +171,18 @@
       "id": "live-clogs-suede-mules",
       "keyword": "CLOGS & SUEDE MULES",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Anne Hathaway·Jennifer Lawrence·Lily Collins의 클로그 착장에 Jennifer Lawrence의 10월 20일 브라운 스웨이드 클로그 후속 노출이 더해졌습니다.",
-      "detail": "10월 20일 Jennifer Lawrence가 뉴욕에서 브라운 스웨이드 클로그를 착용한 별도 룩이 확인됐습니다. 기존 Anne Hathaway·Jennifer Lawrence·Lily Collins의 거리 착장과 Rachel Bilson·Lucy Hale 등의 공개 Instagram 신호 위에 최신 후속 사례가 더해져 SOCIAL·UP을 유지했습니다. 기사 속 상품 편성·가격·할인·누적 평점은 최근 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Jennifer Lawrence의 브라운 스웨이드 클로그는 관측됐지만 최근 7일의 독립 후속 인물이 줄어 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 20일 Jennifer Lawrence가 뉴욕에서 브라운 스웨이드 클로그를 착용한 별도 룩이 확인됐습니다. 다만 Anne Hathaway·Lily Collins·Rachel Bilson·Lucy Hale 등 앞선 사례의 상당수가 현재 7일 관측창 밖으로 이동했고, 공개된 누적 평점·할인 정보도 최신 수요로 볼 수 없습니다. 최신 실착 한 건은 유효하지만 반복 강도가 약해져 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
         {
-          "label": "INSTYLE · ANNE HATHAWAY INSTAGRAM + JENNIFER LAWRENCE CLOG REPEAT",
-          "url": "https://www.instyle.com/anne-hathaway-rothys-casual-clogs-sale-12166351"
-        },
-        {
-          "label": "PAGE SIX · 5 CELEBRITY / INSTAGRAM CLOG SIGNALS + 10.8K CUMULATIVE REVIEWS",
-          "url": "https://pagesix.com/2026/10/16/style/anne-hathaway-jennifer-lawrence-rothys-clogs-are-25-off/"
-        },
-        {
-          "label": "PEOPLE · ANNE HATHAWAY + LUCY HALE INSTAGRAM CLOG FOLLOW-UP",
-          "url": "https://people.com/anne-hathaway-rothys-clogs-deal-october-2026-12144995"
-        },
-        {
-          "label": "USA TODAY · ANNE HATHAWAY + LILY COLLINS CLOG REPEAT",
-          "url": "https://shopping.yahoo.com/style/shoes/articles/fall-clogs-anne-hathaway-lily-204353760.html"
-        },
-        {
-          "label": "VOGUE · JENNIFER LAWRENCE BROWN SUEDE CLOG FOLLOW-UP",
+          "label": "VOGUE · JENNIFER LAWRENCE BROWN SUEDE CLOG · OCT 20",
           "url": "https://www.vogue.com/article/jennifer-lawrence-neon-green-bag-stealth-wealth-2026-10-20"
         },
         {
-          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE BROWN SUEDE MULES",
+          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE BROWN SUEDE MULES · OCT 20",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/apple-green-bag-trend-jennifer-lawrence-2026"
         }
       ]
