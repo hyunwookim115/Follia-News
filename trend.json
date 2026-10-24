@@ -1,25 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T08:48:26+09:00",
+  "generatedAt": "2026-10-25T08:20:01+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
-      "id": "live-relaxed-straight-denim",
-      "keyword": "RELAXED STRAIGHT DENIM",
+      "id": "live-roomy-barrel-denim",
+      "keyword": "ROOMY / BARREL DENIM",
       "category": "SILHOUETTE",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Kristen Bell·Julia Roberts·Florence Pugh의 볼륨 데님 노출은 이어졌지만 와이드·퍼들·시가렛·플레어로 핏이 분산돼 HOLD를 유지했습니다.",
-      "detail": "10월 17일 Julia Roberts의 다크 워시 와이드 진, 10월 21~23일 Kristen Bell의 룸미 인디고·퍼들 진에 이어 10월 23일 Florence Pugh의 공항 와이드 진 착장이 확인됐습니다. 같은 관측창의 스타일리스트 가이드는 배기·와이드·시가렛·하이라이즈 플레어를 동시에 제시했습니다. 편안한 데님 방향은 강하지만 하나의 정확한 핏으로 수렴하지 않아 SOCIAL·HOLD를 유지했습니다. 가격·할인·후기는 판매량이나 순위로 환산하지 않았습니다.",
+      "summary": "Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진 착장이 한 핏으로 수렴해 HOLD에서 UP으로 상향했습니다.",
+      "detail": "10월 24일 People은 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson이 모두 여유로운 곡선형 배럴 진을 착용한 사례를 함께 확인했습니다. 앞선 관측창에는 와이드·퍼들·시가렛·플레어가 분산돼 있었지만, 이번에는 서로 다른 네 인물의 최근 착장이 배기 테이퍼드·아치형 레그라는 공통 실루엣으로 모였습니다. 반복 실착을 근거로 SOCIAL·UP으로 조정했습니다. 기사 속 대체 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "PEOPLE · JULIA ROBERTS + 3 CELEBRITIES WIDE-LEG · OCT 17",
-          "url": "https://people.com/julia-roberts-martha-stewart-wide-leg-jeans-amazon-october-2026-12174836"
-        },
-        {
-          "label": "INSTYLE · KRISTEN BELL ROOMY INDIGO DENIM · OCT 21",
-          "url": "https://www.instyle.com/look-of-the-day-2026-10-21-12186578"
+          "label": "PEOPLE · JENNIFER LAWRENCE + SOFÍA VERGARA + MILA KUNIS + KATE HUDSON BARREL JEANS · OCT 24",
+          "url": "https://people.com/jennifer-lawrence-sofia-vergara-barrel-jeans-amazon-october-2026-12190496"
         },
         {
           "label": "WHO WHAT WEAR · KRISTEN BELL PUDDLE JEANS · OCT 23",
@@ -30,7 +26,7 @@
           "url": "https://people.com/florence-pugh-bomber-jacket-wide-leg-jeans-blueprint-october-2026-12145045"
         },
         {
-          "label": "INSTYLE · FOUR-WAY DENIM FIT DISPERSION · OCT 23",
+          "label": "INSTYLE · FOUR-WAY DENIM FIT CONTEXT · OCT 23",
           "url": "https://www.instyle.com/stylist-approved-autumn-2026-denim-trends-amazon-12185894"
         }
       ]
@@ -72,6 +68,10 @@
         {
           "label": "MARIE CLAIRE · HAILEY BIEBER + PARIS COBALT STREET LOOKS · OCT 23",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/cobalt-blue-coat-hailey-bieber/"
+        },
+        {
+          "label": "WHO WHAT WEAR · HAILEY BIEBER COBALT COAT FOLLOW-UP · OCT 24",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-coat-trend-hailey-bieber-2026"
         },
         {
           "label": "INSTYLE · PARIS STREET + 3 CELEBRITY KLEIN BLUE SIGNALS · OCT 21",
@@ -163,7 +163,7 @@
       "market": "GLOBAL",
       "signal": "SOCIAL",
       "summary": "파리 거리·소셜 피드와 Daisy Edgar-Jones의 별도 착장에서 밀리터리·밴드 재킷이 겹쳐 신규 편입했습니다.",
-      "detail": "10월 23일 InStyle은 파리 패션위크 거리와 소셜 피드에서 밴드·나폴레옹 재킷의 반복 노출을 관측했고, 같은 날 Marie Claire는 Daisy Edgar-Jones의 별도 밀리터리 재킷 착장과 런던·파리 실착을 함께 확인했습니다. 단순 시즌 예측이 아니라 여러 도시의 현재 노출이 겹친 점을 근거로 SOCIAL·NEW로 기록했습니다. 상품 수·가격·할인은 수요량이나 순위로 환산하지 않았습니다.",
+      "detail": "10월 23일 InStyle은 파리 패션위크 거리와 소셜 피드에서 밴드·나폴레옹 재킷의 반복 노출을 관측했고, Marie Claire는 Daisy Edgar-Jones의 별도 밀리터리 재킷 착장과 런던·파리 실착을 함께 확인했습니다. 10월 24일 InStyle의 재킷 편성에서도 밀리터리 장식이 반복됐지만, 이는 상품·에디터 편성 신호이므로 독립 수요 건수로 더하지 않았습니다. 여러 도시의 현재 실착을 근거로 SOCIAL·NEW를 유지했습니다.",
       "sources": [
         {
           "label": "INSTYLE · PARIS STREET + SOCIAL-FEED BAND JACKETS · OCT 23",
@@ -172,6 +172,10 @@
         {
           "label": "MARIE CLAIRE · DAISY EDGAR-JONES + PARIS/LONDON MILITARY JACKETS · OCT 23",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/french-girl-fall-winter-trends-2026/"
+        },
+        {
+          "label": "INSTYLE · MILITARY-EMBELLISHED JACKET EDIT · OCT 24",
+          "url": "https://www.instyle.com/mom-fall-jackets-trends-nordstrom-12188755"
         }
       ]
     },
