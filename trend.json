@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T08:20:01+09:00",
+  "generatedAt": "2026-10-26T08:13:02+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -11,11 +11,15 @@
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
       "summary": "Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진 착장이 한 핏으로 수렴해 HOLD에서 UP으로 상향했습니다.",
-      "detail": "10월 24일 People은 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson이 모두 여유로운 곡선형 배럴 진을 착용한 사례를 함께 확인했습니다. 앞선 관측창에는 와이드·퍼들·시가렛·플레어가 분산돼 있었지만, 이번에는 서로 다른 네 인물의 최근 착장이 배기 테이퍼드·아치형 레그라는 공통 실루엣으로 모였습니다. 반복 실착을 근거로 SOCIAL·UP으로 조정했습니다. 기사 속 대체 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
+      "detail": "10월 24일 People은 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson이 여유로운 곡선형 배럴 진을 착용한 사례를 함께 확인했습니다. 10월 25일 InStyle은 Margot Robbie·Jennifer Lopez 등의 플레어 진을 별도 흐름으로 제시해 데님 전체가 하나의 핏으로 완전히 수렴한 것은 아닙니다. 다만 배럴 계열 안에서는 서로 다른 네 인물의 최근 착장이 배기 테이퍼드·아치형 레그로 반복돼 SOCIAL·UP을 유지했습니다. 상품 가격·할인·후기는 판매량이나 순위로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · JENNIFER LAWRENCE + SOFÍA VERGARA + MILA KUNIS + KATE HUDSON BARREL JEANS · OCT 24",
           "url": "https://people.com/jennifer-lawrence-sofia-vergara-barrel-jeans-amazon-october-2026-12190496"
+        },
+        {
+          "label": "INSTYLE · MARGOT ROBBIE + JENNIFER LOPEZ FLARE COUNTER-SIGNAL · OCT 25",
+          "url": "https://www.instyle.com/how-to-style-flare-jeans-fall-trend-12186925"
         },
         {
           "label": "WHO WHAT WEAR · KRISTEN BELL PUDDLE JEANS · OCT 23",
@@ -24,10 +28,6 @@
         {
           "label": "PEOPLE · FLORENCE PUGH WIDE-LEG AIRPORT DENIM · OCT 23",
           "url": "https://people.com/florence-pugh-bomber-jacket-wide-leg-jeans-blueprint-october-2026-12145045"
-        },
-        {
-          "label": "INSTYLE · FOUR-WAY DENIM FIT CONTEXT · OCT 23",
-          "url": "https://www.instyle.com/stylist-approved-autumn-2026-denim-trends-amazon-12185894"
         }
       ]
     },
@@ -38,8 +38,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Angelina Jolie·Jennifer Lopez에 이어 Zoë Kravitz와 파리 실착의 힐드 발레 플랫이 더해져 UP을 유지했습니다.",
-      "detail": "10월 23일 People은 Angelina Jolie의 JFK 공항 블랙 발레 플랫과 Jennifer Lopez의 별도 여행 착장을 확인했습니다. 같은 날 Marie Claire는 Zoë Kravitz의 스웨이드 블록힐 발레 플랫과 파리 거리의 메탈릭 힐드 플랫을 함께 제시했습니다. 서로 다른 인물·도시·굽 변형에서 반복 노출돼 SOCIAL·UP을 유지했습니다. 베스트셀러 표기·가격·후기 수는 최근 7일 판매량으로 해석하지 않았습니다.",
+      "summary": "Angelina Jolie·Jennifer Lopez·Zoë Kravitz에 이어 Zendaya·Katie Holmes·Kendall Jenner 등의 최신 플랫 편성이 반복돼 UP을 유지했습니다.",
+      "detail": "10월 23일 Angelina Jolie·Jennifer Lopez의 여행 착장과 Zoë Kravitz·파리 거리의 힐드 발레 플랫이 확인됐습니다. 10월 25일 People은 Zendaya·Katie Holmes·Gwyneth Paltrow·Kendall Jenner의 발레·메리제인·글러브 플랫을 다시 묶어 제시했습니다. 최신 독립 착장과 반복 편성이 겹쳐 SOCIAL·UP을 유지했습니다. 상품 가격·할인·후기는 최근 7일 판매량으로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · ANGELINA JOLIE + JENNIFER LOPEZ BALLET FLATS · OCT 23",
@@ -50,8 +50,8 @@
           "url": "https://www.marieclaire.com/fashion/celebrity-style/french-girl-fall-winter-trends-2026/"
         },
         {
-          "label": "INSTYLE · BALLET SNEAKER IN CURRENT DENIM STYLING · OCT 23",
-          "url": "https://www.instyle.com/stylist-approved-autumn-2026-denim-trends-amazon-12185894"
+          "label": "PEOPLE · ZENDAYA + KATIE HOLMES + KENDALL JENNER FLAT-SHOE EDIT · OCT 25",
+          "url": "https://people.com/celebrity-inspired-flats-trends-october-2026-12145057"
         }
       ]
     },
@@ -90,8 +90,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Lola Tung의 슬라우치 백에 Florence Pugh의 공항 룸미 토트 후속 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 20일 Lola Tung이 Bella Hadid가 앞서 들었던 동일한 Coachtopia Alter/Ego 슬라우치 숄더백을 착용했고, 10월 23일 Florence Pugh는 공항 룩에 룸미 토트를 들었습니다. 10월 18일 스타일리스트 기사도 마이크로 백 대신 수납 가능한 숄더백을 제시했습니다. 독립 실착이 이어져 SOCIAL·UP을 유지했습니다. 품절·가격·할인은 최근 판매량이나 판매 속도로 환산하지 않았습니다.",
+      "summary": "Lola Tung·Florence Pugh에 이어 Zoë Kravitz의 실용적 룸미 토트 착장이 더해져 UP을 유지했습니다.",
+      "detail": "10월 20일 Lola Tung의 Coachtopia 슬라우치 숄더백, 10월 23일 Florence Pugh의 공항 룸미 토트에 이어 10월 25일 InStyle은 Zoë Kravitz의 뉴욕 촬영 룩에서 대형 레더 토트를 확인했습니다. 서로 다른 인물과 활용 장면에서 수납형 가방 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 상품 가격·할인은 최근 판매량이나 판매 속도로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · LOLA TUNG + BELLA HADID SAME SLOUCHY BAG · OCT 20",
@@ -102,8 +102,8 @@
           "url": "https://people.com/florence-pugh-bomber-jacket-wide-leg-jeans-blueprint-october-2026-12145045"
         },
         {
-          "label": "PEOPLE · STYLIST ROOMY SHOULDER-BAG SIGNAL · OCT 18",
-          "url": "https://people.com/stylist-recommended-fall-fashion-trends-amazon-october-2026-12178103"
+          "label": "INSTYLE · ZOË KRAVITZ ROOMY NYC TOTE · OCT 25",
+          "url": "https://www.instyle.com/zoe-kravitz-nyc-outfit-quince-clothing-october-2026-12190082"
         }
       ]
     },
@@ -134,24 +134,16 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Elsa Hosk·파리 인플루언서·Julia Roberts의 별도 로퍼 착장이 더해져 NEW에서 UP으로 상향했습니다.",
-      "detail": "10월 20일 Who What Wear는 Elsa Hosk의 공개 Instagram 로퍼 착장과 프랑스 인플루언서의 별도 크롭 진·로퍼 조합을 함께 확인했습니다. 10월 17일 Julia Roberts도 다크 와이드 진에 러그솔 로퍼를 착용했고, 10월 18~19일 Taylor Swift·Jennifer Lopez·Katie Holmes·Kate Middleton·Uma Thurman 사례가 이어졌습니다. 최근 관측창의 독립 인물·스타일링이 늘어 SOCIAL·UP으로 조정했습니다. 상품 가격·할인은 수요 수치로 환산하지 않았습니다.",
+      "summary": "Elsa Hosk·파리 인플루언서의 실착에 Kate Middleton 등 셀러브리티 플랫 편성이 이어져 UP을 유지했습니다.",
+      "detail": "10월 20일 Elsa Hosk의 공개 Instagram 로퍼 착장과 프랑스 인플루언서의 크롭 진·로퍼 조합이 확인됐습니다. 10월 25일 People은 Kate Middleton의 로퍼를 포함해 Zendaya·Jennifer Lopez·Katie Holmes 등 여러 셀러브리티의 플랫 슈즈 흐름을 다시 편성했습니다. 최신 편성은 상품 수요 건수가 아니라 노출 신호로만 반영해 SOCIAL·UP을 유지했습니다. 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM + PARIS LOAFER REPEAT · OCT 20",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-loafers-outfit-elsa-hosk-2026"
         },
         {
-          "label": "PEOPLE · JULIA ROBERTS LUG-SOLE LOAFERS · OCT 17",
-          "url": "https://people.com/julia-roberts-martha-stewart-wide-leg-jeans-amazon-october-2026-12174836"
-        },
-        {
-          "label": "PEOPLE · TAYLOR SWIFT + JENNIFER LOPEZ + KATIE HOLMES · OCT 18",
-          "url": "https://people.com/taylor-swift-jennifer-lopez-stylist-approved-loafers-october-2026-12144998"
-        },
-        {
-          "label": "INSTYLE · KATE MIDDLETON SLIM LOAFERS · OCT 18",
-          "url": "https://www.instyle.com/kate-middleton-penny-loafers-get-the-look-12154815"
+          "label": "PEOPLE · KATE MIDDLETON + CELEBRITY FLAT-SHOE EDIT · OCT 25",
+          "url": "https://people.com/celebrity-inspired-flats-trends-october-2026-12145057"
         }
       ]
     },
