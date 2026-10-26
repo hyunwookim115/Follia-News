@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T08:13:02+09:00",
+  "generatedAt": "2026-10-27T08:38:19+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,12 +10,16 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진 착장이 한 핏으로 수렴해 HOLD에서 UP으로 상향했습니다.",
-      "detail": "10월 24일 People은 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson이 여유로운 곡선형 배럴 진을 착용한 사례를 함께 확인했습니다. 10월 25일 InStyle은 Margot Robbie·Jennifer Lopez 등의 플레어 진을 별도 흐름으로 제시해 데님 전체가 하나의 핏으로 완전히 수렴한 것은 아닙니다. 다만 배럴 계열 안에서는 서로 다른 네 인물의 최근 착장이 배기 테이퍼드·아치형 레그로 반복돼 SOCIAL·UP을 유지했습니다. 상품 가격·할인·후기는 판매량이나 순위로 환산하지 않았습니다.",
+      "summary": "Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진에 Kristen Bell의 릴랙스드 와이드 진이 이어져 UP을 유지했습니다.",
+      "detail": "10월 24일 People은 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 곡선형 배럴 진 사례를 함께 확인했고, 10월 25일 Kristen Bell은 뉴욕에서 다크 워시 릴랙스드 와이드 진을 착용했습니다. 플레어 진 반대 신호도 있어 데님 전체가 한 핏으로 수렴한 것은 아니지만, 여유 있는 볼륨 계열 노출은 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · JENNIFER LAWRENCE + SOFÍA VERGARA + MILA KUNIS + KATE HUDSON BARREL JEANS · OCT 24",
           "url": "https://people.com/jennifer-lawrence-sofia-vergara-barrel-jeans-amazon-october-2026-12190496"
+        },
+        {
+          "label": "PEOPLE · KRISTEN BELL RELAXED WIDE-LEG DENIM · OCT 25",
+          "url": "https://people.com/kristen-bell-wide-leg-jeans-crossbody-bag-blueprint-amazon-october-2026-12145024"
         },
         {
           "label": "INSTYLE · MARGOT ROBBIE + JENNIFER LOPEZ FLARE COUNTER-SIGNAL · OCT 25",
@@ -24,10 +28,6 @@
         {
           "label": "WHO WHAT WEAR · KRISTEN BELL PUDDLE JEANS · OCT 23",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/kristen-bell-puddle-jeans-white-t-shirt-black-heels-outfit-2026"
-        },
-        {
-          "label": "PEOPLE · FLORENCE PUGH WIDE-LEG AIRPORT DENIM · OCT 23",
-          "url": "https://people.com/florence-pugh-bomber-jacket-wide-leg-jeans-blueprint-october-2026-12145045"
         }
       ]
     },
@@ -38,9 +38,17 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Angelina Jolie·Jennifer Lopez·Zoë Kravitz에 이어 Zendaya·Katie Holmes·Kendall Jenner 등의 최신 플랫 편성이 반복돼 UP을 유지했습니다.",
-      "detail": "10월 23일 Angelina Jolie·Jennifer Lopez의 여행 착장과 Zoë Kravitz·파리 거리의 힐드 발레 플랫이 확인됐습니다. 10월 25일 People은 Zendaya·Katie Holmes·Gwyneth Paltrow·Kendall Jenner의 발레·메리제인·글러브 플랫을 다시 묶어 제시했습니다. 최신 독립 착장과 반복 편성이 겹쳐 SOCIAL·UP을 유지했습니다. 상품 가격·할인·후기는 최근 7일 판매량으로 해석하지 않았습니다.",
+      "summary": "Dakota Johnson·Kendall Jenner·Iris Law의 최신 착장과 도시별 컬러 변형이 더해져 UP을 유지했습니다.",
+      "detail": "10월 25일 Dakota Johnson과 Kendall Jenner가 로스앤젤레스 저녁 외출에서 각기 다른 발레 플랫을 동시에 착용했고, Iris Law는 레몬색 힐드 발레 플랫을 별도 착장으로 선보였습니다. 같은 관측창에는 뉴욕·런던·파리·상파울루 거리에서 퍼플·레드·코발트 변형이 반복됐습니다. 기존 Angelina Jolie·Jennifer Lopez·Zoë Kravitz 사례에 독립 후속이 더해져 SOCIAL·UP을 유지했습니다. 상품 가격·할인·품절 여부는 최근 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
+        {
+          "label": "MARIE CLAIRE · DAKOTA JOHNSON + KENDALL JENNER BALLET-FLAT REUNION · OCT 25",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/dakota-johnson-kendall-jenner-ballet-flats/"
+        },
+        {
+          "label": "MARIE CLAIRE · IRIS LAW + FOUR-CITY COLOR BALLET-FLAT SIGNAL · OCT 25",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flat-color-trends-2026-iris-law/"
+        },
         {
           "label": "PEOPLE · ANGELINA JOLIE + JENNIFER LOPEZ BALLET FLATS · OCT 23",
           "url": "https://people.com/angelina-jolie-ballet-flats-amazon-october-2026-12185954"
@@ -48,10 +56,6 @@
         {
           "label": "MARIE CLAIRE · ZOË KRAVITZ + PARIS HEELED BALLET FLATS · OCT 23",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/french-girl-fall-winter-trends-2026/"
-        },
-        {
-          "label": "PEOPLE · ZENDAYA + KATIE HOLMES + KENDALL JENNER FLAT-SHOE EDIT · OCT 25",
-          "url": "https://people.com/celebrity-inspired-flats-trends-october-2026-12145057"
         }
       ]
     },
