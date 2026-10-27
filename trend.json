@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T08:38:19+09:00",
+  "generatedAt": "2026-10-28T08:40:42+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
       "id": "live-roomy-barrel-denim",
       "keyword": "ROOMY / BARREL DENIM",
       "category": "SILHOUETTE",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진에 Kristen Bell의 릴랙스드 와이드 진이 이어져 UP을 유지했습니다.",
-      "detail": "10월 24일 People은 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 곡선형 배럴 진 사례를 함께 확인했고, 10월 25일 Kristen Bell은 뉴욕에서 다크 워시 릴랙스드 와이드 진을 착용했습니다. 플레어 진 반대 신호도 있어 데님 전체가 한 핏으로 수렴한 것은 아니지만, 여유 있는 볼륨 계열 노출은 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "배럴·와이드 볼륨은 이어졌지만 Bella Hadid의 스토브파이프와 플레어 반대 흐름이 강해져 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 24일 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진과 10월 25일 Kristen Bell의 릴랙스드 와이드 진이 확인됐습니다. 그러나 10월 27일 Bella Hadid가 로우라이즈 스토브파이프 진을 착용했고, Margot Robbie·Jennifer Lopez의 플레어 흐름도 같은 관측창에 남아 있습니다. 여유 있는 볼륨 데님 신호는 유효하지만 한 방향의 상승으로 보기 어려워 SOCIAL·HOLD로 조정했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · JENNIFER LAWRENCE + SOFÍA VERGARA + MILA KUNIS + KATE HUDSON BARREL JEANS · OCT 24",
@@ -22,12 +22,12 @@
           "url": "https://people.com/kristen-bell-wide-leg-jeans-crossbody-bag-blueprint-amazon-october-2026-12145024"
         },
         {
-          "label": "INSTYLE · MARGOT ROBBIE + JENNIFER LOPEZ FLARE COUNTER-SIGNAL · OCT 25",
-          "url": "https://www.instyle.com/how-to-style-flare-jeans-fall-trend-12186925"
+          "label": "MARIE CLAIRE · BELLA HADID STOVEPIPE COUNTER-SIGNAL · OCT 27",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/stovepipe-denim-trend-2026-bella-hadid/"
         },
         {
-          "label": "WHO WHAT WEAR · KRISTEN BELL PUDDLE JEANS · OCT 23",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/kristen-bell-puddle-jeans-white-t-shirt-black-heels-outfit-2026"
+          "label": "INSTYLE · MARGOT ROBBIE + JENNIFER LOPEZ FLARE COUNTER-SIGNAL · OCT 25",
+          "url": "https://www.instyle.com/how-to-style-flare-jeans-fall-trend-12186925"
         }
       ]
     },
@@ -76,14 +76,6 @@
         {
           "label": "WHO WHAT WEAR · HAILEY BIEBER COBALT COAT FOLLOW-UP · OCT 24",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-coat-trend-hailey-bieber-2026"
-        },
-        {
-          "label": "INSTYLE · PARIS STREET + 3 CELEBRITY KLEIN BLUE SIGNALS · OCT 21",
-          "url": "https://www.instyle.com/paris-stylist-klein-blue-fall-picks-12184774"
-        },
-        {
-          "label": "WHO WHAT WEAR · PUBLIC INSTAGRAM COBALT LOOKS · OCT 19",
-          "url": "https://www.whowhatwear.com/fashion/trends/cobalt-blue-color-trend-2027"
         }
       ]
     },
@@ -98,10 +90,6 @@
       "detail": "10월 20일 Lola Tung의 Coachtopia 슬라우치 숄더백, 10월 23일 Florence Pugh의 공항 룸미 토트에 이어 10월 25일 InStyle은 Zoë Kravitz의 뉴욕 촬영 룩에서 대형 레더 토트를 확인했습니다. 서로 다른 인물과 활용 장면에서 수납형 가방 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 상품 가격·할인은 최근 판매량이나 판매 속도로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "MARIE CLAIRE · LOLA TUNG + BELLA HADID SAME SLOUCHY BAG · OCT 20",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/bella-hadid-lola-tung-coachtopia-alter-ego-bag/"
-        },
-        {
           "label": "PEOPLE · FLORENCE PUGH ROOMY AIRPORT TOTE · OCT 23",
           "url": "https://people.com/florence-pugh-bomber-jacket-wide-leg-jeans-blueprint-october-2026-12145045"
         },
@@ -115,18 +103,14 @@
       "id": "live-scarf-styling",
       "keyword": "SCARF STYLING",
       "category": "ACCESSORY",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence의 벨벳 스카프에 Zoë Kravitz의 마룬 니트 스카프 후속 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 20일 Jennifer Lawrence의 핑크 벨벳 넥 스카프에 이어, 10월 22일 Zoë Kravitz가 뉴욕에서 마룬 스웨터와 동일 톤 스카프를 착용했습니다. 서로 다른 인물·소재·색조에서 최신 후속 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 상품 편성·가격은 판매량이나 플랫폼 순위로 해석하지 않았습니다.",
+      "summary": "Zoë Kravitz의 마룬 스카프는 관측창에 남아 있지만 독립 후속 착장이 이어지지 않아 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 22일 Zoë Kravitz가 뉴욕에서 마룬 스웨터와 동일 톤 스카프를 착용한 사례는 유효합니다. 다만 Jennifer Lawrence의 벨벳 스카프 사례가 현재 7일 관측창 밖으로 이동했고, 이후 별도 인물의 신규 실착·검색·수요 신호가 확인되지 않았습니다. 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE VELVET SCARF · OCT 20",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/velvet-scarf-trend-jennifer-lawrence"
-        },
-        {
-          "label": "INSTYLE · ZOË KRAVITZ MAROON SCARF FOLLOW-UP · OCT 22",
+          "label": "INSTYLE · ZOË KRAVITZ MAROON SCARF · OCT 22",
           "url": "https://www.instyle.com/zoe-kravitz-subtly-switches-up-her-hair-debuting-fresh-dye-job-12189029"
         }
       ]
@@ -139,12 +123,8 @@
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
       "summary": "Elsa Hosk·파리 인플루언서의 실착에 Kate Middleton 등 셀러브리티 플랫 편성이 이어져 UP을 유지했습니다.",
-      "detail": "10월 20일 Elsa Hosk의 공개 Instagram 로퍼 착장과 프랑스 인플루언서의 크롭 진·로퍼 조합이 확인됐습니다. 10월 25일 People은 Kate Middleton의 로퍼를 포함해 Zendaya·Jennifer Lopez·Katie Holmes 등 여러 셀러브리티의 플랫 슈즈 흐름을 다시 편성했습니다. 최신 편성은 상품 수요 건수가 아니라 노출 신호로만 반영해 SOCIAL·UP을 유지했습니다. 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "detail": "10월 25일 People은 Kate Middleton의 로퍼를 포함해 Zendaya·Jennifer Lopez·Katie Holmes 등 여러 셀러브리티의 플랫 슈즈 흐름을 함께 편성했습니다. Elsa Hosk의 공개 Instagram 로퍼 사례는 관측창 밖으로 이동했지만, 최신 다인물 편성이 남아 있어 SOCIAL·UP을 유지했습니다. 해당 자료는 상품 수요 건수가 아니라 반복 노출 신호로만 반영했고 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "WHO WHAT WEAR · ELSA HOSK INSTAGRAM + PARIS LOAFER REPEAT · OCT 20",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-loafers-outfit-elsa-hosk-2026"
-        },
         {
           "label": "PEOPLE · KATE MIDDLETON + CELEBRITY FLAT-SHOE EDIT · OCT 25",
           "url": "https://people.com/celebrity-inspired-flats-trends-october-2026-12145057"
@@ -176,22 +156,18 @@
       ]
     },
     {
-      "id": "live-neon-green-bags",
-      "keyword": "NEON GREEN BAGS",
-      "category": "COLOR",
+      "id": "live-clogs-mules",
+      "keyword": "CLOGS & MULES",
+      "category": "ITEM",
       "direction": "NEW",
       "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence의 뉴욕 착장과 파리 패션위크 거리의 다수 그린 백 노출이 겹쳐 신규 편입했습니다.",
-      "detail": "10월 20일 Jennifer Lawrence가 뉴욕에서 네온 그린 톱핸들 백을 착용했고, 최근 파리 패션위크 거리에서는 Balenciaga Rodeo·Le City를 포함한 밝은 그린 백이 여러 참석자에게 반복 확인됐습니다. 10월 23일 Marie Claire의 별도 결산도 파리와 Lawrence의 교차 노출을 재확인했습니다. 현재 실착 반복을 근거로 SOCIAL·NEW로 기록했으며, 런웨이는 보조 맥락일 뿐 판매량·검색량·플랫폼 순위로 해석하지 않았습니다.",
+      "signal": "PLATFORM",
+      "summary": "InStyle이 Meryl Streep·Jennifer Aniston의 클로그 착장과 3가지 스타일링을 다시 집중 편성해 실시간 플랫폼 신호로 재진입했습니다.",
+      "detail": "10월 27일 InStyle은 Meryl Streep의 거리 착장과 Jennifer Aniston의 공개 Instagram 클로그 룩을 함께 묶고, 에디터의 별도 뮬 착용까지 세 가지 방식으로 재편성했습니다. 일부 원 착장 시점은 최근 7일이 아니므로 최신 실착 건수로 계산하지 않았고, 이번 관측창의 반복 플랫폼 노출만 근거로 PLATFORM·NEW로 기록했습니다. 가격·할인·상품 목록은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
-          "label": "MARIE CLAIRE · JENNIFER LAWRENCE + PARIS NEON GREEN BAGS · OCT 20",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/neon-green-bag-color-trend-jennifer-lawrence/"
-        },
-        {
-          "label": "MARIE CLAIRE · FRENCH-GIRL + JENNIFER LAWRENCE BRIGHT GREEN BAGS · OCT 23",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/french-girl-fall-winter-trends-2026/"
+          "label": "INSTYLE · MERYL STREEP + JENNIFER ANISTON + EDITOR CLOG/MULE EDIT · OCT 27",
+          "url": "https://www.instyle.com/fall-clogs-trend-styling-12186995"
         }
       ]
     }
