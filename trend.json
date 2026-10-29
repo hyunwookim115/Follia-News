@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T08:51:25+09:00",
+  "generatedAt": "2026-10-30T08:24:44+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -42,8 +42,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Dakota Johnson·Kendall Jenner·Iris Law의 최신 착장과 도시별 컬러 변형이 더해져 UP을 유지했습니다.",
-      "detail": "10월 25일 Dakota Johnson과 Kendall Jenner가 로스앤젤레스 저녁 외출에서 각기 다른 발레 플랫을 동시에 착용했고, Iris Law는 레몬색 힐드 발레 플랫을 별도 착장으로 선보였습니다. 같은 관측창에는 뉴욕·런던·파리·상파울루 거리에서 퍼플·레드·코발트 변형이 반복됐습니다. 기존 Angelina Jolie·Jennifer Lopez·Zoë Kravitz 사례에 독립 후속이 더해져 SOCIAL·UP을 유지했습니다. 상품 가격·할인·품절 여부는 최근 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Dakota Johnson·Kendall Jenner·Iris Law에 Rosalía의 발레 포인트 슈즈 착장이 더해져 UP을 유지했습니다.",
+      "detail": "10월 25일 Dakota Johnson과 Kendall Jenner가 각기 다른 발레 플랫을 동시에 착용했고, Iris Law는 레몬색 힐드 발레 플랫을 별도 착장으로 선보였습니다. 10월 28일 Rosalía는 뉴욕에서 리본과 포인트 토를 강조한 아카이브 발레 플랫폼을 착용해 발레 슈즈 코드의 독립 후속을 만들었습니다. 실루엣은 플랫부터 플랫폼까지 분산되지만 발레 기반 신호가 반복돼 SOCIAL·UP을 유지했습니다. 상품 가격·품절 여부는 최근 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · DAKOTA JOHNSON + KENDALL JENNER BALLET-FLAT REUNION · OCT 25",
@@ -54,12 +54,8 @@
           "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flat-color-trends-2026-iris-law/"
         },
         {
-          "label": "PEOPLE · ANGELINA JOLIE + JENNIFER LOPEZ BALLET FLATS · OCT 23",
-          "url": "https://people.com/angelina-jolie-ballet-flats-amazon-october-2026-12185954"
-        },
-        {
-          "label": "MARIE CLAIRE · ZOË KRAVITZ + PARIS HEELED BALLET FLATS · OCT 23",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/french-girl-fall-winter-trends-2026/"
+          "label": "VOGUE · ROSALÍA BALLET-PLATFORM SHOES · OCT 29",
+          "url": "https://www.vogue.com/article/rosalia-no-bag-is-too-big-no-ballet-pump-too-bitchy-2026-10-29"
         }
       ]
     },
@@ -67,16 +63,12 @@
       "id": "live-klein-cobalt-blue",
       "keyword": "KLEIN / COBALT BLUE",
       "category": "COLOR",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Hailey Bieber의 코발트 블루 코트와 파리 거리의 반복 착장이 더해져 NEW에서 UP으로 상향했습니다.",
-      "detail": "10월 23일 Marie Claire는 Hailey Bieber의 코발트 블루 코트 실착과 파리 패션위크 참석자들의 코발트·레드 조합을 함께 확인했습니다. 10월 19~21일 파리 거리와 Emma Stone·Kendall Jenner·Sabrina Carpenter의 개별 노출에 독립 후속 사례가 더해져 SOCIAL·UP으로 조정했습니다. 런웨이 사례는 보조 맥락으로만 사용했고, 공개 검색량·판매량·플랫폼 순위는 확인되지 않아 수치화하지 않았습니다.",
+      "summary": "Hailey Bieber의 코발트 코트 후속 보도는 남아 있지만 관측창 내 신규 독립 착장이 이어지지 않아 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 24일 Who What Wear의 Hailey Bieber 코발트 코트 후속 보도는 현재 관측창에 남아 있습니다. 그러나 같은 착장의 재보도 이후 별도 인물·도시에서 신규 실착, 공개 검색 또는 수요 신호가 확인되지 않았습니다. 단일 착장을 반복 집계하지 않고 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다. 공개 검색량·판매량·플랫폼 순위는 확인되지 않아 수치화하지 않았습니다.",
       "sources": [
-        {
-          "label": "MARIE CLAIRE · HAILEY BIEBER + PARIS COBALT STREET LOOKS · OCT 23",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/cobalt-blue-coat-hailey-bieber/"
-        },
         {
           "label": "WHO WHAT WEAR · HAILEY BIEBER COBALT COAT FOLLOW-UP · OCT 24",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-coat-trend-hailey-bieber-2026"
@@ -90,16 +82,16 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Lola Tung·Florence Pugh에 이어 Zoë Kravitz의 실용적 룸미 토트 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 20일 Lola Tung의 Coachtopia 슬라우치 숄더백, 10월 23일 Florence Pugh의 공항 룸미 토트에 이어 10월 25일 InStyle은 Zoë Kravitz의 뉴욕 촬영 룩에서 대형 레더 토트를 확인했습니다. 서로 다른 인물과 활용 장면에서 수납형 가방 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 상품 가격·할인은 최근 판매량이나 판매 속도로 환산하지 않았습니다.",
+      "summary": "Zoë Kravitz의 룸미 토트에 Rosalía의 초대형 레더 백 착장이 더해져 UP을 유지했습니다.",
+      "detail": "10월 25일 Zoë Kravitz의 뉴욕 촬영 룩에서 대형 레더 토트가 확인됐고, 10월 28일 Rosalía는 뉴욕에서 1미터 길이의 커스텀 레더 백을 직접 들고 등장했습니다. Rosalía의 가방은 판매용 대중 제품이 아니라 단일 커스텀 피스이므로 수요 건수로 계산하지 않았지만, 서로 다른 인물과 맥락에서 큰 수납형 가방의 공개 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 가격·향후 출시 계획은 판매량이나 판매 속도로 환산하지 않았습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · FLORENCE PUGH ROOMY AIRPORT TOTE · OCT 23",
-          "url": "https://people.com/florence-pugh-bomber-jacket-wide-leg-jeans-blueprint-october-2026-12145045"
-        },
         {
           "label": "INSTYLE · ZOË KRAVITZ ROOMY NYC TOTE · OCT 25",
           "url": "https://www.instyle.com/zoe-kravitz-nyc-outfit-quince-clothing-october-2026-12190082"
+        },
+        {
+          "label": "VOGUE · ROSALÍA OVERSIZED LEATHER BAG · OCT 29",
+          "url": "https://www.vogue.com/article/rosalia-no-bag-is-too-big-no-ballet-pump-too-bitchy-2026-10-29"
         }
       ]
     },
@@ -107,11 +99,11 @@
       "id": "live-robe-fur-trimmed-coats",
       "keyword": "ROBE / FUR-TRIMMED COATS",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Kendall Jenner·Hailey Bieber·Laura Harrier·Alexa Chung의 최근 착장이 로브형·퍼 트리밍 코트로 수렴해 신규 편입했습니다.",
-      "detail": "10월 26일 W는 Kendall Jenner의 로브형 Conner Ives 코트와 Hailey Bieber의 공개 Instagram 착장을 함께 확인했고, 10월 27일 Vogue는 Kendall Jenner의 이번 주 착장과 Laura Harrier의 이달 착장을 묶어 보도했습니다. 10월 28일 Marie Claire는 Alexa Chung의 10월 22일 퍼 칼라 랩 코트 착장을 추가로 확인했습니다. 서로 다른 인물·브랜드에서 로브형과 퍼 트리밍이 반복돼 SOCIAL·NEW로 기록했습니다. Aligne 코트의 2,000명 대기목록은 2025년 수치이므로 이번 7일 수요로 계산하지 않았고, 가격·재입고는 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Kendall Jenner·Hailey Bieber·Laura Harrier·Alexa Chung에 Jennifer Lawrence의 새 하우스 코트 착장이 더해져 NEW에서 UP으로 상향했습니다.",
+      "detail": "10월 26~28일 Kendall Jenner·Hailey Bieber·Laura Harrier·Alexa Chung의 로브형·퍼 트리밍 코트가 반복 확인된 데 이어, 10월 29일 Jennifer Lawrence가 뉴욕에서 바닥까지 내려오는 벨벳 하우스 코트를 별도 착용했습니다. 서로 다른 인물·브랜드에서 로브형 코트의 현재 실착이 이어져 SOCIAL·UP으로 상향했습니다. Aligne 코트의 2,000명 대기목록은 2025년 수치이므로 이번 7일 수요로 계산하지 않았고, 가격·재입고는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "W MAGAZINE · KENDALL JENNER + HAILEY BIEBER ROBE COATS · OCT 26",
@@ -124,6 +116,10 @@
         {
           "label": "MARIE CLAIRE · ALEXA CHUNG FUR-COLLAR WRAP COAT · OCT 28",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/aligne-george-coat-restock-sienna-miller-alexa-chung/"
+        },
+        {
+          "label": "VOGUE · JENNIFER LAWRENCE VELVET HOUSE COAT · OCT 29",
+          "url": "https://www.vogue.com/article/jennifer-lawrence-is-taking-her-house-coat-and-slippers-out-on-the-town-2026-10-29"
         }
       ]
     },
@@ -134,8 +130,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "다인물 플랫 편성에 Katie Holmes의 최신 브라운 로퍼 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 25일 People은 Kate Middleton의 로퍼를 포함해 Zendaya·Jennifer Lopez·Katie Holmes 등 여러 셀러브리티의 플랫 슈즈 흐름을 함께 편성했습니다. 10월 28일 Harper's Bazaar는 Katie Holmes의 뉴욕 외출에서 브라운 레더 로퍼를 별도 확인했습니다. 최신 독립 착장이 더해져 SOCIAL·UP을 유지했습니다. 기사 속 상품 가격·할인은 판매량이나 플랫폼 순위로 해석하지 않았습니다.",
+      "summary": "다인물 플랫 편성에 Katie Holmes의 러치드 로퍼 착장이 독립 보도로 이어져 UP을 유지했습니다.",
+      "detail": "10월 25일 People은 Kate Middleton의 로퍼를 포함해 여러 셀러브리티의 플랫 슈즈 흐름을 함께 편성했습니다. 10월 28일 Harper's Bazaar가 Katie Holmes의 브라운 레더 로퍼를 확인했고, 10월 29일 Vogue는 같은 외출의 러치드 로퍼를 Jacob Elordi·Harry Styles의 플랫 착장과 함께 별도 편성했습니다. 동일 Holmes 착장은 한 건으로만 계산하되, 다인물 맥락의 반복 노출이 이어져 SOCIAL·UP을 유지했습니다. 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · KATE MIDDLETON + CELEBRITY FLAT-SHOE EDIT · OCT 25",
@@ -144,6 +140,10 @@
         {
           "label": "HARPER'S BAZAAR · KATIE HOLMES BROWN LEATHER LOAFERS · OCT 28",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74274304/katie-holmes-autumn-style-banana-republic-zankov-collaboration/"
+        },
+        {
+          "label": "VOGUE · KATIE HOLMES + JACOB ELORDI + HARRY STYLES LOAFER CONTEXT · OCT 29",
+          "url": "https://www.vogue.com/article/katie-holmes-fall-wardrobe-trending-accessories"
         }
       ]
     },
@@ -151,11 +151,11 @@
       "id": "live-military-band-jackets",
       "keyword": "MILITARY / BAND JACKETS",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "파리 거리·소셜 피드와 Daisy Edgar-Jones의 별도 착장에서 밀리터리·밴드 재킷이 겹쳐 신규 편입했습니다.",
-      "detail": "10월 23일 InStyle은 파리 패션위크 거리와 소셜 피드에서 밴드·나폴레옹 재킷의 반복 노출을 관측했고, Marie Claire는 Daisy Edgar-Jones의 별도 밀리터리 재킷 착장과 런던·파리 실착을 함께 확인했습니다. 10월 24일 InStyle의 재킷 편성에서도 밀리터리 장식이 반복됐지만, 이는 상품·에디터 편성 신호이므로 독립 수요 건수로 더하지 않았습니다. 여러 도시의 현재 실착을 근거로 SOCIAL·NEW를 유지했습니다.",
+      "summary": "파리·런던의 밀리터리 재킷 신호는 남아 있지만 10월 24일 이후 독립 후속이 없어 NEW에서 HOLD로 조정했습니다.",
+      "detail": "10월 23일 파리 거리·소셜 피드와 Daisy Edgar-Jones의 별도 착장에서 밴드·밀리터리 재킷이 겹쳤고, 10월 24일 상품 편성에서도 장식형 재킷이 반복됐습니다. 그러나 이후 신규 인물의 실착·공개 검색·수요 신호가 확인되지 않았습니다. 상품 편성은 독립 수요로 더하지 않고 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
         {
           "label": "INSTYLE · PARIS STREET + SOCIAL-FEED BAND JACKETS · OCT 23",
