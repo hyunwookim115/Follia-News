@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T08:24:44+09:00",
+  "generatedAt": "2026-10-31T08:26:06+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,13 +10,9 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Katie Holmes의 최신 배럴 진이 더해졌지만 스토브파이프·플레어 반대 흐름도 남아 있어 HOLD를 유지했습니다.",
-      "detail": "10월 24일 Jennifer Lawrence·Sofía Vergara·Mila Kunis·Kate Hudson의 배럴 진, 10월 25일 Kristen Bell의 릴랙스드 와이드 진에 이어 10월 28일 Katie Holmes의 다크 인디고 배럴 진 착장이 확인됐습니다. 그러나 10월 27일 Bella Hadid의 로우라이즈 스토브파이프 진과 Margot Robbie·Jennifer Lopez의 플레어 흐름도 같은 관측창에 남아 있습니다. 여유 있는 볼륨 데님 신호는 유효하지만 한 방향의 상승으로 보기 어려워 SOCIAL·HOLD를 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "Kristen Bell·Katie Holmes의 여유 있는 데님은 이어졌지만 스토브파이프·플레어 반대 흐름도 남아 있어 HOLD를 유지했습니다.",
+      "detail": "10월 25일 Kristen Bell의 릴랙스드 와이드 진과 10월 28일 Katie Holmes의 다크 인디고 배럴 진이 확인됐습니다. 그러나 10월 27일 Bella Hadid의 로우라이즈 스토브파이프 진과 10월 25일 Margot Robbie·Jennifer Lopez의 플레어 흐름도 같은 관측창에 남아 있습니다. 여유 있는 볼륨 데님 신호는 유효하지만 한 방향의 상승으로 보기 어려워 SOCIAL·HOLD를 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · JENNIFER LAWRENCE + SOFÍA VERGARA + MILA KUNIS + KATE HUDSON BARREL JEANS · OCT 24",
-          "url": "https://people.com/jennifer-lawrence-sofia-vergara-barrel-jeans-amazon-october-2026-12190496"
-        },
         {
           "label": "PEOPLE · KRISTEN BELL RELAXED WIDE-LEG DENIM · OCT 25",
           "url": "https://people.com/kristen-bell-wide-leg-jeans-crossbody-bag-blueprint-amazon-october-2026-12145024"
@@ -60,18 +56,22 @@
       ]
     },
     {
-      "id": "live-klein-cobalt-blue",
-      "keyword": "KLEIN / COBALT BLUE",
-      "category": "COLOR",
-      "direction": "HOLD",
+      "id": "live-rugby-polo-tops",
+      "keyword": "RUGBY / POLO TOPS",
+      "category": "ITEM",
+      "direction": "NEW",
       "market": "GLOBAL",
-      "signal": "SOCIAL",
-      "summary": "Hailey Bieber의 코발트 코트 후속 보도는 남아 있지만 관측창 내 신규 독립 착장이 이어지지 않아 UP에서 HOLD로 조정했습니다.",
-      "detail": "10월 24일 Who What Wear의 Hailey Bieber 코발트 코트 후속 보도는 현재 관측창에 남아 있습니다. 그러나 같은 착장의 재보도 이후 별도 인물·도시에서 신규 실착, 공개 검색 또는 수요 신호가 확인되지 않았습니다. 단일 착장을 반복 집계하지 않고 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다. 공개 검색량·판매량·플랫폼 순위는 확인되지 않아 수치화하지 않았습니다.",
+      "signal": "PLATFORM",
+      "summary": "Kristen Bell·Mila Kunis·Mindy Kaling·Reese Witherspoon·Julia Roberts의 최근 폴로·럭비 톱 편성이 반복돼 신규 편입했습니다.",
+      "detail": "10월 26일 Who What Wear는 Kristen Bell의 스트라이프 폴로 니트와 데님 착장을 최근 캡슐 워드로브의 핵심으로 편성했습니다. 10월 30일 People은 Kristen Bell·Mila Kunis·Mindy Kaling의 스트라이프 버전과 Reese Witherspoon·Julia Roberts의 뉴트럴 폴로를 함께 묶었습니다. 개별 착장 날짜가 모두 공개되지는 않아 실착 건수나 수요량으로 환산하지 않고, 최근 7일간 서로 다른 매체의 반복 편성만 근거로 PLATFORM·NEW로 기록했습니다. 상품 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · HAILEY BIEBER COBALT COAT FOLLOW-UP · OCT 24",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-coat-trend-hailey-bieber-2026"
+          "label": "WHO WHAT WEAR · KRISTEN BELL STRIPED POLO WARDROBE EDIT · OCT 26",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/kristen-bell-autumn-capsule-wardrobe-2026"
+        },
+        {
+          "label": "PEOPLE · FIVE-CELEBRITY RUGBY / POLO EDIT · OCT 30",
+          "url": "https://people.com/kristen-bell-mila-kunis-rugby-polo-shirts-october-2026-12145067"
         }
       ]
     },
@@ -148,26 +148,26 @@
       ]
     },
     {
-      "id": "live-military-band-jackets",
-      "keyword": "MILITARY / BAND JACKETS",
+      "id": "live-leather-outerwear",
+      "keyword": "LEATHER OUTERWEAR",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "NEW",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "파리·런던의 밀리터리 재킷 신호는 남아 있지만 10월 24일 이후 독립 후속이 없어 NEW에서 HOLD로 조정했습니다.",
-      "detail": "10월 23일 파리 거리·소셜 피드와 Daisy Edgar-Jones의 별도 착장에서 밴드·밀리터리 재킷이 겹쳤고, 10월 24일 상품 편성에서도 장식형 재킷이 반복됐습니다. 그러나 이후 신규 인물의 실착·공개 검색·수요 신호가 확인되지 않았습니다. 상품 편성은 독립 수요로 더하지 않고 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다.",
+      "summary": "Bella Hadid·Sydney Sweeney·Jenna Ortega·Céline Dion의 서로 다른 레더 재킷·트렌치 착장이 겹쳐 신규 편입했습니다.",
+      "detail": "10월 27일 Bella Hadid는 로스앤젤레스에서 구조적인 블랙 바이커 재킷을, 10월 28일 Sydney Sweeney는 뉴욕에서 브라운 레더 봄버를 착용했습니다. 10월 29일 InStyle은 Jenna Ortega의 블랙 레더 트렌치와 Céline Dion의 브라운 롱 트렌치를 함께 편성했습니다. 바이커·봄버·트렌치로 세부형은 분산되지만 서로 다른 인물과 도시에서 레더 아우터 노출이 이어져 SOCIAL·NEW로 기록했습니다. 기사 속 대체 상품·가격은 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "INSTYLE · PARIS STREET + SOCIAL-FEED BAND JACKETS · OCT 23",
-          "url": "https://www.instyle.com/military-jackets-fall-trend-12188590"
+          "label": "HARPER'S BAZAAR · BELLA HADID STRUCTURED LEATHER BIKER · OCT 28",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a74273315/bella-hadid-balmain-biker-jacket-los-angeles-street-style-photos/"
         },
         {
-          "label": "MARIE CLAIRE · DAISY EDGAR-JONES + PARIS/LONDON MILITARY JACKETS · OCT 23",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/french-girl-fall-winter-trends-2026/"
+          "label": "CELEBMAFIA · SYDNEY SWEENEY BROWN LEATHER BOMBER · OCT 28",
+          "url": "https://celebmafia.com/sydney-sweeney-in-a-brown-leather-jacket-and-jeans-filming-the-housemaids-secret-in-manhattan-4735546/"
         },
         {
-          "label": "INSTYLE · MILITARY-EMBELLISHED JACKET EDIT · OCT 24",
-          "url": "https://www.instyle.com/mom-fall-jackets-trends-nordstrom-12188755"
+          "label": "INSTYLE · JENNA ORTEGA + CÉLINE DION LEATHER TRENCHES · OCT 29",
+          "url": "https://www.instyle.com/celine-dion-jenna-ortega-leather-trench-coats-october-2026-12198493"
         }
       ]
     },
