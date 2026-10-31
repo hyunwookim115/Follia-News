@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T08:26:06+09:00",
+  "generatedAt": "2026-11-01T08:20:52+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,13 +10,9 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Kristen Bell·Katie Holmes의 여유 있는 데님은 이어졌지만 스토브파이프·플레어 반대 흐름도 남아 있어 HOLD를 유지했습니다.",
-      "detail": "10월 25일 Kristen Bell의 릴랙스드 와이드 진과 10월 28일 Katie Holmes의 다크 인디고 배럴 진이 확인됐습니다. 그러나 10월 27일 Bella Hadid의 로우라이즈 스토브파이프 진과 10월 25일 Margot Robbie·Jennifer Lopez의 플레어 흐름도 같은 관측창에 남아 있습니다. 여유 있는 볼륨 데님 신호는 유효하지만 한 방향의 상승으로 보기 어려워 SOCIAL·HOLD를 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "Katie Holmes의 배럴 진과 Bella Hadid의 스토브파이프 진이 동시에 남아 방향이 갈려 HOLD를 유지했습니다.",
+      "detail": "10월 28일 Katie Holmes의 다크 인디고 배럴 진이 확인됐지만, 10월 27일 Bella Hadid는 로우라이즈 스토브파이프 진을 착용했습니다. 이전 배럴·와이드 및 플레어 사례가 관측창 밖으로 이동하면서 현재는 상반된 두 실착만 남았습니다. 한 방향의 상승으로 보기 어려워 SOCIAL·HOLD를 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · KRISTEN BELL RELAXED WIDE-LEG DENIM · OCT 25",
-          "url": "https://people.com/kristen-bell-wide-leg-jeans-crossbody-bag-blueprint-amazon-october-2026-12145024"
-        },
         {
           "label": "HARPER'S BAZAAR · KATIE HOLMES BARREL JEANS · OCT 28",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74274304/katie-holmes-autumn-style-banana-republic-zankov-collaboration/"
@@ -24,10 +20,6 @@
         {
           "label": "MARIE CLAIRE · BELLA HADID STOVEPIPE COUNTER-SIGNAL · OCT 27",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/stovepipe-denim-trend-2026-bella-hadid/"
-        },
-        {
-          "label": "INSTYLE · MARGOT ROBBIE + JENNIFER LOPEZ FLARE COUNTER-SIGNAL · OCT 25",
-          "url": "https://www.instyle.com/how-to-style-flare-jeans-fall-trend-12186925"
         }
       ]
     },
@@ -35,20 +27,12 @@
       "id": "live-ballet-sneakers",
       "keyword": "BALLET FLATS & SNEAKERS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Dakota Johnson·Kendall Jenner·Iris Law에 Rosalía의 발레 포인트 슈즈 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 25일 Dakota Johnson과 Kendall Jenner가 각기 다른 발레 플랫을 동시에 착용했고, Iris Law는 레몬색 힐드 발레 플랫을 별도 착장으로 선보였습니다. 10월 28일 Rosalía는 뉴욕에서 리본과 포인트 토를 강조한 아카이브 발레 플랫폼을 착용해 발레 슈즈 코드의 독립 후속을 만들었습니다. 실루엣은 플랫부터 플랫폼까지 분산되지만 발레 기반 신호가 반복돼 SOCIAL·UP을 유지했습니다. 상품 가격·품절 여부는 최근 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Rosalía의 발레 플랫폼 착장은 남아 있지만 이전 플랫 신호가 관측창 밖으로 이동하고 독립 후속이 없어 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 28일 Rosalía가 뉴욕에서 리본과 포인트 토를 강조한 아카이브 발레 플랫폼을 착용한 사례는 유효합니다. 그러나 Dakota Johnson·Kendall Jenner·Iris Law의 10월 25일 사례가 현재 관측창 밖으로 이동했고, 이후 별도 인물의 신규 발레 플랫·스니커즈 실착이나 공개 수요 신호가 확인되지 않았습니다. 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다. 상품 가격·품절 여부는 최근 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "MARIE CLAIRE · DAKOTA JOHNSON + KENDALL JENNER BALLET-FLAT REUNION · OCT 25",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/dakota-johnson-kendall-jenner-ballet-flats/"
-        },
-        {
-          "label": "MARIE CLAIRE · IRIS LAW + FOUR-CITY COLOR BALLET-FLAT SIGNAL · OCT 25",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-flat-color-trends-2026-iris-law/"
-        },
         {
           "label": "VOGUE · ROSALÍA BALLET-PLATFORM SHOES · OCT 29",
           "url": "https://www.vogue.com/article/rosalia-no-bag-is-too-big-no-ballet-pump-too-bitchy-2026-10-29"
@@ -79,16 +63,12 @@
       "id": "live-slouchy-roomy-bags",
       "keyword": "SLOUCHY ROOMY BAGS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Zoë Kravitz의 룸미 토트에 Rosalía의 초대형 레더 백 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 25일 Zoë Kravitz의 뉴욕 촬영 룩에서 대형 레더 토트가 확인됐고, 10월 28일 Rosalía는 뉴욕에서 1미터 길이의 커스텀 레더 백을 직접 들고 등장했습니다. Rosalía의 가방은 판매용 대중 제품이 아니라 단일 커스텀 피스이므로 수요 건수로 계산하지 않았지만, 서로 다른 인물과 맥락에서 큰 수납형 가방의 공개 노출이 이어져 SOCIAL·UP을 유지했습니다. 기사 속 가격·향후 출시 계획은 판매량이나 판매 속도로 환산하지 않았습니다.",
+      "summary": "Rosalía의 초대형 레더 백은 관측창에 남아 있지만 별도 룸미 백 후속이 없어 UP에서 HOLD로 조정했습니다.",
+      "detail": "10월 28일 Rosalía가 뉴욕에서 1미터 길이의 커스텀 레더 백을 직접 든 사례는 유효합니다. 다만 Zoë Kravitz의 10월 25일 룸미 토트가 관측창 밖으로 이동했고, 이후 판매용 제품의 신규 실착·공개 검색·수요 신호가 확인되지 않았습니다. 단일 커스텀 피스를 수요 건수로 계산하지 않고 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
-        {
-          "label": "INSTYLE · ZOË KRAVITZ ROOMY NYC TOTE · OCT 25",
-          "url": "https://www.instyle.com/zoe-kravitz-nyc-outfit-quince-clothing-october-2026-12190082"
-        },
         {
           "label": "VOGUE · ROSALÍA OVERSIZED LEATHER BAG · OCT 29",
           "url": "https://www.vogue.com/article/rosalia-no-bag-is-too-big-no-ballet-pump-too-bitchy-2026-10-29"
@@ -130,13 +110,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "다인물 플랫 편성에 Katie Holmes의 러치드 로퍼 착장이 독립 보도로 이어져 UP을 유지했습니다.",
-      "detail": "10월 25일 People은 Kate Middleton의 로퍼를 포함해 여러 셀러브리티의 플랫 슈즈 흐름을 함께 편성했습니다. 10월 28일 Harper's Bazaar가 Katie Holmes의 브라운 레더 로퍼를 확인했고, 10월 29일 Vogue는 같은 외출의 러치드 로퍼를 Jacob Elordi·Harry Styles의 플랫 착장과 함께 별도 편성했습니다. 동일 Holmes 착장은 한 건으로만 계산하되, 다인물 맥락의 반복 노출이 이어져 SOCIAL·UP을 유지했습니다. 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Katie Holmes의 러치드 로퍼에 Gigi Hadid의 소프트 스웨이드 로퍼 착장이 더해져 UP을 유지했습니다.",
+      "detail": "10월 28일 Katie Holmes가 브라운 러치드 레더 로퍼를 착용했고, 같은 날 Gigi Hadid는 뉴욕에서 소프트 스웨이드 로퍼를 별도 착용했습니다. 10월 29일 Vogue와 Marie Claire의 후속 편성은 동일 착장을 각각 한 건으로만 계산했습니다. 서로 다른 인물의 최신 실착이 이어져 SOCIAL·UP을 유지했습니다. 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · KATE MIDDLETON + CELEBRITY FLAT-SHOE EDIT · OCT 25",
-          "url": "https://people.com/celebrity-inspired-flats-trends-october-2026-12145057"
-        },
         {
           "label": "HARPER'S BAZAAR · KATIE HOLMES BROWN LEATHER LOAFERS · OCT 28",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74274304/katie-holmes-autumn-style-banana-republic-zankov-collaboration/"
@@ -144,6 +120,10 @@
         {
           "label": "VOGUE · KATIE HOLMES + JACOB ELORDI + HARRY STYLES LOAFER CONTEXT · OCT 29",
           "url": "https://www.vogue.com/article/katie-holmes-fall-wardrobe-trending-accessories"
+        },
+        {
+          "label": "MARIE CLAIRE · GIGI HADID SOFT SUEDE LOAFERS · OCT 30",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/soft-loafers-trend-2026-gigi-hadid/"
         }
       ]
     },
@@ -175,15 +155,19 @@
       "id": "live-clogs-mules",
       "keyword": "CLOGS & MULES",
       "category": "ITEM",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "PLATFORM",
-      "summary": "InStyle이 Meryl Streep·Jennifer Aniston의 클로그 착장과 3가지 스타일링을 다시 집중 편성해 실시간 플랫폼 신호로 재진입했습니다.",
-      "detail": "10월 27일 InStyle은 Meryl Streep의 거리 착장과 Jennifer Aniston의 공개 Instagram 클로그 룩을 함께 묶고, 에디터의 별도 뮬 착용까지 세 가지 방식으로 재편성했습니다. 일부 원 착장 시점은 최근 7일이 아니므로 최신 실착 건수로 계산하지 않았고, 이번 관측창의 반복 플랫폼 노출만 근거로 PLATFORM·NEW로 기록했습니다. 가격·할인·상품 목록은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Jennifer Lawrence·Kate Hudson의 최신 스웨이드 클로그 착장이 추가돼 NEW에서 UP으로 상향했습니다.",
+      "detail": "10월 27일 InStyle의 Meryl Streep·Jennifer Aniston·에디터 클로그/뮬 편성에 이어, 10월 31일 People은 Jennifer Lawrence의 뉴욕 스웨이드 클로그와 Kate Hudson의 별도 트랙팬츠·클로그 착장을 함께 확인했습니다. 기존 플랫폼 재편성에 현재 인물의 독립 실착이 더해져 PLATFORM·UP으로 상향했습니다. Jennifer Garner의 과거 Instagram 사례는 이번 7일 실착 건수로 계산하지 않았고, 상품 가격·할인·후기는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "INSTYLE · MERYL STREEP + JENNIFER ANISTON + EDITOR CLOG/MULE EDIT · OCT 27",
           "url": "https://www.instyle.com/fall-clogs-trend-styling-12186995"
+        },
+        {
+          "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON SUEDE CLOGS · OCT 31",
+          "url": "https://people.com/jennifer-lawrence-suede-clogs-amazon-october-2026-12198370"
         }
       ]
     }
