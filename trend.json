@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T08:43:15+09:00",
+  "generatedAt": "2026-11-03T08:44:11+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,16 +10,12 @@
       "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Katie Holmes의 배럴 진과 Bella Hadid의 스토브파이프 진이 동시에 남아 방향이 갈려 HOLD를 유지했습니다.",
-      "detail": "10월 28일 Katie Holmes의 다크 인디고 배럴 진이 확인됐지만, 10월 27일 Bella Hadid는 로우라이즈 스토브파이프 진을 착용했습니다. 이전 배럴·와이드 및 플레어 사례가 관측창 밖으로 이동하면서 현재는 상반된 두 실착만 남았습니다. 한 방향의 상승으로 보기 어려워 SOCIAL·HOLD를 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "Katie Holmes의 배럴 진은 관측창에 남아 있지만 별도 후속이 없어 HOLD를 유지했습니다.",
+      "detail": "10월 28일 Katie Holmes의 다크 인디고 배럴 진 착장은 유효합니다. 다만 Bella Hadid의 10월 27일 스토브파이프 사례가 관측창 밖으로 이동했고, 이후 별도 인물의 신규 배럴·와이드 데님 실착이나 공개 수요 신호가 확인되지 않았습니다. 단일 착장을 상향 근거로 확대하지 않고 SOCIAL·HOLD를 유지했습니다. 상품 가격·할인·후기는 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
         {
           "label": "HARPER'S BAZAAR · KATIE HOLMES BARREL JEANS · OCT 28",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74274304/katie-holmes-autumn-style-banana-republic-zankov-collaboration/"
-        },
-        {
-          "label": "MARIE CLAIRE · BELLA HADID STOVEPIPE COUNTER-SIGNAL · OCT 27",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/stovepipe-denim-trend-2026-bella-hadid/"
         }
       ]
     },
@@ -27,15 +23,19 @@
       "id": "live-ballet-sneakers",
       "keyword": "BALLET FLATS & SNEAKERS",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Rosalía의 발레 플랫폼 착장은 남아 있지만 이전 플랫 신호가 관측창 밖으로 이동하고 독립 후속이 없어 UP에서 HOLD로 조정했습니다.",
-      "detail": "10월 28일 Rosalía가 뉴욕에서 리본과 포인트 토를 강조한 아카이브 발레 플랫폼을 착용한 사례는 유효합니다. 그러나 Dakota Johnson·Kendall Jenner·Iris Law의 10월 25일 사례가 현재 관측창 밖으로 이동했고, 이후 별도 인물의 신규 발레 플랫·스니커즈 실착이나 공개 수요 신호가 확인되지 않았습니다. 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다. 상품 가격·품절 여부는 최근 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Rosalía의 발레 플랫폼에 Julia Roberts·Jennifer Lawrence·Nicole Kidman의 발레 스니커즈 편성이 더해져 HOLD에서 UP으로 상향했습니다.",
+      "detail": "10월 28일 Rosalía의 발레 플랫폼 착장에 이어, 11월 2일 InStyle은 Julia Roberts·Jennifer Lawrence·Nicole Kidman의 발레 플랫-스니커즈 하이브리드를 함께 편성했습니다. 개별 원 착장 시점이 모두 공개된 것은 아니므로 최신 실착 건수로 합산하지 않았지만, 관측창 내 독립 플랫폼 후속이 확인돼 SOCIAL·UP으로 상향했습니다. 상품 가격·할인·품절은 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "VOGUE · ROSALÍA BALLET-PLATFORM SHOES · OCT 29",
           "url": "https://www.vogue.com/article/rosalia-no-bag-is-too-big-no-ballet-pump-too-bitchy-2026-10-29"
+        },
+        {
+          "label": "INSTYLE · JULIA ROBERTS + JENNIFER LAWRENCE + NICOLE KIDMAN BALLET SNEAKERS · NOV 2",
+          "url": "https://www.instyle.com/julia-roberts-jennifer-lawrence-ballet-sneakers-fall-12199068"
         }
       ]
     },
@@ -79,12 +79,8 @@
       "market": "GLOBAL",
       "signal": "SOCIAL",
       "summary": "Kendall Jenner·Alexa Chung·Jennifer Lawrence 등의 실착과 최신 플랫폼 성장 보강으로 UP을 유지했습니다.",
-      "detail": "10월 27~29일 Kendall Jenner·Laura Harrier·Alexa Chung·Jennifer Lawrence의 로브형·퍼 트리밍 코트가 반복 확인됐습니다. 11월 1일 Marie Claire가 해당 흐름을 다시 집중 편성했고, 기사에서 인용한 Lyst 자료는 Conner Ives 브랜드가 2026년 3분기에 전분기 대비 49% 성장했다고 밝혔습니다. 이는 특정 코트의 검색량이나 판매량이 아닌 브랜드 단위 플랫폼 성장 지표로만 구분해 사용했습니다. 실착 반복을 주 근거로 SOCIAL·UP을 유지했으며 가격·재입고는 판매량이나 순위로 해석하지 않았습니다.",
+      "detail": "10월 28~29일 Alexa Chung·Jennifer Lawrence의 로브형·퍼 트리밍 코트가 확인됐고, 11월 1일 Marie Claire가 해당 흐름을 다시 집중 편성했습니다. 기사에서 인용한 Lyst 자료는 Conner Ives 브랜드가 2026년 3분기에 전분기 대비 49% 성장했다고 밝혔습니다. 이는 특정 코트의 검색량이나 판매량이 아닌 브랜드 단위 플랫폼 성장 지표로만 구분해 사용했습니다. 실착 반복을 주 근거로 SOCIAL·UP을 유지했으며 가격·재입고는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "VOGUE · KENDALL JENNER + LAURA HARRIER ROBE COATS · OCT 27",
-          "url": "https://www.vogue.com/article/connor-ives-fall-coat-trend-kendall-jenner-kate-moss"
-        },
         {
           "label": "MARIE CLAIRE · ALEXA CHUNG FUR-COLLAR WRAP COAT · OCT 28",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/aligne-george-coat-restock-sienna-miller-alexa-chung/"
@@ -155,12 +151,8 @@
       "market": "GLOBAL",
       "signal": "SOCIAL",
       "summary": "Jennifer Lawrence·Kate Hudson에 Angel Reese의 최신 퍼 뮬 착장이 더해져 SOCIAL·UP으로 전환했습니다.",
-      "detail": "10월 27일 InStyle의 Meryl Streep·Jennifer Aniston·에디터 클로그/뮬 편성에 이어, 10월 31일 People은 Jennifer Lawrence와 Kate Hudson의 별도 스웨이드 클로그 착장을 확인했습니다. 같은 날 Angel Reese가 WNBA 파이널 입장 때 퍼 소재 플랫 뮬을 착용한 사례가 11월 1일 추가 확인됐습니다. 최신 독립 실착이 누적돼 주 신호를 PLATFORM에서 SOCIAL로 바꾸고 UP을 유지했습니다. 품절 표기·상품 가격·후기는 판매량이나 순위로 해석하지 않았습니다.",
+      "detail": "10월 31일 People은 Jennifer Lawrence와 Kate Hudson의 별도 스웨이드 클로그 착장을 확인했고, 같은 날 Angel Reese가 WNBA 파이널 입장 때 퍼 소재 플랫 뮬을 착용한 사례가 11월 1일 추가 확인됐습니다. 최신 독립 실착이 이어져 SOCIAL·UP을 유지했습니다. 품절 표기·상품 가격·후기는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "INSTYLE · MERYL STREEP + JENNIFER ANISTON + EDITOR CLOG/MULE EDIT · OCT 27",
-          "url": "https://www.instyle.com/fall-clogs-trend-styling-12186995"
-        },
         {
           "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON SUEDE CLOGS · OCT 31",
           "url": "https://people.com/jennifer-lawrence-suede-clogs-amazon-october-2026-12198370"
