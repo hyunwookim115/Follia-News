@@ -1,22 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T08:57:15+09:00",
+  "generatedAt": "2026-11-06T08:56:56+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
-      "id": "live-roomy-barrel-denim",
-      "keyword": "ROOMY / BARREL DENIM",
+      "id": "live-straight-bootcut-denim",
+      "keyword": "STRAIGHT / BOOTCUT DENIM",
       "category": "SILHOUETTE",
-      "direction": "HOLD",
+      "direction": "NEW",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Katie Holmes의 배럴 진에 부츠컷·스트레이트 진 후속이 연이어 맞서 ROOMY 흐름은 HOLD를 유지했습니다.",
-      "detail": "10월 30일 Vogue의 주간 편성에 Katie Holmes의 인디고 배럴 진이 남아 있지만, 11월 3일 People은 Jennifer Garner·Christie Brinkley의 부츠컷을, 11월 4일 InStyle은 Naomi Watts의 스트레이트 진과 Jennifer Aniston·Hailey Bieber의 같은 계열 착장을 편성했습니다. 최신 공개 신호가 곡선형·룸미 레그 한 방향으로 수렴하지 않아 SOCIAL·HOLD를 유지했습니다. 기사 속 상품 가격과 쇼핑 링크는 판매량·검색량·플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "Jennifer Garner·Christie Brinkley의 부츠컷과 Naomi Watts·Jennifer Aniston·Hailey Bieber의 스트레이트 진 편성이 겹쳐 신규 전환했습니다.",
+      "detail": "11월 3일 People은 Jennifer Garner와 Christie Brinkley의 부츠컷 진을 하나의 흐름으로 편성했고, 11월 4일 InStyle은 Naomi Watts의 스트레이트 진을 Jennifer Aniston·Hailey Bieber의 같은 계열 착장과 함께 다뤘습니다. 배럴 진을 지지하던 10월 30일 근거가 관측창 밖으로 이동한 반면, 두 매체의 최신 신호가 슬림하지 않은 직선형·부츠컷 레그로 반복돼 SOCIAL·NEW로 교체했습니다. 기사 속 상품 가격과 쇼핑 링크는 판매량·검색량·플랫폼 순위로 환산하지 않았습니다.",
       "sources": [
-        {
-          "label": "VOGUE · KATIE HOLMES BARREL JEANS WEEKLY EDIT · OCT 30",
-          "url": "https://www.vogue.com/article/best-celebrity-outfits"
-        },
         {
           "label": "PEOPLE · JENNIFER GARNER + CHRISTIE BRINKLEY BOOTCUT COUNTER-SIGNAL · NOV 3",
           "url": "https://people.com/jennifer-garner-bootcut-jeans-amazon-november-2026-12207911"
@@ -52,22 +48,6 @@
       ]
     },
     {
-      "id": "live-rugby-polo-tops",
-      "keyword": "RUGBY / POLO TOPS",
-      "category": "ITEM",
-      "direction": "HOLD",
-      "market": "GLOBAL",
-      "signal": "PLATFORM",
-      "summary": "다인물 폴로·럭비 톱 편성은 관측창에 남아 있지만 독립 후속 매체가 줄어 NEW에서 HOLD로 조정했습니다.",
-      "detail": "10월 30일 People은 Kristen Bell·Mila Kunis·Mindy Kaling의 스트라이프 버전과 Reese Witherspoon·Julia Roberts의 뉴트럴 폴로를 함께 묶었습니다. 다만 10월 26일 Who What Wear 자료가 현재 관측창 밖으로 이동했고 이후 별도 매체의 신규 착장·검색·수요 신호가 확인되지 않았습니다. 개별 착장 날짜가 모두 공개되지 않은 단일 다인물 편성을 수요량으로 환산하지 않고 PLATFORM·HOLD로 조정했습니다. 상품 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
-      "sources": [
-        {
-          "label": "PEOPLE · FIVE-CELEBRITY RUGBY / POLO EDIT · OCT 30",
-          "url": "https://people.com/kristen-bell-mila-kunis-rugby-polo-shirts-october-2026-12145067"
-        }
-      ]
-    },
-    {
       "id": "live-light-down-fleece",
       "keyword": "LIGHT DOWN & FLEECE",
       "category": "OUTERWEAR",
@@ -94,8 +74,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "더스터·로브 코트 후속과 Jennifer Lawrence의 퍼 칼라 반 재킷이 관측창에 함께 남아 UP을 유지했습니다.",
-      "detail": "11월 1일 Marie Claire는 더스터·로브 코트 흐름을 재편성했고, 11월 3일 Jennifer Lawrence는 퍼 칼라가 달린 Auralee 반 재킷을 새로 착용했습니다. 로브형에서 박시한 워크 재킷으로 형태는 넓어졌지만 퍼 트리밍 아우터의 독립 실착이 이어져 SOCIAL·UP을 유지했습니다. 11월 1일 기사에 인용된 Lyst의 전분기 대비 49% 성장은 특정 코트 판매량이 아닌 Conner Ives 브랜드 단위 성장으로만 구분했습니다.",
+      "summary": "더스터·퍼 칼라 아우터에 Jennifer Lawrence의 최신 브로케이드 로브 코트가 더해져 UP을 유지했습니다.",
+      "detail": "11월 1일 Marie Claire의 더스터·로브 코트 후속 편성, 11월 3일 Jennifer Lawrence의 퍼 칼라 Auralee 반 재킷에 이어 11월 5일 InStyle은 Lawrence의 11월 4일 브로케이드 로브 코트 착장을 보도했습니다. Kendall Jenner·Hailey Bieber의 유사 로브 맥락도 함께 편성됐지만 개별 최신 실착 건수로 중복 계산하지 않았습니다. 최신 독립 착장이 이어져 SOCIAL·UP을 유지했으며, Lyst의 전분기 대비 49% 성장은 특정 코트 판매량이 아닌 Conner Ives 브랜드 단위 성장으로만 구분했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · DUSTER / ROBE COAT FOLLOW-UP + LYST BRAND GROWTH · NOV 1",
@@ -104,6 +84,10 @@
         {
           "label": "MARIE CLAIRE · JENNIFER LAWRENCE FUR-COLLAR BARN JACKET · NOV 3",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/barn-jacket-trend-jennifer-lawrence-hunger-games/"
+        },
+        {
+          "label": "INSTYLE · JENNIFER LAWRENCE BROCADE ROBE COAT · NOV 5",
+          "url": "https://www.instyle.com/look-of-the-day-2026-11-05-12238534"
         }
       ]
     },
@@ -111,16 +95,12 @@
       "id": "live-classic-loafers",
       "keyword": "CLASSIC LOAFERS",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Gigi Hadid의 소프트 스웨이드 로퍼에 11월 4일 저프로파일 로퍼 플랫폼 편성이 이어져 UP을 유지했습니다.",
-      "detail": "10월 30일 Marie Claire는 Gigi Hadid의 소프트 스웨이드 로퍼를 별도 보도했고, 11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름을 정리하며 저프로파일 로퍼를 발레 플랫·부츠와 함께 반복 편성했습니다. 후자는 공개 검색량이나 실판매 순위가 아닌 편집 플랫폼 노출로만 구분했으며, 서로 다른 매체의 관측창 내 반복을 근거로 SOCIAL·UP을 유지했습니다. 상품 가격·할인은 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "저프로파일 로퍼의 최신 플랫폼 편성은 남아 있지만 독립 실착 후속이 없어 UP에서 HOLD로 조정했습니다.",
+      "detail": "11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름을 정리하며 저프로파일 로퍼를 발레 플랫·부츠와 함께 편성했습니다. 다만 Gigi Hadid의 10월 30일 근거가 관측창 밖으로 이동한 뒤 별도 인물의 최신 로퍼 실착이나 공개 수요·랭킹 신호가 확인되지 않았습니다. 편집 플랫폼 노출 하나를 판매량으로 확대하지 않고 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
-        {
-          "label": "MARIE CLAIRE · GIGI HADID SOFT SUEDE LOAFERS · OCT 30",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/soft-loafers-trend-2026-gigi-hadid/"
-        },
         {
           "label": "INSTYLE · LOW-PROFILE LOAFERS CURRENT SHOE EDIT · NOV 4",
           "url": "https://www.instyle.com/fall-2026-shoe-trends-quince-12199175"
@@ -131,16 +111,12 @@
       "id": "live-leather-outerwear",
       "keyword": "LEATHER OUTERWEAR",
       "category": "ITEM",
-      "direction": "UP",
+      "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Katie Holmes·Gigi Hadid의 레더·왁스드 스웨이드에 Sienna Miller의 롱 스웨이드 코트가 더해져 HOLD에서 UP으로 상향했습니다.",
-      "detail": "10월 30일 Vogue의 주간 편성에는 Katie Holmes의 버건디 레더 봄버와 Gigi Hadid의 왁스드 스웨이드 블레이저가 포함됐습니다. 11월 4일 Who What Wear는 Sienna Miller가 바닥 가까이 내려오는 롱 스웨이드 트렌치 코트를 착용한 별도 사례를 보도했습니다. 봄버·블레이저·롱 코트로 세부형은 분산되지만, 관측창 후반의 신규 독립 실착이 추가돼 SOCIAL·UP으로 상향했습니다. 쇼핑 링크와 가격은 판매량이나 플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "Sienna Miller의 롱 스웨이드 코트는 유효하지만 이전 레더 봄버·블레이저 근거가 만료돼 UP에서 HOLD로 조정했습니다.",
+      "detail": "11월 4일 Who What Wear는 Sienna Miller가 바닥 가까이 내려오는 롱 스웨이드 트렌치 코트를 착용한 사례를 보도했습니다. 그러나 Katie Holmes·Gigi Hadid의 10월 30일 레더·왁스드 스웨이드 편성이 관측창 밖으로 이동했고 이후 별도 독립 실착·공개 수요 후속이 확인되지 않았습니다. 단일 최신 착장을 상승세로 확대하지 않고 SOCIAL·HOLD로 조정했습니다.",
       "sources": [
-        {
-          "label": "VOGUE · KATIE HOLMES LEATHER BOMBER + GIGI HADID WAXED SUEDE · OCT 30",
-          "url": "https://www.vogue.com/article/best-celebrity-outfits"
-        },
         {
           "label": "WHO WHAT WEAR · SIENNA MILLER LONG SUEDE COAT · NOV 4",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-coat-trend-sienna-miller-2026"
@@ -154,8 +130,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence·Kate Hudson·Angel Reese에 Zoë Kravitz의 최신 UGG 슬리퍼 착장이 더해져 UP을 유지했습니다.",
-      "detail": "10월 31일 People은 Jennifer Lawrence와 Kate Hudson의 별도 스웨이드 클로그 착장을 확인했고, 같은 날 Angel Reese의 퍼 플랫 뮬 사례가 11월 1일 추가 확인됐습니다. 11월 4일 Who What Wear는 Zoë Kravitz가 뉴욕 촬영 현장에서 UGG Tasman 슬리퍼를 착용한 최신 사례를 보도했습니다. 클로그·퍼 뮬·슬리퍼형의 독립 실착이 이어져 SOCIAL·UP을 유지했습니다. 품절 표기·상품 가격·후기는 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "클로그·퍼 뮬·UGG 슬리퍼에 Jennifer Lawrence의 최신 퍼 플립플롭이 더해져 UP을 유지했습니다.",
+      "detail": "10월 31일 Jennifer Lawrence·Kate Hudson의 스웨이드 클로그, 11월 1일 Angel Reese의 퍼 플랫 뮬, 11월 4일 Zoë Kravitz의 UGG Tasman 슬리퍼 착장이 확인됐습니다. 11월 5일 Vogue는 Lawrence가 뉴욕 저녁 외출에서 밍크 퍼 플립플롭을 착용한 사례를 추가했습니다. 서로 다른 인물의 슬립온·퍼 슈즈 노출이 관측창 후반까지 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·후기·품절 표기는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON SUEDE CLOGS · OCT 31",
@@ -168,6 +144,10 @@
         {
           "label": "WHO WHAT WEAR · ZOË KRAVITZ UGG TASMAN SLIPPERS · NOV 4",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/ugg-tasman-slippers-trend-zoe-kravitz-2026"
+        },
+        {
+          "label": "VOGUE · JENNIFER LAWRENCE MINK FUR FLIP-FLOPS · NOV 5",
+          "url": "https://www.vogue.com/article/kim-kardashian-and-jennifer-lawrence-get-their-slumber-party-dressing-on"
         }
       ]
     }
