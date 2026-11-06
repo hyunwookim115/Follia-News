@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T08:56:56+09:00",
+  "generatedAt": "2026-11-07T08:34:20+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -74,8 +74,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "더스터·퍼 칼라 아우터에 Jennifer Lawrence의 최신 브로케이드 로브 코트가 더해져 UP을 유지했습니다.",
-      "detail": "11월 1일 Marie Claire의 더스터·로브 코트 후속 편성, 11월 3일 Jennifer Lawrence의 퍼 칼라 Auralee 반 재킷에 이어 11월 5일 InStyle은 Lawrence의 11월 4일 브로케이드 로브 코트 착장을 보도했습니다. Kendall Jenner·Hailey Bieber의 유사 로브 맥락도 함께 편성됐지만 개별 최신 실착 건수로 중복 계산하지 않았습니다. 최신 독립 착장이 이어져 SOCIAL·UP을 유지했으며, Lyst의 전분기 대비 49% 성장은 특정 코트 판매량이 아닌 Conner Ives 브랜드 단위 성장으로만 구분했습니다.",
+      "summary": "로브 코트·퍼 칼라 아우터가 Jennifer Lawrence·Alexa Chung·Hailey Bieber의 주간 편성까지 이어져 UP을 유지했습니다.",
+      "detail": "11월 1일 더스터·로브 코트 후속 편성, 11월 3일 Jennifer Lawrence의 퍼 칼라 반 재킷, 11월 5일 Lawrence의 브로케이드 로브 코트가 확인됐습니다. 11월 6일 Vogue 주간 편성은 Alexa Chung의 벨벳 로브 드레스와 Hailey Bieber의 퍼 트리밍 커프를 추가로 묶었습니다. 드레스·커프는 코트 실착 건수로 합산하지 않고 인접 소재·디테일의 플랫폼 보강 신호로만 구분해 SOCIAL·UP을 유지했습니다.",
       "sources": [
         {
           "label": "MARIE CLAIRE · DUSTER / ROBE COAT FOLLOW-UP + LYST BRAND GROWTH · NOV 1",
@@ -88,6 +88,10 @@
         {
           "label": "INSTYLE · JENNIFER LAWRENCE BROCADE ROBE COAT · NOV 5",
           "url": "https://www.instyle.com/look-of-the-day-2026-11-05-12238534"
+        },
+        {
+          "label": "VOGUE · ALEXA CHUNG ROBE DRESS + HAILEY BIEBER FUR-TRIMMED WEEKLY EDIT · NOV 6",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
         }
       ]
     },
@@ -95,15 +99,19 @@
       "id": "live-classic-loafers",
       "keyword": "CLASSIC LOAFERS",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "저프로파일 로퍼의 최신 플랫폼 편성은 남아 있지만 독립 실착 후속이 없어 UP에서 HOLD로 조정했습니다.",
-      "detail": "11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름을 정리하며 저프로파일 로퍼를 발레 플랫·부츠와 함께 편성했습니다. 다만 Gigi Hadid의 10월 30일 근거가 관측창 밖으로 이동한 뒤 별도 인물의 최신 로퍼 실착이나 공개 수요·랭킹 신호가 확인되지 않았습니다. 편집 플랫폼 노출 하나를 판매량으로 확대하지 않고 SOCIAL·HOLD로 조정했습니다.",
+      "summary": "저프로파일 로퍼 편성에 Katie Holmes의 러치드 로퍼 주간 셀러브리티 편성이 더해져 HOLD에서 UP으로 상향했습니다.",
+      "detail": "11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름에서 저프로파일 로퍼를 발레 플랫·부츠와 함께 편성했고, 11월 5일 ELLE의 주간 셀러브리티 스타일은 Katie Holmes의 러치드 로퍼 착장을 별도로 다뤘습니다. ELLE의 대체 상품 링크는 실제 착용 제품이나 판매량으로 계산하지 않았습니다. 두 독립 매체의 관측창 후반 반복 노출을 근거로 SOCIAL·UP으로 상향했습니다.",
       "sources": [
         {
           "label": "INSTYLE · LOW-PROFILE LOAFERS CURRENT SHOE EDIT · NOV 4",
           "url": "https://www.instyle.com/fall-2026-shoe-trends-quince-12199175"
+        },
+        {
+          "label": "ELLE · KATIE HOLMES RUCHED LOAFERS WEEKLY EDIT · NOV 5",
+          "url": "https://www.elle.com/fashion/shopping/a74347265/best-celebrity-outfits-november-2026/"
         }
       ]
     },
@@ -111,15 +119,19 @@
       "id": "live-leather-outerwear",
       "keyword": "LEATHER OUTERWEAR",
       "category": "ITEM",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Sienna Miller의 롱 스웨이드 코트는 유효하지만 이전 레더 봄버·블레이저 근거가 만료돼 UP에서 HOLD로 조정했습니다.",
-      "detail": "11월 4일 Who What Wear는 Sienna Miller가 바닥 가까이 내려오는 롱 스웨이드 트렌치 코트를 착용한 사례를 보도했습니다. 그러나 Katie Holmes·Gigi Hadid의 10월 30일 레더·왁스드 스웨이드 편성이 관측창 밖으로 이동했고 이후 별도 독립 실착·공개 수요 후속이 확인되지 않았습니다. 단일 최신 착장을 상승세로 확대하지 않고 SOCIAL·HOLD로 조정했습니다.",
+      "summary": "Sienna Miller의 롱 스웨이드 코트에 Rosie Huntington-Whiteley·Lori Harvey의 브라운 레더 재킷이 더해져 HOLD에서 UP으로 상향했습니다.",
+      "detail": "11월 4일 Who What Wear는 Sienna Miller의 롱 스웨이드 트렌치 코트를 보도했고, 11월 6일 같은 매체는 이번 주 Rosie Huntington-Whiteley의 체스트넛 크롭 레더 봄버와 같은 날 Lori Harvey의 글로시 브라운 재킷을 함께 확인했습니다. Elsa Hosk의 Instagram 이미지는 원 게시 시점이 명확하지 않아 최신 실착 건수로 합산하지 않았습니다. 서로 다른 인물의 신규 착장이 추가돼 SOCIAL·UP으로 상향했습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · SIENNA MILLER LONG SUEDE COAT · NOV 4",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-coat-trend-sienna-miller-2026"
+        },
+        {
+          "label": "WHO WHAT WEAR · ROSIE HUNTINGTON-WHITELEY + LORI HARVEY BROWN LEATHER JACKETS · NOV 6",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/brown-leather-jacket-trend-rosie-huntington-whiteley-elsa-hosk-lori-harvey"
         }
       ]
     },
@@ -130,13 +142,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "클로그·퍼 뮬·UGG 슬리퍼에 Jennifer Lawrence의 최신 퍼 플립플롭이 더해져 UP을 유지했습니다.",
-      "detail": "10월 31일 Jennifer Lawrence·Kate Hudson의 스웨이드 클로그, 11월 1일 Angel Reese의 퍼 플랫 뮬, 11월 4일 Zoë Kravitz의 UGG Tasman 슬리퍼 착장이 확인됐습니다. 11월 5일 Vogue는 Lawrence가 뉴욕 저녁 외출에서 밍크 퍼 플립플롭을 착용한 사례를 추가했습니다. 서로 다른 인물의 슬립온·퍼 슈즈 노출이 관측창 후반까지 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·후기·품절 표기는 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Angel Reese·Zoë Kravitz·Jennifer Lawrence의 퍼 뮬·슬리퍼형 슈즈가 관측창에 연속으로 남아 UP을 유지했습니다.",
+      "detail": "11월 1일 Angel Reese의 퍼 플랫 뮬, 11월 4일 Zoë Kravitz의 UGG Tasman 슬리퍼, 11월 5일 Jennifer Lawrence의 밍크 퍼 플립플롭 착장이 확인됐습니다. 10월 31일 클로그 근거는 관측창 밖으로 이동했지만 서로 다른 인물의 슬립온·퍼 슈즈 노출이 관측창 후반까지 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·후기·품절 표기는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · JENNIFER LAWRENCE + KATE HUDSON SUEDE CLOGS · OCT 31",
-          "url": "https://people.com/jennifer-lawrence-suede-clogs-amazon-october-2026-12198370"
-        },
         {
           "label": "MARIE CLAIRE · ANGEL REESE FURRY FLAT MULES · NOV 1",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/angel-reese-chanel-fluffy-slippers-trend-2026-game-7-wnba-finals/"
