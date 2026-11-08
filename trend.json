@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T08:43:26+09:00",
+  "generatedAt": "2026-11-09T08:34:50+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
       "id": "live-straight-bootcut-denim",
       "keyword": "STRAIGHT / BOOTCUT DENIM",
       "category": "SILHOUETTE",
-      "direction": "NEW",
+      "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Jennifer Garner·Christie Brinkley의 부츠컷과 Naomi Watts·Jennifer Aniston·Hailey Bieber의 스트레이트 진 편성이 겹쳐 신규 전환했습니다.",
-      "detail": "11월 3일 People은 Jennifer Garner와 Christie Brinkley의 부츠컷 진을 하나의 흐름으로 편성했고, 11월 4일 InStyle은 Naomi Watts의 스트레이트 진을 Jennifer Aniston·Hailey Bieber의 같은 계열 착장과 함께 다뤘습니다. 배럴 진을 지지하던 10월 30일 근거가 관측창 밖으로 이동한 반면, 두 매체의 최신 신호가 슬림하지 않은 직선형·부츠컷 레그로 반복돼 SOCIAL·NEW로 교체했습니다. 기사 속 상품 가격과 쇼핑 링크는 판매량·검색량·플랫폼 순위로 환산하지 않았습니다.",
+      "summary": "Jennifer Garner·Christie Brinkley의 부츠컷과 Naomi Watts의 스트레이트 진에 11월 8일 데님 주간 편성이 더해져 NEW에서 UP으로 상향했습니다.",
+      "detail": "11월 3일 People은 Jennifer Garner와 Christie Brinkley의 부츠컷 진을 하나의 흐름으로 편성했고, 11월 4일 InStyle은 Naomi Watts의 스트레이트 진을 Jennifer Aniston·Hailey Bieber의 같은 계열 착장과 함께 다뤘습니다. 이어 11월 8일 People 주간 편성에서 Nicole Kidman의 다크 워시 진과 Jennifer Garner의 부츠컷 계열 플레어 진이 다시 묶였습니다. 기사 속 대체 상품·가격은 판매량으로 계산하지 않았으며, 독립 시점의 반복 편성을 근거로 SOCIAL·UP으로 상향했습니다.",
       "sources": [
         {
           "label": "PEOPLE · JENNIFER GARNER + CHRISTIE BRINKLEY BOOTCUT COUNTER-SIGNAL · NOV 3",
@@ -20,6 +20,10 @@
         {
           "label": "INSTYLE · NAOMI WATTS STRAIGHT-LEG COUNTER-SIGNAL · NOV 4",
           "url": "https://www.instyle.com/look-of-the-day-2026-11-04-12236529"
+        },
+        {
+          "label": "PEOPLE · NICOLE KIDMAN DENIM + JENNIFER GARNER BOOTCUT-FLARE WEEKLY EDIT · NOV 8",
+          "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
         }
       ]
     },
@@ -30,20 +34,16 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "발레 스니커즈·벨벳 플랫에 Lila Moss의 최신 클래식 발레 펌프 착장이 더해져 UP을 유지했습니다.",
-      "detail": "11월 2일 InStyle은 Julia Roberts·Jennifer Lawrence·Nicole Kidman의 발레 플랫-스니커즈 하이브리드를 함께 편성했고, Vogue는 Jennifer Lawrence·Dakota Johnson의 벨벳 슬리퍼형 플랫과 발레리나 상품군을 별도로 다뤘습니다. 11월 3일 Who What Wear는 Lila Moss가 뉴욕에서 클래식 발레 펌프를 착용한 사례를 추가했습니다. 정확히 같은 실루엣이 아닌 벨벳 플랫은 인접 보강 신호로만 구분하고, 최신 독립 실착을 근거로 SOCIAL·UP을 유지했습니다.",
+      "summary": "Lila Moss의 발레 펌프에 11월 6일 셀러브리티 ‘플랫+진’ 반복 편성이 더해져 UP을 유지했습니다.",
+      "detail": "11월 3일 Who What Wear는 Lila Moss가 뉴욕에서 클래식 발레 펌프를 착용한 사례를 다뤘고, 11월 6일 ELLE은 Zoë Kravitz·Kendall Jenner·Bella Hadid·Dakota Johnson·Eva Chen·Katie Holmes 등의 진과 플랫 조합을 한 편에 반복 편성했습니다. 발레 플랫·로퍼·메리제인이 혼재하므로 동일 제품 수요로 합산하지 않았고, 여러 인물의 공개 실착 편성이 이어진 점만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "INSTYLE · JULIA ROBERTS + JENNIFER LAWRENCE + NICOLE KIDMAN BALLET SNEAKERS · NOV 2",
-          "url": "https://www.instyle.com/julia-roberts-jennifer-lawrence-ballet-sneakers-fall-12199068"
-        },
-        {
-          "label": "VOGUE · JENNIFER LAWRENCE + DAKOTA JOHNSON VELVET FLATS · NOV 2",
-          "url": "https://www.vogue.com/article/velvet-flats-trend"
-        },
         {
           "label": "WHO WHAT WEAR · LILA MOSS CLASSIC BALLET PUMPS · NOV 3",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-shirt-jeans-ballet-pumps-outfit-lila-moss"
+        },
+        {
+          "label": "ELLE · CELEBRITY FLATS + JEANS REPEAT EDIT · NOV 6",
+          "url": "https://www.elle.com/fashion/shopping/a74322550/how-to-style-flats-with-jeans-outfits/"
         }
       ]
     },
@@ -54,16 +54,12 @@
       "direction": "UP",
       "market": "KOREA",
       "signal": "SEARCH",
-      "summary": "KREAM·MUSINSA 반복 노출에 네이버 쇼핑 11월 1주차 경량 패딩·후리스 상위 키워드가 더해져 NEW에서 UP으로 상향했습니다.",
-      "detail": "11월 4일 관측에서 KREAM 인기 영역과 MUSINSA 실시간 랭킹 표면에 경량 패딩·플리스가 반복 노출됐습니다. 공개된 네이버 쇼핑 주간 키워드 표의 제3자 미러에서는 11월 1주차 패션의류 순위에 '경량패딩등산' 4위, '스파오경량패딩여성의류' 6위, '탑텐경량패딩여성의류' 7위, '후리스남성의류' 12위가 확인됐습니다. 표에 병기된 월 검색량은 최근 7일 검색량으로 환산하지 않았고, KREAM의 관심·거래·리뷰 수도 누적치로 구분했습니다. 공개 주간 순위와 플랫폼 반복 노출의 교차 확인을 근거로 SEARCH·UP으로 상향했습니다.",
+      "summary": "KREAM의 경량·헤비 패딩 및 인기 플리스 재편성과 네이버 쇼핑 11월 1주차 키워드 순위가 겹쳐 UP을 유지했습니다.",
+      "detail": "11월 8일 크롤링된 KREAM 홈 표면에는 '숏 & 헤비 패딩', '10만원 이하 인기 플리스', '경량 패딩 모음' 편성이 동시에 노출됐습니다. 공개된 네이버 쇼핑 주간 키워드 표의 제3자 미러에서는 11월 1주차 패션의류 순위에 '경량패딩등산' 4위, '스파오경량패딩여성의류' 6위, '탑텐경량패딩여성의류' 7위, '후리스남성의류' 12위가 확인됐습니다. 표에 병기된 월 검색량은 최근 7일 검색량으로 환산하지 않았고, KREAM의 관심·거래·리뷰 수도 누적치로 구분했습니다. 공개 주간 순위와 최신 플랫폼 반복 노출의 교차 확인을 근거로 SEARCH·UP을 유지했습니다.",
       "sources": [
         {
-          "label": "KREAM · CURRENT POPULAR: LIGHT PADDING + FLEECE + UGG · OBSERVED NOV 4",
-          "url": "https://kream.co.kr/search?sort=popular_score"
-        },
-        {
-          "label": "MUSINSA · REAL-TIME RANKING SURFACE: LIGHT PADDING + FLEECE · OBSERVED NOV 4",
-          "url": "https://www.musinsa.com/brand/musinsastandard?source=M_MUSINSA_NEWS"
+          "label": "KREAM · SHORT/HEAVY + LIGHT PADDING + POPULAR FLEECE HOME EDIT · CRAWLED NOV 8",
+          "url": "https://kream.co.kr/"
         },
         {
           "label": "NAVER SHOPPING WEEKLY KEYWORD MIRROR · LIGHT PADDING #4/#6/#7 + FLEECE #12 · NOV WEEK 1",
@@ -146,8 +142,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Zoë Kravitz의 UGG 슬리퍼와 Jennifer Lawrence의 퍼 플립플롭이 관측창 후반에 연속 확인돼 UP을 유지했습니다.",
-      "detail": "11월 4일 Zoë Kravitz의 UGG Tasman 슬리퍼와 11월 5일 Jennifer Lawrence의 밍크 퍼 플립플롭 착장이 확인됐습니다. 11월 1일 Angel Reese의 퍼 뮬 근거는 관측창 밖으로 이동했지만, 서로 다른 인물의 최신 슬립온·퍼 슈즈 노출이 이틀 연속 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·후기·품절 표기는 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Zoë Kravitz와 Jennifer Lawrence의 슬립온·퍼 슈즈에 11월 8일 Lawrence의 클로그 주간 재편성이 더해져 UP을 유지했습니다.",
+      "detail": "11월 4일 Zoë Kravitz의 UGG Tasman 슬리퍼와 11월 5일 Jennifer Lawrence의 밍크 퍼 플립플롭 착장이 확인됐고, 11월 8일 People 주간 편성은 Lawrence의 편안한 슬립온 클로그를 다시 전면에 배치했습니다. 같은 인물의 후속 편성은 독립 수요 건수로 중복 계산하지 않았지만, 서로 다른 날짜·매체에서 슬립온 계열 노출이 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·후기·대체 상품 링크는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
         {
           "label": "WHO WHAT WEAR · ZOË KRAVITZ UGG TASMAN SLIPPERS · NOV 4",
@@ -156,6 +152,10 @@
         {
           "label": "VOGUE · JENNIFER LAWRENCE MINK FUR FLIP-FLOPS · NOV 5",
           "url": "https://www.vogue.com/article/kim-kardashian-and-jennifer-lawrence-get-their-slumber-party-dressing-on"
+        },
+        {
+          "label": "PEOPLE · JENNIFER LAWRENCE SLIP-ON CLOGS WEEKLY RE-EDIT · NOV 8",
+          "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
         }
       ]
     }
