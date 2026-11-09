@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:34:50+09:00",
+  "generatedAt": "2026-11-10T08:20:48+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,13 +10,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Jennifer Garner·Christie Brinkley의 부츠컷과 Naomi Watts의 스트레이트 진에 11월 8일 데님 주간 편성이 더해져 NEW에서 UP으로 상향했습니다.",
-      "detail": "11월 3일 People은 Jennifer Garner와 Christie Brinkley의 부츠컷 진을 하나의 흐름으로 편성했고, 11월 4일 InStyle은 Naomi Watts의 스트레이트 진을 Jennifer Aniston·Hailey Bieber의 같은 계열 착장과 함께 다뤘습니다. 이어 11월 8일 People 주간 편성에서 Nicole Kidman의 다크 워시 진과 Jennifer Garner의 부츠컷 계열 플레어 진이 다시 묶였습니다. 기사 속 대체 상품·가격은 판매량으로 계산하지 않았으며, 독립 시점의 반복 편성을 근거로 SOCIAL·UP으로 상향했습니다.",
+      "summary": "Naomi Watts의 스트레이트 진과 11월 8일 데님 주간 편성에 Eva Chen의 스트레이트 진 일상 공식이 더해져 UP을 유지했습니다.",
+      "detail": "11월 4일 InStyle은 Naomi Watts의 스트레이트 진을 Jennifer Aniston·Hailey Bieber의 같은 계열 착장과 함께 다뤘고, 11월 8일 People 주간 편성은 Nicole Kidman의 다크 워시 진과 Jennifer Garner의 부츠컷 계열 플레어 진을 묶었습니다. 11월 9일 InStyle 인터뷰에서는 Eva Chen이 스트레이트 진과 블레이저를 반복 공식으로 설명했습니다. 인터뷰성 취향 진술은 검색·판매량으로 환산하지 않았으며, 독립 시점의 매체·실착 반복만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · JENNIFER GARNER + CHRISTIE BRINKLEY BOOTCUT COUNTER-SIGNAL · NOV 3",
-          "url": "https://people.com/jennifer-garner-bootcut-jeans-amazon-november-2026-12207911"
-        },
         {
           "label": "INSTYLE · NAOMI WATTS STRAIGHT-LEG COUNTER-SIGNAL · NOV 4",
           "url": "https://www.instyle.com/look-of-the-day-2026-11-04-12236529"
@@ -24,6 +20,10 @@
         {
           "label": "PEOPLE · NICOLE KIDMAN DENIM + JENNIFER GARNER BOOTCUT-FLARE WEEKLY EDIT · NOV 8",
           "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
+        },
+        {
+          "label": "INSTYLE · EVA CHEN STRAIGHT-LEG DENIM REPEAT FORMULA · NOV 9",
+          "url": "https://www.instyle.com/eva-chen-outfit-formula-fashion-tips-12195813"
         }
       ]
     },
@@ -34,16 +34,20 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Lila Moss의 발레 펌프에 11월 6일 셀러브리티 ‘플랫+진’ 반복 편성이 더해져 UP을 유지했습니다.",
-      "detail": "11월 3일 Who What Wear는 Lila Moss가 뉴욕에서 클래식 발레 펌프를 착용한 사례를 다뤘고, 11월 6일 ELLE은 Zoë Kravitz·Kendall Jenner·Bella Hadid·Dakota Johnson·Eva Chen·Katie Holmes 등의 진과 플랫 조합을 한 편에 반복 편성했습니다. 발레 플랫·로퍼·메리제인이 혼재하므로 동일 제품 수요로 합산하지 않았고, 여러 인물의 공개 실착 편성이 이어진 점만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 6일 셀러브리티 ‘플랫+진’ 편성에 Eva Chen과 Margot Robbie의 발레 플랫 신호가 이어져 UP을 유지했습니다.",
+      "detail": "11월 6일 ELLE은 Zoë Kravitz·Kendall Jenner·Bella Hadid·Dakota Johnson·Eva Chen·Katie Holmes 등의 진과 플랫 조합을 한 편에 반복 편성했습니다. 11월 9일 InStyle은 Eva Chen의 오래 착용한 발레 플랫과 데님 중심 일상 공식을 다뤘고, People은 Margot Robbie의 공항 메리제인형 발레 플랫을 별도로 편성했습니다. 발레 플랫·로퍼·메리제인이 혼재하므로 동일 제품 수요로 합산하지 않고 공개 실착의 반복만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "WHO WHAT WEAR · LILA MOSS CLASSIC BALLET PUMPS · NOV 3",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-shirt-jeans-ballet-pumps-outfit-lila-moss"
-        },
         {
           "label": "ELLE · CELEBRITY FLATS + JEANS REPEAT EDIT · NOV 6",
           "url": "https://www.elle.com/fashion/shopping/a74322550/how-to-style-flats-with-jeans-outfits/"
+        },
+        {
+          "label": "INSTYLE · EVA CHEN DENIM + BALLET FLATS REPEAT FORMULA · NOV 9",
+          "url": "https://www.instyle.com/eva-chen-outfit-formula-fashion-tips-12195813"
+        },
+        {
+          "label": "PEOPLE · MARGOT ROBBIE MARY-JANE BALLET FLATS · NOV 9",
+          "url": "https://people.com/margot-robbie-mary-jane-ballet-flats-amazon-november-2026-12187412"
         }
       ]
     },
@@ -54,11 +58,11 @@
       "direction": "UP",
       "market": "KOREA",
       "signal": "SEARCH",
-      "summary": "KREAM의 경량·헤비 패딩 및 인기 플리스 재편성과 네이버 쇼핑 11월 1주차 키워드 순위가 겹쳐 UP을 유지했습니다.",
-      "detail": "11월 8일 크롤링된 KREAM 홈 표면에는 '숏 & 헤비 패딩', '10만원 이하 인기 플리스', '경량 패딩 모음' 편성이 동시에 노출됐습니다. 공개된 네이버 쇼핑 주간 키워드 표의 제3자 미러에서는 11월 1주차 패션의류 순위에 '경량패딩등산' 4위, '스파오경량패딩여성의류' 6위, '탑텐경량패딩여성의류' 7위, '후리스남성의류' 12위가 확인됐습니다. 표에 병기된 월 검색량은 최근 7일 검색량으로 환산하지 않았고, KREAM의 관심·거래·리뷰 수도 누적치로 구분했습니다. 공개 주간 순위와 최신 플랫폼 반복 노출의 교차 확인을 근거로 SEARCH·UP을 유지했습니다.",
+      "summary": "KREAM의 패딩·인기 플리스 편성이 11월 10일까지 이어지고 네이버 쇼핑 11월 1주차 키워드 순위와 겹쳐 UP을 유지했습니다.",
+      "detail": "11월 10일 크롤링된 KREAM 홈 표면에는 '숏 & 헤비 패딩'과 '10만원 이하 인기 플리스' 편성이 계속 노출됐습니다. 공개된 네이버 쇼핑 주간 키워드 표의 제3자 미러에서는 11월 1주차 패션의류 순위에 '경량패딩등산' 4위, '스파오경량패딩여성의류' 6위, '탑텐경량패딩여성의류' 7위, '후리스남성의류' 12위가 확인됐습니다. 표의 월 검색량은 최근 7일 검색량으로 환산하지 않았고, KREAM의 관심·거래·리뷰 수도 누적치로 구분했습니다. 공개 주간 순위와 최신 플랫폼 반복 노출의 교차 확인을 근거로 SEARCH·UP을 유지했습니다.",
       "sources": [
         {
-          "label": "KREAM · SHORT/HEAVY + LIGHT PADDING + POPULAR FLEECE HOME EDIT · CRAWLED NOV 8",
+          "label": "KREAM · SHORT/HEAVY PADDING + POPULAR FLEECE HOME EDIT · CRAWLED NOV 10",
           "url": "https://kream.co.kr/"
         },
         {
@@ -74,13 +78,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Jennifer Lawrence·Alexa Chung·Hailey Bieber의 후속에 Kendall Jenner의 브로케이드 퍼 트리밍 재킷이 더해져 UP을 유지했습니다.",
-      "detail": "11월 3일 Jennifer Lawrence의 퍼 칼라 반 재킷, 11월 5일 Lawrence의 브로케이드 로브 코트, 11월 6일 Vogue의 Alexa Chung 로브 드레스·Hailey Bieber 퍼 커프 편성이 확인됐습니다. 이어 11월 6일 InStyle은 Kendall Jenner가 생일 저녁에 브라운 인조 퍼 트리밍이 달린 블루 플로럴 브로케이드 재킷을 착용한 사례를 보도했습니다. 로브·재킷으로 형태는 분산되지만 퍼 트리밍 아우터의 독립 최신 실착이 이어져 SOCIAL·UP을 유지했습니다.",
+      "summary": "Jennifer Lawrence·Alexa Chung·Hailey Bieber·Kendall Jenner에 Rosie Huntington-Whiteley의 대형 인조 퍼 코트가 이어져 UP을 유지했습니다.",
+      "detail": "11월 5일 Jennifer Lawrence의 브로케이드 로브 코트, 11월 6일 Vogue의 Alexa Chung 로브 드레스·Hailey Bieber 퍼 커프 편성, 같은 날 InStyle의 Kendall Jenner 브로케이드 인조 퍼 트리밍 재킷이 확인됐습니다. 11월 9일 Vogue는 Rosie Huntington-Whiteley의 대형 인조 퍼 코트를 추가로 보도했습니다. 로브·재킷·코트로 형태는 분산되므로 동일 상품군 수요로 합산하지 않고, 퍼 중심 아우터의 독립 최신 노출이 이어진 점을 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "MARIE CLAIRE · JENNIFER LAWRENCE FUR-COLLAR BARN JACKET · NOV 3",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/barn-jacket-trend-jennifer-lawrence-hunger-games/"
-        },
         {
           "label": "INSTYLE · JENNIFER LAWRENCE BROCADE ROBE COAT · NOV 5",
           "url": "https://www.instyle.com/look-of-the-day-2026-11-05-12238534"
@@ -92,6 +92,10 @@
         {
           "label": "INSTYLE · KENDALL JENNER BROCADE FAUX-FUR-TRIMMED JACKET · NOV 6",
           "url": "https://www.instyle.com/kendall-jenner-fall-brocade-jacket-trend-12240763"
+        },
+        {
+          "label": "VOGUE · ROSIE HUNTINGTON-WHITELEY OVERSIZED FAUX-FUR COAT · NOV 9",
+          "url": "https://www.vogue.com/article/rosie-huntington-whiteley-lacma-gala-gucci"
         }
       ]
     },
@@ -102,8 +106,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "저프로파일 로퍼 편성에 Katie Holmes의 러치드 로퍼 주간 셀러브리티 편성이 더해져 HOLD에서 UP으로 상향했습니다.",
-      "detail": "11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름에서 저프로파일 로퍼를 발레 플랫·부츠와 함께 편성했고, 11월 5일 ELLE의 주간 셀러브리티 스타일은 Katie Holmes의 러치드 로퍼 착장을 별도로 다뤘습니다. ELLE의 대체 상품 링크는 실제 착용 제품이나 판매량으로 계산하지 않았습니다. 두 독립 매체의 관측창 후반 반복 노출을 근거로 SOCIAL·UP으로 상향했습니다.",
+      "summary": "저프로파일·러치드 로퍼 편성에 Blake Lively의 투톤 로퍼 Instagram 공개 착장이 더해져 UP을 유지했습니다.",
+      "detail": "11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름에서 저프로파일 로퍼를 편성했고, 11월 5일 ELLE 주간 스타일은 Katie Holmes의 러치드 로퍼를 다뤘습니다. 11월 9일 Page Six는 Blake Lively가 Instagram Stories에서 투톤 로퍼와 커프드 진을 착용한 사례를 보도했습니다. Instagram 원본의 공개 착장은 기사로 날짜를 교차 확인했으며, 대체 상품 링크·장기 Google Trends 수치는 최근 7일 수요로 합산하지 않았습니다. 독립 최신 실착의 연속성을 근거로 SOCIAL·UP을 유지했습니다.",
       "sources": [
         {
           "label": "INSTYLE · LOW-PROFILE LOAFERS CURRENT SHOE EDIT · NOV 4",
@@ -112,6 +116,10 @@
         {
           "label": "ELLE · KATIE HOLMES RUCHED LOAFERS WEEKLY EDIT · NOV 5",
           "url": "https://www.elle.com/fashion/shopping/a74347265/best-celebrity-outfits-november-2026/"
+        },
+        {
+          "label": "PAGE SIX · BLAKE LIVELY TWO-TONE LOAFERS VIA INSTAGRAM STORY · NOV 9",
+          "url": "https://pagesix.com/2026/11/09/style/blake-lively-wears-husband-ryan-reynolds-thom-browne-shirt/"
         }
       ]
     },
