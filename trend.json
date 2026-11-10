@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T08:20:48+09:00",
+  "generatedAt": "2026-11-11T08:27:34+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,13 +10,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "Naomi Watts의 스트레이트 진과 11월 8일 데님 주간 편성에 Eva Chen의 스트레이트 진 일상 공식이 더해져 UP을 유지했습니다.",
-      "detail": "11월 4일 InStyle은 Naomi Watts의 스트레이트 진을 Jennifer Aniston·Hailey Bieber의 같은 계열 착장과 함께 다뤘고, 11월 8일 People 주간 편성은 Nicole Kidman의 다크 워시 진과 Jennifer Garner의 부츠컷 계열 플레어 진을 묶었습니다. 11월 9일 InStyle 인터뷰에서는 Eva Chen이 스트레이트 진과 블레이저를 반복 공식으로 설명했습니다. 인터뷰성 취향 진술은 검색·판매량으로 환산하지 않았으며, 독립 시점의 매체·실착 반복만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 8~9일 데님 반복 편성에 Jennifer Lawrence의 스트레이트 진과 Kendall Jenner의 부츠컷 진이 더해져 UP을 유지했습니다.",
+      "detail": "11월 8일 People 주간 편성은 Nicole Kidman의 다크 워시 진과 Jennifer Garner의 부츠컷 계열 플레어 진을 묶었고, 11월 9일 InStyle 인터뷰는 Eva Chen의 스트레이트 진 반복 공식을 다뤘습니다. 11월 10일 Who What Wear는 Jennifer Lawrence의 스트레이트 진을, Vogue는 Kendall Jenner의 피티드 부츠컷 진을 각각 보도했습니다. 기사 속 대체 상품·가격은 판매량으로 계산하지 않았으며, 독립 매체와 인물의 반복 실착만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "INSTYLE · NAOMI WATTS STRAIGHT-LEG COUNTER-SIGNAL · NOV 4",
-          "url": "https://www.instyle.com/look-of-the-day-2026-11-04-12236529"
-        },
         {
           "label": "PEOPLE · NICOLE KIDMAN DENIM + JENNIFER GARNER BOOTCUT-FLARE WEEKLY EDIT · NOV 8",
           "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
@@ -24,6 +20,14 @@
         {
           "label": "INSTYLE · EVA CHEN STRAIGHT-LEG DENIM REPEAT FORMULA · NOV 9",
           "url": "https://www.instyle.com/eva-chen-outfit-formula-fashion-tips-12195813"
+        },
+        {
+          "label": "WHO WHAT WEAR · JENNIFER LAWRENCE STRAIGHT-LEG JEANS · NOV 10",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-straight-leg-jeans-pointed-toe-flat-shoes-2026"
+        },
+        {
+          "label": "VOGUE · KENDALL JENNER FITTED BOOTCUT JEANS · NOV 10",
+          "url": "https://www.vogue.com/article/kendall-jenner-introduces-jacob-elordi-to-the-row-2026-11-10"
         }
       ]
     },
@@ -58,15 +62,15 @@
       "direction": "UP",
       "market": "KOREA",
       "signal": "SEARCH",
-      "summary": "KREAM의 패딩·인기 플리스 편성이 11월 10일까지 이어지고 네이버 쇼핑 11월 1주차 키워드 순위와 겹쳐 UP을 유지했습니다.",
-      "detail": "11월 10일 크롤링된 KREAM 홈 표면에는 '숏 & 헤비 패딩'과 '10만원 이하 인기 플리스' 편성이 계속 노출됐습니다. 공개된 네이버 쇼핑 주간 키워드 표의 제3자 미러에서는 11월 1주차 패션의류 순위에 '경량패딩등산' 4위, '스파오경량패딩여성의류' 6위, '탑텐경량패딩여성의류' 7위, '후리스남성의류' 12위가 확인됐습니다. 표의 월 검색량은 최근 7일 검색량으로 환산하지 않았고, KREAM의 관심·거래·리뷰 수도 누적치로 구분했습니다. 공개 주간 순위와 최신 플랫폼 반복 노출의 교차 확인을 근거로 SEARCH·UP을 유지했습니다.",
+      "summary": "KREAM의 숏·헤비 패딩과 인기 플리스 편성이 11월 11일까지 이어지고 최신 공개 주간 키워드 표와 겹쳐 UP을 유지했습니다.",
+      "detail": "11월 11일 크롤링된 KREAM 홈 표면에는 '숏 & 헤비 패딩'과 '10만원 이하 인기 플리스' 편성이 계속 노출됐습니다. 현재 공개된 최신 네이버 쇼핑 주간 키워드 제3자 미러는 11월 1주차 표이며, 패션의류 순위에 '경량패딩등산' 4위, '스파오경량패딩여성의류' 6위, '탑텐경량패딩여성의류' 7위, '후리스남성의류' 12위를 표시합니다. 다음 주차 표가 아직 확인되지 않아 이를 신규 7일 검색량으로 해석하지 않았고, 월 검색량과 KREAM 누적 관심·거래·리뷰도 별도 누적치로 구분했습니다. 최신 플랫폼 반복 노출과 공개된 최신 주간 순위를 근거로 SEARCH·UP을 유지했습니다.",
       "sources": [
         {
-          "label": "KREAM · SHORT/HEAVY PADDING + POPULAR FLEECE HOME EDIT · CRAWLED NOV 10",
+          "label": "KREAM · SHORT/HEAVY PADDING + POPULAR FLEECE HOME EDIT · CRAWLED NOV 11",
           "url": "https://kream.co.kr/"
         },
         {
-          "label": "NAVER SHOPPING WEEKLY KEYWORD MIRROR · LIGHT PADDING #4/#6/#7 + FLEECE #12 · NOV WEEK 1",
+          "label": "NAVER SHOPPING LATEST AVAILABLE WEEKLY MIRROR · LIGHT PADDING #4/#6/#7 + FLEECE #12 · NOV WEEK 1",
           "url": "https://hotdeal.sumimasen.dev/trends?cat=50000000&type=popular&ymd=20261103"
         }
       ]
@@ -106,16 +110,16 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "저프로파일·러치드 로퍼 편성에 Blake Lively의 투톤 로퍼 Instagram 공개 착장이 더해져 UP을 유지했습니다.",
-      "detail": "11월 4일 InStyle은 뉴욕의 현재 슈즈 흐름에서 저프로파일 로퍼를 편성했고, 11월 5일 ELLE 주간 스타일은 Katie Holmes의 러치드 로퍼를 다뤘습니다. 11월 9일 Page Six는 Blake Lively가 Instagram Stories에서 투톤 로퍼와 커프드 진을 착용한 사례를 보도했습니다. Instagram 원본의 공개 착장은 기사로 날짜를 교차 확인했으며, 대체 상품 링크·장기 Google Trends 수치는 최근 7일 수요로 합산하지 않았습니다. 독립 최신 실착의 연속성을 근거로 SOCIAL·UP을 유지했습니다.",
+      "summary": "Katie Holmes의 러치드·소프트 로퍼와 Blake Lively의 투톤 로퍼에 11월 6일 다인물 데님·로퍼 편성이 겹쳐 UP을 유지했습니다.",
+      "detail": "11월 5일 ELLE 주간 스타일은 Katie Holmes의 러치드 로퍼를 다뤘고, 11월 6일 Vogue의 데님 착장 편성은 Holmes와 Sarah Pidgeon의 소프트·블랙 레더 로퍼를 함께 제시했습니다. 11월 9일 Page Six는 Blake Lively가 Instagram Stories에서 투톤 로퍼와 커프드 진을 착용한 사례를 보도했습니다. Instagram 원본의 공개 시점은 기사로 교차 확인했으며, 대체 상품 링크와 장기 Google Trends 수치는 최근 7일 수요로 합산하지 않았습니다.",
       "sources": [
-        {
-          "label": "INSTYLE · LOW-PROFILE LOAFERS CURRENT SHOE EDIT · NOV 4",
-          "url": "https://www.instyle.com/fall-2026-shoe-trends-quince-12199175"
-        },
         {
           "label": "ELLE · KATIE HOLMES RUCHED LOAFERS WEEKLY EDIT · NOV 5",
           "url": "https://www.elle.com/fashion/shopping/a74347265/best-celebrity-outfits-november-2026/"
+        },
+        {
+          "label": "VOGUE · KATIE HOLMES + SARAH PIDGEON DENIM-LOAFER EDIT · NOV 6",
+          "url": "https://www.vogue.com/article/celebrity-denim-outfits"
         },
         {
           "label": "PAGE SIX · BLAKE LIVELY TWO-TONE LOAFERS VIA INSTAGRAM STORY · NOV 9",
@@ -130,16 +134,20 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Sienna Miller의 롱 스웨이드 코트에 Rosie Huntington-Whiteley·Lori Harvey의 브라운 레더 재킷이 더해져 HOLD에서 UP으로 상향했습니다.",
-      "detail": "11월 4일 Who What Wear는 Sienna Miller의 롱 스웨이드 트렌치 코트를 보도했고, 11월 6일 같은 매체는 이번 주 Rosie Huntington-Whiteley의 체스트넛 크롭 레더 봄버와 같은 날 Lori Harvey의 글로시 브라운 재킷을 함께 확인했습니다. Elsa Hosk의 Instagram 이미지는 원 게시 시점이 명확하지 않아 최신 실착 건수로 합산하지 않았습니다. 서로 다른 인물의 신규 착장이 추가돼 SOCIAL·UP으로 상향했습니다.",
+      "summary": "Rosie Huntington-Whiteley·Lori Harvey에 Dakota Johnson과 Zendaya의 레더 재킷·롱 코트가 겹쳐 UP을 유지했습니다.",
+      "detail": "11월 5일 Harper's Bazaar는 Dakota Johnson의 시어링 칼라 블랙 레더 재킷을 보도했고, 11월 6일 Who What Wear는 Rosie Huntington-Whiteley의 체스트넛 크롭 레더 봄버와 Lori Harvey의 글로시 브라운 재킷을 함께 확인했습니다. 같은 날 Vogue의 셀러브리티 데님 편성에는 Zendaya의 롱 블랙 레더 코트가 포함됐습니다. 서로 다른 인물·형태의 최신 착장이 복수 매체에서 이어져 SOCIAL·UP을 유지했으며, 상품 링크는 판매량으로 계산하지 않았습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · SIENNA MILLER LONG SUEDE COAT · NOV 4",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/suede-coat-trend-sienna-miller-2026"
+          "label": "HARPER'S BAZAAR · DAKOTA JOHNSON SHEARLING-COLLAR LEATHER JACKET · NOV 5",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a74335105/dakota-johnson-machine-gun-kelly-date-night-outfit-coordinating-leather-jackets-photos/"
         },
         {
           "label": "WHO WHAT WEAR · ROSIE HUNTINGTON-WHITELEY + LORI HARVEY BROWN LEATHER JACKETS · NOV 6",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/brown-leather-jacket-trend-rosie-huntington-whiteley-elsa-hosk-lori-harvey"
+        },
+        {
+          "label": "VOGUE · ZENDAYA LONG LEATHER COAT IN DENIM EDIT · NOV 6",
+          "url": "https://www.vogue.com/article/celebrity-denim-outfits"
         }
       ]
     },
@@ -150,13 +158,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "Zoë Kravitz와 Jennifer Lawrence의 슬립온·퍼 슈즈에 11월 8일 Lawrence의 클로그 주간 재편성이 더해져 UP을 유지했습니다.",
-      "detail": "11월 4일 Zoë Kravitz의 UGG Tasman 슬리퍼와 11월 5일 Jennifer Lawrence의 밍크 퍼 플립플롭 착장이 확인됐고, 11월 8일 People 주간 편성은 Lawrence의 편안한 슬립온 클로그를 다시 전면에 배치했습니다. 같은 인물의 후속 편성은 독립 수요 건수로 중복 계산하지 않았지만, 서로 다른 날짜·매체에서 슬립온 계열 노출이 이어져 SOCIAL·UP을 유지했습니다. 상품 가격·후기·대체 상품 링크는 판매량이나 순위로 해석하지 않았습니다.",
+      "summary": "Jennifer Lawrence의 퍼·슬립온 슈즈에 11월 10일 뉴욕 거리의 UGG 클로그 반복 관측이 더해져 UP을 유지했습니다.",
+      "detail": "11월 5일 Jennifer Lawrence의 밍크 퍼 플립플롭 착장과 11월 8일 People의 Lawrence 슬립온 클로그 주간 재편성이 확인됐습니다. 11월 10일 InStyle은 뉴욕 거리에서 UGG 계열 클로그·메리제인형 슈즈가 반복적으로 보인다는 현장 관측을 추가했습니다. 같은 인물의 재편성은 독립 수요 건수로 중복 계산하지 않았고, 상품 가격·재입고 문구·후기는 판매량이나 순위로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "WHO WHAT WEAR · ZOË KRAVITZ UGG TASMAN SLIPPERS · NOV 4",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/ugg-tasman-slippers-trend-zoe-kravitz-2026"
-        },
         {
           "label": "VOGUE · JENNIFER LAWRENCE MINK FUR FLIP-FLOPS · NOV 5",
           "url": "https://www.vogue.com/article/kim-kardashian-and-jennifer-lawrence-get-their-slumber-party-dressing-on"
@@ -164,6 +168,10 @@
         {
           "label": "PEOPLE · JENNIFER LAWRENCE SLIP-ON CLOGS WEEKLY RE-EDIT · NOV 8",
           "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
+        },
+        {
+          "label": "INSTYLE · NYC REPEATED UGG CLOG / MARY-JANE STREET OBSERVATION · NOV 10",
+          "url": "https://www.instyle.com/nyc-cool-girl-fall-fashion-trends-amazon-november-2026-12244530"
         }
       ]
     }
