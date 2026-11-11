@@ -1,180 +1,357 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-10T09:37:52+09:00",
-  "briefingDate": "2026-11-10",
+  "generatedAt": "2026-11-11T20:55:00+09:00",
+  "briefingDate": "2026-11-11",
   "cards": [
     {
-      "id": "2026-11-10-rick-owens-adidas-reunion",
+      "id": "2026-11-11-high-shine-mens-shoes",
       "category": "FASHION",
       "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/rick-owens-adidas-collaboration",
-      "date": "November 9, 2026",
-      "title": "Rick Owens × Adidas, 단절과 재결합을 거쳐 새 협업 공개",
-      "summary": "Rick Owens가 Adidas와 다시 손잡고 새로운 협업을 공개했다. 과거부터 이어진 스포츠웨어와 조형적 디자인의 긴장을 다시 연결하며, 디자이너 개인의 필요와 세계관을 제품 개발의 출발점으로 삼았다고 설명했다.",
-      "keywords": [
-        "Rick Owens",
-        "Adidas",
-        "협업",
-        "스포츠웨어",
-        "디자이너 세계관"
-      ]
-    },
-    {
-      "id": "2026-11-10-martine-rose-balenciaga",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "KERING",
-      "sourceUrl": "https://www.kering.com/en/news/martine-rose-appointed-creative-director-of-balenciaga/",
-      "date": "2026-11-06",
-      "title": "Martine Rose, Balenciaga 신임 크리에이티브 디렉터로 선임",
-      "summary": "Kering과 Balenciaga가 Martine Rose를 새 크리에이티브 디렉터로 임명했다. Rose는 11월 16일부터 파리에서 남성복과 여성복을 총괄하며, 하우스의 급진적 실루엣과 동시대 하위문화에 대한 자신의 시각을 결합할 예정이다.",
-      "keywords": [
-        "Martine Rose",
-        "Balenciaga",
-        "크리에이티브 디렉터",
-        "Kering",
-        "하위문화"
-      ]
-    },
-    {
-      "id": "2026-11-10-balenciaga-le-city-25",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/few-bags-have-had-the-staying-power-of-balenciagas-le-city-now-its-turning-25",
-      "date": "November 9, 2026",
-      "title": "Balenciaga ‘Le City’ 25주년, 수선·커스터마이징과 예술 협업으로 확장",
-      "summary": "Balenciaga가 로고 없이 부드러운 형태와 마모되는 가죽으로 정체성을 만든 Le City 백의 25주년을 기념한다. 파리에서 시작해 서울을 포함한 주요 도시로 이동하는 전시와 수선·커스터마이징 프로그램, Damien Hirst 한정판을 함께 구성했다.",
-      "keywords": [
-        "Balenciaga",
-        "Le City",
-        "25주년",
-        "수선",
-        "Damien Hirst"
-      ]
-    },
-    {
-      "id": "2026-11-10-podcast-brand-partnerships",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE BUSINESS",
-      "sourceUrl": "https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in",
-      "date": "November 9, 2026",
-      "title": "패션 브랜드, 짧은 소셜 노출에서 장기형 팟캐스트 협업으로 이동",
-      "summary": "Tory Burch·J.Crew·Ralph Lauren 등이 팟캐스트 진행자와 협업하며 장기 대화형 콘텐츠를 브랜드 접점으로 활용하고 있다. 단발성 인플루언서 노출보다 진행자의 취향과 청취자 신뢰를 빌려 문화적 맥락을 축적하려는 움직임이다.",
-      "keywords": [
-        "팟캐스트",
-        "브랜드 협업",
-        "장기 콘텐츠",
-        "크리에이터",
-        "커뮤니티"
-      ]
-    },
-    {
-      "id": "2026-11-10-bangladesh-garment-wage-protests",
-      "category": "FASHION",
-      "categoryLabel": "FASHION",
-      "source": "VOGUE BUSINESS",
-      "sourceUrl": "https://www.vogue.com/article/bangladesh-factories-grind-to-a-halt-amid-wage-protests-whats-next",
-      "date": "November 9, 2026",
-      "title": "방글라데시 임금 시위로 의류 공장 가동 차질",
-      "summary": "방글라데시 의류 노동자들이 최저임금 인상을 요구하면서 일부 생산시설의 가동이 중단됐다. 글로벌 브랜드의 주요 조달 거점에서 노동비·납기·책임조달 문제가 동시에 부각돼 향후 생산 일정과 공급망 대응을 점검할 필요가 커졌다.",
-      "keywords": [
-        "방글라데시",
-        "의류 생산",
-        "임금 시위",
-        "공급망",
-        "책임조달"
-      ]
-    },
-    {
-      "id": "2026-11-10-musinsa-jos-lounge-holiday",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1566699744693106435",
-      "date": "2026-11-09",
-      "title": "조스라운지, 2026 Winter Holiday 컬렉션 발매",
-      "summary": "조스라운지가 ‘메리 리틀 데이즈’를 주제로 2026 Winter Holiday 신상품을 무신사에서 공개했다. 홀리데이 시즌의 실내 생활과 선물 수요를 겨냥한 라운지웨어 편성으로, 겨울 홈웨어를 시즌성 콘텐츠로 묶었다.",
-      "keywords": [
-        "조스라운지",
-        "무신사",
-        "Winter Holiday",
-        "라운지웨어",
-        "홈웨어"
-      ]
-    },
-    {
-      "id": "2026-11-10-musinsa-29cm-polo-fw",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "THE KOREA HERALD",
-      "sourceUrl": "https://mbiz.heraldcorp.com/article/10922037",
-      "date": "2026-11-02",
-      "title": "MUSINSA·29CM, Polo Ralph Lauren FW를 서로 다른 큐레이션으로 동시 전개",
-      "summary": "MUSINSA는 ‘Ready For Anywhere’ 에디토리얼과 독점·선발매 패딩, 카테고리별 릴레이 편성을 전개했고 29CM는 Showcase+를 통해 여성 겨울 스타일링과 단독 다운 재킷을 제안했다. 동일 브랜드를 플랫폼별 고객 취향에 맞춰 분리한 사례다.",
-      "keywords": [
-        "Polo Ralph Lauren",
-        "MUSINSA",
-        "29CM",
-        "플랫폼 큐레이션",
-        "독점 상품"
-      ]
-    },
-    {
-      "id": "2026-11-10-musinsa-seongsu-shopinshop",
-      "category": "SELECT",
-      "categoryLabel": "SELECT SHOP",
-      "source": "MUSINSA",
-      "sourceUrl": "https://www.musinsa.com/content/1561996198763155049",
-      "date": "2026-11-01",
-      "title": "무신사 스토어 성수, 서로 다른 여성 브랜드 3곳을 숍인숍으로 구성",
-      "summary": "무신사 스토어 성수가 Midnight Move·Hug Your Skin·Etre Au Sommet의 FW26 컬렉션을 한 달간 숍인숍으로 전개한다. 컨템포러리·타투 기반 빈티지·절제된 레이어링을 공간별로 분리해 취향 탐색형 오프라인 구성을 만들었다.",
-      "keywords": [
-        "무신사 스토어 성수",
-        "숍인숍",
-        "FW26",
-        "여성복",
-        "오프라인 큐레이션"
-      ]
-    },
-    {
-      "id": "2026-11-10-reformation-rug-collection",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
-      "source": "VOGUE",
-      "sourceUrl": "https://www.vogue.com/article/reformation-first-rug-collection-les-editions-de-tapis",
-      "date": "November 9, 2026",
-      "title": "Reformation, 매장용 러그 경험을 첫 홈 컬렉션으로 확장",
-      "summary": "Reformation이 Les Éditions de Tapis와 9종의 주문 제작 러그를 출시했다. 매장에서 5년간 사용해온 협업 경험을 홈 제품으로 전환했으며, 파리의 우아함과 LA의 여유를 호랑이·백조·야자수 모티프와 울·리넨·실크 수공예로 풀었다.",
-      "keywords": [
-        "Reformation",
-        "Les Éditions de Tapis",
-        "러그",
-        "패션 홈웨어",
-        "수공예"
-      ]
-    },
-    {
-      "id": "2026-11-10-casual-store-studio-mk27",
-      "category": "INTERIOR",
-      "categoryLabel": "INTERIOR & FURNITURE",
       "source": "WALLPAPER*",
-      "sourceUrl": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
-      "date": "November 9, 2026",
-      "title": "Studio mk27, 가구 전시를 위한 3층 유리 쇼룸 설계",
-      "summary": "상파울루 Micasa 단지의 Casual Store는 세 개의 직교형 유리 층과 차양을 겹쳐 빛과 투명도를 조절한다. 설비를 중앙 코어에 모아 외곽 전시 면을 비우고, 가구 배치를 계속 바꿀 수 있는 유연한 리테일 공간을 만들었다.",
+      "sourceUrl": "https://www.wallpaper.com/fashion-beauty/best-high-shine-polished-mens-shoes-aw-2026-trend",
+      "date": "November 11, 2026",
+      "title": "2026 겨울 남성화, 매끈한 광택과 페이턴트 레더가 전면으로",
+      "summary": "Wallpaper*는 A/W 2026 남성복에서 고광택·페이턴트·폴리시드 레더 슈즈가 강하게 부상했다고 짚었다. Church’s의 캐비어 레더, Saint Laurent의 길게 뻗은 페이턴트 슈즈, Brunello Cucinelli의 광택 로퍼처럼 클래식 슈즈를 더 장식적이고 관능적인 이브닝웨어로 재해석한 흐름이다.",
       "keywords": [
-        "Studio mk27",
-        "Casual Store",
-        "가구 쇼룸",
-        "유리 파사드",
-        "유연한 전시"
+        "남성화",
+        "하이 샤인",
+        "페이턴트 레더",
+        "Saint Laurent",
+        "이브닝웨어"
+      ]
+    },
+    {
+      "id": "2026-11-11-tods-matteo-tamburini-exit",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE BUSINESS",
+      "sourceUrl": "https://www.vogue.com/article/tods-creative-director-matteo-tamburini-steps-down",
+      "date": "November 10, 2026",
+      "title": "Matteo Tamburini, Tod’s 크리에이티브 디렉터에서 물러나",
+      "summary": "Tod’s가 Matteo Tamburini의 퇴임을 발표했으며 후임은 아직 공개하지 않았다. 2023년 합류해 하우스 코드와 장인성을 정돈해온 Tamburini의 마지막 컬렉션은 2027 S/S였고, 브랜드는 이탈리아 라이프스타일과 제품의 고유성을 더 선명하게 전달하는 새 전략을 예고했다.",
+      "keywords": [
+        "Tod’s",
+        "Matteo Tamburini",
+        "크리에이티브 디렉터",
+        "2027 S/S",
+        "브랜드 전략"
+      ]
+    },
+    {
+      "id": "2026-11-11-creative-director-resale-hype",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE BUSINESS",
+      "sourceUrl": "https://www.vogue.com/article/how-creative-director-hype-is-lifting-resale",
+      "date": "November 10, 2026",
+      "title": "새 크리에이티브 디렉터 효과, 과거 아카이브의 리세일 수요까지 견인",
+      "summary": "eBay 자료에서 Matthieu Blazy의 Chanel 데뷔 뒤 디자이너 검색은 291%, Karl Lagerfeld 시기 Chanel 등록은 전년 대비 87% 늘었다. Demna·Jonathan Anderson 등 새 디렉터에 대한 관심이 이전 시대 제품의 검색·등록·판매가로 번지며, 현재 런웨이 화제가 중고시장 아카이브 수요를 다시 만들고 있다.",
+      "keywords": [
+        "리세일",
+        "크리에이티브 디렉터",
+        "아카이브",
+        "eBay",
+        "검색 수요"
+      ]
+    },
+    {
+      "id": "2026-11-11-resale-ai-discovery",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE BUSINESS",
+      "sourceUrl": "https://www.vogue.com/article/how-to-crack-resales-ai-algorithms",
+      "date": "November 10, 2026",
+      "title": "리세일 플랫폼, 키워드 검색에서 AI·이미지 기반 발견 구조로 이동",
+      "summary": "Vestiaire Collective·Depop·The RealReal·Poshmark가 자연어와 이미지 검색, 개인화 추천을 강화하고 있다. 상품 사진·상태·가격·판매자 신뢰도가 노출 순위를 좌우하며, AI가 새 상품과 중고 상품을 함께 비교하는 쇼핑 경로가 확대되는 가운데 정확한 상태 표현과 신뢰 유지가 핵심 과제로 떠올랐다.",
+      "keywords": [
+        "리세일",
+        "AI 검색",
+        "이미지 검색",
+        "개인화 추천",
+        "상품 발견"
+      ]
+    },
+    {
+      "id": "2026-11-11-harrods-christmas-retail",
+      "category": "FASHION",
+      "categoryLabel": "FASHION",
+      "source": "VOGUE BUSINESS",
+      "sourceUrl": "https://www.vogue.com/article/this-christmas-harrods-is-doing-things-differently",
+      "date": "November 10, 2026",
+      "title": "Harrods, 단일 브랜드 협업 대신 자체 기획형 홀리데이 리테일로 전환",
+      "summary": "Harrods는 24개 쇼윈도와 600개의 수공예 별, 1만7천 개 이상의 조명을 하나의 자체 콘셉트로 묶었다. 여러 럭셔리 하우스를 Harrods의 크리에이티브 디렉션 아래 편성하고 각인·캘리그래피·공예 체험을 더해, 연말 판매를 단기 매출보다 반복 방문과 장기 고객 관계를 만드는 리테일 경험으로 확장했다.",
+      "keywords": [
+        "Harrods",
+        "홀리데이 리테일",
+        "쇼윈도",
+        "고객 경험",
+        "공예"
+      ]
+    },
+    {
+      "id": "2026-11-11-musinsa-standard-navy",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1569551024967241950",
+      "date": "2026-11-11",
+      "title": "무신사 스탠다드 × 대한민국 해군 컬래버 신상품 발매",
+      "summary": "무신사 스탠다드가 대한민국 해군과 협업한 신상품을 11월 11일 공개했다. 군 복식의 상징성과 일상형 베이식웨어를 연결한 플랫폼 발매 신호로, 유니폼 아카이브를 대중적인 제품군으로 번역하는 협업 흐름을 보여준다.",
+      "keywords": [
+        "무신사 스탠다드",
+        "대한민국 해군",
+        "컬래버레이션",
+        "유니폼",
+        "플랫폼 발매"
+      ]
+    },
+    {
+      "id": "2026-11-11-musinsa-salomon-thermal",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1567426802788791458",
+      "date": "2026-11-11",
+      "title": "Salomon, 템포스 써모 캡·바라클라바 겨울 액세서리 발매",
+      "summary": "Salomon이 템포스 써모 캡 V2와 템포스 써모 바라클라바를 무신사에서 11월 11일 선보였다. 러닝·아웃도어 기능을 겨울 방한 액세서리로 확장하며, 헤드웨어와 바라클라바가 퍼포먼스 장비와 일상 스타일링 사이를 잇는 상품군으로 편성됐다.",
+      "keywords": [
+        "Salomon",
+        "써모 캡",
+        "바라클라바",
+        "겨울 러닝",
+        "기능성 액세서리"
+      ]
+    },
+    {
+      "id": "2026-11-11-musinsa-asics-jog100s",
+      "category": "SELECT",
+      "categoryLabel": "SELECT SHOP",
+      "source": "MUSINSA",
+      "sourceUrl": "https://www.musinsa.com/content/1568160827277465712",
+      "date": "2026-11-11",
+      "title": "ASICS JOG 100 S 무신사 에디션, 재입고와 오프라인 동시 발매",
+      "summary": "무신사 에디션으로 소개된 ASICS JOG 100 S가 11월 11일 재입고되며 성수·홍대·스타필드 고양의 무신사 킥스에서도 동시에 판매됐다. 온라인 에디션 수요를 주요 오프라인 거점으로 확장한 재판매 신호다.",
+      "keywords": [
+        "ASICS",
+        "JOG 100 S",
+        "무신사 에디션",
+        "재입고",
+        "오프라인 발매"
+      ]
+    },
+    {
+      "id": "2026-11-11-rhr-house",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1188146/rhr-house-three-sixty-architecture",
+      "date": "November 11, 2026",
+      "title": "RHR House, 해안 홍수 위험에 대응한 3개 층의 재사용 재료 주택",
+      "summary": "뉴질랜드 크라이스트처치 해안의 RHR House는 주요 생활층을 평균 지면보다 약 1.8m 높이고 콘크리트·강철·골판 외장으로 홍수 위험에 대응했다. 내부에는 재사용 문과 가설 목재, 합판 자투리, 재활용 리무 목재를 적용해 거친 해안 환경과 재료 순환을 하나의 주거 언어로 묶었다.",
+      "keywords": [
+        "RHR House",
+        "해안 주택",
+        "홍수 대응",
+        "재사용 재료",
+        "패시브 디자인"
+      ]
+    },
+    {
+      "id": "2026-11-11-pusayapuri-housing",
+      "category": "INTERIOR",
+      "categoryLabel": "INTERIOR & FURNITURE",
+      "source": "ARCHDAILY",
+      "sourceUrl": "https://www.archdaily.com/1188079/pusayapuri-housing-ekar",
+      "date": "November 11, 2026",
+      "title": "Pusayapuri, 고대 파고다의 깊이와 그림자를 모듈형 호텔 파사드로 번역",
+      "summary": "태국 U Thong의 Pusayapuri는 무너진 파고다 기단의 반복과 벽돌 질감을 3×2.5m GRC 모듈 파사드로 재해석했다. 돌출부는 베이윈도와 발코니가 되고 후퇴부는 서향 햇빛을 막는 처마로 작동하며, 대각선으로 이어진 오픈 샤프트가 공용부에 채광과 자연 환기를 공급한다.",
+      "keywords": [
+        "Pusayapuri",
+        "EKAR",
+        "GRC 파사드",
+        "패시브 셰이딩",
+        "자연 환기"
       ]
     }
   ],
   "archive": [
+    {
+      "id": "2026-11-10T09:37:52+09:00",
+      "briefingDate": "2026-11-10",
+      "generatedAt": "2026-11-10T09:37:52+09:00",
+      "cards": [
+        {
+          "id": "2026-11-10-rick-owens-adidas-reunion",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/rick-owens-adidas-collaboration",
+          "date": "November 9, 2026",
+          "title": "Rick Owens × Adidas, 단절과 재결합을 거쳐 새 협업 공개",
+          "summary": "Rick Owens가 Adidas와 다시 손잡고 새로운 협업을 공개했다. 과거부터 이어진 스포츠웨어와 조형적 디자인의 긴장을 다시 연결하며, 디자이너 개인의 필요와 세계관을 제품 개발의 출발점으로 삼았다고 설명했다.",
+          "keywords": [
+            "Rick Owens",
+            "Adidas",
+            "협업",
+            "스포츠웨어",
+            "디자이너 세계관"
+          ]
+        },
+        {
+          "id": "2026-11-10-martine-rose-balenciaga",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "KERING",
+          "sourceUrl": "https://www.kering.com/en/news/martine-rose-appointed-creative-director-of-balenciaga/",
+          "date": "2026-11-06",
+          "title": "Martine Rose, Balenciaga 신임 크리에이티브 디렉터로 선임",
+          "summary": "Kering과 Balenciaga가 Martine Rose를 새 크리에이티브 디렉터로 임명했다. Rose는 11월 16일부터 파리에서 남성복과 여성복을 총괄하며, 하우스의 급진적 실루엣과 동시대 하위문화에 대한 자신의 시각을 결합할 예정이다.",
+          "keywords": [
+            "Martine Rose",
+            "Balenciaga",
+            "크리에이티브 디렉터",
+            "Kering",
+            "하위문화"
+          ]
+        },
+        {
+          "id": "2026-11-10-balenciaga-le-city-25",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/few-bags-have-had-the-staying-power-of-balenciagas-le-city-now-its-turning-25",
+          "date": "November 9, 2026",
+          "title": "Balenciaga ‘Le City’ 25주년, 수선·커스터마이징과 예술 협업으로 확장",
+          "summary": "Balenciaga가 로고 없이 부드러운 형태와 마모되는 가죽으로 정체성을 만든 Le City 백의 25주년을 기념한다. 파리에서 시작해 서울을 포함한 주요 도시로 이동하는 전시와 수선·커스터마이징 프로그램, Damien Hirst 한정판을 함께 구성했다.",
+          "keywords": [
+            "Balenciaga",
+            "Le City",
+            "25주년",
+            "수선",
+            "Damien Hirst"
+          ]
+        },
+        {
+          "id": "2026-11-10-podcast-brand-partnerships",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE BUSINESS",
+          "sourceUrl": "https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in",
+          "date": "November 9, 2026",
+          "title": "패션 브랜드, 짧은 소셜 노출에서 장기형 팟캐스트 협업으로 이동",
+          "summary": "Tory Burch·J.Crew·Ralph Lauren 등이 팟캐스트 진행자와 협업하며 장기 대화형 콘텐츠를 브랜드 접점으로 활용하고 있다. 단발성 인플루언서 노출보다 진행자의 취향과 청취자 신뢰를 빌려 문화적 맥락을 축적하려는 움직임이다.",
+          "keywords": [
+            "팟캐스트",
+            "브랜드 협업",
+            "장기 콘텐츠",
+            "크리에이터",
+            "커뮤니티"
+          ]
+        },
+        {
+          "id": "2026-11-10-bangladesh-garment-wage-protests",
+          "category": "FASHION",
+          "categoryLabel": "FASHION",
+          "source": "VOGUE BUSINESS",
+          "sourceUrl": "https://www.vogue.com/article/bangladesh-factories-grind-to-a-halt-amid-wage-protests-whats-next",
+          "date": "November 9, 2026",
+          "title": "방글라데시 임금 시위로 의류 공장 가동 차질",
+          "summary": "방글라데시 의류 노동자들이 최저임금 인상을 요구하면서 일부 생산시설의 가동이 중단됐다. 글로벌 브랜드의 주요 조달 거점에서 노동비·납기·책임조달 문제가 동시에 부각돼 향후 생산 일정과 공급망 대응을 점검할 필요가 커졌다.",
+          "keywords": [
+            "방글라데시",
+            "의류 생산",
+            "임금 시위",
+            "공급망",
+            "책임조달"
+          ]
+        },
+        {
+          "id": "2026-11-10-musinsa-jos-lounge-holiday",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1566699744693106435",
+          "date": "2026-11-09",
+          "title": "조스라운지, 2026 Winter Holiday 컬렉션 발매",
+          "summary": "조스라운지가 ‘메리 리틀 데이즈’를 주제로 2026 Winter Holiday 신상품을 무신사에서 공개했다. 홀리데이 시즌의 실내 생활과 선물 수요를 겨냥한 라운지웨어 편성으로, 겨울 홈웨어를 시즌성 콘텐츠로 묶었다.",
+          "keywords": [
+            "조스라운지",
+            "무신사",
+            "Winter Holiday",
+            "라운지웨어",
+            "홈웨어"
+          ]
+        },
+        {
+          "id": "2026-11-10-musinsa-29cm-polo-fw",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "THE KOREA HERALD",
+          "sourceUrl": "https://mbiz.heraldcorp.com/article/10922037",
+          "date": "2026-11-02",
+          "title": "MUSINSA·29CM, Polo Ralph Lauren FW를 서로 다른 큐레이션으로 동시 전개",
+          "summary": "MUSINSA는 ‘Ready For Anywhere’ 에디토리얼과 독점·선발매 패딩, 카테고리별 릴레이 편성을 전개했고 29CM는 Showcase+를 통해 여성 겨울 스타일링과 단독 다운 재킷을 제안했다. 동일 브랜드를 플랫폼별 고객 취향에 맞춰 분리한 사례다.",
+          "keywords": [
+            "Polo Ralph Lauren",
+            "MUSINSA",
+            "29CM",
+            "플랫폼 큐레이션",
+            "독점 상품"
+          ]
+        },
+        {
+          "id": "2026-11-10-musinsa-seongsu-shopinshop",
+          "category": "SELECT",
+          "categoryLabel": "SELECT SHOP",
+          "source": "MUSINSA",
+          "sourceUrl": "https://www.musinsa.com/content/1561996198763155049",
+          "date": "2026-11-01",
+          "title": "무신사 스토어 성수, 서로 다른 여성 브랜드 3곳을 숍인숍으로 구성",
+          "summary": "무신사 스토어 성수가 Midnight Move·Hug Your Skin·Etre Au Sommet의 FW26 컬렉션을 한 달간 숍인숍으로 전개한다. 컨템포러리·타투 기반 빈티지·절제된 레이어링을 공간별로 분리해 취향 탐색형 오프라인 구성을 만들었다.",
+          "keywords": [
+            "무신사 스토어 성수",
+            "숍인숍",
+            "FW26",
+            "여성복",
+            "오프라인 큐레이션"
+          ]
+        },
+        {
+          "id": "2026-11-10-reformation-rug-collection",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "VOGUE",
+          "sourceUrl": "https://www.vogue.com/article/reformation-first-rug-collection-les-editions-de-tapis",
+          "date": "November 9, 2026",
+          "title": "Reformation, 매장용 러그 경험을 첫 홈 컬렉션으로 확장",
+          "summary": "Reformation이 Les Éditions de Tapis와 9종의 주문 제작 러그를 출시했다. 매장에서 5년간 사용해온 협업 경험을 홈 제품으로 전환했으며, 파리의 우아함과 LA의 여유를 호랑이·백조·야자수 모티프와 울·리넨·실크 수공예로 풀었다.",
+          "keywords": [
+            "Reformation",
+            "Les Éditions de Tapis",
+            "러그",
+            "패션 홈웨어",
+            "수공예"
+          ]
+        },
+        {
+          "id": "2026-11-10-casual-store-studio-mk27",
+          "category": "INTERIOR",
+          "categoryLabel": "INTERIOR & FURNITURE",
+          "source": "WALLPAPER*",
+          "sourceUrl": "https://www.wallpaper.com/architecture/casual-store-studio-mk27-brazil",
+          "date": "November 9, 2026",
+          "title": "Studio mk27, 가구 전시를 위한 3층 유리 쇼룸 설계",
+          "summary": "상파울루 Micasa 단지의 Casual Store는 세 개의 직교형 유리 층과 차양을 겹쳐 빛과 투명도를 조절한다. 설비를 중앙 코어에 모아 외곽 전시 면을 비우고, 가구 배치를 계속 바꿀 수 있는 유연한 리테일 공간을 만들었다.",
+          "keywords": [
+            "Studio mk27",
+            "Casual Store",
+            "가구 쇼룸",
+            "유리 파사드",
+            "유연한 전시"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-11T02:53:48.304+09:00",
       "briefingDate": "2026-09-11",
