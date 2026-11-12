@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T08:39:52+09:00",
+  "generatedAt": "2026-11-13T08:14:00+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -42,13 +42,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 6~9일 발레 플랫 반복 실착에 11월 11일 부츠컷 진용 발레 플랫·메리제인 편성이 더해져 UP을 유지했습니다.",
-      "detail": "11월 6일 ELLE은 Zoë Kravitz·Kendall Jenner·Bella Hadid·Dakota Johnson·Eva Chen·Katie Holmes 등의 진과 플랫 조합을 한 편에 반복 편성했습니다. 11월 9일 InStyle은 Eva Chen의 오래 착용한 발레 플랫과 데님 공식을, People은 Margot Robbie의 메리제인형 발레 플랫을 다뤘습니다. 11월 11일 InStyle은 부츠컷 진과 함께 신는 슈즈 목록에 발레 플랫과 메리제인을 각각 포함했습니다. 로퍼·발레 플랫·메리제인이 혼재하므로 동일 제품 수요로 합산하지 않고 공개 실착과 반복 편성만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 9~12일 발레 플랫·메리제인 반복 실착과 겨울형 발레 펌프 후속이 이어져 UP을 유지했습니다.",
+      "detail": "11월 9일 InStyle은 Eva Chen의 오래 착용한 발레 플랫과 데님 공식을, People은 Margot Robbie의 메리제인형 발레 플랫을 다뤘습니다. 11월 11일 InStyle은 부츠컷 진과 함께 신는 슈즈 목록에 발레 플랫과 메리제인을 각각 포함했고, 11월 12일 Marie Claire는 Ariana Grande가 7월부터 반복 착용한 Sandy Liang 힐드 발레 펌프를 겨울 스타일링과 함께 보도했습니다. 동일 제품의 판매량으로 합산하지 않고 공개 실착과 독립 후속 편성만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "ELLE · CELEBRITY FLATS + JEANS REPEAT EDIT · NOV 6",
-          "url": "https://www.elle.com/fashion/shopping/a74322550/how-to-style-flats-with-jeans-outfits/"
-        },
         {
           "label": "INSTYLE · EVA CHEN DENIM + BALLET FLATS REPEAT FORMULA · NOV 9",
           "url": "https://www.instyle.com/eva-chen-outfit-formula-fashion-tips-12195813"
@@ -60,6 +56,10 @@
         {
           "label": "INSTYLE · BALLET FLATS + MARY JANES IN BOOTCUT-DENIM SHOE EDIT · NOV 11",
           "url": "https://www.instyle.com/shoes-to-wear-with-bootcut-jeans-12238060"
+        },
+        {
+          "label": "MARIE CLAIRE · ARIANA GRANDE REPEAT HEELED BALLET-PUMP WEAR · NOV 12",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-pumps-trend-ariana-grande/"
         }
       ]
     },
@@ -90,17 +90,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 6~9일 로브·퍼 아우터 편성에 Zoë Kravitz의 11월 11일 퍼 커프 브로케이드 재킷이 더해져 UP을 유지했습니다.",
-      "detail": "11월 6일 Vogue는 Alexa Chung의 로브 드레스와 Hailey Bieber의 퍼 커프 룩을, InStyle은 Kendall Jenner의 브로케이드 인조 퍼 트리밍 재킷을 편성했습니다. 11월 9일 Vogue는 Rosie Huntington-Whiteley의 대형 인조 퍼 코트를 보도했고, 11월 11일에는 Zoë Kravitz가 짙은 브라운 인조 퍼 커프가 달린 골드 브로케이드 Saint Laurent 재킷을 착용했습니다. 로브·재킷·코트로 형태는 분산되므로 동일 상품 수요로 합산하지 않고, 퍼 트리밍과 퍼 아우터의 독립 최신 노출이 이어진 점만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 9~12일 인조 퍼 코트·퍼 커프 재킷의 독립 실착이 연속 확인돼 UP을 유지했습니다.",
+      "detail": "11월 9일 Vogue는 Rosie Huntington-Whiteley의 대형 인조 퍼 코트를 보도했고, 11월 11일에는 Zoë Kravitz가 짙은 브라운 인조 퍼 커프가 달린 골드 브로케이드 Saint Laurent 재킷을 착용했습니다. 11월 12일 Marie Claire는 Ariana Grande의 시어링 트리밍 재킷과 퍼 칼라·커프 스타일링을 추가로 다뤘습니다. 재킷과 코트로 형태는 분산되므로 동일 상품 수요로 합산하지 않고, 퍼 트리밍·퍼 아우터의 독립 최신 노출만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "VOGUE · ALEXA CHUNG ROBE DRESS + HAILEY BIEBER FUR-TRIMMED WEEKLY EDIT · NOV 6",
-          "url": "https://www.vogue.com/article/best-celebrity-outfits"
-        },
-        {
-          "label": "INSTYLE · KENDALL JENNER BROCADE FAUX-FUR-TRIMMED JACKET · NOV 6",
-          "url": "https://www.instyle.com/kendall-jenner-fall-brocade-jacket-trend-12240763"
-        },
         {
           "label": "VOGUE · ROSIE HUNTINGTON-WHITELEY OVERSIZED FAUX-FUR COAT · NOV 9",
           "url": "https://www.vogue.com/article/rosie-huntington-whiteley-lacma-gala-gucci"
@@ -108,6 +100,10 @@
         {
           "label": "VOGUE · ZOË KRAVITZ BROCADE JACKET WITH FAUX-FUR CUFFS · NOV 11",
           "url": "https://www.vogue.com/article/zoe-kravitz-how-to-rob-a-bank-new-york-premiere-look"
+        },
+        {
+          "label": "MARIE CLAIRE · ARIANA GRANDE SHEARLING-TRIMMED JACKET WITH FUR COLLAR/CUFFS · NOV 12",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-pumps-trend-ariana-grande/"
         }
       ]
     },
@@ -118,13 +114,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "11월 6~9일 다인물 로퍼 실착에 11월 11일 부츠컷 데님용 클래식 로퍼 편성이 더해져 UP을 유지했습니다.",
-      "detail": "11월 6일 Vogue는 Katie Holmes와 Sarah Pidgeon의 소프트·블랙 레더 로퍼를 함께 제시했고, 11월 9일 Page Six는 Blake Lively가 Instagram Stories에서 투톤 로퍼와 커프드 진을 착용한 사례를 보도했습니다. 11월 11일 InStyle은 부츠컷 진과 함께 신는 11개 슈즈 중 로퍼를 첫 항목으로 별도 편성했습니다. Instagram 원본 시점은 기사로 교차 확인했으며, 상품 추천 링크·가격과 장기 Google Trends 수치는 최근 7일 수요로 합산하지 않았습니다.",
+      "summary": "11월 9~13일 투톤·클래식 로퍼 실착과 데님 슈즈 편성이 이어져 UP을 유지했습니다.",
+      "detail": "11월 9일 Page Six는 Blake Lively가 Instagram Stories에서 투톤 로퍼와 커프드 진을 착용한 사례를 보도했고, 11월 11일 InStyle은 부츠컷 진과 함께 신는 11개 슈즈 중 로퍼를 첫 항목으로 별도 편성했습니다. 11월 13일 People의 Katie Holmes 최근 가을 룩 편성에도 다크 카고 진과 로퍼 조합이 포함됐습니다. Instagram 원본 시점은 기사로 교차 확인했으며, 상품 추천 링크·가격은 최근 7일 판매량으로 합산하지 않았습니다.",
       "sources": [
-        {
-          "label": "VOGUE · KATIE HOLMES + SARAH PIDGEON DENIM-LOAFER EDIT · NOV 6",
-          "url": "https://www.vogue.com/article/celebrity-denim-outfits"
-        },
         {
           "label": "PAGE SIX · BLAKE LIVELY TWO-TONE LOAFERS VIA INSTAGRAM STORY · NOV 9",
           "url": "https://pagesix.com/2026/11/09/style/blake-lively-wears-husband-ryan-reynolds-thom-browne-shirt/"
@@ -132,6 +124,10 @@
         {
           "label": "INSTYLE · CLASSIC LOAFERS IN BOOTCUT-DENIM SHOE EDIT · NOV 11",
           "url": "https://www.instyle.com/shoes-to-wear-with-bootcut-jeans-12238060"
+        },
+        {
+          "label": "PEOPLE · KATIE HOLMES DARK CARGO JEANS + LOAFERS FALL EDIT · NOV 13",
+          "url": "https://people.com/katie-holmes-fall-outfits-amazon-november-2026-12247903"
         }
       ]
     },
@@ -142,16 +138,12 @@
       "direction": "HOLD",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 6일 브라운·롱 레더 아우터 복수 편성은 남아 있지만 이후 독립 후속이 없어 UP에서 HOLD로 조정했습니다.",
-      "detail": "11월 6일 Who What Wear는 Rosie Huntington-Whiteley의 체스트넛 크롭 레더 봄버와 Lori Harvey의 글로시 브라운 재킷을 함께 확인했고, 같은 날 Vogue의 셀러브리티 데님 편성에는 Zendaya의 롱 블랙 레더 코트가 포함됐습니다. 서로 다른 인물·형태의 복수 노출은 관측창 안에 남아 있으나 11월 7~12일 별도의 강한 후속이 확인되지 않았습니다. 상품 링크는 판매량으로 계산하지 않았으며, 근거 약화를 반영해 SOCIAL·HOLD로 조정했습니다.",
+      "summary": "이전 복수 노출은 관측창 밖으로 이동했고 11월 13일 한 건의 후속 편성만 확인돼 HOLD를 유지했습니다.",
+      "detail": "11월 13일 People의 Katie Holmes 최근 가을 룩 편성에는 다크 카고 진과 레더 재킷 조합이 포함됐습니다. 다만 전날까지 근거였던 11월 6일 복수 노출은 최근 7일 관측창에서 이탈했고, 최신 독립 근거는 한 매체의 회고형 편성에 그쳤습니다. 상품 링크와 가격은 수요로 계산하지 않았으며, 근거 약화를 반영해 SOCIAL·HOLD를 유지했습니다.",
       "sources": [
         {
-          "label": "WHO WHAT WEAR · ROSIE HUNTINGTON-WHITELEY + LORI HARVEY BROWN LEATHER JACKETS · NOV 6",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/brown-leather-jacket-trend-rosie-huntington-whiteley-elsa-hosk-lori-harvey"
-        },
-        {
-          "label": "VOGUE · ZENDAYA LONG LEATHER COAT IN DENIM EDIT · NOV 6",
-          "url": "https://www.vogue.com/article/celebrity-denim-outfits"
+          "label": "PEOPLE · KATIE HOLMES LEATHER JACKET + DARK CARGO JEANS FALL EDIT · NOV 13",
+          "url": "https://people.com/katie-holmes-fall-outfits-amazon-november-2026-12247903"
         }
       ]
     },
