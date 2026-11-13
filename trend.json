@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T08:14:00+09:00",
+  "generatedAt": "2026-11-14T08:17:00+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -42,8 +42,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 9~12일 발레 플랫·메리제인 반복 실착과 겨울형 발레 펌프 후속이 이어져 UP을 유지했습니다.",
-      "detail": "11월 9일 InStyle은 Eva Chen의 오래 착용한 발레 플랫과 데님 공식을, People은 Margot Robbie의 메리제인형 발레 플랫을 다뤘습니다. 11월 11일 InStyle은 부츠컷 진과 함께 신는 슈즈 목록에 발레 플랫과 메리제인을 각각 포함했고, 11월 12일 Marie Claire는 Ariana Grande가 7월부터 반복 착용한 Sandy Liang 힐드 발레 펌프를 겨울 스타일링과 함께 보도했습니다. 동일 제품의 판매량으로 합산하지 않고 공개 실착과 독립 후속 편성만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 9~13일 발레 플랫·메리제인 반복 실착에 Ariana Grande의 겨울형 발레 펌프가 매체 간 재편성돼 UP을 유지했습니다.",
+      "detail": "11월 9일 InStyle은 Eva Chen의 오래 착용한 발레 플랫과 데님 공식을, People은 Margot Robbie의 메리제인형 발레 플랫을 다뤘습니다. 11월 11일 InStyle은 부츠컷 진과 함께 신는 슈즈 목록에 발레 플랫과 메리제인을 각각 포함했습니다. 11월 12일 Marie Claire가 Ariana Grande의 반복 착용 Sandy Liang 힐드 발레 펌프를 보도한 데 이어, 11월 13일 Who What Wear도 같은 실착을 겨울형 발레 펌프 조합으로 재편성했습니다. 동일 착장의 매체 재노출은 독립 수요로 중복 계산하지 않고, 반복 노출 신호로만 반영했습니다.",
       "sources": [
         {
           "label": "INSTYLE · EVA CHEN DENIM + BALLET FLATS REPEAT FORMULA · NOV 9",
@@ -60,6 +60,10 @@
         {
           "label": "MARIE CLAIRE · ARIANA GRANDE REPEAT HEELED BALLET-PUMP WEAR · NOV 12",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-pumps-trend-ariana-grande/"
+        },
+        {
+          "label": "WHO WHAT WEAR · ARIANA GRANDE BALLET-PUMP WINTER OUTFIT RE-EDIT · NOV 13",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trimmed-jacket-jeans-ballet-pumps-outfit-ariana-grande"
         }
       ]
     },
@@ -70,16 +74,16 @@
       "direction": "UP",
       "market": "KOREA",
       "signal": "PLATFORM",
-      "summary": "KREAM 11월 12일 주간 급상승 상위 5개 중 경량 다운이 1·2·4위에 올라 PLATFORM·UP으로 전환했습니다.",
-      "detail": "11월 12일 06:50 기준으로 검색 노출된 KREAM 주간 급상승 표면에서 Nike Windrunner Lightweight Down이 1위와 4위, Black Yak 경량 다운이 2위, Spao Thin-Light 후드 재킷이 5위로 확인됐습니다. 화면에 표시된 거래 수는 각 상품의 공개 누적 카운터로 보이며 최근 7일 거래량으로 환산하지 않았습니다. 같은 날 KREAM 홈에는 숏·헤비 패딩과 10만원 이하 인기 플리스 편성도 이어졌습니다. 최신 공개 주간표의 순위와 플랫폼 반복 노출을 근거로 PLATFORM·UP을 유지하고, 전날 사용한 11월 1주차 제3자 검색표는 관측창 밖으로 이동해 제거했습니다.",
+      "summary": "KREAM 11월 13일 주간 전체 랭킹에서 경량 다운 3·4·7위, 퍼 플리스 8위가 확인돼 PLATFORM·UP을 유지했습니다.",
+      "detail": "11월 13일 06:47 기준 KREAM 주간 전체 랭킹에서 Nike Windrunner 경량 다운이 3위와 7위, Black Yak 경량 다운이 4위, Spao 퍼 플리스 집업이 8위였습니다. 같은 표면의 10~14위에도 씬라이트 재킷과 라이트 다운이 반복됐고, KREAM 인기 탐색 영역에는 패딩·숏패딩·플리스가 노출됐습니다. 화면의 관심·리뷰·거래 수는 상품별 누적 카운터이므로 최근 7일 수요량으로 환산하지 않았으며, 공개 주간 순위와 반복 노출만 PLATFORM·UP 근거로 사용했습니다.",
       "sources": [
         {
-          "label": "KREAM · WEEKLY RISING RANK: LIGHT DOWN #1/#2/#4 + THIN-LIGHT JACKET #5 · NOV 12 06:50",
-          "url": "https://kream.co.kr/?tab=home_ranking_v2"
+          "label": "KREAM · WEEKLY ALL RANK: LIGHT DOWN #3/#4/#7 + FUR FLEECE #8 · NOV 13 06:47",
+          "url": "https://kream.co.kr/content/ranking_all-weekly"
         },
         {
-          "label": "KREAM · SHORT/HEAVY PADDING + UNDER-100K FLEECE HOME EDIT · CRAWLED NOV 12",
-          "url": "https://kream.co.kr/"
+          "label": "KREAM · POPULAR PADDING / SHORT PADDING + FLEECE SHOP SURFACE · CRAWLED NOV 13",
+          "url": "https://kream.co.kr/search?delivery_method=quick_delivery&shop_category_id=162&sort=popular_score&tab=all"
         }
       ]
     },
@@ -90,8 +94,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 9~12일 인조 퍼 코트·퍼 커프 재킷의 독립 실착이 연속 확인돼 UP을 유지했습니다.",
-      "detail": "11월 9일 Vogue는 Rosie Huntington-Whiteley의 대형 인조 퍼 코트를 보도했고, 11월 11일에는 Zoë Kravitz가 짙은 브라운 인조 퍼 커프가 달린 골드 브로케이드 Saint Laurent 재킷을 착용했습니다. 11월 12일 Marie Claire는 Ariana Grande의 시어링 트리밍 재킷과 퍼 칼라·커프 스타일링을 추가로 다뤘습니다. 재킷과 코트로 형태는 분산되므로 동일 상품 수요로 합산하지 않고, 퍼 트리밍·퍼 아우터의 독립 최신 노출만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 9~13일 인조 퍼 코트·퍼 커프 재킷 노출과 Ariana Grande 착장의 매체 재편성이 이어져 UP을 유지했습니다.",
+      "detail": "11월 9일 Vogue는 Rosie Huntington-Whiteley의 대형 인조 퍼 코트를, 11월 11일 Vogue는 Zoë Kravitz의 인조 퍼 커프 브로케이드 재킷을 보도했습니다. 11월 12일 Marie Claire가 Ariana Grande의 시어링 트리밍 재킷을 다룬 뒤 11월 13일 Who What Wear도 같은 착장을 겨울형 퍼 트리밍 재킷 조합으로 재편성했습니다. 같은 착장은 독립 수요로 중복 합산하지 않고 매체 간 반복 노출로만 반영했으며, 재킷·코트의 상품 수요는 합산하지 않았습니다.",
       "sources": [
         {
           "label": "VOGUE · ROSIE HUNTINGTON-WHITELEY OVERSIZED FAUX-FUR COAT · NOV 9",
@@ -104,6 +108,10 @@
         {
           "label": "MARIE CLAIRE · ARIANA GRANDE SHEARLING-TRIMMED JACKET WITH FUR COLLAR/CUFFS · NOV 12",
           "url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-pumps-trend-ariana-grande/"
+        },
+        {
+          "label": "WHO WHAT WEAR · ARIANA GRANDE FUR-TRIMMED JACKET WINTER RE-EDIT · NOV 13",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trimmed-jacket-jeans-ballet-pumps-outfit-ariana-grande"
         }
       ]
     },
