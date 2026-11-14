@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T08:17:00+09:00",
+  "generatedAt": "2026-11-15T08:55:00+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,13 +10,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "11월 8~10일 셀러브리티 실착에 11월 11일 부츠컷 데님 전용 슈즈 편성이 더해져 UP을 유지했습니다.",
-      "detail": "11월 8일 People 주간 편성은 Nicole Kidman의 다크 워시 진과 Jennifer Garner의 부츠컷 계열 플레어 진을 묶었고, 11월 9일 InStyle은 Eva Chen의 스트레이트 진 반복 공식을 다뤘습니다. 11월 10일 Who What Wear는 Jennifer Lawrence의 스트레이트 진을, Vogue는 Kendall Jenner의 피티드 부츠컷 진을 보도했습니다. 11월 11일 InStyle은 Gigi Hadid·Meghan Markle·Margot Robbie 등을 언급하며 부츠컷 진에 맞춘 11개 슈즈 유형을 별도 편성했습니다. 상품 추천·가격은 판매량으로 계산하지 않고, 다인물 실착과 후속 편성만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 9~11일 스트레이트·부츠컷 데님의 다인물 실착과 후속 슈즈 편성이 이어져 UP을 유지했습니다.",
+      "detail": "11월 9일 InStyle은 Eva Chen의 스트레이트 진 반복 공식을 다뤘고, 11월 10일 Who What Wear는 Jennifer Lawrence의 스트레이트 진을, Vogue는 Kendall Jenner의 피티드 부츠컷 진을 보도했습니다. 11월 11일 InStyle은 Gigi Hadid·Meghan Markle·Margot Robbie 등을 언급하며 부츠컷 진에 맞춘 11개 슈즈 유형을 별도 편성했습니다. 상품 추천·가격은 판매량으로 계산하지 않고, 다인물 실착과 후속 편성만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · NICOLE KIDMAN DENIM + JENNIFER GARNER BOOTCUT-FLARE WEEKLY EDIT · NOV 8",
-          "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
-        },
         {
           "label": "INSTYLE · EVA CHEN STRAIGHT-LEG DENIM REPEAT FORMULA · NOV 9",
           "url": "https://www.instyle.com/eva-chen-outfit-formula-fashion-tips-12195813"
@@ -42,8 +38,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 9~13일 발레 플랫·메리제인 반복 실착에 Ariana Grande의 겨울형 발레 펌프가 매체 간 재편성돼 UP을 유지했습니다.",
-      "detail": "11월 9일 InStyle은 Eva Chen의 오래 착용한 발레 플랫과 데님 공식을, People은 Margot Robbie의 메리제인형 발레 플랫을 다뤘습니다. 11월 11일 InStyle은 부츠컷 진과 함께 신는 슈즈 목록에 발레 플랫과 메리제인을 각각 포함했습니다. 11월 12일 Marie Claire가 Ariana Grande의 반복 착용 Sandy Liang 힐드 발레 펌프를 보도한 데 이어, 11월 13일 Who What Wear도 같은 실착을 겨울형 발레 펌프 조합으로 재편성했습니다. 동일 착장의 매체 재노출은 독립 수요로 중복 계산하지 않고, 반복 노출 신호로만 반영했습니다.",
+      "summary": "11월 9~13일 발레 플랫·메리제인 반복 실착에 Ariana Grande와 Zoë Kravitz의 주간 후속 편성이 더해져 UP을 유지했습니다.",
+      "detail": "11월 9일 InStyle은 Eva Chen의 발레 플랫과 데님 공식을, People은 Margot Robbie의 메리제인형 발레 플랫을 다뤘습니다. 11월 11일 InStyle의 부츠컷 데님 슈즈 편성에 발레 플랫과 메리제인이 포함됐고, 11월 12~13일에는 Ariana Grande의 힐드 발레 펌프가 Marie Claire와 Who What Wear에 반복 노출됐습니다. 11월 13일 Vogue 주간 편성은 Zoë Kravitz의 버건디 발레 플랫을 추가했습니다. 같은 착장의 매체 재노출은 독립 수요로 중복 계산하지 않고 반복 노출로만 반영했습니다.",
       "sources": [
         {
           "label": "INSTYLE · EVA CHEN DENIM + BALLET FLATS REPEAT FORMULA · NOV 9",
@@ -64,6 +60,10 @@
         {
           "label": "WHO WHAT WEAR · ARIANA GRANDE BALLET-PUMP WINTER OUTFIT RE-EDIT · NOV 13",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trimmed-jacket-jeans-ballet-pumps-outfit-ariana-grande"
+        },
+        {
+          "label": "VOGUE · ZOË KRAVITZ BURGUNDY BALLET FLATS WEEKLY EDIT · NOV 13",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "direction": "UP",
       "market": "KOREA",
       "signal": "PLATFORM",
-      "summary": "KREAM 11월 13일 주간 전체 랭킹에서 경량 다운 3·4·7위, 퍼 플리스 8위가 확인돼 PLATFORM·UP을 유지했습니다.",
-      "detail": "11월 13일 06:47 기준 KREAM 주간 전체 랭킹에서 Nike Windrunner 경량 다운이 3위와 7위, Black Yak 경량 다운이 4위, Spao 퍼 플리스 집업이 8위였습니다. 같은 표면의 10~14위에도 씬라이트 재킷과 라이트 다운이 반복됐고, KREAM 인기 탐색 영역에는 패딩·숏패딩·플리스가 노출됐습니다. 화면의 관심·리뷰·거래 수는 상품별 누적 카운터이므로 최근 7일 수요량으로 환산하지 않았으며, 공개 주간 순위와 반복 노출만 PLATFORM·UP 근거로 사용했습니다.",
+      "summary": "KREAM 11월 14일 주간 전체 랭킹에서 경량 다운 3·4·7위, 퍼 플리스 8위가 유지돼 PLATFORM·UP을 이어갔습니다.",
+      "detail": "11월 14일 07:50 기준 KREAM 주간 전체 랭킹에서 Nike Windrunner 경량 다운이 3위와 7위, Black Yak 경량 다운이 4위, Spao 퍼 플리스 집업이 8위였습니다. 11~13위에도 다운·씬라이트 재킷이 반복됐습니다. 같은 날 29CM 윈터 에디션에는 Nike 다운 재킷 2종이 노출됐고 그중 한 상품은 '일시품절'로 표시됐습니다. KREAM의 관심·리뷰·거래 수는 누적 카운터이므로 최근 7일 수요로 환산하지 않았으며, 공개 주간 순위·플랫폼 반복 노출·현재 품절 표기만 PLATFORM·UP 근거로 사용했습니다.",
       "sources": [
         {
-          "label": "KREAM · WEEKLY ALL RANK: LIGHT DOWN #3/#4/#7 + FUR FLEECE #8 · NOV 13 06:47",
+          "label": "KREAM · WEEKLY ALL RANK: LIGHT DOWN #3/#4/#7 + FUR FLEECE #8 · NOV 14 07:50",
           "url": "https://kream.co.kr/content/ranking_all-weekly"
         },
         {
-          "label": "KREAM · POPULAR PADDING / SHORT PADDING + FLEECE SHOP SURFACE · CRAWLED NOV 13",
-          "url": "https://kream.co.kr/search?delivery_method=quick_delivery&shop_category_id=162&sort=popular_score&tab=all"
+          "label": "29CM · WINTER EDIT: NIKE DOWN JACKETS + ONE CURRENTLY SOLD OUT · CRAWLED NOV 15",
+          "url": "https://www.29cm.co.kr/?_rsc=d2jfy"
         }
       ]
     },
@@ -122,8 +122,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "11월 9~13일 투톤·클래식 로퍼 실착과 데님 슈즈 편성이 이어져 UP을 유지했습니다.",
-      "detail": "11월 9일 Page Six는 Blake Lively가 Instagram Stories에서 투톤 로퍼와 커프드 진을 착용한 사례를 보도했고, 11월 11일 InStyle은 부츠컷 진과 함께 신는 11개 슈즈 중 로퍼를 첫 항목으로 별도 편성했습니다. 11월 13일 People의 Katie Holmes 최근 가을 룩 편성에도 다크 카고 진과 로퍼 조합이 포함됐습니다. Instagram 원본 시점은 기사로 교차 확인했으며, 상품 추천 링크·가격은 최근 7일 판매량으로 합산하지 않았습니다.",
+      "summary": "11월 9~13일 투톤·클래식·스웨이드 로퍼 실착과 데님 슈즈 편성이 이어져 UP을 유지했습니다.",
+      "detail": "11월 9일 Page Six는 Blake Lively의 Instagram Stories 속 투톤 로퍼와 커프드 진을 보도했고, 11월 11일 InStyle은 부츠컷 진 슈즈 편성에서 로퍼를 첫 항목으로 제시했습니다. 11월 13일 People의 Katie Holmes 가을 룩 편성에 로퍼가 포함됐고, Vogue 주간 편성은 Jennifer Lawrence의 벨벳 로퍼와 Gigi Hadid의 스웨이드 로퍼를 함께 다뤘습니다. Instagram 원본 시점은 기사로 교차 확인했으며, 상품 링크·가격은 최근 7일 판매량으로 합산하지 않았습니다.",
       "sources": [
         {
           "label": "PAGE SIX · BLAKE LIVELY TWO-TONE LOAFERS VIA INSTAGRAM STORY · NOV 9",
@@ -136,6 +136,10 @@
         {
           "label": "PEOPLE · KATIE HOLMES DARK CARGO JEANS + LOAFERS FALL EDIT · NOV 13",
           "url": "https://people.com/katie-holmes-fall-outfits-amazon-november-2026-12247903"
+        },
+        {
+          "label": "VOGUE · JENNIFER LAWRENCE VELVET + GIGI HADID SUEDE LOAFERS WEEKLY EDIT · NOV 13",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
         }
       ]
     },
@@ -162,13 +166,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "PLATFORM",
-      "summary": "Rihanna의 스니커 뮬과 뉴욕 UGG 클로그 관측에 29CM의 11월 12일 UGG 인기 신발 편성이 겹쳐 PLATFORM·UP으로 전환했습니다.",
-      "detail": "11월 8일 People은 Jennifer Lawrence의 슬립온 클로그를 주간 편성했고, 11월 9일 Harper's Bazaar는 Rihanna가 New Balance × Miu Miu 스웨이드 스니커 뮬을 착용한 사례를 보도했습니다. 11월 10일 InStyle은 뉴욕 거리의 UGG 계열 클로그·메리제인형 슈즈 반복 관측을 추가했습니다. 11월 12일 29CM 홈에는 '어그 인기 신발 모음'과 Tasman II가 노출됐습니다. 29CM의 관심 표기와 상품 가격은 판매량으로 해석하지 않았고, 글로벌 실착과 국내 플랫폼 반복 편성이 동시에 이어진 점을 PLATFORM·UP 근거로 사용했습니다.",
+      "summary": "KREAM 11월 14일 주간 샌들 랭킹에서 UGG Tasman이 1~3위, 플랫폼 클로그가 7위에 올라 PLATFORM·UP을 강화했습니다.",
+      "detail": "11월 9일 Harper's Bazaar는 Rihanna의 New Balance × Miu Miu 스니커 뮬을, 11월 10일 InStyle은 뉴욕 거리의 UGG 계열 클로그·메리제인형 슈즈 반복 관측을 보도했습니다. 11월 12일 29CM에는 UGG 인기 신발과 Tasman II가 편성됐고, 11월 13일 Vogue 주간 편성에는 Kendall Jenner의 플랫 뮬이 포함됐습니다. 11월 14일 07:50 KREAM 주간 샌들 랭킹에서 UGG Tasman 계열이 1~3위, Crocs 클래식 플랫폼 클로그가 7위였습니다. KREAM의 누적 관심·거래 수는 최근 7일 수요로 환산하지 않고 공개 주간 순위만 사용했습니다.",
       "sources": [
-        {
-          "label": "PEOPLE · JENNIFER LAWRENCE SLIP-ON CLOGS WEEKLY EDIT · NOV 8",
-          "url": "https://people.com/best-celebrity-outfits-this-week-11-08-12187447"
-        },
         {
           "label": "HARPER'S BAZAAR · RIHANNA NEW BALANCE × MIU MIU SUEDE SNEAKER MULES · NOV 9",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74377447/rihanna-new-balance-miu-miu-sneaker-mules-los-angeles-shopping-spree-street-style-photos/"
@@ -180,6 +180,14 @@
         {
           "label": "29CM · UGG POPULAR SHOES + TASMAN II HOME EDIT · CRAWLED NOV 12",
           "url": "https://www.29cm.co.kr/"
+        },
+        {
+          "label": "VOGUE · KENDALL JENNER FLAT MULES WEEKLY EDIT · NOV 13",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
+        },
+        {
+          "label": "KREAM · WEEKLY SANDAL RANK: UGG TASMAN #1/#2/#3 + PLATFORM CLOG #7 · NOV 14 07:50",
+          "url": "https://kream.co.kr/content/ranking_35-weekly"
         }
       ]
     }
