@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T08:38:55+09:00",
+  "generatedAt": "2026-11-21T08:35:59+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,8 +10,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "11월 15~18일 부츠컷·스트레이트 진의 다인물 실착과 국내 플랫폼 품절 신호가 이어져 UP을 유지했습니다.",
-      "detail": "11월 15일 People 주간 편성에는 Kendall Jenner의 부츠컷 진과 Olivia Wilde의 스트레이트 진이 함께 포함됐습니다. 11월 16일 People은 Bella Hadid의 다크 스트레이트 커프드 진을 여러 인물의 커프드 진 편성과 함께 다뤘습니다. 11월 17일 Who What Wear는 Julia Garner의 라이트 워시 스트레이트 진을 퍼 트리밍 재킷·발레 플랫 조합으로 보도했고, 11월 18일 29CM에는 5차 리오더된 부츠컷 팬츠가 '일시품절'로 표시됐습니다. 단일 상품 품절을 전체 판매량으로 확대하지 않고 반복 실착과 공개 상태만 사용했습니다.",
+      "summary": "11월 15~20일 부츠컷·스트레이트 진의 다인물 실착, 국내 품절, Vogue 주간 재편성이 이어져 UP을 유지했습니다.",
+      "detail": "11월 15일 People 주간 편성에는 Kendall Jenner의 부츠컷 진과 Olivia Wilde의 스트레이트 진이 함께 포함됐고, 16일에는 Bella Hadid의 다크 스트레이트 커프드 진이 다뤄졌습니다. 17일 Who What Wear는 Julia Garner의 라이트 워시 스트레이트 진을 보도했고, 18일 29CM에서는 5차 리오더 부츠컷 팬츠가 '일시품절'로 표시됐습니다. 20일 Vogue 주간 편성은 Kendall Jenner의 부츠컷 데님과 Bella Hadid의 부츠컷 데님, Hailey Bieber의 스트레이트 진을 다시 묶었습니다. 단일 품절을 전체 판매량으로 확대하지 않고 반복 실착과 공개 상품 상태를 분리해 사용했습니다.",
       "sources": [
         {
           "label": "PEOPLE · KENDALL JENNER BOOTCUT + OLIVIA WILDE STRAIGHT JEANS WEEKLY EDIT · NOV 15",
@@ -28,6 +28,10 @@
         {
           "label": "WHO WHAT WEAR · JULIA GARNER STRAIGHT-LEG JEANS WINTER FORMULA · NOV 17",
           "url": "https://www.whowhatwear.com/fashion/celebrity-style/julia-garner-fur-trimmed-coat-straight-leg-jeans-ballet-flats-outfit-2026"
+        },
+        {
+          "label": "VOGUE · KENDALL/BELLA BOOTCUT + HAILEY STRAIGHT JEANS WEEKLY EDIT · NOV 20",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
         }
       ]
     },
@@ -38,8 +42,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 15~19일 Margot Robbie·Julia Garner의 발레 플랫 편성과 후속 보도가 이어져 UP을 유지했습니다.",
-      "detail": "11월 15일 People 주간 편성에는 Margot Robbie의 메리제인 발레 플랫이 등장했고, 11월 17일 Who What Wear는 Julia Garner의 퀼티드 블랙 발레 플랫을 퍼 트리밍 재킷·스트레이트 진 조합으로 보도했습니다. 11월 19일 People은 같은 Julia Garner 착장을 별도 후속 기사로 다시 다루며 클래식 발레 플랫 조합을 강조했습니다. 상품 링크·가격은 판매량으로 해석하지 않고 서로 다른 날짜·매체의 반복 노출만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 15~20일 Margot Robbie·Julia Garner의 발레 플랫이 반복 보도되고 Vogue 주간 편성에도 재등장해 UP을 유지했습니다.",
+      "detail": "11월 15일 People은 Margot Robbie의 메리제인 발레 플랫을 편성했고, 17일 Who What Wear는 Julia Garner의 퀼티드 블랙 발레 플랫을 보도했습니다. 19일 People은 같은 Julia Garner 착장을 별도 기사로 후속 보도했으며, 20일 Vogue 주간 편성에도 Julia Garner의 퀼티드 발레 플랫이 다시 포함됐습니다. 상품 링크와 가격은 판매량으로 해석하지 않고 날짜·매체를 달리한 반복 노출만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
         {
           "label": "PEOPLE · MARGOT ROBBIE MARY-JANE BALLET FLATS WEEKLY FOLLOW-UP · NOV 15",
@@ -52,6 +56,10 @@
         {
           "label": "PEOPLE · JULIA GARNER JEANS + CLASSIC BALLET FLATS FOLLOW-UP · NOV 19",
           "url": "https://people.com/julia-garner-faux-fur-coat-amazon-november-2026-12187529"
+        },
+        {
+          "label": "VOGUE · JULIA GARNER QUILTED BALLERINA FLATS WEEKLY EDIT · NOV 20",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
         }
       ]
     },
@@ -59,27 +67,23 @@
       "id": "live-light-down-fleece",
       "keyword": "LIGHT DOWN & FLEECE",
       "category": "OUTERWEAR",
-      "direction": "HOLD",
+      "direction": "UP",
       "market": "KOREA",
-      "signal": "SEARCH",
-      "summary": "경량 다운은 최신 KREAM 주간 전체 3·5·9위와 플리스 10위를 기록했지만 공개 검색 상대지수는 둔화돼 SEARCH·HOLD를 유지했습니다.",
-      "detail": "11월 18일 KREAM 급상승 전체 랭킹에서 경량 다운 3종이 1~3위, 씬라이트 재킷이 7·8위였고, 11월 20일 확인한 주간 전체 랭킹에서도 경량 다운이 3·5·9위, 플리스가 10위에 올랐습니다. 29CM 홈에도 라이트 다운·플리스 상품이 반복 노출되고 일부 플리스 상품이 품절로 표시됐습니다. 반면 네이버 데이터랩 기반 공개 상대지수(11월 8~14일, 니트=100)에서 경량패딩 검색 관심은 직전 7일 대비 22.7%, 쇼핑 클릭은 15.2% 감소했습니다. 절대 검색량·판매량이 아닌 상대지수와 공개 순위를 구분했으며, 플랫폼 강세와 검색 모멘텀 둔화를 함께 반영해 SEARCH·HOLD를 유지했습니다.",
+      "signal": "PLATFORM",
+      "summary": "11월 21일 KREAM 급상승 전체 2·3·4·5·9·10·13·19위와 29CM 반복 노출·품절이 확인돼 PLATFORM·UP으로 전환했습니다.",
+      "detail": "11월 21일 05:48 기준 KREAM 급상승 전체 랭킹에서 경량 다운·인슐레이션 계열이 2·3·4·5·13·19위, 씬라이트 재킷이 9·10위에 올랐습니다. 전날 확인한 KREAM 주간 전체 랭킹에서도 경량 다운이 3·5·9위, 플리스가 10위였습니다. 29CM에서는 라이트 다운과 플리스가 '가볍고 따뜻한 상품'으로 반복 노출됐고, 여러 플리스 상품이 '일시품절'로 표시됐습니다. 기간 밖으로 이동한 11월 8~14일 검색 상대지수는 제거했으며, 현재 공개 순위와 상품 상태만 근거로 PLATFORM·UP으로 조정했습니다. 순위는 관측 시점의 공개 화면값이고 비공개 판매량으로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "KREAM · WEEKLY ALL RANK: LIGHT DOWN #3/#5/#9 + FLEECE #10 · CRAWLED NOV 20",
-          "url": "https://kream.co.kr/content/ranking_all-weekly"
-        },
-        {
-          "label": "KREAM · RISING ALL RANK: LIGHT DOWN #1/#2/#3 + THIN-LIGHT #7/#8 · NOV 18 06:50",
+          "label": "KREAM · RISING ALL: LIGHT DOWN/INSULATION #2/#3/#4/#5/#13/#19 + THIN-LIGHT #9/#10 · NOV 21 05:48",
           "url": "https://kream.co.kr/content/ranking_all-rising"
         },
         {
-          "label": "29CM · LIGHT DOWN/FLEECE REPEATED EXPOSURE + SELECT FLEECE SOLD OUT · CRAWLED NOV 20",
-          "url": "https://home.29cm.co.kr/"
+          "label": "KREAM · WEEKLY ALL: LIGHT DOWN #3/#5/#9 + FLEECE #10 · CRAWLED NOV 20",
+          "url": "https://kream.co.kr/content/ranking_all-weekly"
         },
         {
-          "label": "RECOVERIC / NAVER DATALAB · LIGHT DOWN SEARCH −22.7%, SHOPPING CLICKS −15.2% · NOV 8–14",
-          "url": "https://magazine.recoveric.com/ranking/"
+          "label": "29CM · LIGHT DOWN/FLEECE REPEATED EXPOSURE + SELECT FLEECE SOLD OUT · CRAWLED NOV 20",
+          "url": "https://www.29cm.co.kr/"
         }
       ]
     },
@@ -90,8 +94,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 17~19일 Bella Hadid·Julia Garner·Hailey Bieber의 퍼·시어링 트리밍 아우터가 연속 노출돼 SOCIAL·UP을 유지했습니다.",
-      "detail": "11월 17일 Vogue는 Bella Hadid의 플러시 인조 퍼 코트를, Who What Wear는 Julia Garner의 인조 퍼 트리밍 패딩 재킷을 각각 보도했습니다. 11월 18일 Vogue는 Bella Hadid의 두 번째 Aspen 퍼 트리밍 룩을 추가했고, 11월 19일 People은 Julia Garner 착장을 별도 후속 기사로 다시 다뤘습니다. 같은 날 Harper's Bazaar는 Hailey Bieber의 화이트 시어링 트리밍 코트를 보도했습니다. 서로 다른 인물·매체·날짜의 독립 후속만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 17~20일 Bella Hadid·Julia Garner·Hailey Bieber·Jennifer Lawrence의 퍼 트리밍 아우터가 연속 편성돼 SOCIAL·UP을 유지했습니다.",
+      "detail": "11월 17일 Vogue와 Who What Wear는 Bella Hadid의 인조 퍼 코트와 Julia Garner의 퍼 트리밍 패딩을 각각 보도했고, 18일 Vogue는 Bella Hadid의 두 번째 퍼 트리밍 룩을 추가했습니다. 19일 People은 Julia Garner 착장을 별도 후속 보도했고 Harper's Bazaar는 Hailey Bieber의 시어링 트리밍 코트를 다뤘습니다. 20일 Vogue 주간 편성은 Hailey·Bella·Julia의 퍼 아우터를 한 편에 다시 묶었고, People은 Jennifer Lawrence의 화이트 퍼 칼라 코트를 추가했습니다. 서로 다른 인물·매체·날짜의 반복만 SOCIAL·UP 근거로 사용했습니다.",
       "sources": [
         {
           "label": "VOGUE · BELLA HADID PLUSH FAUX-FUR COAT IN ASPEN · NOV 17",
@@ -112,6 +116,14 @@
         {
           "label": "HARPER'S BAZAAR · HAILEY BIEBER SHEARLING-TRIM COAT · NOV 19",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74477664/hailey-bieber-30th-birthday-outfits-street-style-photos/"
+        },
+        {
+          "label": "VOGUE · HAILEY/BELLA/JULIA FAUX-FUR OUTERWEAR WEEKLY EDIT · NOV 20",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
+        },
+        {
+          "label": "PEOPLE · JENNIFER LAWRENCE WHITE FUR-COLLAR COAT · NOV 20",
+          "url": "https://people.com/best-looks-of-the-week-11-20-26-12267527"
         }
       ]
     },
@@ -122,8 +134,8 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "11월 15~19일 Glenn Close·Demi Moore·Katie Holmes의 로퍼와 데님 조합이 반복 편성돼 UP을 유지했습니다.",
-      "detail": "11월 15일 People은 Glenn Close의 와이드 진·로퍼 조합을, 11월 16일에는 Demi Moore의 다크 커프드 진·슬릭 로퍼 조합을 추가했습니다. 11월 19일 ELLE 주간 셀러브리티 스타일 편성은 Katie Holmes의 다크 데님·니트·루시드 로퍼 조합을 다시 다뤘습니다. 상품 링크와 할인 가격은 최근 7일 판매량으로 환산하지 않고 다인물 반복 노출만 사용했습니다.",
+      "summary": "11월 15~20일 Glenn Close·Demi Moore·Katie Holmes·Gigi Hadid·Dakota Johnson의 로퍼가 반복 편성돼 UP을 유지했습니다.",
+      "detail": "11월 15일 People은 Glenn Close의 와이드 진·로퍼 조합을, 16일에는 Demi Moore의 다크 커프드 진·로퍼 조합을 편성했습니다. 19일 ELLE는 Katie Holmes의 데님·루시드 로퍼 착장을 다시 다뤘고, 20일 Vogue 주간 편성은 Katie Holmes의 소프트 레더 로퍼와 Gigi Hadid의 스웨이드 로퍼를 함께 포함했습니다. 같은 날 Vogue는 Dakota Johnson의 글로시 블랙 로퍼를 별도로 보도했습니다. 상품 링크·가격은 수요량으로 환산하지 않고 다인물 반복 노출만 사용했습니다.",
       "sources": [
         {
           "label": "PEOPLE · GLENN CLOSE WIDE-LEG JEANS + LOAFERS WEEKLY EDIT · NOV 15",
@@ -136,6 +148,14 @@
         {
           "label": "ELLE · KATIE HOLMES DARK DENIM + RUCHED LOAFERS WEEKLY EDIT · NOV 19",
           "url": "https://www.elle.com/fashion/shopping/a74347265/best-celebrity-outfits-november-2026/"
+        },
+        {
+          "label": "VOGUE · KATIE HOLMES SOFT LEATHER + GIGI HADID SUEDE LOAFERS WEEKLY EDIT · NOV 20",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
+        },
+        {
+          "label": "VOGUE · DAKOTA JOHNSON GLOSSY BLACK LOAFERS · NOV 20",
+          "url": "https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-couple-style-is-in-the-bag-2026-11-20"
         }
       ]
     },
@@ -146,8 +166,8 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 19일 Kylie Jenner·Timothée Chalamet·Justin Bieber의 서로 다른 레더 아우터 실착이 독립 보도돼 HOLD에서 UP으로 전환했습니다.",
-      "detail": "11월 19일 Vogue는 Kylie Jenner의 집업 레더 재킷과 Timothée Chalamet의 레더 팬츠를 코트사이드 룩으로 보도했습니다. 같은 날 Harper's Bazaar는 Justin Bieber의 디스트레스드 레더 재킷 착장을 별도로 다뤘습니다. 직전 관측창의 단일 회고형 근거는 제거했고, 최신 두 매체·다인물의 당일 실착 보도만 반영했습니다. 상품 가격이나 비공개 판매량은 수요로 계산하지 않았습니다.",
+      "summary": "11월 19~20일 Kylie Jenner·Justin Bieber에 이어 Rihanna·Katie Holmes·Meghann Fahy·Dakota Johnson까지 레더 아우터 실착이 확장돼 UP을 유지했습니다.",
+      "detail": "11월 19일 Vogue는 Kylie Jenner의 집업 레더 재킷을, Harper's Bazaar는 Justin Bieber의 디스트레스드 레더 재킷을 보도했습니다. 20일 Vogue 주간 편성에는 Rihanna의 레더 봄버, Katie Holmes의 레더 봄버, Meghann Fahy의 레더 코트가 함께 포함됐습니다. 같은 날 별도 Vogue 기사에는 Dakota Johnson의 롱 레더 코트와 Machine Gun Kelly의 오버사이즈 레더 재킷이 등장했습니다. 서로 다른 인물·매체 편성의 확장만 SOCIAL·UP 근거로 사용했으며 상품 가격과 비공개 판매량은 제외했습니다.",
       "sources": [
         {
           "label": "VOGUE · KYLIE JENNER ZIP LEATHER JACKET + TIMOTHÉE CHALAMET LEATHER PANTS · NOV 19",
@@ -156,6 +176,14 @@
         {
           "label": "HARPER'S BAZAAR · JUSTIN BIEBER DISTRESSED LEATHER JACKET · NOV 19",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74477664/hailey-bieber-30th-birthday-outfits-street-style-photos/"
+        },
+        {
+          "label": "VOGUE · RIHANNA/KATIE HOLMES/MEGHANN FAHY LEATHER OUTERWEAR WEEKLY EDIT · NOV 20",
+          "url": "https://www.vogue.com/article/best-celebrity-outfits"
+        },
+        {
+          "label": "VOGUE · DAKOTA JOHNSON LONG LEATHER COAT + MGK LEATHER JACKET · NOV 20",
+          "url": "https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-couple-style-is-in-the-bag-2026-11-20"
         }
       ]
     },
@@ -166,13 +194,9 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "PLATFORM",
-      "summary": "KREAM 최신 주간·급상승 랭킹의 UGG Tasman 상위권과 11월 19일 클로그 실착이 겹쳐 PLATFORM·UP을 유지했습니다.",
-      "detail": "11월 14일 KREAM 주간 샌들 랭킹에서 UGG Tasman 계열이 1~3위, Crocs 클래식 플랫폼 클로그가 7위였습니다. 11월 16일 People은 Jennifer Aniston의 클로그를 다뤘고, 11월 18일 확인한 KREAM 급상승 신발 랭킹에서는 UGG Tasman 계열이 3·5·8·17위였습니다. 11월 20일 확인한 KREAM 주간 전체 랭킹에서도 UGG Tasman이 12위였으며, 11월 19일 Harper's Bazaar는 Justin Bieber의 샌디 컬러 클로그 실착을 보도했습니다. 공개 순위와 반복 실착만 사용했고 누적 관심·거래 수는 7일 수요량으로 환산하지 않았습니다.",
+      "summary": "11월 21일 KREAM 급상승 신발 랭킹에서 UGG Tasman 계열이 1·4·5·11위를 차지해 PLATFORM·UP을 강화했습니다.",
+      "detail": "11월 16일 People은 Jennifer Aniston의 클로그를 다뤘고, 18일 확인한 KREAM 급상승 신발 랭킹에서는 UGG Tasman 계열이 3·5·8·17위였습니다. 19일 Harper's Bazaar는 Justin Bieber의 샌디 컬러 클로그 실착을 보도했고, 20일 확인한 KREAM 주간 전체 랭킹에서는 UGG Tasman이 12위였습니다. 11월 21일 05:48 기준 KREAM 급상승 신발 랭킹에서 UGG Tasman 계열은 1·4·5·11위로 올라왔습니다. 기간 밖인 11월 14일 근거는 제거했으며, 공개 순위와 반복 실착만 사용하고 누적 관심·거래 수는 7일 수요량으로 환산하지 않았습니다.",
       "sources": [
-        {
-          "label": "KREAM · WEEKLY SANDAL RANK: UGG TASMAN #1/#2/#3 + PLATFORM CLOG #7 · NOV 14 07:50",
-          "url": "https://kream.co.kr/content/ranking_35-weekly"
-        },
         {
           "label": "PEOPLE · JENNIFER ANISTON CLOGS + BELLA HADID UGG BOOTS · NOV 16",
           "url": "https://people.com/jennifer-aniston-bella-hadid-cuffed-jeans-amazon-november-2026-12252784"
@@ -188,6 +212,10 @@
         {
           "label": "HARPER'S BAZAAR · JUSTIN BIEBER SANDY CLOGS · NOV 19",
           "url": "https://www.harpersbazaar.com/celebrity/latest/a74477664/hailey-bieber-30th-birthday-outfits-street-style-photos/"
+        },
+        {
+          "label": "KREAM · RISING SHOES: UGG TASMAN #1/#4/#5/#11 · NOV 21 05:48",
+          "url": "https://kream.co.kr/content/ranking_12-rising"
         }
       ]
     }
