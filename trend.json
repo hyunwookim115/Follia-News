@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T08:20:41+09:00",
+  "generatedAt": "2026-11-24T08:24:39+09:00",
   "period": "LAST 7 DAYS",
   "items": [
     {
@@ -10,20 +10,20 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "SOCIAL",
-      "summary": "11월 17~20일 스트레이트·부츠컷 진의 반복 실착, 국내 품절, Vogue 주간 편성이 이어져 UP을 유지했습니다.",
-      "detail": "11월 17일 Who What Wear는 Julia Garner의 라이트 워시 스트레이트 진을 보도했고, 18일 29CM에서는 5차 리오더 부츠컷 팬츠가 '일시품절'로 표시됐습니다. 20일 Vogue 주간 편성은 Kendall Jenner와 Bella Hadid의 부츠컷 데님, Hailey Bieber의 스트레이트 진을 한 편에 묶었습니다. 기간 밖인 16일 근거는 제거했으며, 단일 품절을 전체 판매량으로 확대하지 않고 반복 실착과 공개 상품 상태를 분리했습니다.",
+      "summary": "11월 18~23일 부츠컷·스트레이트 진의 국내 품절, Vogue 주간 편성, 다인물 후속 보도가 이어져 UP을 유지했습니다.",
+      "detail": "11월 18일 29CM에서는 5차 리오더 부츠컷 팬츠가 '일시품절'로 표시됐고, 20일 Vogue 주간 편성은 Kendall Jenner와 Bella Hadid의 부츠컷 데님, Hailey Bieber의 스트레이트 진을 한 편에 묶었습니다. 23일 People은 Jennifer Lawrence와 Olivia Munn의 서로 다른 스트레이트 진 착장을 함께 보도했습니다. 기간 밖인 17일 근거는 제거했으며, 단일 품절을 전체 판매량으로 확대하지 않고 반복 노출과 공개 상품 상태를 분리했습니다.",
       "sources": [
         {
           "label": "29CM · 5TH-REORDER BOOTCUT PANTS CURRENTLY SOLD OUT · CRAWLED NOV 18",
           "url": "https://www.29cm.co.kr/?_rsc=1cn7b"
         },
         {
-          "label": "WHO WHAT WEAR · JULIA GARNER STRAIGHT-LEG JEANS WINTER FORMULA · NOV 17",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/julia-garner-fur-trimmed-coat-straight-leg-jeans-ballet-flats-outfit-2026"
-        },
-        {
           "label": "VOGUE · KENDALL/BELLA BOOTCUT + HAILEY STRAIGHT JEANS WEEKLY EDIT · NOV 20",
           "url": "https://www.vogue.com/article/best-celebrity-outfits"
+        },
+        {
+          "label": "PEOPLE · JENNIFER LAWRENCE + OLIVIA MUNN STRAIGHT-LEG JEANS FOLLOW-UP · NOV 23",
+          "url": "https://people.com/jennifer-lawrence-olivia-munn-straight-leg-jeans-amazon-november-2026-12187535"
         }
       ]
     },
@@ -34,13 +34,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 17~21일 Julia Garner의 발레 플랫 반복 보도에 Riley Keough의 화이트 플랫 후속이 더해져 UP을 유지했습니다.",
-      "detail": "11월 17일 Who What Wear는 Julia Garner의 퀼티드 블랙 발레 플랫을 보도했고, 19일 People은 같은 착장을 별도 기사로 후속 보도했습니다. 20일 Vogue 주간 편성에도 Julia Garner의 발레 플랫이 다시 포함됐으며, 21일 People은 Riley Keough의 라이트 워시 진·화이트 플랫 조합을 추가했습니다. 기간 밖인 15일 근거는 제거했고 상품 링크·가격은 판매량으로 해석하지 않았습니다.",
+      "summary": "11월 19~21일 Julia Garner의 발레 플랫 반복 편성과 Riley Keough의 화이트 플랫 후속이 이어져 UP을 유지했습니다.",
+      "detail": "11월 19일 People은 Julia Garner의 클래식 발레 플랫 착장을 별도 기사로 다뤘고, 20일 Vogue 주간 편성에도 같은 퀼티드 발레 플랫이 다시 포함됐습니다. 21일 People은 Riley Keough의 라이트 워시 진·화이트 플랫 조합을 추가했습니다. 기간 밖인 17일 근거는 제거했으며 상품 링크·가격은 판매량으로 해석하지 않았습니다.",
       "sources": [
-        {
-          "label": "WHO WHAT WEAR · JULIA GARNER QUILTED BALLET FLATS WINTER FORMULA · NOV 17",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/julia-garner-fur-trimmed-coat-straight-leg-jeans-ballet-flats-outfit-2026"
-        },
         {
           "label": "PEOPLE · JULIA GARNER JEANS + CLASSIC BALLET FLATS FOLLOW-UP · NOV 19",
           "url": "https://people.com/julia-garner-faux-fur-coat-amazon-november-2026-12187529"
@@ -62,19 +58,19 @@
       "direction": "UP",
       "market": "KOREA",
       "signal": "PLATFORM",
-      "summary": "11월 23일 KREAM 급상승 전체에서 다운·인슐레이션이 2·3·4·5·15·19위, 씬라이트가 11·12위를 차지해 PLATFORM·UP을 유지했습니다.",
-      "detail": "11월 23일 06:48 기준 KREAM 급상승 전체 랭킹에서 경량 다운·인슐레이션 계열이 2·3·4·5·15·19위, 씬라이트 재킷이 11·12위에 올랐습니다. 22일 22:51 기준 주간 전체 랭킹에서도 관련 다운 상품이 3·5·7·11·13·14위, 플리스가 16위였습니다. 29CM의 라이트 다운·플리스 반복 노출과 일부 품절 근거도 관측창 안에 유지했습니다. 공개 순위와 상품 상태만 사용했으며 비공개 판매량으로 환산하지 않았습니다.",
+      "summary": "11월 24일 KREAM 급상승 전체에서 다운·인슐레이션이 2·3·4·5·16위, 씬라이트가 18·20위를 기록해 PLATFORM·UP을 유지했습니다.",
+      "detail": "11월 24일 06:49 기준 KREAM 급상승 전체 랭킹에서 경량 다운·인슐레이션 계열이 2·3·4·5·16위, 씬라이트 재킷이 18·20위에 올랐습니다. 23일 11:50 기준 주간 전체 랭킹에서도 관련 다운 상품이 3·5·7·11·14·16위, 플리스가 18위였습니다. 24일 29CM에는 '역시 가볍고 따뜻한 게 최고' 아우터 편성과 별도 플리스 편성이 노출됐습니다. 공개 순위·편성만 사용했으며 비공개 판매량으로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "KREAM · RISING ALL: LIGHT DOWN/INSULATION #2/#3/#4/#5/#15/#19 + THIN-LIGHT #11/#12 · NOV 23 06:48",
+          "label": "KREAM · RISING ALL: LIGHT DOWN/INSULATION #2/#3/#4/#5/#16 + THIN-LIGHT #18/#20 · NOV 24 06:49",
           "url": "https://kream.co.kr/content/ranking_all-rising"
         },
         {
-          "label": "KREAM · WEEKLY ALL: DOWN/INSULATION #3/#5/#7/#11/#13/#14 + FLEECE #16 · NOV 22 22:51",
+          "label": "KREAM · WEEKLY ALL: DOWN/INSULATION #3/#5/#7/#11/#14/#16 + FLEECE #18 · NOV 23 11:50",
           "url": "https://kream.co.kr/content/ranking_all-weekly"
         },
         {
-          "label": "29CM · LIGHT DOWN/FLEECE REPEATED EXPOSURE + SELECT FLEECE SOLD OUT · CRAWLED NOV 20",
+          "label": "29CM · LIGHT-WARM OUTERWEAR + FLEECE EDIT EXPOSURE · CRAWLED NOV 24",
           "url": "https://www.29cm.co.kr/"
         }
       ]
@@ -86,17 +82,9 @@
       "direction": "UP",
       "market": "GLOBAL",
       "signal": "SOCIAL",
-      "summary": "11월 17~21일 Bella Hadid·Julia Garner·Hailey Bieber·Jennifer Lawrence의 퍼 트리밍 아우터 후속이 이어져 SOCIAL·UP을 유지했습니다.",
-      "detail": "11월 17~20일 Bella Hadid·Julia Garner·Hailey Bieber·Jennifer Lawrence의 퍼·시어링 트리밍 아우터가 Vogue, Who What Wear, People, Harper's Bazaar에서 반복 편성됐습니다. 21일 Vogue는 Hailey Bieber의 시어링 재킷과 퍼 트리밍 아우터 연속 착장을 별도 기사로 정리했고, Who What Wear는 Hailey Bieber와 Jennifer Lawrence의 화이트 퍼 트리밍 코트를 함께 다뤘습니다. 서로 다른 인물·매체·날짜의 반복만 SOCIAL·UP 근거로 사용했습니다.",
+      "summary": "11월 18~21일 Bella Hadid·Julia Garner·Hailey Bieber·Jennifer Lawrence의 퍼 트리밍 아우터 후속이 이어져 SOCIAL·UP을 유지했습니다.",
+      "detail": "11월 18일 Vogue는 Bella Hadid의 두 번째 퍼 트리밍 룩을 보도했고, 19일 People은 Julia Garner 착장을 별도 후속 보도했으며 Harper's Bazaar는 Hailey Bieber의 시어링 트리밍 코트를 다뤘습니다. 20일 Vogue와 People은 Hailey·Bella·Julia·Jennifer Lawrence의 퍼 아우터를 추가 편성했고, 21일 Vogue와 Who What Wear가 Hailey Bieber와 Jennifer Lawrence의 퍼 트리밍 코트를 후속 보도했습니다. 기간 밖인 17일 자료는 제거했으며 서로 다른 인물·매체·날짜의 반복만 사용했습니다.",
       "sources": [
-        {
-          "label": "VOGUE · BELLA HADID PLUSH FAUX-FUR COAT IN ASPEN · NOV 17",
-          "url": "https://www.vogue.com/article/bella-hadid-apres-ski-fashion-aspen"
-        },
-        {
-          "label": "WHO WHAT WEAR · JULIA GARNER FAUX-FUR-TRIMMED PUFFER JACKET · NOV 17",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/julia-garner-fur-trimmed-coat-straight-leg-jeans-ballet-flats-outfit-2026"
-        },
         {
           "label": "VOGUE · BELLA HADID SECOND FUR-TRIMMED ASPEN LOOK · NOV 18",
           "url": "https://www.vogue.com/article/bibi-bella-hadid-winter-layering-outfits-11-18-2026"
@@ -194,15 +182,15 @@
       "direction": "UP",
       "market": "GLOBAL → KOREA",
       "signal": "PLATFORM",
-      "summary": "11월 23일 KREAM 급상승 신발에서 UGG Tasman이 1·2·5·12위, 주간 전체 6·12·18위를 기록해 PLATFORM·UP을 유지했습니다.",
-      "detail": "11월 21일 Vogue는 Kendall Jenner·Hailey Bieber·Jennifer Lawrence 등이 반복 착용한 플랫 뮬과 클로그를 별도 편성했습니다. 11월 23일 06:48 기준 KREAM 급상승 신발 랭킹에서 UGG Tasman 계열은 1·2·5·12위였고, 22일 22:51 기준 주간 전체 랭킹에서는 6·12·18위였습니다. 23일 29CM 홈에도 '겨울은 발부터 챙겨야 해요 어그'와 '어그 신상' 편성이 이어졌습니다. 공개 순위와 편성만 사용하고 누적 관심·거래 수는 7일 수요량으로 환산하지 않았습니다.",
+      "summary": "11월 24일 KREAM 급상승 신발에서 UGG Tasman이 1·2·4·11위, 주간 전체 6·12·13위를 기록해 PLATFORM·UP을 유지했습니다.",
+      "detail": "11월 21일 Vogue는 Kendall Jenner·Hailey Bieber·Jennifer Lawrence 등이 반복 착용한 플랫 뮬과 클로그를 별도 편성했습니다. 11월 24일 06:49 기준 KREAM 급상승 신발 랭킹에서 UGG Tasman 계열은 1·2·4·11위였고, 23일 11:50 기준 주간 전체 랭킹에서는 6·12·13위였습니다. 23일 29CM 홈에도 어그 관련 편성이 반복 노출됐습니다. 공개 순위와 편성만 사용하고 누적 관심·거래 수는 7일 수요량으로 환산하지 않았습니다.",
       "sources": [
         {
-          "label": "KREAM · RISING SHOES: UGG TASMAN #1/#2/#5/#12 · NOV 23 06:48",
+          "label": "KREAM · RISING SHOES: UGG TASMAN #1/#2/#4/#11 · NOV 24 06:49",
           "url": "https://kream.co.kr/content/ranking_12-rising"
         },
         {
-          "label": "KREAM · WEEKLY ALL: UGG TASMAN #6/#12/#18 · NOV 22 22:51",
+          "label": "KREAM · WEEKLY ALL: UGG TASMAN #6/#12/#13 · NOV 23 11:50",
           "url": "https://kream.co.kr/content/ranking_all-weekly"
         },
         {
